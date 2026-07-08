@@ -1,0 +1,1026 @@
+<QuestOrder>
+  <!-- The Forgotten Heirloom -->
+  <While Condition="!HasQuest(64) &amp;&amp; !IsQuestCompleted(64)" >
+    <PickUp QuestName="The Forgotten Heirloom" QuestId="64" GiverName="Farmer Furlbrow" GiverId="237" />
+  </While>
+  <!-- End The Forgotten Heirloom -->
+  <!-- Westfall Stew (1) -->
+  <While Condition="!HasQuest(36) &amp;&amp; !IsQuestCompleted(36)" >
+    <PickUp QuestName="Westfall Stew (1)" QuestId="36" GiverName="Verna Furlbrow" GiverId="238" />
+  </While>
+  <!-- End Westfall Stew (1) -->
+  <!-- Poor Old Blanchy -->
+  <While Condition="!HasQuest(151) &amp;&amp; !IsQuestCompleted(151)" >
+    <PickUp QuestName="Poor Old Blanchy" QuestId="151" GiverName="Verna Furlbrow" GiverId="238" />
+  </While>
+  <!-- End Poor Old Blanchy -->
+  <!-- The Killing Fields -->
+  <While Condition="!HasQuest(9) &amp;&amp; !IsQuestCompleted(9)" >
+    <PickUp QuestName="The Killing Fields" QuestId="9" GiverName="Farmer Saldean" GiverId="233" />
+  </While>
+  <!-- End The Killing Fields -->
+  <!-- Turn In: Westfall Stew (1) -->
+  <While Condition="HasQuest(36) &amp;&amp; IsQuestCompleted(36)" >
+    <TurnIn QuestName="Westfall Stew (1)" QuestId="36" TurnInName="Salma Saldean" TurnInId="235" />
+  </While>
+  <!-- End Turn In: Westfall Stew (1) -->
+  <!-- Westfall Stew (2) -->
+  <While Condition="!HasQuest(38) &amp;&amp; !IsQuestCompleted(38)" >
+    <PickUp QuestName="Westfall Stew (2)" QuestId="38" GiverName="Salma Saldean" GiverId="235" />
+  </While>
+  <!-- End Westfall Stew (2) -->
+  <!-- Goretusk Liver Pie -->
+  <While Condition="!HasQuest(22) &amp;&amp; !IsQuestCompleted(22)" >
+    <PickUp QuestName="Goretusk Liver Pie" QuestId="22" GiverName="Salma Saldean" GiverId="235" />
+  </While>
+  <!-- End Goretusk Liver Pie -->
+  <!-- Red Leather Bandanas -->
+  <While Condition="!HasQuest(153) &amp;&amp; !IsQuestCompleted(153)" >
+    <PickUp QuestName="Red Leather Bandanas" QuestId="153" GiverName="Scout Galiaan" GiverId="878" />
+  </While>
+  <!-- End Red Leather Bandanas -->
+  <!-- Turn In: Report to Gryan Stoutmantle -->
+  <While Condition="HasQuest(109) &amp;&amp; IsQuestCompleted(109)" >
+    <TurnIn QuestName="Report to Gryan Stoutmantle" QuestId="109" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+  </While>
+  <!-- End Turn In: Report to Gryan Stoutmantle -->
+  <!-- The People's Militia (1) -->
+  <While Condition="!HasQuest(12) &amp;&amp; !IsQuestCompleted(12)" >
+    <PickUp QuestName="The People's Militia (1)" QuestId="12" GiverName="Gryan Stoutmantle" GiverId="234" />
+  </While>
+  <!-- End The People's Militia (1) -->
+  <!-- Patrolling Westfall -->
+  <While Condition="!HasQuest(102) &amp;&amp; !IsQuestCompleted(102)" >
+    <PickUp QuestName="Patrolling Westfall" QuestId="102" GiverName="Captain Danuvin" GiverId="821" />
+  </While>
+  <!-- End Patrolling Westfall -->
+  <!-- Kill Objective for Quest 12: Defias Trapper -->
+  <While Condition="HasQuest(12) &amp;&amp; !IsQuestCompleted(12)" >
+    <Objective QuestName="Unknown" QuestId="12" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 12: Defias Smuggler -->
+  <While Condition="HasQuest(12) &amp;&amp; !IsQuestCompleted(12)" >
+    <Objective QuestName="Unknown" QuestId="12" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Collect Objective for Quest 153: Red Leather Bandana -->
+  <While Condition="HasQuest(153) &amp;&amp; !IsQuestCompleted(153)" >
+    <Objective QuestName="Unknown" QuestId="153" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: The People's Militia (1) -->
+  <While Condition="HasQuest(12) &amp;&amp; IsQuestCompleted(12)" >
+    <TurnIn QuestName="The People's Militia (1)" QuestId="12" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+  </While>
+  <!-- End Turn In: The People's Militia (1) -->
+  <!-- The People's Militia (2) -->
+  <While Condition="!HasQuest(13) &amp;&amp; !IsQuestCompleted(13)" >
+    <PickUp QuestName="The People's Militia (2)" QuestId="13" GiverName="Gryan Stoutmantle" GiverId="234" />
+  </While>
+  <!-- End The People's Militia (2) -->
+  <!-- Turn In: Red Leather Bandanas -->
+  <While Condition="HasQuest(153) &amp;&amp; IsQuestCompleted(153)" >
+    <TurnIn QuestName="Red Leather Bandanas" QuestId="153" TurnInName="Scout Galiaan" TurnInId="878" />
+  </While>
+  <!-- End Turn In: Red Leather Bandanas -->
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Lessons Anew -->
+    <While Condition="!HasQuest(6121) &amp;&amp; !IsQuestCompleted(6121)" >
+      <PickUp QuestName="Lessons Anew" QuestId="6121" GiverName="Mathrengyl Bearwalker" GiverId="4217" />
+    </While>
+    <!-- End Lessons Anew -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Lessons Anew -->
+    <While Condition="HasQuest(6121) &amp;&amp; IsQuestCompleted(6121)" >
+      <TurnIn QuestName="Lessons Anew" QuestId="6121" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+    </While>
+    <!-- End Turn In: Lessons Anew -->
+    <!-- The Principal Source -->
+    <While Condition="!HasQuest(6122) &amp;&amp; !IsQuestCompleted(6122)" >
+      <PickUp QuestName="The Principal Source" QuestId="6122" GiverName="Dendrite Starblaze" GiverId="11802" />
+    </While>
+    <!-- End The Principal Source -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Collect Objective for Quest 6122: Filled Cliffspring Falls Sampler -->
+    <While Condition="HasQuest(6122) &amp;&amp; !IsQuestCompleted(6122)" >
+      <Objective QuestName="Unknown" QuestId="6122" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+    </While>
+    <!-- End Collect Objective -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: The Principal Source -->
+    <While Condition="HasQuest(6122) &amp;&amp; IsQuestCompleted(6122)" >
+      <TurnIn QuestName="The Principal Source" QuestId="6122" TurnInName="Alanndarian Nightsong" TurnInId="3702" />
+    </While>
+    <!-- End Turn In: The Principal Source -->
+    <!-- Gathering the Cure -->
+    <While Condition="!HasQuest(6123) &amp;&amp; !IsQuestCompleted(6123)" >
+      <PickUp QuestName="Gathering the Cure" QuestId="6123" GiverName="Alanndarian Nightsong" GiverId="3702" />
+    </While>
+    <!-- End Gathering the Cure -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Collect Objective for Quest 6123: Lunar Fungus -->
+    <While Condition="HasQuest(6123) &amp;&amp; !IsQuestCompleted(6123)" >
+      <Objective QuestName="Unknown" QuestId="6123" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+    </While>
+    <!-- End Collect Objective -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Gathering the Cure -->
+    <While Condition="HasQuest(6123) &amp;&amp; IsQuestCompleted(6123)" >
+      <TurnIn QuestName="Gathering the Cure" QuestId="6123" TurnInName="Alanndarian Nightsong" TurnInId="3702" />
+    </While>
+    <!-- End Turn In: Gathering the Cure -->
+    <!-- Curing the Sick -->
+    <While Condition="!HasQuest(6124) &amp;&amp; !IsQuestCompleted(6124)" >
+      <PickUp QuestName="Curing the Sick" QuestId="6124" GiverName="Alanndarian Nightsong" GiverId="3702" />
+    </While>
+    <!-- End Curing the Sick -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Curing the Sick -->
+    <While Condition="HasQuest(6124) &amp;&amp; IsQuestCompleted(6124)" >
+      <TurnIn QuestName="Curing the Sick" QuestId="6124" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+    </While>
+    <!-- End Turn In: Curing the Sick -->
+    <!-- Power over Poison -->
+    <While Condition="!HasQuest(6125) &amp;&amp; !IsQuestCompleted(6125)" >
+      <PickUp QuestName="Power over Poison" QuestId="6125" GiverName="Dendrite Starblaze" GiverId="11802" />
+    </While>
+    <!-- End Power over Poison -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Power over Poison -->
+    <While Condition="HasQuest(6125) &amp;&amp; IsQuestCompleted(6125)" >
+      <TurnIn QuestName="Power over Poison" QuestId="6125" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+    </While>
+    <!-- End Turn In: Power over Poison -->
+  </If>
+  <!-- Collect Objective for Quest 22: Goretusk Liver -->
+  <While Condition="HasQuest(22) &amp;&amp; !IsQuestCompleted(22)" >
+    <Objective QuestName="Unknown" QuestId="22" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 38: Goretusk Snout -->
+  <While Condition="HasQuest(38) &amp;&amp; !IsQuestCompleted(38)" >
+    <Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 38: Stringy Vulture Meat -->
+  <While Condition="HasQuest(38) &amp;&amp; !IsQuestCompleted(38)" >
+    <Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 102: Gnoll Paw -->
+  <While Condition="HasQuest(102) &amp;&amp; !IsQuestCompleted(102)" >
+    <Objective QuestName="Unknown" QuestId="102" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 38: Murloc Eye -->
+  <While Condition="HasQuest(38) &amp;&amp; !IsQuestCompleted(38)" >
+    <Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 64: Furlbrow's Pocket Watch -->
+  <While Condition="HasQuest(64) &amp;&amp; !IsQuestCompleted(64)" >
+    <Objective QuestName="Unknown" QuestId="64" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Kill Objective for Quest 9: Harvest Watcher -->
+  <While Condition="HasQuest(9) &amp;&amp; !IsQuestCompleted(9)" >
+    <Objective QuestName="Unknown" QuestId="9" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Collect Objective for Quest 38: Okra -->
+  <While Condition="HasQuest(38) &amp;&amp; !IsQuestCompleted(38)" >
+    <Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 103: Flask of Oil -->
+  <While Condition="HasQuest(103) &amp;&amp; !IsQuestCompleted(103)" >
+    <Objective QuestName="Unknown" QuestId="103" Type="CollectItem" ItemId="814" CollectCount="5" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: The Killing Fields -->
+  <While Condition="HasQuest(9) &amp;&amp; IsQuestCompleted(9)" >
+    <TurnIn QuestName="The Killing Fields" QuestId="9" TurnInName="Farmer Saldean" TurnInId="233" />
+  </While>
+  <!-- End Turn In: The Killing Fields -->
+  <!-- Turn In: Westfall Stew (2) -->
+  <While Condition="HasQuest(38) &amp;&amp; IsQuestCompleted(38)" >
+    <TurnIn QuestName="Westfall Stew (2)" QuestId="38" TurnInName="Salma Saldean" TurnInId="235" />
+  </While>
+  <!-- End Turn In: Westfall Stew (2) -->
+  <!-- Turn In: Goretusk Liver Pie -->
+  <While Condition="HasQuest(22) &amp;&amp; IsQuestCompleted(22)" >
+    <TurnIn QuestName="Goretusk Liver Pie" QuestId="22" TurnInName="Salma Saldean" TurnInId="235" />
+  </While>
+  <!-- End Turn In: Goretusk Liver Pie -->
+  <!-- Turn In: The Forgotten Heirloom -->
+  <While Condition="HasQuest(64) &amp;&amp; IsQuestCompleted(64)" >
+    <TurnIn QuestName="The Forgotten Heirloom" QuestId="64" TurnInName="Farmer Furlbrow" TurnInId="237" />
+  </While>
+  <!-- End Turn In: The Forgotten Heirloom -->
+  <!-- Turn In: Poor Old Blanchy -->
+  <While Condition="HasQuest(151) &amp;&amp; IsQuestCompleted(151)" >
+    <TurnIn QuestName="Poor Old Blanchy" QuestId="151" TurnInName="Verna Furlbrow" TurnInId="238" />
+  </While>
+  <!-- End Turn In: Poor Old Blanchy -->
+  <!-- Turn In: Patrolling Westfall -->
+  <While Condition="HasQuest(102) &amp;&amp; IsQuestCompleted(102)" >
+    <TurnIn QuestName="Patrolling Westfall" QuestId="102" TurnInName="Captain Danuvin" TurnInId="821" />
+  </While>
+  <!-- End Turn In: Patrolling Westfall -->
+  <!-- The Red Crystal -->
+  <While Condition="!HasQuest(4811) &amp;&amp; !IsQuestCompleted(4811)" >
+    <PickUp QuestName="The Red Crystal" QuestId="4811" GiverName="Sentinel Glynda Nal'Shea" GiverId="2930" />
+  </While>
+  <!-- End The Red Crystal -->
+  <!-- Plagued Lands -->
+  <While Condition="!HasQuest(2118) &amp;&amp; !IsQuestCompleted(2118)" >
+    <PickUp QuestName="Plagued Lands" QuestId="2118" GiverName="Tharnariun Treetender" GiverId="3701" />
+  </While>
+  <!-- End Plagued Lands -->
+  <!-- How Big a Threat? (2) -->
+  <While Condition="!HasQuest(985) &amp;&amp; !IsQuestCompleted(985)" >
+    <PickUp QuestName="How Big a Threat? (2)" QuestId="985" GiverName="Terenthis" GiverId="3693" />
+  </While>
+  <!-- End How Big a Threat? (2) -->
+  <!-- Deep Ocean, Vast Sea -->
+  <While Condition="!HasQuest(982) &amp;&amp; !IsQuestCompleted(982)" >
+    <PickUp QuestName="Deep Ocean, Vast Sea" QuestId="982" GiverName="Gorbold Steelhand" GiverId="6301" />
+  </While>
+  <!-- End Deep Ocean, Vast Sea -->
+  <!-- The Cliffspring River -->
+  <While Condition="!HasQuest(4762) &amp;&amp; !IsQuestCompleted(4762)" >
+    <PickUp QuestName="The Cliffspring River" QuestId="4762" GiverName="Thundris Windweaver" GiverId="3649" />
+  </While>
+  <!-- End The Cliffspring River -->
+  <!-- Kill Objective for Quest 985: Blackwood Pathfinder -->
+  <While Condition="HasQuest(985) &amp;&amp; !IsQuestCompleted(985)" >
+    <Objective QuestName="Unknown" QuestId="985" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 985: Blackwood Windtalker -->
+  <While Condition="HasQuest(985) &amp;&amp; !IsQuestCompleted(985)" >
+    <Objective QuestName="Unknown" QuestId="985" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: Plagued Lands -->
+  <While Condition="HasQuest(2118) &amp;&amp; IsQuestCompleted(2118)" >
+    <TurnIn QuestName="Plagued Lands" QuestId="2118" TurnInName="Tharnariun Treetender" TurnInId="3701" />
+  </While>
+  <!-- End Turn In: Plagued Lands -->
+  <!-- Cleansing of the Infected -->
+  <While Condition="!HasQuest(2138) &amp;&amp; !IsQuestCompleted(2138)" >
+    <PickUp QuestName="Cleansing of the Infected" QuestId="2138" GiverName="Tharnariun Treetender" GiverId="3701" />
+  </While>
+  <!-- End Cleansing of the Infected -->
+  <!-- Turn In: How Big a Threat? (2) -->
+  <While Condition="HasQuest(985) &amp;&amp; IsQuestCompleted(985)" >
+    <TurnIn QuestName="How Big a Threat? (2)" QuestId="985" TurnInName="Terenthis" TurnInId="3693" />
+  </While>
+  <!-- End Turn In: How Big a Threat? (2) -->
+  <!-- Turn In: The Red Crystal -->
+  <While Condition="HasQuest(4811) &amp;&amp; IsQuestCompleted(4811)" >
+    <TurnIn QuestName="The Red Crystal" QuestId="4811" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+  </While>
+  <!-- End Turn In: The Red Crystal -->
+  <!-- As Water Cascades -->
+  <While Condition="!HasQuest(4812) &amp;&amp; !IsQuestCompleted(4812)" >
+    <PickUp QuestName="As Water Cascades" QuestId="4812" GiverName="Sentinel Glynda Nal'Shea" GiverId="2930" />
+  </While>
+  <!-- End As Water Cascades -->
+  <!-- Collect Objective for Quest 4812: Moonwell Water Tube -->
+  <While Condition="HasQuest(4812) &amp;&amp; !IsQuestCompleted(4812)" >
+    <Objective QuestName="Unknown" QuestId="4812" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: As Water Cascades -->
+  <While Condition="HasQuest(4812) &amp;&amp; IsQuestCompleted(4812)" >
+    <TurnIn QuestName="As Water Cascades" QuestId="4812" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+  </While>
+  <!-- End Turn In: As Water Cascades -->
+  <!-- The Fragments Within -->
+  <While Condition="!HasQuest(4813) &amp;&amp; !IsQuestCompleted(4813)" >
+    <PickUp QuestName="The Fragments Within" QuestId="4813" GiverName="Sentinel Glynda Nal'Shea" GiverId="2930" />
+  </While>
+  <!-- End The Fragments Within -->
+  <!-- Bashal'Aran (3) -->
+  <While Condition="!HasQuest(956) &amp;&amp; !IsQuestCompleted(956)" >
+    <PickUp QuestName="Bashal'Aran (3)" QuestId="956" GiverName="Asterion" GiverId="3650" />
+  </While>
+  <!-- End Bashal'Aran (3) -->
+  <!-- Collect Objective for Quest 956: Ancient Moonstone Seal -->
+  <While Condition="HasQuest(956) &amp;&amp; !IsQuestCompleted(956)" >
+    <Objective QuestName="Unknown" QuestId="956" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Bashal'Aran (3) -->
+  <While Condition="HasQuest(956) &amp;&amp; IsQuestCompleted(956)" >
+    <TurnIn QuestName="Bashal'Aran (3)" QuestId="956" TurnInName="Asterion" TurnInId="3650" />
+  </While>
+  <!-- End Turn In: Bashal'Aran (3) -->
+  <!-- Bashal'Aran (4) -->
+  <While Condition="!HasQuest(957) &amp;&amp; !IsQuestCompleted(957)" >
+    <PickUp QuestName="Bashal'Aran (4)" QuestId="957" GiverName="Asterion" GiverId="3650" />
+  </While>
+  <!-- End Bashal'Aran (4) -->
+  <!-- Buzzbox 323 -->
+  <While Condition="!HasQuest(1002) &amp;&amp; !IsQuestCompleted(1002)" >
+    <PickUp QuestName="Buzzbox 323" QuestId="1002" GiverName="Asterion" GiverId="3650" />
+  </While>
+  <!-- End Buzzbox 323 -->
+  <!-- Kill Objective for Quest 2138: Rabid Thistle Bear -->
+  <While Condition="HasQuest(2138) &amp;&amp; !IsQuestCompleted(2138)" >
+    <Objective QuestName="Unknown" QuestId="2138" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Collect Objective for Quest 1002: Moonstalker Fang -->
+  <While Condition="HasQuest(1002) &amp;&amp; !IsQuestCompleted(1002)" >
+    <Objective QuestName="Unknown" QuestId="1002" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Buzzbox 323 -->
+  <While Condition="HasQuest(1002) &amp;&amp; IsQuestCompleted(1002)" >
+    <TurnIn QuestName="Buzzbox 323" QuestId="1002" TurnInName="Asterion" TurnInId="3650" />
+  </While>
+  <!-- End Turn In: Buzzbox 323 -->
+  <!-- Buzzbox 525 -->
+  <While Condition="!HasQuest(1003) &amp;&amp; !IsQuestCompleted(1003)" >
+    <PickUp QuestName="Buzzbox 525" QuestId="1003" GiverName="Asterion" GiverId="3650" />
+  </While>
+  <!-- End Buzzbox 525 -->
+  <!-- Collect Objective for Quest 4762: Cliffspring River Sample -->
+  <While Condition="HasQuest(4762) &amp;&amp; !IsQuestCompleted(4762)" >
+    <Objective QuestName="Unknown" QuestId="4762" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Beached Sea Turtle -->
+  <While Condition="!HasQuest(4725) &amp;&amp; !IsQuestCompleted(4725)" >
+    <PickUp QuestName="Beached Sea Turtle" QuestId="4725" GiverName="Asterion" GiverId="3650" />
+  </While>
+  <!-- End Beached Sea Turtle -->
+  <!-- Collect Objective for Quest 982: Mist Veil's Lockbox -->
+  <While Condition="HasQuest(982) &amp;&amp; !IsQuestCompleted(982)" >
+    <Objective QuestName="Unknown" QuestId="982" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 982: Silver Dawning's Lockbox -->
+  <While Condition="HasQuest(982) &amp;&amp; !IsQuestCompleted(982)" >
+    <Objective QuestName="Unknown" QuestId="982" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Deep Ocean, Vast Sea -->
+  <While Condition="HasQuest(982) &amp;&amp; IsQuestCompleted(982)" >
+    <TurnIn QuestName="Deep Ocean, Vast Sea" QuestId="982" TurnInName="Gorbold Steelhand" TurnInId="6301" />
+  </While>
+  <!-- End Turn In: Deep Ocean, Vast Sea -->
+  <!-- Turn In: The Cliffspring River -->
+  <While Condition="HasQuest(4762) &amp;&amp; IsQuestCompleted(4762)" >
+    <TurnIn QuestName="The Cliffspring River" QuestId="4762" TurnInName="Thundris Windweaver" TurnInId="3649" />
+  </While>
+  <!-- End Turn In: The Cliffspring River -->
+  <!-- Tools of the Highborne -->
+  <While Condition="!HasQuest(958) &amp;&amp; !IsQuestCompleted(958)" >
+    <PickUp QuestName="Tools of the Highborne" QuestId="958" GiverName="Thundris Windweaver" GiverId="3649" />
+  </While>
+  <!-- End Tools of the Highborne -->
+  <!-- Turn In: The Fragments Within -->
+  <While Condition="HasQuest(4813) &amp;&amp; IsQuestCompleted(4813)" >
+    <TurnIn QuestName="The Fragments Within" QuestId="4813" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+  </While>
+  <!-- End Turn In: The Fragments Within -->
+  <!-- Cave Mushrooms -->
+  <While Condition="!HasQuest(947) &amp;&amp; !IsQuestCompleted(947)" >
+    <PickUp QuestName="Cave Mushrooms" QuestId="947" GiverName="Barithras Moonshade" GiverId="3583" />
+  </While>
+  <!-- End Cave Mushrooms -->
+  <!-- For Love Eternal -->
+  <While Condition="!HasQuest(963) &amp;&amp; !IsQuestCompleted(963)" >
+    <PickUp QuestName="For Love Eternal" QuestId="963" GiverName="Cerellean Whiteclaw" GiverId="3644" />
+  </While>
+  <!-- End For Love Eternal -->
+  <!-- Turn In: Beached Sea Turtle -->
+  <While Condition="HasQuest(4725) &amp;&amp; IsQuestCompleted(4725)" >
+    <TurnIn QuestName="Beached Sea Turtle" QuestId="4725" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+  </While>
+  <!-- End Turn In: Beached Sea Turtle -->
+  <!-- Turn In: Cleansing of the Infected -->
+  <While Condition="HasQuest(2138) &amp;&amp; IsQuestCompleted(2138)" >
+    <TurnIn QuestName="Cleansing of the Infected" QuestId="2138" TurnInName="Tharnariun Treetender" TurnInId="3701" />
+  </While>
+  <!-- End Turn In: Cleansing of the Infected -->
+  <!-- Tharnariun's Hope -->
+  <While Condition="!HasQuest(2139) &amp;&amp; !IsQuestCompleted(2139)" >
+    <PickUp QuestName="Tharnariun's Hope" QuestId="2139" GiverName="Tharnariun Treetender" GiverId="3701" />
+  </While>
+  <!-- End Tharnariun's Hope -->
+  <!-- The Fall of Ameth'Aran -->
+  <While Condition="!HasQuest(953) &amp;&amp; !IsQuestCompleted(953)" >
+    <PickUp QuestName="The Fall of Ameth'Aran" QuestId="953" GiverName="Sentinel Tysha Moonblade" GiverId="3639" />
+  </While>
+  <!-- End The Fall of Ameth'Aran -->
+  <!-- Collect Objective for Quest 958: Highborne Relic -->
+  <While Condition="HasQuest(958) &amp;&amp; !IsQuestCompleted(958)" >
+    <Objective QuestName="Unknown" QuestId="958" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 963: Anaya's Pendant -->
+  <While Condition="HasQuest(963) &amp;&amp; !IsQuestCompleted(963)" >
+    <Objective QuestName="Unknown" QuestId="963" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: The Fall of Ameth'Aran -->
+  <While Condition="HasQuest(953) &amp;&amp; IsQuestCompleted(953)" >
+    <TurnIn QuestName="The Fall of Ameth'Aran" QuestId="953" TurnInName="Sentinel Tysha Moonblade" TurnInId="3639" />
+  </While>
+  <!-- End Turn In: The Fall of Ameth'Aran -->
+  <!-- Turn In: For Love Eternal -->
+  <While Condition="HasQuest(963) &amp;&amp; IsQuestCompleted(963)" >
+    <TurnIn QuestName="For Love Eternal" QuestId="963" TurnInName="Cerellean Whiteclaw" TurnInId="3644" />
+  </While>
+  <!-- End Turn In: For Love Eternal -->
+  <!-- Turn In: Tools of the Highborne -->
+  <While Condition="HasQuest(958) &amp;&amp; IsQuestCompleted(958)" >
+    <TurnIn QuestName="Tools of the Highborne" QuestId="958" TurnInName="Thundris Windweaver" TurnInId="3649" />
+  </While>
+  <!-- End Turn In: Tools of the Highborne -->
+  <!-- Turn In: Bashal'Aran (4) -->
+  <While Condition="HasQuest(957) &amp;&amp; IsQuestCompleted(957)" >
+    <TurnIn QuestName="Bashal'Aran (4)" QuestId="957" TurnInName="Asterion" TurnInId="3650" />
+  </While>
+  <!-- End Turn In: Bashal'Aran (4) -->
+  <!-- Kill Objective for Quest 2139: Den Mother -->
+  <While Condition="HasQuest(2139) &amp;&amp; !IsQuestCompleted(2139)" >
+    <Objective QuestName="Unknown" QuestId="2139" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Collect Objective for Quest 947: Scaber Stalk -->
+  <While Condition="HasQuest(947) &amp;&amp; !IsQuestCompleted(947)" >
+    <Objective QuestName="Unknown" QuestId="947" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 947: Death Cap -->
+  <While Condition="HasQuest(947) &amp;&amp; !IsQuestCompleted(947)" >
+    <Objective QuestName="Unknown" QuestId="947" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Tharnariun's Hope -->
+  <While Condition="HasQuest(2139) &amp;&amp; IsQuestCompleted(2139)" >
+    <TurnIn QuestName="Tharnariun's Hope" QuestId="2139" TurnInName="Tharnariun Treetender" TurnInId="3701" />
+  </While>
+  <!-- End Turn In: Tharnariun's Hope -->
+  <!-- Turn In: Cave Mushrooms -->
+  <While Condition="HasQuest(947) &amp;&amp; IsQuestCompleted(947)" >
+    <TurnIn QuestName="Cave Mushrooms" QuestId="947" TurnInName="Barithras Moonshade" TurnInId="3583" />
+  </While>
+  <!-- End Turn In: Cave Mushrooms -->
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- A Lesson to Learn -->
+    <While Condition="!HasQuest(27) &amp;&amp; !IsQuestCompleted(27)" >
+      <PickUp QuestName="A Lesson to Learn" QuestId="27" GiverName="Mathrengyl Bearwalker" GiverId="4217" />
+    </While>
+    <!-- End A Lesson to Learn -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: A Lesson to Learn -->
+    <While Condition="HasQuest(27) &amp;&amp; IsQuestCompleted(27)" >
+      <TurnIn QuestName="A Lesson to Learn" QuestId="27" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+    </While>
+    <!-- End Turn In: A Lesson to Learn -->
+    <!-- Trial of the Lake -->
+    <While Condition="!HasQuest(29) &amp;&amp; !IsQuestCompleted(29)" >
+      <PickUp QuestName="Trial of the Lake" QuestId="29" GiverName="Dendrite Starblaze" GiverId="11802" />
+    </While>
+    <!-- End Trial of the Lake -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Collect Objective for Quest 29: Shrine Bauble -->
+    <While Condition="HasQuest(29) &amp;&amp; !IsQuestCompleted(29)" >
+      <Objective QuestName="Unknown" QuestId="29" Type="CollectItem" ItemId="15877" CollectCount="1" />
+    </While>
+    <!-- End Collect Objective -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Trial of the Lake -->
+    <While Condition="HasQuest(29) &amp;&amp; IsQuestCompleted(29)" >
+      <TurnIn QuestName="Trial of the Lake" QuestId="29" TurnInName="Tajarri" TurnInId="11799" />
+    </While>
+    <!-- End Turn In: Trial of the Lake -->
+    <!-- Trial of the Sea Lion -->
+    <While Condition="!HasQuest(272) &amp;&amp; !IsQuestCompleted(272)" >
+      <PickUp QuestName="Trial of the Sea Lion" QuestId="272" GiverName="Tajarri" GiverId="11799" />
+    </While>
+    <!-- End Trial of the Sea Lion -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Collect Objective for Quest 272: Half Pendant of Aquatic Agility -->
+    <While Condition="HasQuest(272) &amp;&amp; !IsQuestCompleted(272)" >
+      <Objective QuestName="Unknown" QuestId="272" Type="CollectItem" ItemId="15883" CollectCount="1" />
+    </While>
+    <!-- End Collect Objective -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Collect Objective for Quest 272: Half Pendant of Aquatic Endurance -->
+    <While Condition="HasQuest(272) &amp;&amp; !IsQuestCompleted(272)" >
+      <Objective QuestName="Unknown" QuestId="272" Type="CollectItem" ItemId="15882" CollectCount="1" />
+    </While>
+    <!-- End Collect Objective -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Collect Objective for Quest 272: Pendant of the Sea Lion -->
+    <While Condition="HasQuest(272) &amp;&amp; !IsQuestCompleted(272)" >
+      <Objective QuestName="Unknown" QuestId="272" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+    </While>
+    <!-- End Collect Objective -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Trial of the Sea Lion -->
+    <While Condition="HasQuest(272) &amp;&amp; IsQuestCompleted(272)" >
+      <TurnIn QuestName="Trial of the Sea Lion" QuestId="272" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+    </While>
+    <!-- End Turn In: Trial of the Sea Lion -->
+    <!-- Aquatic Form -->
+    <While Condition="!HasQuest(5061) &amp;&amp; !IsQuestCompleted(5061)" >
+      <PickUp QuestName="Aquatic Form" QuestId="5061" GiverName="Dendrite Starblaze" GiverId="11802" />
+    </While>
+    <!-- End Aquatic Form -->
+  </If>
+  <If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+    <!-- Turn In: Aquatic Form -->
+    <While Condition="HasQuest(5061) &amp;&amp; IsQuestCompleted(5061)" >
+      <TurnIn QuestName="Aquatic Form" QuestId="5061" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+    </While>
+    <!-- End Turn In: Aquatic Form -->
+  </If>
+  <!-- Kill Objective for Quest 13: Defias Looter -->
+  <While Condition="HasQuest(13) &amp;&amp; !IsQuestCompleted(13)" >
+    <Objective QuestName="Unknown" QuestId="13" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 13: Defias Pillager -->
+  <While Condition="HasQuest(13) &amp;&amp; !IsQuestCompleted(13)" >
+    <Objective QuestName="Unknown" QuestId="13" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: The People's Militia (2) -->
+  <While Condition="HasQuest(13) &amp;&amp; IsQuestCompleted(13)" >
+    <TurnIn QuestName="The People's Militia (2)" QuestId="13" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+  </While>
+  <!-- End Turn In: The People's Militia (2) -->
+  <!-- The People's Militia (3) -->
+  <While Condition="!HasQuest(14) &amp;&amp; !IsQuestCompleted(14)" >
+    <PickUp QuestName="The People's Militia (3)" QuestId="14" GiverName="Gryan Stoutmantle" GiverId="234" />
+  </While>
+  <!-- End The People's Militia (3) -->
+  <!-- The Defias Brotherhood (1) -->
+  <While Condition="!HasQuest(65) &amp;&amp; !IsQuestCompleted(65)" >
+    <PickUp QuestName="The Defias Brotherhood (1)" QuestId="65" GiverName="Gryan Stoutmantle" GiverId="234" />
+  </While>
+  <!-- End The Defias Brotherhood (1) -->
+  <!-- Kill Objective for Quest 14: Defias Highwayman -->
+  <While Condition="HasQuest(14) &amp;&amp; !IsQuestCompleted(14)" >
+    <Objective QuestName="Unknown" QuestId="14" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 14: Defias Pathstalker -->
+  <While Condition="HasQuest(14) &amp;&amp; !IsQuestCompleted(14)" >
+    <Objective QuestName="Unknown" QuestId="14" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 14: Defias Knuckleduster -->
+  <While Condition="HasQuest(14) &amp;&amp; !IsQuestCompleted(14)" >
+    <Objective QuestName="Unknown" QuestId="14" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: The People's Militia (3) -->
+  <While Condition="HasQuest(14) &amp;&amp; IsQuestCompleted(14)" >
+    <TurnIn QuestName="The People's Militia (3)" QuestId="14" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+  </While>
+  <!-- End Turn In: The People's Militia (3) -->
+  <!-- Mercenaries -->
+  <While Condition="!HasQuest(255) &amp;&amp; !IsQuestCompleted(255)" >
+    <PickUp QuestName="Mercenaries" QuestId="255" GiverName="Magistrate Bluntnose" GiverId="1139" />
+  </While>
+  <!-- End Mercenaries -->
+  <!-- Filthy Paws -->
+  <While Condition="!HasQuest(307) &amp;&amp; !IsQuestCompleted(307)" >
+    <PickUp QuestName="Filthy Paws" QuestId="307" GiverName="Mountaineer Stormpike" GiverId="1343" />
+  </While>
+  <!-- End Filthy Paws -->
+  <!-- Collect Objective for Quest 307: Miners' Gear -->
+  <While Condition="HasQuest(307) &amp;&amp; !IsQuestCompleted(307)" >
+    <Objective QuestName="Unknown" QuestId="307" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Filthy Paws -->
+  <While Condition="HasQuest(307) &amp;&amp; IsQuestCompleted(307)" >
+    <TurnIn QuestName="Filthy Paws" QuestId="307" TurnInName="Mountaineer Stormpike" TurnInId="1343" />
+  </While>
+  <!-- End Turn In: Filthy Paws -->
+  <!-- Ironband's Excavation -->
+  <While Condition="!HasQuest(436) &amp;&amp; !IsQuestCompleted(436)" >
+    <PickUp QuestName="Ironband's Excavation" QuestId="436" GiverName="Jern Hornhelm" GiverId="1105" />
+  </While>
+  <!-- End Ironband's Excavation -->
+  <!-- Turn In: Ironband's Excavation -->
+  <While Condition="HasQuest(436) &amp;&amp; IsQuestCompleted(436)" >
+    <TurnIn QuestName="Ironband's Excavation" QuestId="436" TurnInName="Magmar Fellhew" TurnInId="1345" />
+  </While>
+  <!-- End Turn In: Ironband's Excavation -->
+  <!-- Gathering Idols -->
+  <While Condition="!HasQuest(297) &amp;&amp; !IsQuestCompleted(297)" >
+    <PickUp QuestName="Gathering Idols" QuestId="297" GiverName="Magmar Fellhew" GiverId="1345" />
+  </While>
+  <!-- End Gathering Idols -->
+  <!-- Excavation Progress Report -->
+  <While Condition="!HasQuest(298) &amp;&amp; !IsQuestCompleted(298)" >
+    <PickUp QuestName="Excavation Progress Report" QuestId="298" GiverName="Prospector Ironband" GiverId="1344" />
+  </While>
+  <!-- End Excavation Progress Report -->
+  <!-- Collect Objective for Quest 297: Carved Stone Idol -->
+  <While Condition="HasQuest(297) &amp;&amp; !IsQuestCompleted(297)" >
+    <Objective QuestName="Unknown" QuestId="297" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Gathering Idols -->
+  <While Condition="HasQuest(297) &amp;&amp; IsQuestCompleted(297)" >
+    <TurnIn QuestName="Gathering Idols" QuestId="297" TurnInName="Magmar Fellhew" TurnInId="1345" />
+  </While>
+  <!-- End Turn In: Gathering Idols -->
+  <!-- A Hunter's Boast -->
+  <While Condition="!HasQuest(257) &amp;&amp; !IsQuestCompleted(257)" >
+    <PickUp QuestName="A Hunter's Boast" QuestId="257" GiverName="Daryl the Youngling" GiverId="1187" />
+  </While>
+  <!-- End A Hunter's Boast -->
+  <!-- Crocolisk Hunting -->
+  <While Condition="!HasQuest(385) &amp;&amp; !IsQuestCompleted(385)" >
+    <PickUp QuestName="Crocolisk Hunting" QuestId="385" GiverName="Marek Ironheart" GiverId="1154" />
+  </While>
+  <!-- End Crocolisk Hunting -->
+  <!-- Kill Objective for Quest 257: Mountain Buzzard -->
+  <While Condition="HasQuest(257) &amp;&amp; !IsQuestCompleted(257)" >
+    <Objective QuestName="Unknown" QuestId="257" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: A Hunter's Boast -->
+  <While Condition="HasQuest(257) &amp;&amp; IsQuestCompleted(257)" >
+    <TurnIn QuestName="A Hunter's Boast" QuestId="257" TurnInName="Daryl the Youngling" TurnInId="1187" />
+  </While>
+  <!-- End Turn In: A Hunter's Boast -->
+  <!-- A Hunter's Challenge -->
+  <While Condition="!HasQuest(258) &amp;&amp; !IsQuestCompleted(258)" >
+    <PickUp QuestName="A Hunter's Challenge" QuestId="258" GiverName="Daryl the Youngling" GiverId="1187" />
+  </While>
+  <!-- End A Hunter's Challenge -->
+  <!-- Kill Objective for Quest 258: Elder Mountain Boar -->
+  <While Condition="HasQuest(258) &amp;&amp; !IsQuestCompleted(258)" >
+    <Objective QuestName="Unknown" QuestId="258" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: A Hunter's Challenge -->
+  <While Condition="HasQuest(258) &amp;&amp; IsQuestCompleted(258)" >
+    <TurnIn QuestName="A Hunter's Challenge" QuestId="258" TurnInName="Daryl the Youngling" TurnInId="1187" />
+  </While>
+  <!-- End Turn In: A Hunter's Challenge -->
+  <!-- Bingles' Missing Supplies -->
+  <While Condition="!HasQuest(2038) &amp;&amp; !IsQuestCompleted(2038)" >
+    <PickUp QuestName="Bingles' Missing Supplies" QuestId="2038" GiverName="Bingles Blastenheimer" GiverId="6577" />
+  </While>
+  <!-- End Bingles' Missing Supplies -->
+  <!-- Collect Objective for Quest 385: Crocolisk Meat -->
+  <While Condition="HasQuest(385) &amp;&amp; !IsQuestCompleted(385)" >
+    <Objective QuestName="Unknown" QuestId="385" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 385: Crocolisk Skin -->
+  <While Condition="HasQuest(385) &amp;&amp; !IsQuestCompleted(385)" >
+    <Objective QuestName="Unknown" QuestId="385" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 2038: Bingles' Wrench -->
+  <While Condition="HasQuest(2038) &amp;&amp; !IsQuestCompleted(2038)" >
+    <Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 2038: Bingles' Blastencapper -->
+  <While Condition="HasQuest(2038) &amp;&amp; !IsQuestCompleted(2038)" >
+    <Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 2038: Bingles' Hammer -->
+  <While Condition="HasQuest(2038) &amp;&amp; !IsQuestCompleted(2038)" >
+    <Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 2038: Bingles' Screwdriver -->
+  <While Condition="HasQuest(2038) &amp;&amp; !IsQuestCompleted(2038)" >
+    <Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- A Dark Threat Looms (1) -->
+  <While Condition="!HasQuest(250) &amp;&amp; !IsQuestCompleted(250)" >
+    <PickUp QuestName="A Dark Threat Looms (1)" QuestId="250" GiverName="Chief Engineer Hinderweir VII" GiverId="1093" />
+  </While>
+  <!-- End A Dark Threat Looms (1) -->
+  <!-- Turn In: A Dark Threat Looms (1) -->
+  <While Condition="HasQuest(250) &amp;&amp; IsQuestCompleted(250)" >
+    <TurnIn QuestName="A Dark Threat Looms (1)" QuestId="250" TurnInName="Chief Engineer Hinderweir VII" TurnInId="1093" />
+  </While>
+  <!-- End Turn In: A Dark Threat Looms (1) -->
+  <!-- A Dark Threat Looms (2) -->
+  <While Condition="!HasQuest(199) &amp;&amp; !IsQuestCompleted(199)" >
+    <PickUp QuestName="A Dark Threat Looms (2)" QuestId="199" GiverName="Chief Engineer Hinderweir VII" GiverId="1093" />
+  </While>
+  <!-- End A Dark Threat Looms (2) -->
+  <!-- Turn In: A Dark Threat Looms (2) -->
+  <While Condition="HasQuest(199) &amp;&amp; IsQuestCompleted(199)" >
+    <TurnIn QuestName="A Dark Threat Looms (2)" QuestId="199" TurnInName="Chief Engineer Hinderweir VII" TurnInId="1093" />
+  </While>
+  <!-- End Turn In: A Dark Threat Looms (2) -->
+  <!-- Kill Objective for Quest 255: Mo'grosh Ogre -->
+  <While Condition="HasQuest(255) &amp;&amp; !IsQuestCompleted(255)" >
+    <Objective QuestName="Unknown" QuestId="255" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 255: Mo'grosh Enforcer -->
+  <While Condition="HasQuest(255) &amp;&amp; !IsQuestCompleted(255)" >
+    <Objective QuestName="Unknown" QuestId="255" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 255: Mo'grosh Brute -->
+  <While Condition="HasQuest(255) &amp;&amp; !IsQuestCompleted(255)" >
+    <Objective QuestName="Unknown" QuestId="255" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: Bingles' Missing Supplies -->
+  <While Condition="HasQuest(2038) &amp;&amp; IsQuestCompleted(2038)" >
+    <TurnIn QuestName="Bingles' Missing Supplies" QuestId="2038" TurnInName="Bingles Blastenheimer" TurnInId="6577" />
+  </While>
+  <!-- End Turn In: Bingles' Missing Supplies -->
+  <!-- Turn In: Crocolisk Hunting -->
+  <While Condition="HasQuest(385) &amp;&amp; IsQuestCompleted(385)" >
+    <TurnIn QuestName="Crocolisk Hunting" QuestId="385" TurnInName="Marek Ironheart" TurnInId="1154" />
+  </While>
+  <!-- End Turn In: Crocolisk Hunting -->
+  <!-- Vyrin's Revenge (1) -->
+  <While Condition="!HasQuest(271) &amp;&amp; !IsQuestCompleted(271)" >
+    <PickUp QuestName="Vyrin's Revenge (1)" QuestId="271" GiverName="Vyrin Swiftwind" GiverId="1156" />
+  </While>
+  <!-- End Vyrin's Revenge (1) -->
+  <!-- Collect Objective for Quest 271: Ol' Sooty's Head -->
+  <While Condition="HasQuest(271) &amp;&amp; !IsQuestCompleted(271)" >
+    <Objective QuestName="Unknown" QuestId="271" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: Vyrin's Revenge (1) -->
+  <While Condition="HasQuest(271) &amp;&amp; IsQuestCompleted(271)" >
+    <TurnIn QuestName="Vyrin's Revenge (1)" QuestId="271" TurnInName="Daryl the Youngling" TurnInId="1187" />
+  </While>
+  <!-- End Turn In: Vyrin's Revenge (1) -->
+  <!-- Vyrin's Revenge (2) -->
+  <While Condition="!HasQuest(531) &amp;&amp; !IsQuestCompleted(531)" >
+    <PickUp QuestName="Vyrin's Revenge (2)" QuestId="531" GiverName="Daryl the Youngling" GiverId="1187" />
+  </While>
+  <!-- End Vyrin's Revenge (2) -->
+  <!-- Turn In: Vyrin's Revenge (2) -->
+  <While Condition="HasQuest(531) &amp;&amp; IsQuestCompleted(531)" >
+    <TurnIn QuestName="Vyrin's Revenge (2)" QuestId="531" TurnInName="Vyrin Swiftwind" TurnInId="1156" />
+  </While>
+  <!-- End Turn In: Vyrin's Revenge (2) -->
+  <!-- Turn In: Mercenaries -->
+  <While Condition="HasQuest(255) &amp;&amp; IsQuestCompleted(255)" >
+    <TurnIn QuestName="Mercenaries" QuestId="255" TurnInName="Magistrate Bluntnose" TurnInId="1139" />
+  </While>
+  <!-- End Turn In: Mercenaries -->
+  <!-- Turn In: Excavation Progress Report -->
+  <While Condition="HasQuest(298) &amp;&amp; IsQuestCompleted(298)" >
+    <TurnIn QuestName="Excavation Progress Report" QuestId="298" TurnInName="Jern Hornhelm" TurnInId="1105" />
+  </While>
+  <!-- End Turn In: Excavation Progress Report -->
+  <!-- Report to Ironforge -->
+  <While Condition="!HasQuest(301) &amp;&amp; !IsQuestCompleted(301)" >
+    <PickUp QuestName="Report to Ironforge" QuestId="301" GiverName="Jern Hornhelm" GiverId="1105" />
+  </While>
+  <!-- End Report to Ironforge -->
+  <!-- Turn In: Report to Ironforge -->
+  <While Condition="HasQuest(301) &amp;&amp; IsQuestCompleted(301)" >
+    <TurnIn QuestName="Report to Ironforge" QuestId="301" TurnInName="Prospector Stormpike" TurnInId="1356" />
+  </While>
+  <!-- End Turn In: Report to Ironforge -->
+  <!-- Encroaching Gnolls -->
+  <While Condition="!HasQuest(244) &amp;&amp; !IsQuestCompleted(244)" >
+    <PickUp QuestName="Encroaching Gnolls" QuestId="244" GiverName="Guard Parker" GiverId="464" />
+  </While>
+  <!-- End Encroaching Gnolls -->
+  <!-- Turn In: Encroaching Gnolls -->
+  <While Condition="HasQuest(244) &amp;&amp; IsQuestCompleted(244)" >
+    <TurnIn QuestName="Encroaching Gnolls" QuestId="244" TurnInName="Deputy Feldon" TurnInId="1070" />
+  </While>
+  <!-- End Turn In: Encroaching Gnolls -->
+  <!-- Assessing the Threat -->
+  <While Condition="!HasQuest(246) &amp;&amp; !IsQuestCompleted(246)" >
+    <PickUp QuestName="Assessing the Threat" QuestId="246" GiverName="Deputy Feldon" GiverId="1070" />
+  </While>
+  <!-- End Assessing the Threat -->
+  <!-- Blackrock Menace -->
+  <While Condition="!HasQuest(20) &amp;&amp; !IsQuestCompleted(20)" >
+    <PickUp QuestName="Blackrock Menace" QuestId="20" GiverName="Marshal Marris" GiverId="382" />
+  </While>
+  <!-- End Blackrock Menace -->
+  <!-- The Lost Tools -->
+  <While Condition="!HasQuest(125) &amp;&amp; !IsQuestCompleted(125)" >
+    <PickUp QuestName="The Lost Tools" QuestId="125" GiverName="Foreman Oslow" GiverId="341" />
+  </While>
+  <!-- End The Lost Tools -->
+  <!-- The Price of Shoes -->
+  <While Condition="!HasQuest(118) &amp;&amp; !IsQuestCompleted(118)" >
+    <PickUp QuestName="The Price of Shoes" QuestId="118" GiverName="Verner Osgood" GiverId="415" />
+  </While>
+  <!-- End The Price of Shoes -->
+  <!-- Hilary's Necklace -->
+  <While Condition="!HasQuest(3741) &amp;&amp; !IsQuestCompleted(3741)" >
+    <PickUp QuestName="Hilary's Necklace" QuestId="3741" GiverName="Shawn" GiverId="8965" />
+  </While>
+  <!-- End Hilary's Necklace -->
+  <!-- Collect Objective for Quest 3741: Hilary's Necklace -->
+  <While Condition="HasQuest(3741) &amp;&amp; !IsQuestCompleted(3741)" >
+    <Objective QuestName="Unknown" QuestId="3741" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 125: Oslow's Toolbox -->
+  <While Condition="HasQuest(125) &amp;&amp; !IsQuestCompleted(125)" >
+    <Objective QuestName="Unknown" QuestId="125" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Turn In: The Lost Tools -->
+  <While Condition="HasQuest(125) &amp;&amp; IsQuestCompleted(125)" >
+    <TurnIn QuestName="The Lost Tools" QuestId="125" TurnInName="Foreman Oslow" TurnInId="341" />
+  </While>
+  <!-- End Turn In: The Lost Tools -->
+  <!-- The Everstill Bridge -->
+  <While Condition="!HasQuest(89) &amp;&amp; !IsQuestCompleted(89)" >
+    <PickUp QuestName="The Everstill Bridge" QuestId="89" GiverName="Foreman Oslow" GiverId="341" />
+  </While>
+  <!-- End The Everstill Bridge -->
+  <!-- Turn In: Hilary's Necklace -->
+  <While Condition="HasQuest(3741) &amp;&amp; IsQuestCompleted(3741)" >
+    <TurnIn QuestName="Hilary's Necklace" QuestId="3741" TurnInName="Hilary" TurnInId="8962" />
+  </While>
+  <!-- End Turn In: Hilary's Necklace -->
+  <!-- Solomon's Law -->
+  <While Condition="!HasQuest(91) &amp;&amp; !IsQuestCompleted(91)" >
+    <PickUp QuestName="Solomon's Law" QuestId="91" GiverName="Bailiff Conacher" GiverId="900" />
+  </While>
+  <!-- End Solomon's Law -->
+  <!-- Selling Fish -->
+  <While Condition="!HasQuest(127) &amp;&amp; !IsQuestCompleted(127)" >
+    <PickUp QuestName="Selling Fish" QuestId="127" GiverName="Dockmaster Baren" GiverId="381" />
+  </While>
+  <!-- End Selling Fish -->
+  <!-- A Free Lunch -->
+  <While Condition="!HasQuest(129) &amp;&amp; !IsQuestCompleted(129)" >
+    <PickUp QuestName="A Free Lunch" QuestId="129" GiverName="Darcy" GiverId="379" />
+  </While>
+  <!-- End A Free Lunch -->
+  <!-- Turn In: The Defias Brotherhood (1) -->
+  <While Condition="HasQuest(65) &amp;&amp; IsQuestCompleted(65)" >
+    <TurnIn QuestName="The Defias Brotherhood (1)" QuestId="65" TurnInName="Wiley the Black" TurnInId="266" />
+  </While>
+  <!-- End Turn In: The Defias Brotherhood (1) -->
+  <!-- The Defias Brotherhood (2) -->
+  <While Condition="!HasQuest(132) &amp;&amp; !IsQuestCompleted(132)" >
+    <PickUp QuestName="The Defias Brotherhood (2)" QuestId="132" GiverName="Wiley the Black" GiverId="266" />
+  </While>
+  <!-- End The Defias Brotherhood (2) -->
+  <!-- Redridge Goulash -->
+  <While Condition="!HasQuest(92) &amp;&amp; !IsQuestCompleted(92)" >
+    <PickUp QuestName="Redridge Goulash" QuestId="92" GiverName="Chef Breanna" GiverId="343" />
+  </While>
+  <!-- End Redridge Goulash -->
+  <!-- An Unwelcome Guest -->
+  <While Condition="!HasQuest(34) &amp;&amp; !IsQuestCompleted(34)" >
+    <PickUp QuestName="An Unwelcome Guest" QuestId="34" GiverName="Martie Jainrose" GiverId="342" />
+  </While>
+  <!-- End An Unwelcome Guest -->
+  <!-- Turn In: A Free Lunch -->
+  <While Condition="HasQuest(129) &amp;&amp; IsQuestCompleted(129)" >
+    <TurnIn QuestName="A Free Lunch" QuestId="129" TurnInName="Guard Parker" TurnInId="464" />
+  </While>
+  <!-- End Turn In: A Free Lunch -->
+  <!-- Visit the Herbalist -->
+  <While Condition="!HasQuest(130) &amp;&amp; !IsQuestCompleted(130)" >
+    <PickUp QuestName="Visit the Herbalist" QuestId="130" GiverName="Guard Parker" GiverId="464" />
+  </While>
+  <!-- End Visit the Herbalist -->
+  <!-- Turn In: The Defias Brotherhood (2) -->
+  <While Condition="HasQuest(132) &amp;&amp; IsQuestCompleted(132)" >
+    <TurnIn QuestName="The Defias Brotherhood (2)" QuestId="132" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+  </While>
+  <!-- End Turn In: The Defias Brotherhood (2) -->
+  <!-- The Defias Brotherhood (3) -->
+  <While Condition="!HasQuest(135) &amp;&amp; !IsQuestCompleted(135)" >
+    <PickUp QuestName="The Defias Brotherhood (3)" QuestId="135" GiverName="Gryan Stoutmantle" GiverId="234" />
+  </While>
+  <!-- End The Defias Brotherhood (3) -->
+  <!-- Turn In: The Defias Brotherhood (3) -->
+  <While Condition="HasQuest(135) &amp;&amp; IsQuestCompleted(135)" >
+    <TurnIn QuestName="The Defias Brotherhood (3)" QuestId="135" TurnInName="Master Mathias Shaw" TurnInId="332" />
+  </While>
+  <!-- End Turn In: The Defias Brotherhood (3) -->
+  <!-- The Defias Brotherhood (4) -->
+  <While Condition="!HasQuest(141) &amp;&amp; !IsQuestCompleted(141)" >
+    <PickUp QuestName="The Defias Brotherhood (4)" QuestId="141" GiverName="Master Mathias Shaw" GiverId="332" />
+  </While>
+  <!-- End The Defias Brotherhood (4) -->
+  <!-- Turn In: The Defias Brotherhood (4) -->
+  <While Condition="HasQuest(141) &amp;&amp; IsQuestCompleted(141)" >
+    <TurnIn QuestName="The Defias Brotherhood (4)" QuestId="141" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+  </While>
+  <!-- End Turn In: The Defias Brotherhood (4) -->
+  <!-- The Defias Brotherhood (5) -->
+  <While Condition="!HasQuest(142) &amp;&amp; !IsQuestCompleted(142)" >
+    <PickUp QuestName="The Defias Brotherhood (5)" QuestId="142" GiverName="Gryan Stoutmantle" GiverId="234" />
+  </While>
+  <!-- End The Defias Brotherhood (5) -->
+  <!-- Turn In: The Price of Shoes -->
+  <While Condition="HasQuest(118) &amp;&amp; IsQuestCompleted(118)" >
+    <TurnIn QuestName="The Price of Shoes" QuestId="118" TurnInName="Smith Argus" TurnInId="514" />
+  </While>
+  <!-- End Turn In: The Price of Shoes -->
+  <!-- Return to Verner -->
+  <While Condition="!HasQuest(119) &amp;&amp; !IsQuestCompleted(119)" >
+    <PickUp QuestName="Return to Verner" QuestId="119" GiverName="Smith Argus" GiverId="514" />
+  </While>
+  <!-- End Return to Verner -->
+  <!-- Turn In: Visit the Herbalist -->
+  <While Condition="HasQuest(130) &amp;&amp; IsQuestCompleted(130)" >
+    <TurnIn QuestName="Visit the Herbalist" QuestId="130" TurnInName="Martie Jainrose" TurnInId="342" />
+  </While>
+  <!-- End Turn In: Visit the Herbalist -->
+  <!-- Delivering Daffodils -->
+  <While Condition="!HasQuest(131) &amp;&amp; !IsQuestCompleted(131)" >
+    <PickUp QuestName="Delivering Daffodils" QuestId="131" GiverName="Martie Jainrose" GiverId="342" />
+  </While>
+  <!-- End Delivering Daffodils -->
+  <!-- Turn In: Delivering Daffodils -->
+  <While Condition="HasQuest(131) &amp;&amp; IsQuestCompleted(131)" >
+    <TurnIn QuestName="Delivering Daffodils" QuestId="131" TurnInName="Darcy" TurnInId="379" />
+  </While>
+  <!-- End Turn In: Delivering Daffodils -->
+  <!-- Turn In: Return to Verner -->
+  <While Condition="HasQuest(119) &amp;&amp; IsQuestCompleted(119)" >
+    <TurnIn QuestName="Return to Verner" QuestId="119" TurnInName="Verner Osgood" TurnInId="415" />
+  </While>
+  <!-- End Turn In: Return to Verner -->
+  <!-- Underbelly Scales -->
+  <While Condition="!HasQuest(122) &amp;&amp; !IsQuestCompleted(122)" >
+    <PickUp QuestName="Underbelly Scales" QuestId="122" GiverName="Verner Osgood" GiverId="415" />
+  </While>
+  <!-- End Underbelly Scales -->
+  <!-- A Baying of Gnolls -->
+  <While Condition="!HasQuest(124) &amp;&amp; !IsQuestCompleted(124)" >
+    <PickUp QuestName="A Baying of Gnolls" QuestId="124" GiverName="Verner Osgood" GiverId="415" />
+  </While>
+  <!-- End A Baying of Gnolls -->
+  <!-- Collect Objective for Quest 122: Underbelly Whelp Scale -->
+  <While Condition="HasQuest(122) &amp;&amp; !IsQuestCompleted(122)" >
+    <Objective QuestName="Unknown" QuestId="122" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 92: Great Goretusk Snout -->
+  <While Condition="HasQuest(92) &amp;&amp; !IsQuestCompleted(92)" >
+    <Objective QuestName="Unknown" QuestId="92" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Collect Objective for Quest 92: Crisp Spider Meat -->
+  <While Condition="HasQuest(92) &amp;&amp; !IsQuestCompleted(92)" >
+    <Objective QuestName="Unknown" QuestId="92" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+  </While>
+  <!-- End Collect Objective -->
+  <!-- Kill Objective for Quest 246: Redridge Mongrel -->
+  <While Condition="HasQuest(246) &amp;&amp; !IsQuestCompleted(246)" >
+    <Objective QuestName="Unknown" QuestId="246" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Kill Objective for Quest 246: Redridge Poacher -->
+  <While Condition="HasQuest(246) &amp;&amp; !IsQuestCompleted(246)" >
+    <Objective QuestName="Unknown" QuestId="246" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+  </While>
+  <!-- End Kill Objective -->
+  <!-- Turn In: Assessing the Threat -->
+  <While Condition="HasQuest(246) &amp;&amp; IsQuestCompleted(246)" >
+    <TurnIn QuestName="Assessing the Threat" QuestId="246" TurnInName="Deputy Feldon" TurnInId="1070" />
+  </While>
+  <!-- End Turn In: Assessing the Threat -->
+  <!-- Turn In: Underbelly Scales -->
+  <While Condition="HasQuest(122) &amp;&amp; IsQuestCompleted(122)" >
+    <TurnIn QuestName="Underbelly Scales" QuestId="122" TurnInName="Verner Osgood" TurnInId="415" />
+  </While>
+  <!-- End Turn In: Underbelly Scales -->
+</QuestOrder>

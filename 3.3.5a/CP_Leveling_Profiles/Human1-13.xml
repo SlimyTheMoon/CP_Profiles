@@ -1,0 +1,1395 @@
+<HBProfile>
+	<Name>Starter Guides (1-11)\Human Starter (1-11)</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>11</MaxLevel>
+
+	<MinDurability>0.2</MinDurability>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<SellBlue>False</SellBlue>
+	<SellPurple>False</SellPurple>
+
+	<MailGrey>False</MailGrey>
+	<MailWhite>False</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+
+  <Vendors>
+		<!--Northshire Abbey Trainers-->
+		<Vendor Name="Llane Beshere" Entry="911" Type="Train" TrainClass="Warrior" X="-8918.3604" Y="-208.411" Z="82.3088" />
+		<Vendor Name="Brother Sammuel" Entry="925" Type="Train" TrainClass="Paladin" X="-8914.5703" Y="-215.016" Z="82.2996" />
+		<Vendor Name="Jorik Kerridan" Entry="915" Type="Train" TrainClass="Rogue" X="-8863.4697" Y="-210.905" Z="80.755" />
+		<Vendor Name="Priestess Anetta" Entry="375" Type="Train" TrainClass="Priest" X="-8853.5898" Y="-193.336" Z="82.1157" />
+		<Vendor Name="Khelden Bremen" Entry="198" Type="Train" TrainClass="Mage" X="-8851.5703" Y="-188.234" Z="89.4958" />
+		<Vendor Name="Drusilla La Salle" Entry="459" Type="Train" TrainClass="Warlock" X="-8926.7402" Y="-195.589" Z="80.7714" />
+		<!--Goldshire Trainers-->
+		<Vendor Name="Lyria Du Lac" Entry="913" Type="Train" TrainClass="Warrior" X="-9461.8496" Y="109.353" Z="57.8784" />
+		<Vendor Name="Brother Wilhelm" Entry="927" Type="Train" TrainClass="Paladin" X="-9468.1396" Y="108.976" Z="57.6606" />
+		<Vendor Name="Keryn Sylvius" Entry="917" Type="Train" TrainClass="Rogue" X="-9465.79" Y="12.6454" Z="63.9038" />
+		<Vendor Name="Priestess Josetta" Entry="377" Type="Train" TrainClass="Priest" X="-9460.75" Y="33.1338" Z="63.9038" />
+		<Vendor Name="Zaldimar Wefhellt" Entry="328" Type="Train" TrainClass="Mage" X="-9471.6699" Y="34.451" Z="63.9038" />
+		<Vendor Name="Maximillian Crowe" Entry="906" Type="Train" TrainClass="Warlock" X="-9472.7998" Y="-5.3266" Z="49.8778" />
+    <!--Alien Trainers-->
+    <Vendor Name="Maldryn" Entry="5506" Type="Train" TrainClass="Druid" X="-8751" Y="1124.52" Z="92.54957" />
+    <Vendor Name="Einris Brightspear" Entry="5515" Type="Train" TrainClass="Hunter" X="-8415" Y="553.182" Z="95.62884" />
+    <Vendor Name="Farseer Umbrua" Entry="20407" Type="Train" TrainClass="Shaman" X="-9031.63" Y="549.8" Z="73.38921" />
+    <!--Northshire Abbey Vendors-->
+		<Vendor Name="Godric Rothgar" Entry="1213" Type="Repair" X="-8898.23" Y="-119.838" Z="81.833115" />
+		<Vendor Name="Brother Danil" Entry="152" Type="Food" X="-8901.59" Y="-112.716" Z="81.84822" />
+		<Vendor Name="Brother Danil" Entry="152" Type="Ammo" X="-8901.59" Y="-112.716" Z="81.84822" />
+		<!--Goldshire Vendors-->
+		<Vendor Name="Corina Steele" Entry="54" Type="Repair" X="-9464.87" Y="93.9896" Z="58.344208" />
+		<Vendor Name="Innkeeper Farley" Entry="295" Type="Food" X="-9462.66" Y="16.1915" Z="56.964203" />
+		<Vendor Name="Brog Hamfist" Entry="151" Type="Ammo" X="-9465.29" Y="9.63314" Z="56.96268" />
+		<!--Eastvale Vendors-->
+		<Vendor Name="Rallic Finn" Entry="1198" Type="Repair" X="-9469.28" Y="-1355.24" Z="47.204323" />
+		<Vendor Name="Rallic Finn" Entry="1198" Type="Ammo" X="-9469.28" Y="-1355.24" Z="47.204487" />
+		<!--Stormwind Vendors-->
+		<Vendor Name="Marda Weller" Entry="1287" Type="Repair" X="-8787.69" Y="609.631" Z="96.775215" />
+		<Vendor Name="Ben Trias" Entry="4981" Type="Food" X="-8847.28" Y="569.955" Z="94.68751" />
+	</Vendors>
+
+    
+  <Quest Id="1598" Name="The Stolen Tome">
+    <Objective Type="CollectItem" ItemId="6785" CollectCount="1">
+      <CollectFrom>
+        <GameObject Name="Stolen Books" Id="83763"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-8957.04" Y="-432.75" Z="64.72"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="33" Name="Wolves Across the Border">
+    <Objective Type="CollectItem" ItemId="50432" CollectCount="8">
+      <CollectFrom>
+        <Mob Name="Diseased Young Wolf" Id="299"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-8865" Y="-87" Z="82"/>
+        <Hotspot X="-8858" Y="-132" Z="81"/>
+        <Hotspot X="-8827" Y="-134" Z="80"/>
+        <Hotspot X="-8811" Y="-100" Z="83"/>
+        <Hotspot X="-8832" Y="-64" Z="86"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="7" Name="Kobold Camp Cleanup">
+    <Objective Type="KillMob" MobId="6" KillCount="8">
+      <Hotspots>
+        <Hotspot X="-8763" Y="-128" Z="83"/>
+        <Hotspot X="-8783" Y="-161" Z="82"/>
+        <Hotspot X="-8774" Y="-184" Z="83"/>
+        <Hotspot X="-8794" Y="-170" Z="81"/>
+        <Hotspot X="-8794" Y="-134" Z="83"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="15" Name="Investigate Echo Ridge">
+    <Objective Type="KillMob" MobId="257" KillCount="8">
+      <Hotspots>
+        <Hotspot X="-8763" Y="-128" Z="83"/>
+        <Hotspot X="-8756" Y="-171" Z="84"/>
+        <Hotspot X="-8769" Y="-138" Z="82"/>
+        <Hotspot X="-8768" Y="-113" Z="83"/>
+        <Hotspot X="-8786" Y="-105" Z="83"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="21" Name="Skirmish at Echo Ridge">
+    <Objective Type="KillMob" MobId="80" KillCount="8">
+      <Hotspots>
+        <Hotspot X="-8657" Y="-124" Z="90"/>
+        <Hotspot X="-8671" Y="-123" Z="92"/>
+        <Hotspot X="-8632" Y="-143" Z="86"/>
+        <Hotspot X="-8616" Y="-143" Z="87"/>
+        <Hotspot X="-8640" Y="-143" Z="86"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="18" Name="Brotherhood of Thieves">
+    <Objective Type="CollectItem" ItemId="752" CollectCount="8">
+      <CollectFrom>
+        <Mob Name="Defias Thug" Id="38"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9045.3" Y="-321.2" Z="73.4"/>
+        <Hotspot X="-9056.4" Y="-342.6" Z="73.4"/>
+        <Hotspot X="-9088.9" Y="-332.3" Z="73.4"/>
+        <Hotspot X="-9106.6" Y="-338.5" Z="73.4"/>
+        <Hotspot X="-9078.0" Y="-373.1" Z="73.4"/>
+        <Hotspot X="-9015.5" Y="-361.5" Z="75.2"/>
+        <Hotspot X="-8963.6" Y="-367.3" Z="73.2"/>
+        <Hotspot X="-8921.3" Y="-376.4" Z="71.2"/>
+        <Hotspot X="-8878.0" Y="-368.8" Z="72.0"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="6" Name="Bounty on Garrick Padfoot">
+    <Objective Type="CollectItem" ItemId="182" CollectCount="1">
+      <CollectFrom>
+        <Mob Name="Garrick Padfoot" Id="103"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9056.7" Y="-457.3" Z="72.4"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="3904" Name="Milly's Harvest">
+    <Objective Type="CollectItem" ItemId="11119" CollectCount="8">
+      <CollectFrom>
+        <GameObject Name="Milly's Harvest" Id="161557"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9045.3" Y="-321.2" Z="73.4"/>
+        <Hotspot X="-9056.4" Y="-342.6" Z="73.4"/>
+        <Hotspot X="-9088.9" Y="-332.3" Z="73.4"/>
+        <Hotspot X="-9106.6" Y="-338.5" Z="73.4"/>
+        <Hotspot X="-9078.0" Y="-373.1" Z="73.4"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="47" Name="Gold Dust Exchange">
+    <Objective Type="CollectItem" ItemId="773" CollectCount="10">
+      <CollectFrom>
+        <Mob Name="Kobold Tunneler" Id="475"/>
+        <Mob Name="Kobold Miner" Id="40"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9803" Y="116" Z="5"/>
+        <Hotspot X="-9877" Y="220" Z="14"/>
+        <Hotspot X="-9842" Y="129" Z="4"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="60" Name="Kobold Candles">
+    <Objective Type="CollectItem" ItemId="772" CollectCount="8">
+      <CollectFrom>
+        <Mob Name="Kobold Tunneler" Id="475"/>
+        <Mob Name="Kobold Miner" Id="40"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9803" Y="116" Z="5"/>
+        <Hotspot X="-9877" Y="220" Z="14"/>
+        <Hotspot X="-9842" Y="129" Z="4"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="76" Name="The Jasperlode Mine">
+    <Blackspot X="-9251.194" Y="-706.17816" Z="63.041832" Radius="25" />
+  </Quest>
+  <Quest Id="86" Name="Pie for Billy">
+    <Objective Type="CollectItem" ItemId="769" CollectCount="4">
+      <CollectFrom>
+        <Mob Name="Stonetusk Boar" Id="113"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9920" Y="250" Z="35"/>
+        <Hotspot X="-10000" Y="310" Z="36"/>
+        <Hotspot X="-9820" Y="360" Z="37"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="88" Name="Princess Must Die!">
+    <Objective Type="CollectItem" ItemId="1006" CollectCount="1">
+      <CollectFrom>
+        <Mob Name="Princess" Id="330"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9771.268" Y="-860.4834" Z="39.55314" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="112" Name="Collecting Kelp">
+    <Objective Type="CollectItem" ItemId="1256" CollectCount="4">
+      <CollectFrom>
+        <Mob Name="Murloc" Id="285"/>
+        <Mob Name="Murloc Forager" Id="46"/>
+        <Mob Name="Murloc Streamrunner" Id="735"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9470" Y="-1200" Z="48"/>
+        <Hotspot X="-9570" Y="-1220" Z="45"/>
+        <Hotspot X="-9640" Y="-1180" Z="43"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="5545" Name="A Bundle of Trouble">
+    <Objective Type="CollectItem" ItemId="13872" CollectCount="8">
+      <CollectFrom>
+        <GameObject Name="Bundle of Wood" Id="176793"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9425" Y="-1126" Z="58"/>
+        <Hotspot X="-9405" Y="-1217" Z="56"/>
+        <Hotspot X="-9397" Y="-1141" Z="59"/>
+        <Hotspot X="-9389" Y="-1295" Z="55"/>
+        <Hotspot X="-9383" Y="-1101" Z="62"/>
+        <Hotspot X="-9382" Y="-1184" Z="62"/>
+        <Hotspot X="-9380" Y="-1262" Z="56"/>
+        <Hotspot X="-9369" Y="-1128" Z="64"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="52" Name="Protect the Frontier">
+    <Objective Type="KillMob" MobId="822" KillCount="5">
+      <Hotspots>
+        <Hotspot X="-9723" Y="-1126" Z="39"/>
+        <Hotspot X="-9723" Y="-1306" Z="49"/>
+        <Hotspot X="-9673" Y="-912" Z="42"/>
+        <Hotspot X="-9413" Y="-1124" Z="59"/>
+        <Hotspot X="-9461" Y="-973" Z="56"/>
+      </Hotspots>
+    </Objective>
+    <Objective Type="KillMob" MobId="118" KillCount="8">
+      <Hotspots>
+        <Hotspot X="-9723" Y="-1126" Z="39"/>
+        <Hotspot X="-9723" Y="-1306" Z="49"/>
+        <Hotspot X="-9673" Y="-912" Z="42"/>
+        <Hotspot X="-9413" Y="-1124" Z="59"/>
+        <Hotspot X="-9461" Y="-973" Z="56"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="46" Name="Bounty on Murlocs">
+    <Objective Type="CollectItem" ItemId="780" CollectCount="8">
+      <CollectFrom>
+        <Mob Name="Murloc" Id="285"/>
+        <Mob Name="Murloc Forager" Id="46"/>
+        <Mob Name="Murloc Streamrunner" Id="735"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9470" Y="-1200" Z="48"/>
+        <Hotspot X="-9570" Y="-1220" Z="45"/>
+        <Hotspot X="-9640" Y="-1180" Z="43"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="83" Name="Red Linen Goods">
+    <Objective Type="CollectItem" ItemId="1019" CollectCount="6">
+      <CollectFrom>
+        <Mob Name="Defias Bandit" Id="116"/>
+        <Mob Name="Defias Cutpurse" Id="94"/>
+        <Mob Name="Defias Rogue Wizard" Id="474"/>
+        <Mob Name="Defias Thug" Id="38"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9257" Y="-1041" Z="67"/>
+        <Hotspot X="-9216" Y="-1054" Z="76"/>
+        <Hotspot X="-9164" Y="-1083" Z="71"/>
+        <Hotspot X="-9772" Y="-936" Z="39"/>
+        <Hotspot X="-9773" Y="-903" Z="39"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="11" Name="Riverpaw Gnoll Bounty">
+    <Objective Type="CollectItem" ItemId="782" CollectCount="8">
+      <CollectFrom>
+        <Mob Name="Riverpaw Outrunner" Id="478"/>
+        <Mob Name="Riverpaw Runt" Id="97"/>
+        <Mob Name="Riverpaw Scout" Id="500"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-9826" Y="621" Z="41"/>
+        <Hotspot X="-9940" Y="583" Z="38"/>
+        <Hotspot X="-9818" Y="564" Z="38"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="176" Name="Wanted: Hogger">
+    <Objective Type="CollectItem" ItemId="1931" CollectCount="1">
+      <CollectFrom>
+        <Mob Name="Hogger" Id="448"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-10060" Y="654" Z="37"/>
+        <Hotspot X="-10100" Y="670" Z="38"/>
+        <Hotspot X="-9980" Y="700" Z="37"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="1640" Name="Beat Bartleby">
+    <Objective Type="KillMob" MobId="6090" KillCount="1">
+      <Hotspots>
+        <Hotspot X="-8604" Y="389" Z="102"/>
+        <Hotspot X="-8721" Y="415" Z="97"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="1688" Name="Surena Caledon">
+    <Objective Type="CollectItem" ItemId="6810" CollectCount="1">
+      <CollectFrom>
+        <Mob Name="Surena Caledon" Id="881"/>
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="-8998" Y="-984" Z="74"/>
+        <Hotspot X="-9036" Y="-988" Z="77"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="1689" Name="The Binding">
+    <Objective Type="KillMob" MobId="5676" KillCount="1">
+      <Hotspots>
+        <Hotspot X="-9014" Y="877" Z="29"/>
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <QuestOrder>
+  <CustomBehavior File="UserSettings" LootMobs="True" TrainNewSkills="True" LearnFlightPaths="False" UseFlightPaths="False" PullDistance="25"/>
+  <!-- Obsolete when in WOTLK -->
+    <!-- If Condition="(Me.Class == WoWClass.Warlock) &amp;&amp; (Me.Race == WoWRace.Human)" -->
+      <!-- The Stolen Tome -->
+      <!--<While Condition="!HasQuest(1598) &amp;&amp; !IsQuestCompleted(1598)" >-->
+        <!--<PickUp QuestName="The Stolen Tome" QuestId="1598" GiverName="Drusilla La Salle" GiverId="459"/>-->
+      <!--</While>-->
+      <!-- End The Stolen Tome -->
+      
+      <!-- Objective for Quest 1598: The Stolen Tome -->
+      <!--<While Condition="HasQuest(1598) &amp;&amp; !IsQuestCompleted(1598)" -->
+        <!--<Objective QuestName="The Stolen Tome" QuestId="1598" Type="CollectItem" ItemId="6785" CollectCount="1"/>-->
+      <!--</While>-->
+      <!-- End Objective -->
+      
+      <!-- Turn In: The Stolen Tome -->
+      <!--<While Condition="HasQuest(1598) &amp;&amp; IsQuestCompleted(1598)" >-->
+        <!--<TurnIn QuestName="The Stolen Tome" QuestId="1598" TurnInName="Drusilla La Salle" TurnInId="459"/>-->
+      <!--</While>-->
+      <!-- End Turn In: The Stolen Tome -->
+    <!--</If>-->
+  <!-- End Obsolete when in WOTLK -->
+
+  <!-- A Threat Within -->
+  <While Condition="!HasQuest(783) &amp;&amp; !IsQuestCompleted(783)" >
+    <PickUp QuestName="A Threat Within" QuestId="783" GiverName="Deputy Willem" GiverId="823"/>
+  </While>
+  <!-- End A Threat Within -->
+
+  <!-- Turn In: A Threat Within -->
+  <While Condition="HasQuest(783) &amp;&amp; IsQuestCompleted(783)" >
+    <If Condition="(HasQuest(783))">
+      <RunTo X="-8914.47" Y="-136" Z="80.44"/>
+    </If>
+    <TurnIn QuestName="A Threat Within" QuestId="783" TurnInName="Marshal McBride" TurnInId="197"/>
+  </While>
+  <!-- End Turn In: A Threat Within -->
+
+  <!-- Kobold Camp Cleanup -->
+  <While Condition="!HasQuest(7) &amp;&amp; !IsQuestCompleted(7)" >
+    <PickUp QuestName="Kobold Camp Cleanup" QuestId="7" GiverName="Marshal McBride" GiverId="197"/>
+  </While>
+  <!-- End Kobold Camp Cleanup -->
+
+  <!-- Eagan Peltskinner -->
+  <While Condition="!HasQuest(5261) &amp;&amp; !IsQuestCompleted(5261)" >
+    <PickUp QuestName="Eagan Peltskinner" QuestId="5261" GiverName="Deputy Willem" GiverId="823"/>
+  </While>
+  <!-- End Eagan Peltskinner -->
+
+  <!-- Turn In: Eagan Peltskinner -->
+  <While Condition="HasQuest(5261) &amp;&amp; IsQuestCompleted(5261)" >
+    <TurnIn QuestName="Eagan Peltskinner" QuestId="5261" TurnInName="Eagan Peltskinner" TurnInId="196"/>
+  </While>
+  <!-- End Turn In: Eagan Peltskinner -->
+
+  <!-- Wolves Across the Border -->
+  <While Condition="!HasQuest(33) &amp;&amp; !IsQuestCompleted(33)" >
+    <PickUp QuestName="Wolves Across the Border" QuestId="33" GiverName="Eagan Peltskinner" GiverId="196"/>
+  </While>
+  <!-- End Wolves Across the Border -->
+
+  <!-- Objective for Quest 33: Wolves Across the Border -->
+  <While Condition="HasQuest(33) &amp;&amp; !IsQuestCompleted(33)" >
+    <Objective QuestName="Wolves Across the Border" QuestId="33" Type="CollectItem" ItemId="50432" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 7: Kobold Camp Cleanup -->
+  <While Condition="HasQuest(7) &amp;&amp; !IsQuestCompleted(7)" >
+    <Objective QuestName="Kobold Camp Cleanup" QuestId="7" Type="KillMob" MobId="6" KillCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Wolves Across the Border -->
+  <While Condition="HasQuest(33) &amp;&amp; IsQuestCompleted(33)" >
+    <TurnIn QuestName="Wolves Across the Border" QuestId="33" TurnInName="Eagan Peltskinner" TurnInId="196"/>
+  </While>
+  <!-- End Turn In: Wolves Across the Border -->
+
+  <!-- Turn In: Kobold Camp Cleanup -->
+  <While Condition="HasQuest(7) &amp;&amp; IsQuestCompleted(7)" >
+    <TurnIn QuestName="Kobold Camp Cleanup" QuestId="7" TurnInName="Marshal McBride" TurnInId="197"/>
+  </While>
+  <!-- End Turn In: Kobold Camp Cleanup -->
+
+  <!-- Investigate Echo Ridge -->
+  <While Condition="!HasQuest(15) &amp;&amp; !IsQuestCompleted(15)" >
+    <PickUp QuestName="Investigate Echo Ridge" QuestId="15" GiverName="Marshal McBride" GiverId="197"/>
+  </While>
+  <!-- End Investigate Echo Ridge -->
+
+  <If Condition="(Me.Class == WoWClass.Mage) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Glyphic Letter -->
+    <While Condition="!HasQuest(3104) &amp;&amp; !IsQuestCompleted(3104)" >
+      <PickUp QuestName="Glyphic Letter" QuestId="3104" GiverName="Marshal McBride" GiverId="197"/>
+    </While>
+    <!-- End Glyphic Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Warrior) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Simple Letter -->
+    <While Condition="!HasQuest(3100) &amp;&amp; !IsQuestCompleted(3100)" >
+      <PickUp QuestName="Simple Letter" QuestId="3100" GiverName="Marshal McBride" GiverId="197"/>
+    </While>
+    <!-- End Simple Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Warlock) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Tainted Letter -->
+    <While Condition="!HasQuest(3105) &amp;&amp; !IsQuestCompleted(3105)" >
+      <PickUp QuestName="Tainted Letter" QuestId="3105" GiverName="Marshal McBride" GiverId="197"/>
+    </While>
+    <!-- End Tainted Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Rogue) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Encrypted Letter -->
+    <While Condition="!HasQuest(3102) &amp;&amp; !IsQuestCompleted(3102)" >
+      <PickUp QuestName="Encrypted Letter" QuestId="3102" GiverName="Marshal McBride" GiverId="197"/>
+    </While>
+    <!-- End Encrypted Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Priest) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Hallowed Letter -->
+    <While Condition="!HasQuest(3103) &amp;&amp; !IsQuestCompleted(3103)" >
+      <PickUp QuestName="Hallowed Letter" QuestId="3103" GiverName="Marshal McBride" GiverId="197"/>
+    </While>
+    <!-- End Hallowed Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Paladin) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Consecrated Letter -->
+    <While Condition="!HasQuest(3101) &amp;&amp; !IsQuestCompleted(3101)" >
+      <PickUp QuestName="Consecrated Letter" QuestId="3101" GiverName="Marshal McBride" GiverId="197"/>
+    </While>
+    <!-- End Consecrated Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Warrior) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Simple Letter -->
+    <While Condition="HasQuest(3100) &amp;&amp; IsQuestCompleted(3100)" >
+      <TurnIn QuestName="Simple Letter" QuestId="3100" TurnInName="Llane Beshere" TurnInId="911"/>
+    </While>
+    <!-- End Turn In: Simple Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Paladin) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Consecrated Letter -->
+    <While Condition="HasQuest(3101) &amp;&amp; IsQuestCompleted(3101)" >
+      <TurnIn QuestName="Consecrated Letter" QuestId="3101" TurnInName="Brother Sammuel" TurnInId="925"/>
+    </While>
+    <!-- End Turn In: Consecrated Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Priest) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Hallowed Letter -->
+    <While Condition="HasQuest(3103) &amp;&amp; IsQuestCompleted(3103)" >
+      <TurnIn QuestName="Hallowed Letter" QuestId="3103" TurnInName="Priestess Anetta" TurnInId="375"/>
+    </While>
+    <!-- End Turn In: Hallowed Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Mage) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Glyphic Letter -->
+    <While Condition="HasQuest(3104) &amp;&amp; IsQuestCompleted(3104)" >
+      <TurnIn QuestName="Glyphic Letter" QuestId="3104" TurnInName="Khelden Bremen" TurnInId="198"/>
+    </While>
+    <!-- End Turn In: Glyphic Letter -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Warlock) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Tainted Letter -->
+    <While Condition="HasQuest(3105) &amp;&amp; IsQuestCompleted(3105)" >
+      <TurnIn QuestName="Tainted Letter" QuestId="3105" TurnInName="Drusilla La Salle" TurnInId="459"/>
+    </While>
+    <!-- End Turn In: Tainted Letter -->
+  </If>
+
+  <!-- Objective for Quest 15: Investigate Echo Ridge -->
+  <While Condition="HasQuest(15) &amp;&amp; !IsQuestCompleted(15)" >
+    <Objective QuestName="Investigate Echo Ridge" QuestId="15" Type="KillMob" MobId="257" KillCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Investigate Echo Ridge -->
+  <While Condition="HasQuest(15) &amp;&amp; IsQuestCompleted(15)" >
+    <TurnIn QuestName="Investigate Echo Ridge" QuestId="15" TurnInName="Marshal McBride" TurnInId="197"/>
+  </While>
+  <!-- End Turn In: Investigate Echo Ridge -->
+
+  <!-- Skirmish at Echo Ridge -->
+  <While Condition="!HasQuest(21) &amp;&amp; !IsQuestCompleted(21)" >
+    <PickUp QuestName="Skirmish at Echo Ridge" QuestId="21" GiverName="Marshal McBride" GiverId="197"/>
+  </While>
+  <!-- End Skirmish at Echo Ridge -->
+
+  <!-- Brotherhood of Thieves -->
+  <While Condition="!HasQuest(18) &amp;&amp; !IsQuestCompleted(18)" >
+    <PickUp QuestName="Brotherhood of Thieves" QuestId="18" GiverName="Deputy Willem" GiverId="823"/>
+  </While>
+  <!-- End Brotherhood of Thieves -->
+
+  <!-- Objective for Quest 18: Brotherhood of Thieves -->
+  <While Condition="HasQuest(18) &amp;&amp; !IsQuestCompleted(18)" >
+    <Objective QuestName="Brotherhood of Thieves" QuestId="18" Type="CollectItem" ItemId="752" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Brotherhood of Thieves -->
+  <While Condition="HasQuest(18) &amp;&amp; IsQuestCompleted(18)" >
+    <TurnIn QuestName="Brotherhood of Thieves" QuestId="18" TurnInName="Deputy Willem" TurnInId="823"/>
+  </While>
+  <!-- End Turn In: Brotherhood of Thieves -->
+
+  <!-- Milly Osworth -->
+  <While Condition="!HasQuest(3903) &amp;&amp; !IsQuestCompleted(3903)" >
+    <PickUp QuestName="Milly Osworth" QuestId="3903" GiverName="Deputy Willem" GiverId="823"/>
+  </While>
+  <!-- End Milly Osworth -->
+
+  <!-- Bounty on Garrick Padfoot -->
+  <While Condition="!HasQuest(6) &amp;&amp; !IsQuestCompleted(6)" >
+    <PickUp QuestName="Bounty on Garrick Padfoot" QuestId="6" GiverName="Deputy Willem" GiverId="823"/>
+  </While>
+  <!-- End Bounty on Garrick Padfoot -->
+
+  <!-- Objective for Quest 21: Skirmish at Echo Ridge -->
+  <While Condition="HasQuest(21) &amp;&amp; !IsQuestCompleted(21)" >
+    <If Condition="(HasQuest(21))">
+      <RunTo X="-8688.81" Y="-114.88" Z="88.68"/>
+      <RunTo X="-8678.86" Y="-118.39" Z="91.05"/>
+      <RunTo X="-8666.84" Y="-123" Z="91.87"/>
+    </If>
+    <Objective QuestName="Skirmish at Echo Ridge" QuestId="21" Type="KillMob" MobId="80" KillCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Milly Osworth -->
+  <While Condition="HasQuest(3903) &amp;&amp; IsQuestCompleted(3903)" >
+    <TurnIn QuestName="Milly Osworth" QuestId="3903" TurnInName="Milly Osworth" TurnInId="9296"/>
+  </While>
+  <!-- End Turn In: Milly Osworth -->
+
+  <!-- Milly's Harvest -->
+  <While Condition="!HasQuest(3904) &amp;&amp; !IsQuestCompleted(3904)" >
+    <PickUp QuestName="Milly's Harvest" QuestId="3904" GiverName="Milly Osworth" GiverId="9296"/>
+  </While>
+  <!-- End Milly's Harvest -->
+
+  <If Condition="(Me.Class == WoWClass.Rogue) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Encrypted Letter -->
+    <While Condition="HasQuest(3102) &amp;&amp; IsQuestCompleted(3102)" >
+      <TurnIn QuestName="Encrypted Letter" QuestId="3102" TurnInName="Jorik Kerridan" TurnInId="915"/>
+    </While>
+    <!-- End Turn In: Encrypted Letter -->
+  </If>
+
+  <!-- Objective for Quest 6: Bounty on Garrick Padfoot -->
+  <While Condition="HasQuest(6) &amp;&amp; !IsQuestCompleted(6)" >
+    <Objective QuestName="Bounty on Garrick Padfoot" QuestId="6" Type="CollectItem" ItemId="182" CollectCount="1"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 3904: Milly's Harvest -->
+  <While Condition="HasQuest(3904) &amp;&amp; !IsQuestCompleted(3904)" >
+    <Objective QuestName="Milly's Harvest" QuestId="3904" Type="CollectItem" ItemId="11119" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Milly's Harvest -->
+  <While Condition="HasQuest(3904) &amp;&amp; IsQuestCompleted(3904)" >
+    <TurnIn QuestName="Milly's Harvest" QuestId="3904" TurnInName="Milly Osworth" TurnInId="9296"/>
+  </While>
+  <!-- End Turn In: Milly's Harvest -->
+
+  <!-- Grape Manifest -->
+  <While Condition="!HasQuest(3905) &amp;&amp; !IsQuestCompleted(3905)" >
+    <PickUp QuestName="Grape Manifest" QuestId="3905" GiverName="Milly Osworth" GiverId="9296"/>
+  </While>
+  <!-- End Grape Manifest -->
+
+  <!-- Turn In: Bounty on Garrick Padfoot -->
+  <While Condition="HasQuest(6) &amp;&amp; IsQuestCompleted(6)" >
+    <TurnIn QuestName="Bounty on Garrick Padfoot" QuestId="6" TurnInName="Deputy Willem" TurnInId="823"/>
+  </While>
+  <!-- End Turn In: Bounty on Garrick Padfoot -->
+
+  <!-- Turn In: Skirmish at Echo Ridge -->
+  <While Condition="HasQuest(21) &amp;&amp; IsQuestCompleted(21)" >
+    <TurnIn QuestName="Skirmish at Echo Ridge" QuestId="21" TurnInName="Marshal McBride" TurnInId="197"/>
+  </While>
+  <!-- End Turn In: Skirmish at Echo Ridge -->
+
+  <!-- Report to Goldshire -->
+  <While Condition="!HasQuest(54) &amp;&amp; !IsQuestCompleted(54)" >
+    <PickUp QuestName="Report to Goldshire" QuestId="54" GiverName="Marshal McBride" GiverId="197"/>
+  </While>
+  <!-- End Report to Goldshire -->
+
+  <!-- Turn In: Grape Manifest -->
+  <While Condition="HasQuest(3905) &amp;&amp; IsQuestCompleted(3905)" >
+    <If Condition="(HasQuest(3905))">
+      <RunTo X="-8914.47" Y="-136" Z="80.44"/>
+      <RunTo X="-8904.59" Y="-157.81" Z="81.94"/>
+      <RunTo X="-8913.05" Y="-178.79" Z="81.94"/>
+      <RunTo X="-8901.26" Y="-186.31" Z="82.64"/>
+      <RunTo X="-8894.55" Y="-184.85" Z="89.08"/>
+      <RunTo X="-8887.27" Y="-179.84" Z="96.72"/>
+      <RunTo X="-8885.30" Y="-169.59" Z="97.69"/>
+      <RunTo X="-8897.29" Y="-159.96" Z="97.69"/>
+      <RunTo X="-8905.64" Y="-163.52" Z="97.69"/>
+      <RunTo X="-8909.27" Y="-177.11" Z="97.69"/>
+      <RunTo X="-8902.38" Y="-185.38" Z="97.68"/>
+      <RunTo X="-8892.38" Y="-184.52" Z="106.69"/>
+      <RunTo X="-8885.56" Y="-176.15" Z="113.16"/>
+      <RunTo X="-8891.05" Y="-173.79" Z="113.16"/>
+    </If>
+    <TurnIn QuestName="Grape Manifest" QuestId="3905" TurnInName="Brother Neals" TurnInId="952"/>
+  </While>
+  <!-- End Turn In: Grape Manifest -->
+
+  <If Condition="(Me.Class == WoWClass.Priest) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- In Favor of the Light -->
+    <While Condition="!HasQuest(5623) &amp;&amp; !IsQuestCompleted(5623)" >
+      <PickUp QuestName="In Favor of the Light" QuestId="5623" GiverName="Priestess Anetta" GiverId="375"/>
+    </While>
+    <!-- End In Favor of the Light -->
+  </If>
+
+  <!-- Rest and Relaxation -->
+  <While Condition="!HasQuest(2158) &amp;&amp; !IsQuestCompleted(2158)" >
+    <If Condition="(HasQuest(54))">
+      <RunTo X="-8892.38" Y="-184.52" Z="106.69"/>
+      <RunTo X="-8902.38" Y="-185.38" Z="97.68"/>
+      <RunTo X="-8909.27" Y="-177.11" Z="97.69"/>
+      <RunTo X="-8905.64" Y="-163.52" Z="97.69"/>
+      <RunTo X="-8897.29" Y="-159.96" Z="97.69"/>
+      <RunTo X="-8885.30" Y="-169.59" Z="97.69"/>
+      <RunTo X="-8887.27" Y="-179.84" Z="96.72"/>
+      <RunTo X="-8894.55" Y="-184.85" Z="89.08"/>
+      <RunTo X="-8901.26" Y="-186.31" Z="82.64"/>
+      <RunTo X="-8913.05" Y="-178.79" Z="81.94"/>
+      <RunTo X="-8904.59" Y="-157.81" Z="81.94"/>
+      <RunTo X="-8914.47" Y="-136" Z="80.44"/>
+    </If>
+    <PickUp QuestName="Rest and Relaxation" QuestId="2158" GiverName="Falkhaan Isenstrider" GiverId="6774"/>
+  </While>
+  <!-- End Rest and Relaxation -->
+
+  <!-- Turn In: Report to Goldshire -->
+  <While Condition="HasQuest(54) &amp;&amp; IsQuestCompleted(54)" >
+    <TurnIn QuestName="Report to Goldshire" QuestId="54" TurnInName="Marshal Dughan" TurnInId="240"/>
+  </While>
+  <!-- End Turn In: Report to Goldshire -->
+
+  <!-- The Fargodeep Mine -->
+  <While Condition="!HasQuest(62) &amp;&amp; !IsQuestCompleted(62)" >
+    <PickUp QuestName="The Fargodeep Mine" QuestId="62" GiverName="Marshal Dughan" GiverId="240"/>
+  </While>
+  <!-- End The Fargodeep Mine -->
+
+  <!-- Kobold Candles -->
+  <While Condition="!HasQuest(60) &amp;&amp; !IsQuestCompleted(60)" >
+    <PickUp QuestName="Kobold Candles" QuestId="60" GiverName="William Pestle" GiverId="253"/>
+  </While>
+  <!-- End Kobold Candles -->
+
+  <!-- Turn In: Rest and Relaxation -->
+  <While Condition="HasQuest(2158) &amp;&amp; IsQuestCompleted(2158)" >
+    <TurnIn QuestName="Rest and Relaxation" QuestId="2158" TurnInName="Innkeeper Farley" TurnInId="295"/>
+  </While>
+  <!-- End Turn In: Rest and Relaxation -->
+
+  <If Condition="(Me.Class == WoWClass.Priest) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: In Favor of the Light -->
+    <While Condition="HasQuest(5623) &amp;&amp; IsQuestCompleted(5623)" >
+      <TurnIn QuestName="In Favor of the Light" QuestId="5623" TurnInName="Priestess Josetta" TurnInId="377"/>
+    </While>
+    <!-- End Turn In: In Favor of the Light -->
+    
+    <!-- Garments of the Light -->
+    <While Condition="!HasQuest(5624) &amp;&amp; !IsQuestCompleted(5624)" >
+      <PickUp QuestName="Garments of the Light" QuestId="5624" GiverName="Priestess Josetta" GiverId="377"/>
+    </While>
+    <!-- End Garments of the Light -->
+    
+    <!-- Turn In: Garments of the Light -->
+    <While Condition="HasQuest(5624) &amp;&amp; IsQuestCompleted(5624)" >
+      <TurnIn QuestName="Garments of the Light" QuestId="5624" TurnInName="Priestess Josetta" TurnInId="377"/>
+    </While>
+    <!-- End Turn In: Garments of the Light -->
+  </If>
+
+  <!-- Gold Dust Exchange -->
+  <While Condition="!HasQuest(47) &amp;&amp; !IsQuestCompleted(47)" >
+    <PickUp QuestName="Gold Dust Exchange" QuestId="47" GiverName="Remy &quot;Two Times&quot;" GiverId="241"/>
+  </While>
+  <!-- End Gold Dust Exchange -->
+
+  <!-- Lost Necklace -->
+  <While Condition="!HasQuest(85) &amp;&amp; !IsQuestCompleted(85)" >
+    <PickUp QuestName="Lost Necklace" QuestId="85" GiverName="&quot;Auntie&quot; Bernice Stonefield" GiverId="246"/>
+  </While>
+  <!-- End Lost Necklace -->
+
+  <!-- Turn In: Lost Necklace -->
+  <While Condition="HasQuest(85) &amp;&amp; IsQuestCompleted(85)" >
+    <TurnIn QuestName="Lost Necklace" QuestId="85" TurnInName="Billy Maclure" TurnInId="247"/>
+  </While>
+  <!-- End Turn In: Lost Necklace -->
+
+  <!-- Pie for Billy -->
+  <While Condition="!HasQuest(86) &amp;&amp; !IsQuestCompleted(86)" >
+    <PickUp QuestName="Pie for Billy" QuestId="86" GiverName="Billy Maclure" GiverId="247"/>
+  </While>
+  <!-- End Pie for Billy -->
+
+  <!-- Young Lovers -->
+  <While Condition="!HasQuest(106) &amp;&amp; !IsQuestCompleted(106)" >
+    <PickUp QuestName="Young Lovers" QuestId="106" GiverName="Maybell Maclure" GiverId="251"/>
+  </While>
+  <!-- End Young Lovers -->
+
+  <!-- Objective for Quest 86: Pie for Billy -->
+  <While Condition="HasQuest(86) &amp;&amp; !IsQuestCompleted(86)" >
+    <Objective QuestName="Pie for Billy" QuestId="86" Type="CollectItem" ItemId="769" CollectCount="4"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Pie for Billy -->
+  <While Condition="HasQuest(86) &amp;&amp; IsQuestCompleted(86)" >
+    <TurnIn QuestName="Pie for Billy" QuestId="86" TurnInName="&quot;Auntie&quot; Bernice Stonefield" TurnInId="246"/>
+  </While>
+  <!-- End Turn In: Pie for Billy -->
+
+  <!-- Back to Billy -->
+  <While Condition="!HasQuest(84) &amp;&amp; !IsQuestCompleted(84)" >
+    <PickUp QuestName="Back to Billy" QuestId="84" GiverName="&quot;Auntie&quot; Bernice Stonefield" GiverId="246"/>
+  </While>
+  <!-- End Back to Billy -->
+
+  <!-- Turn In: Young Lovers -->
+  <While Condition="HasQuest(106) &amp;&amp; IsQuestCompleted(106)" >
+    <TurnIn QuestName="Young Lovers" QuestId="106" TurnInName="Tommy Joe Stonefield" TurnInId="252"/>
+  </While>
+  <!-- End Turn In: Young Lovers -->
+
+  <!-- Speak with Gramma -->
+  <While Condition="!HasQuest(111) &amp;&amp; !IsQuestCompleted(111)" >
+    <PickUp QuestName="Speak with Gramma" QuestId="111" GiverName="Tommy Joe Stonefield" GiverId="252"/>
+  </While>
+  <!-- End Speak with Gramma -->
+
+  <!-- Turn In: Speak with Gramma -->
+  <While Condition="HasQuest(111) &amp;&amp; IsQuestCompleted(111)" >
+    <TurnIn QuestName="Speak with Gramma" QuestId="111" TurnInName="Gramma Stonefield" TurnInId="248"/>
+  </While>
+  <!-- End Turn In: Speak with Gramma -->
+
+  <!-- Note to William -->
+  <While Condition="!HasQuest(107) &amp;&amp; !IsQuestCompleted(107)" >
+    <PickUp QuestName="Note to William" QuestId="107" GiverName="Gramma Stonefield" GiverId="248"/>
+  </While>
+  <!-- End Note to William -->
+
+  <!-- Turn In: Back to Billy -->
+  <While Condition="HasQuest(84) &amp;&amp; IsQuestCompleted(84)" >
+    <TurnIn QuestName="Back to Billy" QuestId="84" TurnInName="Billy Maclure" TurnInId="247"/>
+  </While>
+  <!-- End Turn In: Back to Billy -->
+
+  <!-- Goldtooth -->
+  <While Condition="!HasQuest(87) &amp;&amp; !IsQuestCompleted(87)" >
+    <PickUp QuestName="Goldtooth" QuestId="87" GiverName="Billy Maclure" GiverId="247"/>
+  </While>
+  <!-- End Goldtooth -->
+
+  <!-- The Fargodeep Mine -->
+  <If Condition="(HasQuest(62))">
+      <RunTo X="-9842.022" Y="129.2825" Z="4.8419213" QuestId="62"/>
+  </If>
+  <!-- End The Fargodeep Mine -->
+
+  <!-- Objective for Quest 87: Goldtooth -->
+  <While Condition="HasQuest(87) &amp;&amp; !IsQuestCompleted(87)" >
+    <Objective QuestName="Goldtooth" QuestId="87" Type="CollectItem" ItemId="981" CollectCount="1"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 47: Gold Dust Exchange -->
+  <While Condition="HasQuest(47) &amp;&amp; !IsQuestCompleted(47)" >
+    <Objective QuestName="Gold Dust Exchange" QuestId="47" Type="CollectItem" ItemId="773" CollectCount="10"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 60: Kobold Candles -->
+  <While Condition="HasQuest(60) &amp;&amp; !IsQuestCompleted(60)" >
+    <Objective QuestName="Kobold Candles" QuestId="60" Type="CollectItem" ItemId="772" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Princess Must Die! -->
+  <While Condition="!HasQuest(88) &amp;&amp; !IsQuestCompleted(88)" >
+    <PickUp QuestName="Princess Must Die!" QuestId="88" GiverName="Ma Stonefield" GiverId="244"/>
+  </While>
+  <!-- End Princess Must Die! -->
+
+  <!-- Turn In: Goldtooth -->
+  <While Condition="HasQuest(87) &amp;&amp; IsQuestCompleted(87)" >
+    <TurnIn QuestName="Goldtooth" QuestId="87" TurnInName="&quot;Auntie&quot; Bernice Stonefield" TurnInId="246"/>
+  </While>
+  <!-- End Turn In: Goldtooth -->
+
+  <!-- Turn In: Gold Dust Exchange -->
+  <While Condition="HasQuest(47) &amp;&amp; IsQuestCompleted(47)" >
+    <TurnIn QuestName="Gold Dust Exchange" QuestId="47" TurnInName="Remy &quot;Two Times&quot;" TurnInId="241"/>
+  </While>
+  <!-- End Turn In: Gold Dust Exchange -->
+
+  <!-- A Fishy Peril -->
+  <While Condition="!HasQuest(40) &amp;&amp; !IsQuestCompleted(40)" >
+    <PickUp QuestName="A Fishy Peril" QuestId="40" GiverName="Remy &quot;Two Times&quot;" GiverId="241"/>
+  </While>
+  <!-- End A Fishy Peril -->
+
+  <!-- Turn In: A Fishy Peril -->
+  <While Condition="HasQuest(40) &amp;&amp; IsQuestCompleted(40)" >
+    <TurnIn QuestName="A Fishy Peril" QuestId="40" TurnInName="Marshal Dughan" TurnInId="240"/>
+  </While>
+  <!-- End Turn In: A Fishy Peril -->
+
+  <!-- Further Concerns -->
+  <While Condition="!HasQuest(35) &amp;&amp; !IsQuestCompleted(35)" >
+    <PickUp QuestName="Further Concerns" QuestId="35" GiverName="Marshal Dughan" GiverId="240"/>
+  </While>
+  <!-- End Further Concerns -->
+
+  <!-- Turn In: The Fargodeep Mine -->
+  <While Condition="HasQuest(62) &amp;&amp; IsQuestCompleted(62)" >
+    <TurnIn QuestName="The Fargodeep Mine" QuestId="62" TurnInName="Marshal Dughan" TurnInId="240"/>
+  </While>
+  <!-- End Turn In: The Fargodeep Mine -->
+
+  <!-- The Jasperlode Mine -->
+  <While Condition="!HasQuest(76) &amp;&amp; !IsQuestCompleted(76)" >
+    <PickUp QuestName="The Jasperlode Mine" QuestId="76" GiverName="Marshal Dughan" GiverId="240"/>
+  </While>
+  <!-- End The Jasperlode Mine -->
+
+  <!-- Turn In: Kobold Candles -->
+  <While Condition="HasQuest(60) &amp;&amp; IsQuestCompleted(60)" >
+    <TurnIn QuestName="Kobold Candles" QuestId="60" TurnInName="William Pestle" TurnInId="253"/>
+  </While>
+  <!-- End Turn In: Kobold Candles -->
+
+  <!-- Shipment to Stormwind -->
+  <While Condition="!HasQuest(61) &amp;&amp; !IsQuestCompleted(61)" >
+    <PickUp QuestName="Shipment to Stormwind" QuestId="61" GiverName="William Pestle" GiverId="253"/>
+  </While>
+  <!-- End Shipment to Stormwind -->
+
+  <!-- Turn In: Note to William -->
+  <While Condition="HasQuest(107) &amp;&amp; IsQuestCompleted(107)" >
+    <TurnIn QuestName="Note to William" QuestId="107" TurnInName="William Pestle" TurnInId="253"/>
+  </While>
+  <!-- End Turn In: Note to William -->
+
+  <!-- Collecting Kelp -->
+  <While Condition="!HasQuest(112) &amp;&amp; !IsQuestCompleted(112)" >
+    <PickUp QuestName="Collecting Kelp" QuestId="112" GiverName="William Pestle" GiverId="253"/>
+  </While>
+  <!-- End Collecting Kelp -->
+
+  <!-- Objective for Quest 112: Collecting Kelp -->
+  <While Condition="HasQuest(112) &amp;&amp; !IsQuestCompleted(112)" >
+    <Objective QuestName="Collecting Kelp" QuestId="112" Type="CollectItem" ItemId="1256" CollectCount="4"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 46: Bounty on Murlocs -->
+  <While Condition="HasQuest(46) &amp;&amp; !IsQuestCompleted(46)" >
+    <Objective QuestName="Bounty on Murlocs" QuestId="46" Type="CollectItem" ItemId="780" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Further Concerns -->
+  <While Condition="HasQuest(35) &amp;&amp; IsQuestCompleted(35)" >
+    <TurnIn QuestName="Further Concerns" QuestId="35" TurnInName="Guard Thomas" TurnInId="261"/>
+  </While>
+  <!-- End Turn In: Further Concerns -->
+
+  <!-- Find the Lost Guards -->
+  <While Condition="!HasQuest(37) &amp;&amp; !IsQuestCompleted(37)" >
+    <PickUp QuestName="Find the Lost Guards" QuestId="37" GiverName="Guard Thomas" GiverId="261"/>
+  </While>
+  <!-- End Find the Lost Guards -->
+
+  <!-- Protect the Frontier -->
+  <While Condition="!HasQuest(52) &amp;&amp; !IsQuestCompleted(52)" >
+    <PickUp QuestName="Protect the Frontier" QuestId="52" GiverName="Guard Thomas" GiverId="261"/>
+  </While>
+  <!-- End Protect the Frontier -->
+
+  <!-- Bounty on Murlocs -->
+  <While Condition="!HasQuest(46) &amp;&amp; !IsQuestCompleted(46)" >
+    <PickUp QuestName="Bounty on Murlocs" QuestId="46" GiverName="Guard Thomas" GiverId="261"/>
+  </While>
+  <!-- End Bounty on Murlocs -->
+
+  <!-- Turn In: Find the Lost Guards -->
+  <While Condition="HasQuest(37) &amp;&amp; IsQuestCompleted(37)" >
+    <TurnIn QuestName="Find the Lost Guards" QuestId="37" TurnInName="Object_55" TurnInType="Object" TurnInId="55"/>
+  </While>
+  <!-- End Turn In: Find the Lost Guards -->
+
+  <!-- Discover Rolf's Fate -->
+  <While Condition="!HasQuest(45) &amp;&amp; !IsQuestCompleted(45)" >
+    <PickUp QuestName="Discover Rolf's Fate" QuestId="45" GiverType="Object" GiverId="55" X="-9335.764" Y="-986.4834" Z="67.69179"/>
+  </While>
+  <!-- End Discover Rolf's Fate -->
+
+  <!-- A Bundle of Trouble -->
+  <While Condition="!HasQuest(5545) &amp;&amp; !IsQuestCompleted(5545)" >
+    <PickUp QuestName="A Bundle of Trouble" QuestId="5545" GiverName="Supervisor Raelen" GiverId="10616"/>
+  </While>
+  <!-- End A Bundle of Trouble -->
+
+  <!-- Turn In: Discover Rolf's Fate -->
+  <While Condition="HasQuest(45) &amp;&amp; IsQuestCompleted(45)" >
+    <TurnIn QuestName="Discover Rolf's Fate" QuestId="45" TurnInName="Object_56" TurnInType="Object" TurnInId="56"/>
+  </While>
+  <!-- End Turn In: Discover Rolf's Fate -->
+
+  <!-- Report to Thomas -->
+  <While Condition="!HasQuest(71) &amp;&amp; !IsQuestCompleted(71)" >
+    <PickUp QuestName="Report to Thomas" QuestId="71" GiverType="Object" GiverId="56" X="-9224.19" Y="-1234.33" Z="73.4313"/>
+  </While>
+  <!-- End Report to Thomas -->
+
+  <!-- Objective for Quest 5545: A Bundle of Trouble -->
+  <While Condition="HasQuest(5545) &amp;&amp; !IsQuestCompleted(5545)" >
+    <Objective QuestName="A Bundle of Trouble" QuestId="5545" Type="CollectItem" ItemId="13872" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: A Bundle of Trouble -->
+  <While Condition="HasQuest(5545) &amp;&amp; IsQuestCompleted(5545)" >
+    <TurnIn QuestName="A Bundle of Trouble" QuestId="5545" TurnInName="Supervisor Raelen" TurnInId="10616"/>
+  </While>
+  <!-- End Turn In: A Bundle of Trouble -->
+
+  <!-- Objective for Quest 52: Protect the Frontier -->
+  <While Condition="HasQuest(52) &amp;&amp; !IsQuestCompleted(52)" >
+    <Objective QuestName="Protect the Frontier" QuestId="52" Type="KillMob" MobId="822" KillCount="5"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 52: Protect the Frontier -->
+  <While Condition="HasQuest(52) &amp;&amp; !IsQuestCompleted(52)" >
+    <Objective QuestName="Protect the Frontier" QuestId="52" Type="KillMob" MobId="118" KillCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Red Linen Goods -->
+  <While Condition="!HasQuest(83) &amp;&amp; !IsQuestCompleted(83)" >
+    <PickUp QuestName="Red Linen Goods" QuestId="83" GiverName="Sara Timberlain" GiverId="278"/>
+  </While>
+  <!-- End Red Linen Goods -->
+
+  <!-- Turn In: Protect the Frontier -->
+  <While Condition="HasQuest(52) &amp;&amp; IsQuestCompleted(52)" >
+    <TurnIn QuestName="Protect the Frontier" QuestId="52" TurnInName="Guard Thomas" TurnInId="261"/>
+  </While>
+  <!-- End Turn In: Protect the Frontier -->
+
+  <!-- Turn In: Report to Thomas -->
+  <While Condition="HasQuest(71) &amp;&amp; IsQuestCompleted(71)" >
+    <TurnIn QuestName="Report to Thomas" QuestId="71" TurnInName="Guard Thomas" TurnInId="261"/>
+  </While>
+  <!-- End Turn In: Report to Thomas -->
+
+  <!-- Deliver Thomas' Report -->
+  <While Condition="!HasQuest(39) &amp;&amp; !IsQuestCompleted(39)" >
+    <PickUp QuestName="Deliver Thomas' Report" QuestId="39" GiverName="Guard Thomas" GiverId="261"/>
+  </While>
+  <!-- End Deliver Thomas' Report -->
+
+  <!-- Report to Gryan Stoutmantle -->
+  <While Condition="!HasQuest(109) &amp;&amp; !IsQuestCompleted(109)" >
+    <PickUp QuestName="Report to Gryan Stoutmantle" QuestId="109" GiverName="Guard Thomas" GiverId="261"/>
+  </While>
+  <!-- End Report to Gryan Stoutmantle -->
+
+  <!-- Objective for Quest 83: Red Linen Goods -->
+  <While Condition="HasQuest(83) &amp;&amp; !IsQuestCompleted(83)" >
+    <Objective QuestName="Red Linen Goods" QuestId="83" Type="CollectItem" ItemId="1019" CollectCount="6"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Farm the quest-start item, use it, and accept Furlbrow's Deed. -->
+<While Condition="!HasQuest(184) &amp;&amp; !IsQuestCompleted(184)">
+  
+  <!-- Grind for the item if we don't have it -->
+  <While Condition="GetItemCount(1972) == 0">
+    <SetGrindArea>
+      <GrindArea>
+        <MobIds>
+          <MobId>116</MobId>
+          <MobId>474</MobId>
+          <MobId>94</MobId>
+          <MobId>38</MobId>
+        </MobIds>
+        <Hotspots>
+          <Hotspot X="-9257.414" Y="-1041.6108" Z="67.88233" />
+          <Hotspot X="-9216.808" Y="-1054.8779" Z="76.86484" />
+          <Hotspot X="-9164.78" Y="-1083.9153" Z="71.4084" />
+          <Hotspot X="-9772.047" Y="-936.368" Z="39.19861" />
+          <Hotspot X="-9773.543" Y="-903.7185" Z="39.80902" />
+          <Hotspot X="-9779.0" Y="-879.0" Z="39.0" />
+          <Hotspot X="-9810.0" Y="-910.0" Z="39.0" />
+          <Hotspot X="-9748.0" Y="-925.0" Z="39.0" />
+        </Hotspots>
+      </GrindArea>
+    </SetGrindArea>
+    <GrindTo Condition="GetItemCount(1972) &gt; 0" GoalText="Farming for Furlbrow's Deed (Item 1972)" />
+  </While>
+
+  <!-- Once we have the item, pick up the quest directly from it -->
+  <If Condition="GetItemCount(1972) &gt; 0">
+    <PickUp QuestName="Furlbrow's Deed" QuestId="184" GiverType="Item" GiverId="1972" />
+  </If>
+
+</While>
+<!-- End Furlbrow's Deed -->
+
+  <!-- Turn In: Red Linen Goods -->
+  <While Condition="HasQuest(83) &amp;&amp; IsQuestCompleted(83)" >
+    <TurnIn QuestName="Red Linen Goods" QuestId="83" TurnInName="Sara Timberlain" TurnInId="278"/>
+  </While>
+  <!-- End Turn In: Red Linen Goods -->
+
+  <!-- Turn In: Bounty on Murlocs -->
+  <While Condition="HasQuest(46) &amp;&amp; IsQuestCompleted(46)" >
+    <TurnIn QuestName="Bounty on Murlocs" QuestId="46" TurnInName="Guard Thomas" TurnInId="261"/>
+  </While>
+  <!-- End Turn In: Bounty on Murlocs -->
+
+  <!-- Turn In: Collecting Kelp -->
+  <While Condition="HasQuest(112) &amp;&amp; IsQuestCompleted(112)" >
+    <TurnIn QuestName="Collecting Kelp" QuestId="112" TurnInName="William Pestle" TurnInId="253"/>
+  </While>
+  <!-- End Turn In: Collecting Kelp -->
+
+  <!-- The Escape -->
+  <While Condition="!HasQuest(114) &amp;&amp; !IsQuestCompleted(114)" >
+    <PickUp QuestName="The Escape" QuestId="114" GiverName="William Pestle" GiverId="253"/>
+  </While>
+  <!-- End The Escape -->
+
+  <!-- Turn In: The Escape -->
+  <While Condition="HasQuest(114) &amp;&amp; IsQuestCompleted(114)" >
+    <TurnIn QuestName="The Escape" QuestId="114" TurnInName="Maybell Maclure" TurnInId="251"/>
+  </While>
+  <!-- End Turn In: The Escape -->
+
+  <!-- Turn In: Deliver Thomas' Report -->
+  <While Condition="HasQuest(39) &amp;&amp; IsQuestCompleted(39)" >
+    <TurnIn QuestName="Deliver Thomas' Report" QuestId="39" TurnInName="Marshal Dughan" TurnInId="240"/>
+  </While>
+  <!-- End Turn In: Deliver Thomas' Report -->
+
+  <!-- The Jasperlode Mine -->
+  <While Condition="HasQuest(76) &amp;&amp; !IsQuestCompleted(76)" >
+    <If Condition="(HasQuest(76))">
+      <RunTo X="-9086.532" Y="-557.8581" Z="60.70144" QuestId="76"/>
+    </If>
+   </While>
+  <!-- End The Jasperlode Mine -->
+  
+  <!-- Turn In: The Jasperlode Mine -->
+  <While Condition="HasQuest(76) &amp;&amp; IsQuestCompleted(76)" >
+    <TurnIn QuestName="The Jasperlode Mine" QuestId="76" TurnInName="Marshal Dughan" TurnInId="240"/>
+  </While>
+  <!-- End Turn In: The Jasperlode Mine -->
+
+  <!-- Westbrook Garrison Needs Help! -->
+  <While Condition="!HasQuest(239) &amp;&amp; !IsQuestCompleted(239)" >
+    <PickUp QuestName="Westbrook Garrison Needs Help!" QuestId="239" GiverName="Marshal Dughan" GiverId="240"/>
+  </While>
+  <!-- End Westbrook Garrison Needs Help! -->
+
+  <!-- Cloth and Leather Armor -->
+  <While Condition="!HasQuest(59) &amp;&amp; !IsQuestCompleted(59)" >
+    <PickUp QuestName="Cloth and Leather Armor" QuestId="59" GiverName="Marshal Dughan" GiverId="240"/>
+  </While>
+  <!-- End Cloth and Leather Armor -->
+
+  <!-- Elmore's Task -->
+  <While Condition="!HasQuest(1097) &amp;&amp; !IsQuestCompleted(1097)" >
+    <PickUp QuestName="Elmore's Task" QuestId="1097" GiverName="Smith Argus" GiverId="514"/>
+  </While>
+  <!-- End Elmore's Task -->
+
+  <!-- Turn In: Cloth and Leather Armor -->
+  <While Condition="HasQuest(59) &amp;&amp; IsQuestCompleted(59)" >
+    <TurnIn QuestName="Cloth and Leather Armor" QuestId="59" TurnInName="Sara Timberlain" TurnInId="278"/>
+  </While>
+  <!-- End Turn In: Cloth and Leather Armor -->
+
+  <If Condition="(Me.Class == WoWClass.Warrior) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- A Warrior's Training -->
+    <While Condition="!HasQuest(1638) &amp;&amp; !IsQuestCompleted(1638)" >
+      <PickUp QuestName="A Warrior's Training" QuestId="1638" GiverName="Lyria Du Lac" GiverId="913"/>
+    </While>
+    <!-- End A Warrior's Training -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Priest) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Desperate Prayer -->
+    <While Condition="!HasQuest(5635) &amp;&amp; !IsQuestCompleted(5635)" >
+      <PickUp QuestName="Desperate Prayer" QuestId="5635" GiverName="Priestess Josetta" GiverId="377"/>
+    </While>
+    <!-- End Desperate Prayer -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Warlock) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Gakin's Summons -->
+    <While Condition="!HasQuest(1685) &amp;&amp; !IsQuestCompleted(1685)" >
+      <PickUp QuestName="Gakin's Summons" QuestId="1685" GiverName="Remen Marcot" GiverId="6121"/>
+    </While>
+    <!-- End Gakin's Summons -->
+  </If>
+
+  <!-- Objective for Quest 88: Princess Must Die! -->
+  <While Condition="HasQuest(88) &amp;&amp; !IsQuestCompleted(88)" >
+    <Objective QuestName="Princess Must Die!" QuestId="88" Type="CollectItem" ItemId="1006" CollectCount="1"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Princess Must Die! -->
+  <While Condition="HasQuest(88) &amp;&amp; IsQuestCompleted(88)" >
+    <TurnIn QuestName="Princess Must Die!" QuestId="88" TurnInName="Ma Stonefield" TurnInId="244"/>
+  </While>
+  <!-- End Turn In: Princess Must Die! -->
+
+  <!-- Turn In: Westbrook Garrison Needs Help! -->
+  <While Condition="HasQuest(239) &amp;&amp; IsQuestCompleted(239)" >
+    <TurnIn QuestName="Westbrook Garrison Needs Help!" QuestId="239" TurnInName="Deputy Rainer" TurnInId="963"/>
+  </While>
+  <!-- End Turn In: Westbrook Garrison Needs Help! -->
+
+  <!-- Riverpaw Gnoll Bounty -->
+  <While Condition="!HasQuest(11) &amp;&amp; !IsQuestCompleted(11)" >
+    <PickUp QuestName="Riverpaw Gnoll Bounty" QuestId="11" GiverName="Deputy Rainer" GiverId="963"/>
+  </While>
+  <!-- End Riverpaw Gnoll Bounty -->
+
+  <!-- Wanted: Hogger -->
+  <While Condition="!HasQuest(176) &amp;&amp; !IsQuestCompleted(176)" >
+    <PickUp QuestName="Wanted: Hogger" QuestId="176" GiverType="Object" GiverId="68" X="-9668.23" Y="683.391" Z="36.3331"/>
+  </While>
+  <!-- End Wanted: Hogger -->
+
+  <!-- Objective for Quest 11: Riverpaw Gnoll Bounty -->
+  <While Condition="HasQuest(11) &amp;&amp; !IsQuestCompleted(11)" >
+    <Objective QuestName="Riverpaw Gnoll Bounty" QuestId="11" Type="CollectItem" ItemId="782" CollectCount="8"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Objective for Quest 176: Wanted: Hogger -->
+  <While Condition="HasQuest(176) &amp;&amp; !IsQuestCompleted(176)" >
+    <Objective QuestName="Wanted: Hogger" QuestId="176" Type="CollectItem" ItemId="1931" CollectCount="1"/>
+  </While>
+  <!-- End Objective -->
+
+  <!-- Turn In: Riverpaw Gnoll Bounty -->
+  <While Condition="HasQuest(11) &amp;&amp; IsQuestCompleted(11)" >
+    <TurnIn QuestName="Riverpaw Gnoll Bounty" QuestId="11" TurnInName="Deputy Rainer" TurnInId="963"/>
+  </While>
+  <!-- End Turn In: Riverpaw Gnoll Bounty -->
+
+  <!-- Turn In: Wanted: Hogger -->
+  <While Condition="HasQuest(176) &amp;&amp; IsQuestCompleted(176)" >
+    <TurnIn QuestName="Wanted: Hogger" QuestId="176" TurnInName="Marshal Dughan" TurnInId="240"/>
+  </While>
+  <!-- End Turn In: Wanted: Hogger -->
+
+  <!-- Turn In: Furlbrow's Deed -->
+  <While Condition="HasQuest(184) &amp;&amp; IsQuestCompleted(184)" >
+    <TurnIn QuestName="Furlbrow's Deed" QuestId="184" TurnInName="Farmer Furlbrow" TurnInId="237"/>
+  </While>
+  <!-- End Turn In: Furlbrow's Deed -->
+
+  <!-- Westfall Stew -->
+  <While Condition="!HasQuest(36) &amp;&amp; !IsQuestCompleted(36)" >
+    <PickUp QuestName="Westfall Stew" QuestId="36" GiverName="Verna Furlbrow" GiverId="238"/>
+  </While>
+  <!-- End Westfall Stew -->
+
+  <!-- Turn In: Westfall Stew -->
+  <While Condition="HasQuest(36) &amp;&amp; IsQuestCompleted(36)" >
+    <TurnIn QuestName="Westfall Stew" QuestId="36" TurnInName="Salma Saldean" TurnInId="235"/>
+  </While>
+  <!-- End Turn In: Westfall Stew -->
+
+  <!-- Turn In: Report to Gryan Stoutmantle -->
+  <While Condition="HasQuest(109) &amp;&amp; IsQuestCompleted(109)" >
+    <TurnIn QuestName="Report to Gryan Stoutmantle" QuestId="109" TurnInName="Gryan Stoutmantle" TurnInId="234"/>
+  </While>
+  <!-- End Turn In: Report to Gryan Stoutmantle -->
+
+  <If Condition="(Me.Race == WoWRace.Human)">
+    <!-- A Swift Message -->
+    <While Condition="!HasQuest(6181) &amp;&amp; !IsQuestCompleted(6181)" >
+      <PickUp QuestName="A Swift Message" QuestId="6181" GiverName="Quartermaster Lewis" GiverId="491"/>
+    </While>
+    <!-- End A Swift Message -->
+    
+    <!-- Turn In: A Swift Message -->
+    <While Condition="HasQuest(6181) &amp;&amp; IsQuestCompleted(6181)" >
+      <TurnIn QuestName="A Swift Message" QuestId="6181" TurnInName="Thor" TurnInId="523"/>
+    </While>
+    <!-- End Turn In: A Swift Message -->
+    
+    <!-- Continue to Stormwind -->
+    <While Condition="!HasQuest(6281) &amp;&amp; !IsQuestCompleted(6281)" >
+      <PickUp QuestName="Continue to Stormwind" QuestId="6281" GiverName="Thor" GiverId="523"/>
+    </While>
+    <!-- End Continue to Stormwind -->
+  </If>
+
+  <!-- Turn In: Shipment to Stormwind -->
+  <While Condition="HasQuest(61) &amp;&amp; IsQuestCompleted(61)" >
+    <TurnIn QuestName="Shipment to Stormwind" QuestId="61" TurnInName="Morgan Pestle" TurnInId="279"/>
+  </While>
+  <!-- End Turn In: Shipment to Stormwind -->
+
+  <If Condition="(Me.Class == WoWClass.Warlock) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: Gakin's Summons -->
+    <While Condition="HasQuest(1685) &amp;&amp; IsQuestCompleted(1685)" >
+      <TurnIn QuestName="Gakin's Summons" QuestId="1685" TurnInName="Gakin the Darkbinder" TurnInId="6122"/>
+    </While>
+    <!-- End Turn In: Gakin's Summons -->
+    
+    <!-- Surena Caledon -->
+    <While Condition="!HasQuest(1688) &amp;&amp; !IsQuestCompleted(1688)" >
+      <PickUp QuestName="Surena Caledon" QuestId="1688" GiverName="Gakin the Darkbinder" GiverId="6122"/>
+    </While>
+    <!-- End Surena Caledon -->
+    
+    <!-- Objective for Quest 1688: Surena Caledon -->
+    <While Condition="HasQuest(1688) &amp;&amp; !IsQuestCompleted(1688)" >
+      <Objective QuestName="Surena Caledon" QuestId="1688" Type="CollectItem" ItemId="6810" CollectCount="1"/>
+    </While>
+    <!-- End Objective -->
+    
+    <!-- Turn In: Surena Caledon -->
+    <While Condition="HasQuest(1688) &amp;&amp; IsQuestCompleted(1688)" >
+      <TurnIn QuestName="Surena Caledon" QuestId="1688" TurnInName="Gakin the Darkbinder" TurnInId="6122"/>
+    </While>
+    <!-- End Turn In: Surena Caledon -->
+    
+    <!-- The Binding -->
+    <While Condition="!HasQuest(1689) &amp;&amp; !IsQuestCompleted(1689)" >
+      <PickUp QuestName="The Binding" QuestId="1689" GiverName="Gakin the Darkbinder" GiverId="6122"/>
+    </While>
+    <!-- End The Binding -->
+    
+    <While Condition="((HasQuest(1689)) &amp;&amp; (!IsQuestCompleted(1689)))">
+      <CustomBehavior File="UseItemOn" QuestId="1689" MobId="5676" ItemId="6928" NumOfTimes="1" Range="5" CollectionDistance="1000"/>
+    </While>
+    
+    <!-- Objective for Quest 1689: The Binding -->
+    <While Condition="HasQuest(1689) &amp;&amp; !IsQuestCompleted(1689)" >
+      <Objective QuestName="The Binding" QuestId="1689" Type="KillMob" MobId="5676" KillCount="1"/>
+    </While>
+    <!-- End Objective -->
+    
+    <!-- Turn In: The Binding -->
+    <While Condition="HasQuest(1689) &amp;&amp; IsQuestCompleted(1689)" >
+      <TurnIn QuestName="The Binding" QuestId="1689" TurnInName="Gakin the Darkbinder" TurnInId="6122"/>
+    </While>
+    <!-- End Turn In: The Binding -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Priest) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Quest 5635 (Desperate Prayer) — TurnIn NPC not found -->
+  </If>
+
+  <If Condition="(Me.Race == WoWRace.Human)">
+    <!-- Turn In: Continue to Stormwind -->
+    <While Condition="HasQuest(6281) &amp;&amp; IsQuestCompleted(6281)" >
+      <TurnIn QuestName="Continue to Stormwind" QuestId="6281" TurnInName="Osric Strang" TurnInId="1323"/>
+    </While>
+    <!-- End Turn In: Continue to Stormwind -->
+  </If>
+
+  <If Condition="(Me.Class == WoWClass.Warrior) &amp;&amp; (Me.Race == WoWRace.Human)">
+    <!-- Turn In: A Warrior's Training -->
+    <While Condition="HasQuest(1638) &amp;&amp; IsQuestCompleted(1638)" >
+      <TurnIn QuestName="A Warrior's Training" QuestId="1638" TurnInName="Harry Burlguard" TurnInId="6089"/>
+    </While>
+    <!-- End Turn In: A Warrior's Training -->
+    
+    <!-- Bartleby the Drunk -->
+    <While Condition="!HasQuest(1639) &amp;&amp; !IsQuestCompleted(1639)" >
+      <PickUp QuestName="Bartleby the Drunk" QuestId="1639" GiverName="Harry Burlguard" GiverId="6089"/>
+    </While>
+    <!-- End Bartleby the Drunk -->
+    
+    <!-- Turn In: Bartleby the Drunk -->
+    <While Condition="HasQuest(1639) &amp;&amp; IsQuestCompleted(1639)" >
+      <TurnIn QuestName="Bartleby the Drunk" QuestId="1639" TurnInName="Bartleby" TurnInId="6090"/>
+    </While>
+    <!-- End Turn In: Bartleby the Drunk -->
+    
+    <!-- Beat Bartleby -->
+    <While Condition="!HasQuest(1640) &amp;&amp; !IsQuestCompleted(1640)" >
+      <PickUp QuestName="Beat Bartleby" QuestId="1640" GiverName="Bartleby" GiverId="6090"/>
+    </While>
+    <!-- End Beat Bartleby -->
+    
+    <!-- Objective for Quest 1640: Beat Bartleby -->
+    <While Condition="HasQuest(1640) &amp;&amp; !IsQuestCompleted(1640)" >
+      <Objective QuestName="Beat Bartleby" QuestId="1640" Type="KillMob" MobId="6090" KillCount="1"/>
+    </While>
+    <!-- End Objective -->
+    
+    <!-- Turn In: Beat Bartleby -->
+    <While Condition="HasQuest(1640) &amp;&amp; IsQuestCompleted(1640)" >
+      <TurnIn QuestName="Beat Bartleby" QuestId="1640" TurnInName="Bartleby" TurnInId="6090"/>
+    </While>
+    <!-- End Turn In: Beat Bartleby -->
+    
+    <!-- Bartleby's Mug -->
+    <While Condition="!HasQuest(1665) &amp;&amp; !IsQuestCompleted(1665)" >
+      <PickUp QuestName="Bartleby's Mug" QuestId="1665" GiverName="Bartleby" GiverId="6090"/>
+    </While>
+    <!-- End Bartleby's Mug -->
+    
+    <!-- Turn In: Bartleby's Mug -->
+    <While Condition="HasQuest(1665) &amp;&amp; IsQuestCompleted(1665)" >
+      <TurnIn QuestName="Bartleby's Mug" QuestId="1665" TurnInName="Harry Burlguard" TurnInId="6089"/>
+    </While>
+    <!-- End Turn In: Bartleby's Mug -->
+  </If>
+
+  <CustomBehavior File="LoadProfile" ProfileName="Alliance_1-80\Main13-20.xml"/>
+</QuestOrder>
+
+
+</HBProfile>
