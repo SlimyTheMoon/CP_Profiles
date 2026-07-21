@@ -1,0 +1,651 @@
+<QuestOrder>
+
+<!-- Turn In: Wastewander Justice -->
+<TurnIn QuestName="Wastewander Justice" QuestId="1690" TurnInName="Chief Engineer Bilgewhizzle" TurnInId="7407" />
+
+<!-- Pick Up: More Wastewander Justice -->
+<PickUp QuestName="More Wastewander Justice" QuestId="1691" GiverName="Chief Engineer Bilgewhizzle" GiverId="7407" />
+
+<!-- Turn In: WANTED: Caliph Scorpidsting -->
+<TurnIn QuestName="WANTED: Caliph Scorpidsting" QuestId="2781" TurnInName="Chief Engineer Bilgewhizzle" TurnInId="7407" />
+
+<!-- Turn In: Water Pouch Bounty -->
+<TurnIn QuestName="Water Pouch Bounty" QuestId="1707" TurnInName="Spigot Operator Luglunket" TurnInId="7408" />
+
+<!-- Kill Objective for Quest 1691: Wastewander Rogue -->
+<Objective QuestName="Unknown" QuestId="1691" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 1691: Wastewander Assassin -->
+<Objective QuestName="Unknown" QuestId="1691" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 1691: Wastewander Shadow Mage -->
+<Objective QuestName="Unknown" QuestId="1691" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Stoley's Shipment -->
+<TurnIn QuestName="Stoley's Shipment" QuestId="2873" TurnInName="Stoley" TurnInId="7881" />
+
+<!-- Pick Up: Deliver to MacKinley -->
+<PickUp QuestName="Deliver to MacKinley" QuestId="2874" GiverName="Stoley" GiverId="7881" />
+
+<!-- Turn In: Southsea Shakedown -->
+<TurnIn QuestName="Southsea Shakedown" QuestId="8366" TurnInName="Security Chief Bilgewhizzle" TurnInId="7882" />
+
+<!-- Turn In: WANTED: Andre Firebeard -->
+<TurnIn QuestName="WANTED: Andre Firebeard" QuestId="2875" TurnInName="Security Chief Bilgewhizzle" TurnInId="7882" />
+
+<!-- Turn In: Pirate Hats Ahoy! -->
+<TurnIn QuestName="Pirate Hats Ahoy!" QuestId="8365" TurnInName="Haughty Modiste" TurnInId="15165" />
+
+<!-- Turn In: More Wastewander Justice -->
+<TurnIn QuestName="More Wastewander Justice" QuestId="1691" TurnInName="Chief Engineer Bilgewhizzle" TurnInId="7407" />
+
+<!-- Pick Up: Handle With Care -->
+<PickUp QuestName="Handle With Care" QuestId="3022" GiverName="Curgle Cranklehop" GiverId="7763" />
+
+<!-- Pick Up: The Mark of Quality -->
+<PickUp QuestName="The Mark of Quality" QuestId="2821" GiverName="Pratt McGrubben" GiverId="7852" />
+
+<!-- Pick Up: The Ruins of Solarsal -->
+<PickUp QuestName="The Ruins of Solarsal" QuestId="2866" GiverName="Shandris Feathermoon" GiverId="3936" />
+
+<!-- Pick Up: The Missing Courier (1) -->
+<PickUp QuestName="The Missing Courier (1)" QuestId="4124" GiverName="Latronicus Moonspear" GiverId="7877" />
+
+<!-- Pick Up: In Search of Knowledge -->
+<PickUp QuestName="In Search of Knowledge" QuestId="2939" GiverName="Troyas Moonbreeze" GiverId="7764" />
+
+<!-- Pick Up: The High Wilderness -->
+<PickUp QuestName="The High Wilderness" QuestId="2982" GiverName="Angelas Moonbreeze" GiverId="7900" />
+
+<!-- Turn In: The Missing Courier (1) -->
+<TurnIn QuestName="The Missing Courier (1)" QuestId="4124" TurnInName="Ginro Hearthkindle" TurnInId="7880" />
+
+<!-- Pick Up: The Missing Courier (2) -->
+<PickUp QuestName="The Missing Courier (2)" QuestId="4125" GiverName="Ginro Hearthkindle" GiverId="7880" />
+
+<!-- Turn In: The Ruins of Solarsal -->
+<TurnIn QuestName="The Ruins of Solarsal" QuestId="2866" TurnInName="Ginro Hearthkindle" TurnInId="7880" />
+
+<!-- Pick Up: Return to Feathermoon Stronghold -->
+<PickUp QuestName="Return to Feathermoon Stronghold" QuestId="2867" GiverName="Ginro Hearthkindle" GiverId="7880" />
+
+<!-- Turn In: Return to Feathermoon Stronghold -->
+<TurnIn QuestName="Return to Feathermoon Stronghold" QuestId="2867" TurnInName="Shandris Feathermoon" TurnInId="3936" />
+
+<!-- Pick Up: Against the Hatecrest (1) -->
+<PickUp QuestName="Against the Hatecrest (1)" QuestId="3130" GiverName="Shandris Feathermoon" GiverId="3936" />
+
+<!-- Turn In: Against the Hatecrest (1) -->
+<TurnIn QuestName="Against the Hatecrest (1)" QuestId="3130" TurnInName="Latronicus Moonspear" TurnInId="7877" />
+
+<!-- Pick Up: Against the Hatecrest (2) -->
+<PickUp QuestName="Against the Hatecrest (2)" QuestId="2869" GiverName="Latronicus Moonspear" GiverId="7877" />
+
+<!-- Collect Objective for Quest 2869: Hatecrest Naga Scale -->
+<Objective QuestName="Unknown" QuestId="2869" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Against the Hatecrest (2) -->
+<TurnIn QuestName="Against the Hatecrest (2)" QuestId="2869" TurnInName="Latronicus Moonspear" TurnInId="7877" />
+
+<!-- Pick Up: Against Lord Shalzaru -->
+<PickUp QuestName="Against Lord Shalzaru" QuestId="2870" GiverName="Latronicus Moonspear" GiverId="7877" />
+
+<!-- Collect Objective for Quest 2870: Mysterious Relic -->
+<Objective QuestName="Unknown" QuestId="2870" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Against Lord Shalzaru -->
+<TurnIn QuestName="Against Lord Shalzaru" QuestId="2870" TurnInName="Latronicus Moonspear" TurnInId="7877" />
+
+<!-- Pick Up: Delivering the Relic -->
+<PickUp QuestName="Delivering the Relic" QuestId="2871" GiverName="Latronicus Moonspear" GiverId="7877" />
+
+<!-- Turn In: Delivering the Relic -->
+<TurnIn QuestName="Delivering the Relic" QuestId="2871" TurnInName="Vestia Moonspear" TurnInId="7878" />
+
+<!-- Turn In: The Missing Courier (2) -->
+<TurnIn QuestName="The Missing Courier (2)" QuestId="4125" TurnInName="Vestia Moonspear" TurnInId="7878" />
+
+<!-- Pick Up: Boat Wreckage -->
+<PickUp QuestName="Boat Wreckage" QuestId="4127" GiverName="Vestia Moonspear" GiverId="7878" />
+
+<!-- Turn In: Boat Wreckage -->
+<TurnIn QuestName="Boat Wreckage" QuestId="4127" TurnInName="Ginro Hearthkindle" TurnInId="7880" />
+
+<!-- Pick Up: The Knife Revealed -->
+<PickUp QuestName="The Knife Revealed" QuestId="4129" GiverName="Ginro Hearthkindle" GiverId="7880" />
+
+<!-- Turn In: The Knife Revealed -->
+<TurnIn QuestName="The Knife Revealed" QuestId="4129" TurnInName="Quintis Jonespyre" TurnInId="7879" />
+
+<!-- Pick Up: Psychometric Reading -->
+<PickUp QuestName="Psychometric Reading" QuestId="4130" GiverName="Quintis Jonespyre" GiverId="7879" />
+
+<!-- Turn In: Psychometric Reading -->
+<TurnIn QuestName="Psychometric Reading" QuestId="4130" TurnInName="Ginro Hearthkindle" TurnInId="7880" />
+
+<!-- Pick Up: The Woodpaw Gnolls -->
+<PickUp QuestName="The Woodpaw Gnolls" QuestId="4131" GiverName="Ginro Hearthkindle" GiverId="7880" />
+
+<!-- Collect Objective for Quest 2821: Thick Yeti Hide -->
+<Objective QuestName="Unknown" QuestId="2821" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 2982: Gordunni Shaman -->
+<Objective QuestName="Unknown" QuestId="2982" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 2982: Gordunni Warlock -->
+<Objective QuestName="Unknown" QuestId="2982" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 2982: Gordunni Brute -->
+<Objective QuestName="Unknown" QuestId="2982" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Pick Up: Freedom for All Creatures -->
+<PickUp QuestName="Freedom for All Creatures" QuestId="2969" GiverName="Kindal Moonweaver" GiverId="7956" />
+
+<!-- Turn In: Freedom for All Creatures -->
+<TurnIn QuestName="Freedom for All Creatures" QuestId="2969" TurnInName="Kindal Moonweaver" TurnInId="7956" />
+
+<!-- Pick Up: Doling Justice (1) -->
+<PickUp QuestName="Doling Justice (1)" QuestId="2970" GiverName="Jer'kai Moonweaver" GiverId="7957" />
+
+<!-- Kill Objective for Quest 2970: Grimtotem Naturalist -->
+<Objective QuestName="Unknown" QuestId="2970" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 2970: Grimtotem Raider -->
+<Objective QuestName="Unknown" QuestId="2970" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 2970: Grimtotem Shaman -->
+<Objective QuestName="Unknown" QuestId="2970" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Doling Justice (1) -->
+<TurnIn QuestName="Doling Justice (1)" QuestId="2970" TurnInName="Jer'kai Moonweaver" TurnInId="7957" />
+
+<!-- Pick Up: Doling Justice (2) -->
+<PickUp QuestName="Doling Justice (2)" QuestId="2972" GiverName="Jer'kai Moonweaver" GiverId="7957" />
+
+<!-- Turn In: The Woodpaw Gnolls -->
+<TurnIn QuestName="The Woodpaw Gnolls" QuestId="4131" TurnInName="Jer'kai Moonweaver" TurnInId="7957" />
+
+<!-- Pick Up: The Writhing Deep -->
+<PickUp QuestName="The Writhing Deep" QuestId="4135" GiverName="Jer'kai Moonweaver" GiverId="7957" />
+
+<!-- Pick Up: Thalanaar Delivery -->
+<PickUp QuestName="Thalanaar Delivery" QuestId="4281" GiverName="Jer'kai Moonweaver" GiverId="7957" />
+
+<!-- Turn In: The Writhing Deep -->
+<TurnIn QuestName="The Writhing Deep" QuestId="4135" TurnInName="Jer'kai Moonweaver" TurnInId="7957" />
+
+<!-- Pick Up: Freed from the Hive -->
+<PickUp QuestName="Freed from the Hive" QuestId="4265" GiverName="Jer'kai Moonweaver" GiverId="7957" />
+
+<!-- Turn In: The Mark of Quality -->
+<TurnIn QuestName="The Mark of Quality" QuestId="2821" TurnInName="Pratt McGrubben" TurnInId="7852" />
+
+<!-- Pick Up: Improved Quality -->
+<PickUp QuestName="Improved Quality" QuestId="7733" GiverName="Pratt McGrubben" GiverId="7852" />
+
+<!-- Turn In: The High Wilderness -->
+<TurnIn QuestName="The High Wilderness" QuestId="2982" TurnInName="Angelas Moonbreeze" TurnInId="7900" />
+
+<!-- Turn In: Freed from the Hive -->
+<TurnIn QuestName="Freed from the Hive" QuestId="4265" TurnInName="Ginro Hearthkindle" TurnInId="7880" />
+
+<!-- Pick Up: A Hero's Welcome -->
+<PickUp QuestName="A Hero's Welcome" QuestId="4266" GiverName="Ginro Hearthkindle" GiverId="7880" />
+
+<!-- Turn In: A Hero's Welcome -->
+<TurnIn QuestName="A Hero's Welcome" QuestId="4266" TurnInName="Shandris Feathermoon" TurnInId="3936" />
+
+<!-- Pick Up: Rise of the Silithid -->
+<PickUp QuestName="Rise of the Silithid" QuestId="4267" GiverName="Shandris Feathermoon" GiverId="3936" />
+
+<!-- Turn In: Thalanaar Delivery -->
+<TurnIn QuestName="Thalanaar Delivery" QuestId="4281" TurnInName="Falfindel Waywarder" TurnInId="4048" />
+
+<!-- Turn In: Handle With Care -->
+<TurnIn QuestName="Handle With Care" QuestId="3022" TurnInName="Erelas Ambersky" TurnInId="7916" />
+
+<!-- Pick Up: Favored of Elune? -->
+<PickUp QuestName="Favored of Elune?" QuestId="3661" GiverName="Erelas Ambersky" GiverId="7916" />
+
+<!-- Turn In: In Search of Knowledge -->
+<TurnIn QuestName="In Search of Knowledge" QuestId="2939" TurnInName="Daryn Lightwind" TurnInId="7907" />
+
+<!-- Pick Up: Feralas: A History -->
+<PickUp QuestName="Feralas: A History" QuestId="2940" GiverName="Daryn Lightwind" GiverId="7907" />
+
+<!-- Turn In: Feralas: A History -->
+<TurnIn QuestName="Feralas: A History" QuestId="2940" TurnInName="Daryn Lightwind" TurnInId="7907" />
+
+<!-- Pick Up: The Borrower -->
+<PickUp QuestName="The Borrower" QuestId="2941" GiverName="Daryn Lightwind" GiverId="7907" />
+
+<!-- Turn In: Rise of the Silithid -->
+<TurnIn QuestName="Rise of the Silithid" QuestId="4267" TurnInName="Gracina Spiritmight" TurnInId="7740" />
+
+<!-- Turn In: Doling Justice (2) -->
+<TurnIn QuestName="Doling Justice (2)" QuestId="2972" TurnInName="Tyrande Whisperwind" TurnInId="7999" />
+
+<!-- Turn In: The Borrower -->
+<TurnIn QuestName="The Borrower" QuestId="2941" TurnInName="Curgle Cranklehop" TurnInId="7763" />
+
+<!-- Pick Up: The Super Snapper FX -->
+<PickUp QuestName="The Super Snapper FX" QuestId="2944" GiverName="Curgle Cranklehop" GiverId="7763" />
+
+<!-- Turn In: Deliver to MacKinley -->
+<TurnIn QuestName="Deliver to MacKinley" QuestId="2874" TurnInName="&quot;Sea Wolf&quot; MacKinley" TurnInId="2501" />
+
+<!-- Pick Up: Witherbark Cages -->
+<PickUp QuestName="Witherbark Cages" QuestId="2988" GiverName="Gryphon Master Talonaxe" GiverId="5636" />
+
+<!-- Pick Up: Skulk Rock Clean-up -->
+<PickUp QuestName="Skulk Rock Clean-up" QuestId="2877" GiverName="Fraggar Thundermantle" GiverId="7884" />
+
+<!-- Pick Up: Troll Necklace Bounty -->
+<PickUp QuestName="Troll Necklace Bounty" QuestId="2880" GiverName="Fraggar Thundermantle" GiverId="7884" />
+
+<!-- Pick Up: Featherbeard's Endorsement -->
+<PickUp QuestName="Featherbeard's Endorsement" QuestId="9469" GiverName="Ambassador Rualeth" GiverId="17223" />
+
+<!-- Pick Up: A Gesture of Goodwill -->
+<PickUp QuestName="A Gesture of Goodwill" QuestId="9470" GiverName="Ambassador Rualeth" GiverId="17223" />
+
+<!-- Pick Up: Preying on the Predators -->
+<PickUp QuestName="Preying on the Predators" QuestId="9471" GiverName="Ambassador Rualeth" GiverId="17223" />
+
+<!-- Turn In: Featherbeard's Endorsement -->
+<TurnIn QuestName="Featherbeard's Endorsement" QuestId="9469" TurnInName="Ambassador Rualeth" TurnInId="17223" />
+
+<!-- Pick Up: In Pursuit of Featherbeard -->
+<PickUp QuestName="In Pursuit of Featherbeard" QuestId="9476" GiverName="Ambassador Rualeth" GiverId="17223" />
+
+<!-- Kill Objective for Quest 9471: Mangy Silvermane -->
+<Objective QuestName="Unknown" QuestId="9471" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 3661: Wildkin Feather -->
+<Objective QuestName="Unknown" QuestId="3661" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 2880: Troll Tribal Necklace -->
+<Objective QuestName="Unknown" QuestId="2880" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 9470: Tcha'kaz -->
+<Objective QuestName="Unknown" QuestId="9470" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 9470: Witch Doctor Mai'jin -->
+<Objective QuestName="Unknown" QuestId="9470" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 9471: Silvermane Wolf -->
+<Objective QuestName="Unknown" QuestId="9471" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 2877: Green Sludge -->
+<Objective QuestName="Unknown" QuestId="2877" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 2877: Jade Ooze -->
+<Objective QuestName="Unknown" QuestId="2877" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 580: Pupellyverbos Port -->
+<Objective QuestName="Unknown" QuestId="580" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Skulk Rock Clean-up -->
+<TurnIn QuestName="Skulk Rock Clean-up" QuestId="2877" TurnInName="Fraggar Thundermantle" TurnInId="7884" />
+
+<!-- Turn In: Troll Necklace Bounty -->
+<TurnIn QuestName="Troll Necklace Bounty" QuestId="2880" TurnInName="Fraggar Thundermantle" TurnInId="7884" />
+
+<!-- Turn In: A Gesture of Goodwill -->
+<TurnIn QuestName="A Gesture of Goodwill" QuestId="9470" TurnInName="Ambassador Rualeth" TurnInId="17223" />
+
+<!-- Turn In: Preying on the Predators -->
+<TurnIn QuestName="Preying on the Predators" QuestId="9471" TurnInName="Ambassador Rualeth" TurnInId="17223" />
+
+<!-- Turn In: Witherbark Cages -->
+<TurnIn QuestName="Witherbark Cages" QuestId="2988" TurnInName="Gryphon Master Talonaxe" TurnInId="5636" />
+
+<!-- Pick Up: The Altar of Zul -->
+<PickUp QuestName="The Altar of Zul" QuestId="2989" GiverName="Gryphon Master Talonaxe" GiverId="5636" />
+
+<!-- Turn In: In Pursuit of Featherbeard -->
+<TurnIn QuestName="In Pursuit of Featherbeard" QuestId="9476" TurnInName="Gryphon Master Talonaxe" TurnInId="5636" />
+
+<!-- Pick Up: Reclaiming the Eggs -->
+<PickUp QuestName="Reclaiming the Eggs" QuestId="9475" GiverName="Gryphon Master Talonaxe" GiverId="5636" />
+
+<!-- Collect Objective for Quest 9475: Gryphon Egg -->
+<Objective QuestName="Unknown" QuestId="9475" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Reclaiming the Eggs -->
+<TurnIn QuestName="Reclaiming the Eggs" QuestId="9475" TurnInName="Ambassador Rualeth" TurnInId="17223" />
+
+<!-- Turn In: The Altar of Zul -->
+<TurnIn QuestName="The Altar of Zul" QuestId="2989" TurnInName="Gryphon Master Talonaxe" TurnInId="5636" />
+
+<!-- Pick Up: Thadius Grimshade -->
+<PickUp QuestName="Thadius Grimshade" QuestId="2990" GiverName="Gryphon Master Talonaxe" GiverId="5636" />
+
+<!-- Turn In: Favored of Elune? -->
+<TurnIn QuestName="Favored of Elune?" QuestId="3661" TurnInName="Erelas Ambersky" TurnInId="7916" />
+
+<!-- Turn In: The Super Snapper FX -->
+<TurnIn QuestName="The Super Snapper FX" QuestId="2944" TurnInName="Daryn Lightwind" TurnInId="7907" />
+
+<!-- Pick Up: Return to Troyas -->
+<PickUp QuestName="Return to Troyas" QuestId="2943" GiverName="Daryn Lightwind" GiverId="7907" />
+
+<!-- Turn In: Return to Troyas -->
+<TurnIn QuestName="Return to Troyas" QuestId="2943" TurnInName="Troyas Moonbreeze" TurnInId="7764" />
+
+<!-- Pick Up: The Stave of Equinex -->
+<PickUp QuestName="The Stave of Equinex" QuestId="2879" GiverName="Troyas Moonbreeze" GiverId="7764" />
+
+<!-- Pick Up: The Sunken Temple -->
+<PickUp QuestName="The Sunken Temple" QuestId="3445" GiverName="Angelas Moonbreeze" GiverId="7900" />
+
+<!-- Pick Up: Zapped Giants -->
+<PickUp QuestName="Zapped Giants" QuestId="7003" GiverName="Zorbin Fandazzle" GiverId="14637" />
+
+<!-- Pick Up: Fuel for the Zapping -->
+<PickUp QuestName="Fuel for the Zapping" QuestId="7721" GiverName="Zorbin Fandazzle" GiverId="14637" />
+
+<!-- Collect Objective for Quest 7003: Miniaturization Residue -->
+<Objective QuestName="Unknown" QuestId="7003" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 7721: Water Elemental Core -->
+<Objective QuestName="Unknown" QuestId="7721" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Zapped Giants -->
+<TurnIn QuestName="Zapped Giants" QuestId="7003" TurnInName="Zorbin Fandazzle" TurnInId="14637" />
+
+<!-- Turn In: Fuel for the Zapping -->
+<TurnIn QuestName="Fuel for the Zapping" QuestId="7721" TurnInName="Zorbin Fandazzle" TurnInId="14637" />
+
+<!-- Collect Objective for Quest 7733: Rage Scar Yeti Hide -->
+<Objective QuestName="Unknown" QuestId="7733" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Pick Up: The Giant Guardian -->
+<PickUp QuestName="The Giant Guardian" QuestId="2844" GiverName="Rockbiter" GiverId="7765" />
+
+<!-- Collect Objective for Quest 2879: Byltan Essence -->
+<Objective QuestName="Unknown" QuestId="2879" Type="CollectItem" ItemId="9258" CollectCount="1" />
+
+<!-- Collect Objective for Quest 2879: Samha Essence -->
+<Objective QuestName="Unknown" QuestId="2879" Type="CollectItem" ItemId="9257" CollectCount="1" />
+
+<!-- Collect Objective for Quest 2879: Imbel Essence -->
+<Objective QuestName="Unknown" QuestId="2879" Type="CollectItem" ItemId="9256" CollectCount="1" />
+
+<!-- Collect Objective for Quest 2879: Lahassa Essence -->
+<Objective QuestName="Unknown" QuestId="2879" Type="CollectItem" ItemId="9255" CollectCount="1" />
+
+<!-- Turn In: The Stave of Equinex -->
+<TurnIn QuestName="The Stave of Equinex" QuestId="2879" TurnInName="Rockbiter" TurnInId="7765" />
+
+<!-- Pick Up: The Morrow Stone -->
+<PickUp QuestName="The Morrow Stone" QuestId="2942" GiverName="Rockbiter" GiverId="7765" />
+
+<!-- Turn In: The Giant Guardian -->
+<TurnIn QuestName="The Giant Guardian" QuestId="2844" TurnInName="Shay Leafrunner" TurnInId="7774" />
+
+<!-- Pick Up: Wandering Shay -->
+<PickUp QuestName="Wandering Shay" QuestId="2845" GiverName="Shay Leafrunner" GiverId="7774" />
+
+<!-- Collect Objective for Quest 2845: Shay's Bell -->
+<Objective QuestName="Unknown" QuestId="2845" Type="CollectItem" ItemId="9189" CollectCount="1" />
+
+<!-- Turn In: Wandering Shay -->
+<TurnIn QuestName="Wandering Shay" QuestId="2845" TurnInName="Rockbiter" TurnInId="7765" />
+
+<!-- Pick Up: An Orphan Looking For a Home -->
+<PickUp QuestName="An Orphan Looking For a Home" QuestId="3841" GiverName="Kindal Moonweaver" GiverId="7956" />
+
+<!-- Turn In: Improved Quality -->
+<TurnIn QuestName="Improved Quality" QuestId="7733" TurnInName="Pratt McGrubben" TurnInId="7852" />
+
+<!-- Turn In: The Morrow Stone -->
+<TurnIn QuestName="The Morrow Stone" QuestId="2942" TurnInName="Troyas Moonbreeze" TurnInId="7764" />
+
+<!-- Pick Up: The Thirsty Goblin -->
+<PickUp QuestName="The Thirsty Goblin" QuestId="2605" GiverName="Marin Noggenfogger" GiverId="7564" />
+
+<!-- Pick Up: The Dunemaul Compound -->
+<PickUp QuestName="The Dunemaul Compound" QuestId="5863" GiverName="Andi Lynn" GiverId="11758" />
+
+<!-- Pick Up: Thistleshrub Valley -->
+<PickUp QuestName="Thistleshrub Valley" QuestId="3362" GiverName="Tran'rek" GiverId="7876" />
+
+<!-- Pick Up: Gadgetzan Water Survey -->
+<PickUp QuestName="Gadgetzan Water Survey" QuestId="992" GiverName="Senior Surveyor Fizzledowser" GiverId="7724" />
+
+<!-- Collect Objective for Quest 992: Tapped Dowsing Widget -->
+<Objective QuestName="Unknown" QuestId="992" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Gadgetzan Water Survey -->
+<TurnIn QuestName="Gadgetzan Water Survey" QuestId="992" TurnInName="Senior Surveyor Fizzledowser" TurnInId="7724" />
+
+<!-- Pick Up: Noxious Lair Investigation -->
+<PickUp QuestName="Noxious Lair Investigation" QuestId="82" GiverName="Senior Surveyor Fizzledowser" GiverId="7724" />
+
+<!-- Turn In: The Sunken Temple -->
+<TurnIn QuestName="The Sunken Temple" QuestId="3445" TurnInName="Marvon Rivetseeker" TurnInId="7771" />
+
+<!-- Pick Up: The Stone Circle -->
+<PickUp QuestName="The Stone Circle" QuestId="3444" GiverName="Marvon Rivetseeker" GiverId="7771" />
+
+<!-- Pick Up: Gahz'ridian -->
+<PickUp QuestName="Gahz'ridian" QuestId="3161" GiverName="Marvon Rivetseeker" GiverId="7771" />
+
+<!-- Kill Objective for Quest 5863: Dunemaul Brute -->
+<Objective QuestName="Unknown" QuestId="5863" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 5863: Dunemaul Enforcer -->
+<Objective QuestName="Unknown" QuestId="5863" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 5863: Gor'marok the Ravager -->
+<Objective QuestName="Unknown" QuestId="5863" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 82: Centipaar Insect Parts -->
+<Objective QuestName="Unknown" QuestId="82" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 3362: Gnarled Thistleshrub -->
+<Objective QuestName="Unknown" QuestId="3362" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 3362: Thistleshrub Rootshaper -->
+<Objective QuestName="Unknown" QuestId="3362" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 2605: Laden Dew Gland -->
+<Objective QuestName="Unknown" QuestId="2605" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3161: Gahz'ridian Ornament -->
+<Objective QuestName="Unknown" QuestId="3161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Turn In: Gahz'ridian -->
+<TurnIn QuestName="Gahz'ridian" QuestId="3161" TurnInName="Marvon Rivetseeker" TurnInId="7771" />
+
+<!-- Pick Up: Yuka Screwspigot -->
+<PickUp QuestName="Yuka Screwspigot" QuestId="4324" GiverName="Yorba Screwspigot" GiverId="9706" />
+
+<!-- Turn In: Screecher Spirits -->
+<TurnIn QuestName="Screecher Spirits" QuestId="3520" TurnInName="Yeh'kinya" TurnInId="8579" />
+
+<!-- Turn In: The Thirsty Goblin -->
+<TurnIn QuestName="The Thirsty Goblin" QuestId="2605" TurnInName="Marin Noggenfogger" TurnInId="7564" />
+
+<!-- Pick Up: In Good Taste -->
+<PickUp QuestName="In Good Taste" QuestId="2606" GiverName="Marin Noggenfogger" GiverId="7564" />
+
+<!-- Turn In: The Dunemaul Compound -->
+<TurnIn QuestName="The Dunemaul Compound" QuestId="5863" TurnInName="Andi Lynn" TurnInId="11758" />
+
+<!-- Turn In: Thistleshrub Valley -->
+<TurnIn QuestName="Thistleshrub Valley" QuestId="3362" TurnInName="Tran'rek" TurnInId="7876" />
+
+<!-- Turn In: In Good Taste -->
+<TurnIn QuestName="In Good Taste" QuestId="2606" TurnInName="Sprinkle" TurnInId="7583" />
+
+<!-- Pick Up: Sprinkle's Secret Ingredient -->
+<PickUp QuestName="Sprinkle's Secret Ingredient" QuestId="2641" GiverName="Sprinkle" GiverId="7583" />
+
+<!-- Turn In: Noxious Lair Investigation -->
+<TurnIn QuestName="Noxious Lair Investigation" QuestId="82" TurnInName="Alchemist Pestlezugg" TurnInId="5594" />
+
+<!-- Pick Up: The Scrimshank Redemption -->
+<PickUp QuestName="The Scrimshank Redemption" QuestId="10" GiverName="Senior Surveyor Fizzledowser" GiverId="7724" />
+
+<!-- Collect Objective for Quest 10: Scrimshank's Surveying Gear -->
+<Objective QuestName="Unknown" QuestId="10" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Scrimshank Redemption -->
+<TurnIn QuestName="The Scrimshank Redemption" QuestId="10" TurnInName="Senior Surveyor Fizzledowser" TurnInId="7724" />
+
+<!-- Pick Up: Insect Part Analysis (1) -->
+<PickUp QuestName="Insect Part Analysis (1)" QuestId="110" GiverName="Senior Surveyor Fizzledowser" GiverId="7724" />
+
+<!-- Turn In: Insect Part Analysis (1) -->
+<TurnIn QuestName="Insect Part Analysis (1)" QuestId="110" TurnInName="Alchemist Pestlezugg" TurnInId="5594" />
+
+<!-- Pick Up: Insect Part Analysis (2) -->
+<PickUp QuestName="Insect Part Analysis (2)" QuestId="113" GiverName="Alchemist Pestlezugg" GiverId="5594" />
+
+<!-- Turn In: Insect Part Analysis (2) -->
+<TurnIn QuestName="Insect Part Analysis (2)" QuestId="113" TurnInName="Senior Surveyor Fizzledowser" TurnInId="7724" />
+
+<!-- Pick Up: Rise of the Silithid -->
+<PickUp QuestName="Rise of the Silithid" QuestId="162" GiverName="Senior Surveyor Fizzledowser" GiverId="7724" />
+
+<!-- Turn In: An Orphan Looking For a Home -->
+<TurnIn QuestName="An Orphan Looking For a Home" QuestId="3841" TurnInName="Quentin" TurnInId="9238" />
+
+<!-- Pick Up: A Short Incubation -->
+<PickUp QuestName="A Short Incubation" QuestId="3842" GiverName="Quentin" GiverId="9238" />
+
+<!-- Turn In: A Short Incubation -->
+<TurnIn QuestName="A Short Incubation" QuestId="3842" TurnInName="Quentin" TurnInId="9238" />
+
+<!-- Pick Up: The Newest Member of the Family -->
+<PickUp QuestName="The Newest Member of the Family" QuestId="3843" GiverName="Quentin" GiverId="9238" />
+
+<!-- Pick Up: Passing the Burden -->
+<PickUp QuestName="Passing the Burden" QuestId="3448" GiverName="Historian Karnik" GiverId="2916" />
+
+<!-- Turn In: Passing the Burden -->
+<TurnIn QuestName="Passing the Burden" QuestId="3448" TurnInName="Tymor" TurnInId="8507" />
+
+<!-- Pick Up: Arcane Runes -->
+<PickUp QuestName="Arcane Runes" QuestId="3449" GiverName="Tymor" GiverId="8507" />
+
+<!-- Pick Up: An Easy Pickup -->
+<PickUp QuestName="An Easy Pickup" QuestId="3450" GiverName="Tymor" GiverId="8507" />
+
+<!-- Turn In: An Easy Pickup -->
+<TurnIn QuestName="An Easy Pickup" QuestId="3450" TurnInName="Xiggs Fuselighter" TurnInId="8517" />
+
+<!-- Pick Up: Signal for Pickup -->
+<PickUp QuestName="Signal for Pickup" QuestId="3451" GiverName="Xiggs Fuselighter" GiverId="8517" />
+
+<!-- Turn In: Signal for Pickup -->
+<TurnIn QuestName="Signal for Pickup" QuestId="3451" TurnInName="Xiggs Fuselighter" TurnInId="8517" />
+
+<!-- Turn In: The Newest Member of the Family -->
+<TurnIn QuestName="The Newest Member of the Family" QuestId="3843" TurnInName="Agnar Beastamer" TurnInId="9660" />
+
+<!-- Pick Up: Food for Baby -->
+<PickUp QuestName="Food for Baby" QuestId="4297" GiverName="Agnar Beastamer" GiverId="9660" />
+
+<!-- Collect Objective for Quest 2641: Violet Tragan -->
+<Objective QuestName="Unknown" QuestId="2641" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 4297: Silvermane Stalker Flank -->
+<Objective QuestName="Unknown" QuestId="4297" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Food for Baby -->
+<TurnIn QuestName="Food for Baby" QuestId="4297" TurnInName="Agnar Beastamer" TurnInId="9660" />
+
+<!-- Pick Up: Becoming a Parent -->
+<PickUp QuestName="Becoming a Parent" QuestId="4298" GiverName="Agnar Beastamer" GiverId="9660" />
+
+<!-- Turn In: Becoming a Parent -->
+<TurnIn QuestName="Becoming a Parent" QuestId="4298" TurnInName="Agnar Beastamer" TurnInId="9660" />
+
+<!-- Turn In: Whiskey Slim's Lost Grog -->
+<TurnIn QuestName="Whiskey Slim's Lost Grog" QuestId="580" TurnInName="Whiskey Slim" TurnInId="2491" />
+
+<!-- Pick Up: Stranglethorn Fever -->
+<PickUp QuestName="Stranglethorn Fever" QuestId="348" GiverName="Fin Fizracket" GiverId="2486" />
+
+<!-- Pick Up: Message in a Bottle (1) -->
+<PickUp QuestName="Message in a Bottle (1)" QuestId="594" GiverName="Fin Fizracket" GiverId="2486" />
+
+<!-- Collect Objective for Quest 348: Gorilla Fang -->
+<Objective QuestName="Unknown" QuestId="348" Type="CollectItem" ItemId="2799" CollectCount="1" />
+
+<!-- Collect Objective for Quest 348: Heart of Mokk -->
+<Objective QuestName="Unknown" QuestId="348" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 208: Head of Bangalash -->
+<Objective QuestName="Unknown" QuestId="208" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Big Game Hunter -->
+<TurnIn QuestName="Big Game Hunter" QuestId="208" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Turn In: Stranglethorn Fever -->
+<TurnIn QuestName="Stranglethorn Fever" QuestId="348" TurnInName="Fin Fizracket" TurnInId="2486" />
+
+<!-- Turn In: Message in a Bottle (1) -->
+<TurnIn QuestName="Message in a Bottle (1)" QuestId="594" TurnInName="Princess Poobah" TurnInId="2634" />
+
+<!-- Pick Up: Message in a Bottle (2) -->
+<PickUp QuestName="Message in a Bottle (2)" QuestId="630" GiverName="Princess Poobah" GiverId="2634" />
+
+<!-- Collect Objective for Quest 630: Shackle Key -->
+<Objective QuestName="Unknown" QuestId="630" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Message in a Bottle (2) -->
+<TurnIn QuestName="Message in a Bottle (2)" QuestId="630" TurnInName="Princess Poobah" TurnInId="2634" />
+
+<!-- Pick Up: Cortello's Riddle (1) -->
+<PickUp QuestName="Cortello's Riddle (1)" QuestId="624" GiverName="Princess Poobah" GiverId="2634" />
+
+<!-- Kill Objective for Quest 608: Captain Stillwater -->
+<Objective QuestName="Unknown" QuestId="608" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 608: Fleet Master Firallon -->
+<Objective QuestName="Unknown" QuestId="608" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 608: Captain Keelhaul -->
+<Objective QuestName="Unknown" QuestId="608" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Pick Up: Cortello's Riddle (1) -->
+<PickUp QuestName="Cortello's Riddle (1)" QuestId="624" GiverName="Princess Poobah" GiverId="2634" />
+
+<!-- Turn In: The Bloodsail Buccaneers (5) -->
+<TurnIn QuestName="The Bloodsail Buccaneers (5)" QuestId="608" TurnInName="Fleet Master Seahorn" TurnInId="2487" />
+
+<!-- Pick Up: Snickerfang Jowls -->
+<PickUp QuestName="Snickerfang Jowls" QuestId="2581" GiverName="Bloodmage Drazial" GiverId="7505" />
+
+<!-- Pick Up: A Boar's Vitality -->
+<PickUp QuestName="A Boar's Vitality" QuestId="2583" GiverName="Bloodmage Drazial" GiverId="7505" />
+
+<!-- Pick Up: The Decisive Striker -->
+<PickUp QuestName="The Decisive Striker" QuestId="2585" GiverName="Bloodmage Drazial" GiverId="7505" />
+
+<!-- Pick Up: The Basilisk's Bite -->
+<PickUp QuestName="The Basilisk's Bite" QuestId="2601" GiverName="Bloodmage Lynnore" GiverId="7506" />
+
+<!-- Pick Up: Vulture's Vigor -->
+<PickUp QuestName="Vulture's Vigor" QuestId="2603" GiverName="Bloodmage Lynnore" GiverId="7506" />
+
+<!-- Turn In: The Basilisk's Bite -->
+<TurnIn QuestName="The Basilisk's Bite" QuestId="2601" TurnInName="Bloodmage Lynnore" TurnInId="7506" />
+
+<!-- Turn In: Vulture's Vigor -->
+<TurnIn QuestName="Vulture's Vigor" QuestId="2603" TurnInName="Bloodmage Lynnore" TurnInId="7506" />
+
+<!-- Turn In: Snickerfang Jowls -->
+<TurnIn QuestName="Snickerfang Jowls" QuestId="2581" TurnInName="Bloodmage Drazial" TurnInId="7505" />
+
+<!-- Turn In: A Boar's Vitality -->
+<TurnIn QuestName="A Boar's Vitality" QuestId="2583" TurnInName="Bloodmage Drazial" TurnInId="7505" />
+
+<!-- Turn In: The Decisive Striker -->
+<TurnIn QuestName="The Decisive Striker" QuestId="2585" TurnInName="Bloodmage Drazial" TurnInId="7505" />
+
+</QuestOrder>

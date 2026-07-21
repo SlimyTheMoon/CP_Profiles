@@ -1,0 +1,1194 @@
+<QuestOrder>
+
+<!-- Pick Up: Enlistment Day -->
+<PickUp QuestName="Enlistment Day" QuestId="11672" GiverName="Recruitment Officer Blythe" GiverId="25307" />
+
+<!-- Turn In: Enlistment Day -->
+<TurnIn QuestName="Enlistment Day" QuestId="11672" TurnInName="General Arlos" TurnInId="25250" />
+
+<!-- Pick Up: A Time for Heroes -->
+<PickUp QuestName="A Time for Heroes" QuestId="11727" GiverName="General Arlos" GiverId="25250" />
+
+<!-- Turn In: A Time for Heroes -->
+<TurnIn QuestName="A Time for Heroes" QuestId="11727" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<!-- Pick Up: The Siege -->
+<PickUp QuestName="The Siege" QuestId="11797" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<!-- Pick Up: A Soldier in Need -->
+<PickUp QuestName="A Soldier in Need" QuestId="11789" GiverName="Medic Hawthorn" GiverId="25825" />
+
+<!-- Kill Objective for Quest 11797: Crypt Crawler -->
+<Objective QuestName="Unknown" QuestId="11797" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: The Siege -->
+<TurnIn QuestName="The Siege" QuestId="11797" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<!-- Pick Up: Death From Above -->
+<PickUp QuestName="Death From Above" QuestId="11889" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<!-- Collect Objective for Quest 11789: Hawthorn's Anti-Venom -->
+<Objective QuestName="Unknown" QuestId="11789" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Cultists Among Us -->
+<PickUp QuestName="Cultists Among Us" QuestId="11920" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<!-- Turn In: Cultists Among Us -->
+<TurnIn QuestName="Cultists Among Us" QuestId="11920" TurnInName="Captain &quot;Lefty&quot; Lugsail" TurnInId="25298" />
+
+<!-- Pick Up: Notify Arlos -->
+<PickUp QuestName="Notify Arlos" QuestId="11791" GiverName="Admiral Cantlebree" GiverId="25299" />
+
+<!-- Turn In: Notify Arlos -->
+<TurnIn QuestName="Notify Arlos" QuestId="11791" TurnInName="General Arlos" TurnInId="25250" />
+
+<!-- Pick Up: A Diplomatic Mission -->
+<PickUp QuestName="A Diplomatic Mission" QuestId="12141" GiverName="Counselor Talbot" GiverId="25301" />
+
+<!-- Pick Up: Enemies of the Light -->
+<PickUp QuestName="Enemies of the Light" QuestId="11792" GiverName="Harbinger Vurenn" GiverId="25285" />
+
+<!-- Turn In: A Soldier in Need -->
+<TurnIn QuestName="A Soldier in Need" QuestId="11789" TurnInName="Medic Hawthorn" TurnInId="25825" />
+
+<!-- Kill Objective for Quest 11889: Scourged Flamespitter -->
+<Objective QuestName="Unknown" QuestId="11889" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Death From Above -->
+<TurnIn QuestName="Death From Above" QuestId="11889" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<!-- Pick Up: Plug the Sinkholes -->
+<PickUp QuestName="Plug the Sinkholes" QuestId="11897" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<!-- Collect Objective for Quest 11792: Cultist Communique -->
+<Objective QuestName="Unknown" QuestId="11792" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Plug the Sinkholes -->
+<TurnIn QuestName="Plug the Sinkholes" QuestId="11897" TurnInName="Sergeant Hammerhill" TurnInId="25816" />
+
+<!-- Pick Up: Farshire -->
+<PickUp QuestName="Farshire" QuestId="11928" GiverName="Sergeant Hammerhill" GiverId="25816" />
+
+<!-- Pick Up: Word on the Street -->
+<PickUp QuestName="Word on the Street" QuestId="11927" GiverName="Mark Hanes" GiverId="26155" />
+
+<!-- Turn In: Enemies of the Light -->
+<TurnIn QuestName="Enemies of the Light" QuestId="11792" TurnInName="Harbinger Vurenn" TurnInId="25285" />
+
+<!-- Pick Up: Further Investigation -->
+<PickUp QuestName="Further Investigation" QuestId="11793" GiverName="Harbinger Vurenn" GiverId="25285" />
+
+<!-- Pick Up: Nick of Time -->
+<PickUp QuestName="Nick of Time" QuestId="11575" GiverName="Midge" GiverId="25249" />
+
+<!-- Turn In: Word on the Street -->
+<TurnIn QuestName="Word on the Street" QuestId="11927" TurnInName="Leryssa" TurnInId="25251" />
+
+<!-- Pick Up: Thassarian, My Brother -->
+<PickUp QuestName="Thassarian, My Brother" QuestId="11599" GiverName="Leryssa" GiverId="25251" />
+
+<!-- Turn In: Further Investigation -->
+<TurnIn QuestName="Further Investigation" QuestId="11793" TurnInName="Vindicator Yaala" TurnInId="25826" />
+
+<!-- Pick Up: The Hunt is On -->
+<PickUp QuestName="The Hunt is On" QuestId="11794" GiverName="Vindicator Yaala" GiverId="25826" />
+
+<!-- Pick Up: Distress Call -->
+<PickUp QuestName="Distress Call" QuestId="11707" GiverName="Airman Skyhopper" GiverId="25737" />
+
+<!-- Turn In: The Hunt is On -->
+<TurnIn QuestName="The Hunt is On" QuestId="11794" TurnInName="Vindicator Yaala" TurnInId="25826" />
+
+<!-- Turn In: Farshire -->
+<TurnIn QuestName="Farshire" QuestId="11928" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Pick Up: Military?  What Military? -->
+<PickUp QuestName="Military?  What Military?" QuestId="11901" GiverName="Gerald Green" GiverId="26083" />
+
+<!-- Turn In: Military? What Military? -->
+<TurnIn QuestName="Military? What Military?" QuestId="11901" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Pick Up: Pernicious Evidence -->
+<PickUp QuestName="Pernicious Evidence" QuestId="11902" GiverName="Gerald Green" GiverId="26083" />
+
+<!-- Turn In: Thassarian, My Brother -->
+<TurnIn QuestName="Thassarian, My Brother" QuestId="11599" TurnInName="William Allerton" TurnInId="25385" />
+
+<!-- Pick Up: The Late William Allerton -->
+<PickUp QuestName="The Late William Allerton" QuestId="11600" GiverName="William Allerton" GiverId="25385" />
+
+<!-- Turn In: Pernicious Evidence -->
+<TurnIn QuestName="Pernicious Evidence" QuestId="11902" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Pick Up: It's Time for Action -->
+<PickUp QuestName="It's Time for Action" QuestId="11903" GiverName="Gerald Green" GiverId="26083" />
+
+<!-- Pick Up: Take No Chances -->
+<PickUp QuestName="Take No Chances" QuestId="11913" GiverName="Wendy Darren" GiverId="26085" />
+
+<!-- Pick Up: Reference Material -->
+<PickUp QuestName="Reference Material" QuestId="11908" GiverName="Jeremiah Hawning" GiverId="26084" />
+
+<!-- Kill Objective for Quest 11903: Plagued Scavenger -->
+<Objective QuestName="Unknown" QuestId="11903" Type="KillMob" MobId="UNKNOWN_ID" KillCount="14" />
+
+<!-- Collect Objective for Quest 11908: Fields, Factories and Workshops -->
+<Objective QuestName="Unknown" QuestId="11908" Type="CollectItem" ItemId="35481" CollectCount="1" />
+
+<!-- Turn In: Take No Chances -->
+<TurnIn QuestName="Take No Chances" QuestId="11913" TurnInName="Wendy Darren" TurnInId="26085" />
+
+<!-- Turn In: It's Time for Action -->
+<TurnIn QuestName="It's Time for Action" QuestId="11903" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Pick Up: Fruits of Our Labor -->
+<PickUp QuestName="Fruits of Our Labor" QuestId="11904" GiverName="Gerald Green" GiverId="26083" />
+
+<!-- Turn In: Reference Material -->
+<TurnIn QuestName="Reference Material" QuestId="11908" TurnInName="Jeremiah Hawning" TurnInId="26084" />
+
+<!-- Pick Up: Repurposed Technology -->
+<PickUp QuestName="Repurposed Technology" QuestId="12035" GiverName="Jeremiah Hawning" GiverId="26084" />
+
+<!-- Collect Objective for Quest 11904: Cart Release Key -->
+<Objective QuestName="Unknown" QuestId="11904" Type="CollectItem" ItemId="35705" CollectCount="1" />
+
+<!-- Turn In: Fruits of Our Labor -->
+<TurnIn QuestName="Fruits of Our Labor" QuestId="11904" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Pick Up: One Last Delivery -->
+<PickUp QuestName="One Last Delivery" QuestId="11962" GiverName="Gerald Green" GiverId="26083" />
+
+<!-- Turn In: Repurposed Technology -->
+<TurnIn QuestName="Repurposed Technology" QuestId="12035" TurnInName="Jeremiah Hawning" TurnInId="26084" />
+
+<!-- Turn In: One Last Delivery -->
+<TurnIn QuestName="One Last Delivery" QuestId="11962" TurnInName="Hilda Stoneforge" TurnInId="25235" />
+
+<!-- Pick Up: Weapons for Farshire -->
+<PickUp QuestName="Weapons for Farshire" QuestId="11963" GiverName="Hilda Stoneforge" GiverId="25235" />
+
+<!-- Turn In: The Late William Allerton -->
+<TurnIn QuestName="The Late William Allerton" QuestId="11600" TurnInName="Leryssa" TurnInId="25251" />
+
+<!-- Pick Up: Lost and Found -->
+<PickUp QuestName="Lost and Found" QuestId="11601" GiverName="Leryssa" GiverId="25251" />
+
+<!-- Turn In: Lost and Found -->
+<TurnIn QuestName="Lost and Found" QuestId="11601" TurnInName="James Deacon" TurnInId="25245" />
+
+<!-- Pick Up: In Wine, Truth -->
+<PickUp QuestName="In Wine, Truth" QuestId="11603" GiverName="James Deacon" GiverId="25245" />
+
+<!-- Turn In: Weapons for Farshire -->
+<TurnIn QuestName="Weapons for Farshire" QuestId="11963" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Pick Up: Call to Arms! -->
+<PickUp QuestName="Call to Arms!" QuestId="11965" GiverName="Gerald Green" GiverId="26083" />
+
+<!-- Turn In: Call to Arms! -->
+<TurnIn QuestName="Call to Arms!" QuestId="11965" TurnInName="Gerald Green" TurnInId="26083" />
+
+<!-- Collect Objective for Quest 11603: Kul Tiras Wine -->
+<Objective QuestName="Unknown" QuestId="11603" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: In Wine, Truth -->
+<TurnIn QuestName="In Wine, Truth" QuestId="11603" TurnInName="Old Man Colburn" TurnInId="25302" />
+
+<!-- Pick Up: A Deserter -->
+<PickUp QuestName="A Deserter" QuestId="11604" GiverName="Old Man Colburn" GiverId="25302" />
+
+<!-- Turn In: A Deserter -->
+<TurnIn QuestName="A Deserter" QuestId="11604" TurnInName="Private Brau" TurnInId="25395" />
+
+<!-- Pick Up: Cowards and Fools -->
+<PickUp QuestName="Cowards and Fools" QuestId="11932" GiverName="Private Brau" GiverId="25395" />
+
+<!-- Turn In: A Diplomatic Mission -->
+<TurnIn QuestName="A Diplomatic Mission" QuestId="12141" TurnInName="Karuk" TurnInId="25435" />
+
+<!-- Pick Up: Karuk's Oath -->
+<PickUp QuestName="Karuk's Oath" QuestId="11613" GiverName="Karuk" GiverId="25435" />
+
+<!-- Kill Objective for Quest 11613: Skadir Raider -->
+<Objective QuestName="Unknown" QuestId="11613" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 11613: Skadir Longboatsman -->
+<Objective QuestName="Unknown" QuestId="11613" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Pick Up: Cruelty of the Kvaldir -->
+<PickUp QuestName="Cruelty of the Kvaldir" QuestId="12471" GiverName="Captured Tuskarr Prisoner" GiverId="25636" />
+
+<!-- Turn In: Karuk's Oath -->
+<TurnIn QuestName="Karuk's Oath" QuestId="11613" TurnInName="Karuk" TurnInId="25435" />
+
+<!-- Pick Up: Gamel the Cruel -->
+<PickUp QuestName="Gamel the Cruel" QuestId="11619" GiverName="Karuk" GiverId="25435" />
+
+<!-- Turn In: Cruelty of the Kvaldir -->
+<TurnIn QuestName="Cruelty of the Kvaldir" QuestId="12471" TurnInName="Karuk" TurnInId="25435" />
+
+<!-- Kill Objective for Quest 11619: Gamel the Cruel -->
+<Objective QuestName="Unknown" QuestId="11619" Type="KillMob" MobId="26449" KillCount="1" />
+
+<!-- Turn In: Gamel the Cruel -->
+<TurnIn QuestName="Gamel the Cruel" QuestId="11619" TurnInName="Karuk" TurnInId="25435" />
+
+<!-- Pick Up: A Father's Words -->
+<PickUp QuestName="A Father's Words" QuestId="11620" GiverName="Karuk" GiverId="25435" />
+
+<!-- Turn In: A Father's Words -->
+<TurnIn QuestName="A Father's Words" QuestId="11620" TurnInName="Veehja" TurnInId="25450" />
+
+<!-- Pick Up: The Trident of Naz'jan -->
+<PickUp QuestName="The Trident of Naz'jan" QuestId="11625" GiverName="Veehja" GiverId="25450" />
+
+<!-- Collect Objective for Quest 11625: Trident of Naz'jan -->
+<Objective QuestName="Unknown" QuestId="11625" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Trident of Naz'jan -->
+<TurnIn QuestName="The Trident of Naz'jan" QuestId="11625" TurnInName="Veehja" TurnInId="25450" />
+
+<!-- Pick Up: The Emissary -->
+<PickUp QuestName="The Emissary" QuestId="11626" GiverName="Veehja" GiverId="25450" />
+
+<!-- Kill Objective for Quest 11626: Leviroth -->
+<Objective QuestName="Unknown" QuestId="11626" Type="KillMob" MobId="26452" KillCount="1" />
+
+<!-- Turn In: The Emissary -->
+<TurnIn QuestName="The Emissary" QuestId="11626" TurnInName="Karuk" TurnInId="25435" />
+
+<!-- Pick Up: A Mission Statement -->
+<PickUp QuestName="A Mission Statement" QuestId="11864" GiverName="Arch Druid Lathorius" GiverId="25809" />
+
+<!-- Pick Up: Ears of Our Enemies -->
+<PickUp QuestName="Ears of Our Enemies" QuestId="11866" GiverName="Arch Druid Lathorius" GiverId="25809" />
+
+<!-- Pick Up: Help Those That Cannot Help Themselves -->
+<PickUp QuestName="Help Those That Cannot Help Themselves" QuestId="11876" GiverName="Arch Druid Lathorius" GiverId="25809" />
+
+<!-- Pick Up: Happy as a Clam -->
+<PickUp QuestName="Happy as a Clam" QuestId="11869" GiverName="Hierophant Cenius" GiverId="25810" />
+
+<!-- Pick Up: Ned, Lord of Rhinos... -->
+<PickUp QuestName="Ned, Lord of Rhinos..." QuestId="11884" GiverName="Killinger the Den Watcher" GiverId="25812" />
+
+<!-- Pick Up: Unfit for Death -->
+<PickUp QuestName="Unfit for Death" QuestId="11865" GiverName="Zaza" GiverId="25811" />
+
+<!-- Kill Objective for Quest 11869: Loot Crazed Diver -->
+<Objective QuestName="Unknown" QuestId="11869" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 11866: Nesingwary Lackey Ear -->
+<Objective QuestName="Unknown" QuestId="11866" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Kill Objective for Quest 11884: Nedar, Lord of Rhinos -->
+<Objective QuestName="Unknown" QuestId="11884" Type="KillMob" MobId="25801" KillCount="1" />
+
+<!-- Turn In: Ears of Our Enemies -->
+<TurnIn QuestName="Ears of Our Enemies" QuestId="11866" TurnInName="Arch Druid Lathorius" TurnInId="25809" />
+
+<!-- Turn In: Help Those That Cannot Help Themselves -->
+<TurnIn QuestName="Help Those That Cannot Help Themselves" QuestId="11876" TurnInName="Arch Druid Lathorius" TurnInId="25809" />
+
+<!-- Pick Up: Khu'nok Will Know -->
+<PickUp QuestName="Khu'nok Will Know" QuestId="11878" GiverName="Arch Druid Lathorius" GiverId="25809" />
+
+<!-- Turn In: Happy as a Clam -->
+<TurnIn QuestName="Happy as a Clam" QuestId="11869" TurnInName="Hierophant Cenius" TurnInId="25810" />
+
+<!-- Pick Up: The Abandoned Reach -->
+<PickUp QuestName="The Abandoned Reach" QuestId="11870" GiverName="Hierophant Cenius" GiverId="25810" />
+
+<!-- Turn In: Ned, Lord of Rhinos... -->
+<TurnIn QuestName="Ned, Lord of Rhinos..." QuestId="11884" TurnInName="Killinger the Den Watcher" TurnInId="25812" />
+
+<!-- Turn In: Unfit for Death -->
+<TurnIn QuestName="Unfit for Death" QuestId="11865" TurnInName="Zaza" TurnInId="25811" />
+
+<!-- Pick Up: The Culler Cometh -->
+<PickUp QuestName="The Culler Cometh" QuestId="11868" GiverName="Zaza" GiverId="25811" />
+
+<!-- Turn In: Khu'nok Will Know -->
+<TurnIn QuestName="Khu'nok Will Know" QuestId="11878" TurnInName="Khu'nok the Behemoth" TurnInId="25862" />
+
+<!-- Pick Up: Kaw the Mammoth Destroyer -->
+<PickUp QuestName="Kaw the Mammoth Destroyer" QuestId="11879" GiverName="Khu'nok the Behemoth" GiverId="25862" />
+
+<!-- Collect Objective for Quest 11879: Kaw's War Halberd -->
+<Objective QuestName="Unknown" QuestId="11879" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Kaw the Mammoth Destroyer -->
+<TurnIn QuestName="Kaw the Mammoth Destroyer" QuestId="11879" TurnInName="Arch Druid Lathorius" TurnInId="25809" />
+
+<!-- Kill Objective for Quest 11868: Karen "I Don't Caribou" the Culler -->
+<Objective QuestName="Unknown" QuestId="11868" Type="KillMob" MobId="25803" KillCount="1" />
+
+<!-- Turn In: The Abandoned Reach -->
+<TurnIn QuestName="The Abandoned Reach" QuestId="11870" TurnInName="Hierophant Liandra" TurnInId="25838" />
+
+<!-- Pick Up: Not On Our Watch -->
+<PickUp QuestName="Not On Our Watch" QuestId="11871" GiverName="Hierophant Liandra" GiverId="25838" />
+
+<!-- Collect Objective for Quest 11871: Shipment of Animal Parts -->
+<Objective QuestName="Unknown" QuestId="11871" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Not On Our Watch -->
+<TurnIn QuestName="Not On Our Watch" QuestId="11871" TurnInName="Hierophant Liandra" TurnInId="25838" />
+
+<!-- Pick Up: The Nefarious Clam Master... -->
+<PickUp QuestName="The Nefarious Clam Master..." QuestId="11872" GiverName="Hierophant Liandra" GiverId="25838" />
+
+<!-- Kill Objective for Quest 11872: Clam Master K -->
+<Objective QuestName="Unknown" QuestId="11872" Type="KillMob" MobId="25800" KillCount="1" />
+
+<!-- Turn In: The Nefarious Clam Master... -->
+<TurnIn QuestName="The Nefarious Clam Master..." QuestId="11872" TurnInName="Hierophant Cenius" TurnInId="25810" />
+
+<!-- Turn In: The Culler Cometh -->
+<TurnIn QuestName="The Culler Cometh" QuestId="11868" TurnInName="Zaza" TurnInId="25811" />
+
+<!-- Pick Up: Reclaiming the Quarry -->
+<PickUp QuestName="Reclaiming the Quarry" QuestId="11612" GiverName="Etaruk" GiverId="25292" />
+
+<!-- Pick Up: The Honored Ancestors -->
+<PickUp QuestName="The Honored Ancestors" QuestId="11605" GiverName="Elder Atkanok" GiverId="187565" />
+
+<!-- Kill Objective for Quest 11612: Beryl Treasure Hunter -->
+<Objective QuestName="Unknown" QuestId="11612" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: The Honored Ancestors -->
+<TurnIn QuestName="The Honored Ancestors" QuestId="11605" TurnInName="Elder Atkanok" TurnInId="187565" />
+
+<!-- Pick Up: The Lost Spirits -->
+<PickUp QuestName="The Lost Spirits" QuestId="11607" GiverName="Elder Atkanok" GiverId="187565" />
+
+<!-- Turn In: Reclaiming the Quarry -->
+<TurnIn QuestName="Reclaiming the Quarry" QuestId="11612" TurnInName="Etaruk" TurnInId="25292" />
+
+<!-- Pick Up: Hampering Their Escape -->
+<PickUp QuestName="Hampering Their Escape" QuestId="11617" GiverName="Etaruk" GiverId="25292" />
+
+<!-- Collect Objective for Quest 11617: Gnomish Grenade -->
+<Objective QuestName="Unknown" QuestId="11617" Type="CollectItem" ItemId="34772" CollectCount="3" />
+
+<!-- Turn In: The Lost Spirits -->
+<TurnIn QuestName="The Lost Spirits" QuestId="11607" TurnInName="Elder Atkanok" TurnInId="187565" />
+
+<!-- Pick Up: Picking Up the Pieces -->
+<PickUp QuestName="Picking Up the Pieces" QuestId="11609" GiverName="Elder Atkanok" GiverId="187565" />
+
+<!-- Turn In: Hampering Their Escape -->
+<TurnIn QuestName="Hampering Their Escape" QuestId="11617" TurnInName="Etaruk" TurnInId="25292" />
+
+<!-- Pick Up: A Visit to the Curator -->
+<PickUp QuestName="A Visit to the Curator" QuestId="11623" GiverName="Etaruk" GiverId="25292" />
+
+<!-- Collect Objective for Quest 11609: Tuskarr Ritual Object -->
+<Objective QuestName="Unknown" QuestId="11609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Kill Objective for Quest 11623: Curator Insivius -->
+<Objective QuestName="Unknown" QuestId="11623" Type="KillMob" MobId="25448" KillCount="1" />
+
+<!-- Turn In: Picking Up the Pieces -->
+<TurnIn QuestName="Picking Up the Pieces" QuestId="11609" TurnInName="Elder Atkanok" TurnInId="187565" />
+
+<!-- Pick Up: Leading the Ancestors Home -->
+<PickUp QuestName="Leading the Ancestors Home" QuestId="11610" GiverName="Elder Atkanok" GiverId="187565" />
+
+<!-- Turn In: A Visit to the Curator -->
+<TurnIn QuestName="A Visit to the Curator" QuestId="11623" TurnInName="Etaruk" TurnInId="25292" />
+
+<!-- Turn In: Leading the Ancestors Home -->
+<TurnIn QuestName="Leading the Ancestors Home" QuestId="11610" TurnInName="Elder Atkanok" TurnInId="187565" />
+
+<!-- Turn In: Nick of Time -->
+<TurnIn QuestName="Nick of Time" QuestId="11575" TurnInName="Librarian Donathan" TurnInId="25262" />
+
+<!-- Pick Up: Prison Break -->
+<PickUp QuestName="Prison Break" QuestId="11587" GiverName="Librarian Donathan" GiverId="25262" />
+
+<!-- Pick Up: Monitoring the Rift: Cleftcliff Anomaly -->
+<PickUp QuestName="Monitoring the Rift: Cleftcliff Anomaly" QuestId="11576" GiverName="Librarian Garren" GiverId="25291" />
+
+<!-- Collect Objective for Quest 11587: Beryl Prison Key -->
+<Objective QuestName="Unknown" QuestId="11587" Type="CollectItem" ItemId="34688" CollectCount="1" />
+
+<!-- Turn In: Monitoring the Rift: Cleftcliff Anomaly -->
+<TurnIn QuestName="Monitoring the Rift: Cleftcliff Anomaly" QuestId="11576" TurnInName="Librarian Garren" TurnInId="25291" />
+
+<!-- Pick Up: Monitoring the Rift: Sundered Chasm -->
+<PickUp QuestName="Monitoring the Rift: Sundered Chasm" QuestId="11582" GiverName="Librarian Garren" GiverId="25291" />
+
+<!-- Turn In: Prison Break -->
+<TurnIn QuestName="Prison Break" QuestId="11587" TurnInName="Librarian Donathan" TurnInId="25262" />
+
+<!-- Pick Up: Abduction -->
+<PickUp QuestName="Abduction" QuestId="11590" GiverName="Librarian Donathan" GiverId="25262" />
+
+<!-- Turn In: Monitoring the Rift: Sundered Chasm -->
+<TurnIn QuestName="Monitoring the Rift: Sundered Chasm" QuestId="11582" TurnInName="Librarian Garren" TurnInId="25291" />
+
+<!-- Pick Up: Monitoring the Rift: Winterfin Cavern -->
+<PickUp QuestName="Monitoring the Rift: Winterfin Cavern" QuestId="12728" GiverName="Librarian Garren" GiverId="25291" />
+
+<!-- Turn In: Monitoring the Rift: Winterfin Cavern -->
+<TurnIn QuestName="Monitoring the Rift: Winterfin Cavern" QuestId="12728" TurnInName="Librarian Garren" TurnInId="25291" />
+
+<!-- Turn In: Abduction -->
+<TurnIn QuestName="Abduction" QuestId="11590" TurnInName="Librarian Donathan" TurnInId="25262" />
+
+<!-- Pick Up: The Borean Inquisition -->
+<PickUp QuestName="The Borean Inquisition" QuestId="11646" GiverName="Librarian Donathan" GiverId="25262" />
+
+<!-- Turn In: The Borean Inquisition -->
+<TurnIn QuestName="The Borean Inquisition" QuestId="11646" TurnInName="Librarian Normantis" TurnInId="25480" />
+
+<!-- Pick Up: The Art of Persuasion -->
+<PickUp QuestName="The Art of Persuasion" QuestId="11648" GiverName="Librarian Normantis" GiverId="25480" />
+
+<!-- Turn In: The Art of Persuasion -->
+<TurnIn QuestName="The Art of Persuasion" QuestId="11648" TurnInName="Librarian Normantis" TurnInId="25480" />
+
+<!-- Pick Up: Sharing Intelligence -->
+<PickUp QuestName="Sharing Intelligence" QuestId="11663" GiverName="Librarian Normantis" GiverId="25480" />
+
+<!-- Turn In: Sharing Intelligence -->
+<TurnIn QuestName="Sharing Intelligence" QuestId="11663" TurnInName="Librarian Donathan" TurnInId="25262" />
+
+<!-- Pick Up: A Race Against Time -->
+<PickUp QuestName="A Race Against Time" QuestId="11671" GiverName="Librarian Donathan" GiverId="25262" />
+
+<!-- Collect Objective for Quest 11671: Salrand's Broken Key -->
+<Objective QuestName="Unknown" QuestId="11671" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Race Against Time -->
+<TurnIn QuestName="A Race Against Time" QuestId="11671" TurnInName="Librarian Donathan" TurnInId="25262" />
+
+<!-- Pick Up: Reforging the Key -->
+<PickUp QuestName="Reforging the Key" QuestId="11679" GiverName="Librarian Donathan" GiverId="25262" />
+
+<!-- Turn In: Reforging the Key -->
+<TurnIn QuestName="Reforging the Key" QuestId="11679" TurnInName="Surristrasz" TurnInId="24795" />
+
+<!-- Pick Up: Taking Wing -->
+<PickUp QuestName="Taking Wing" QuestId="11680" GiverName="Surristrasz" GiverId="24795" />
+
+<!-- Turn In: Taking Wing -->
+<TurnIn QuestName="Taking Wing" QuestId="11680" TurnInName="Warmage Anzim" TurnInId="25356" />
+
+<!-- Pick Up: Rescuing Evanor -->
+<PickUp QuestName="Rescuing Evanor" QuestId="11681" GiverName="Warmage Anzim" GiverId="25356" />
+
+<!-- Turn In: Rescuing Evanor -->
+<TurnIn QuestName="Rescuing Evanor" QuestId="11681" TurnInName="Archmage Evanor" TurnInId="25785" />
+
+<!-- Pick Up: Dragonspeak -->
+<PickUp QuestName="Dragonspeak" QuestId="11682" GiverName="Archmage Evanor" GiverId="25785" />
+
+<!-- Turn In: Dragonspeak -->
+<TurnIn QuestName="Dragonspeak" QuestId="11682" TurnInName="Surristrasz" TurnInId="24795" />
+
+<!-- Pick Up: Traversing the Rift -->
+<PickUp QuestName="Traversing the Rift" QuestId="11733" GiverName="Surristrasz" GiverId="24795" />
+
+<!-- Turn In: Traversing the Rift -->
+<TurnIn QuestName="Traversing the Rift" QuestId="11733" TurnInName="Archmage Berinand" TurnInId="25314" />
+
+<!-- Pick Up: Reading the Meters -->
+<PickUp QuestName="Reading the Meters" QuestId="11900" GiverName="Archmage Berinand" GiverId="25314" />
+
+<!-- Pick Up: Secrets of the Ancients -->
+<PickUp QuestName="Secrets of the Ancients" QuestId="11910" GiverName="Archmage Berinand" GiverId="25314" />
+
+<!-- Pick Up: Basic Training -->
+<PickUp QuestName="Basic Training" QuestId="11918" GiverName="Raelorasz" GiverId="26117" />
+
+<!-- Pick Up: Nuts for Berries -->
+<PickUp QuestName="Nuts for Berries" QuestId="11912" GiverName="Librarian Serrah" GiverId="26110" />
+
+<!-- Pick Up: Puzzling... -->
+<PickUp QuestName="Puzzling..." QuestId="11941" GiverName="Librarian Serrah" GiverId="26110" />
+
+<!-- Collect Objective for Quest 11910: Glacial Splinter -->
+<Objective QuestName="Unknown" QuestId="11910" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 11910: Magic-Bound Splinter -->
+<Objective QuestName="Unknown" QuestId="11910" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 11912: Frostberry -->
+<Objective QuestName="Unknown" QuestId="11912" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Reading the Meters -->
+<TurnIn QuestName="Reading the Meters" QuestId="11900" TurnInName="Archmage Berinand" TurnInId="25314" />
+
+<!-- Turn In: Secrets of the Ancients -->
+<TurnIn QuestName="Secrets of the Ancients" QuestId="11910" TurnInName="Archmage Berinand" TurnInId="25314" />
+
+<!-- Turn In: Basic Training -->
+<TurnIn QuestName="Basic Training" QuestId="11918" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Pick Up: Hatching a Plan -->
+<PickUp QuestName="Hatching a Plan" QuestId="11936" GiverName="Raelorasz" GiverId="26117" />
+
+<!-- Turn In: Puzzling... -->
+<TurnIn QuestName="Puzzling..." QuestId="11941" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Pick Up: The Cell -->
+<PickUp QuestName="The Cell" QuestId="11943" GiverName="Raelorasz" GiverId="26117" />
+
+<!-- Turn In: Nuts for Berries -->
+<TurnIn QuestName="Nuts for Berries" QuestId="11912" TurnInName="Librarian Serrah" TurnInId="26110" />
+
+<!-- Pick Up: Keep the Secret Safe -->
+<PickUp QuestName="Keep the Secret Safe" QuestId="11914" GiverName="Librarian Serrah" GiverId="26110" />
+
+<!-- Collect Objective for Quest 11943: Energy Core -->
+<Objective QuestName="Unknown" QuestId="11943" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11943: Prison Casing -->
+<Objective QuestName="Unknown" QuestId="11943" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11914: Nexus Mana Essence -->
+<Objective QuestName="Unknown" QuestId="11914" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Hatching a Plan -->
+<TurnIn QuestName="Hatching a Plan" QuestId="11936" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Pick Up: Drake Hunt -->
+<PickUp QuestName="Drake Hunt" QuestId="11919" GiverName="Raelorasz" GiverId="26117" />
+
+<!-- Turn In: The Cell -->
+<TurnIn QuestName="The Cell" QuestId="11943" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Turn In: Keep the Secret Safe -->
+<TurnIn QuestName="Keep the Secret Safe" QuestId="11914" TurnInName="Librarian Serrah" TurnInId="26110" />
+
+<!-- Turn In: Drake Hunt -->
+<TurnIn QuestName="Drake Hunt" QuestId="11919" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Pick Up: Cracking the Code -->
+<PickUp QuestName="Cracking the Code" QuestId="11931" GiverName="Raelorasz" GiverId="26117" />
+
+<!-- Pick Up: Keristrasza -->
+<PickUp QuestName="Keristrasza" QuestId="11946" GiverName="Keristrasza" GiverId="26237" />
+
+<!-- Turn In: Keristrasza -->
+<TurnIn QuestName="Keristrasza" QuestId="11946" TurnInName="Keristrasza" TurnInId="26237" />
+
+<!-- Pick Up: Bait and Switch -->
+<PickUp QuestName="Bait and Switch" QuestId="11951" GiverName="Keristrasza" GiverId="26237" />
+
+<!-- Collect Objective for Quest 11931: Shimmering Rune -->
+<Objective QuestName="Unknown" QuestId="11931" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 11931: Azure Codex -->
+<Objective QuestName="Unknown" QuestId="11931" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11951: Crystallized Mana Shard -->
+<Objective QuestName="Unknown" QuestId="11951" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Bait and Switch -->
+<TurnIn QuestName="Bait and Switch" QuestId="11951" TurnInName="Keristrasza" TurnInId="26237" />
+
+<!-- Pick Up: Saragosa's End -->
+<PickUp QuestName="Saragosa's End" QuestId="11957" GiverName="Keristrasza" GiverId="26237" />
+
+<!-- Collect Objective for Quest 11957: Saragosa's Corpse -->
+<Objective QuestName="Unknown" QuestId="11957" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Saragosa's End -->
+<TurnIn QuestName="Saragosa's End" QuestId="11957" TurnInName="Keristrasza" TurnInId="26206" />
+
+<!-- Pick Up: Mustering the Reds -->
+<PickUp QuestName="Mustering the Reds" QuestId="11967" GiverName="Keristrasza" GiverId="26206" />
+
+<!-- Turn In: Cracking the Code -->
+<TurnIn QuestName="Cracking the Code" QuestId="11931" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Turn In: Mustering the Reds -->
+<TurnIn QuestName="Mustering the Reds" QuestId="11967" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Pick Up: Springing the Trap -->
+<PickUp QuestName="Springing the Trap" QuestId="11969" GiverName="Raelorasz" GiverId="26117" />
+
+<!-- Turn In: Springing the Trap -->
+<TurnIn QuestName="Springing the Trap" QuestId="11969" TurnInName="Raelorasz" TurnInId="26117" />
+
+<!-- Turn In: Distress Call -->
+<TurnIn QuestName="Distress Call" QuestId="11707" TurnInName="Fizzcrank Fullthrottle" TurnInId="25590" />
+
+<!-- Pick Up: The Mechagnomes -->
+<PickUp QuestName="The Mechagnomes" QuestId="11708" GiverName="Fizzcrank Fullthrottle" GiverId="25590" />
+
+<!-- Turn In: The Mechagnomes -->
+<TurnIn QuestName="The Mechagnomes" QuestId="11708" TurnInName="Jinky Wingnut" TurnInId="25747" />
+
+<!-- Pick Up: Re-Cursive -->
+<PickUp QuestName="Re-Cursive" QuestId="11712" GiverName="Jinky Wingnut" GiverId="25747" />
+
+<!-- Pick Up: What's the Matter with the Transmatter? -->
+<PickUp QuestName="What's the Matter with the Transmatter?" QuestId="11710" GiverName="Mordle Cogspinner" GiverId="25702" />
+
+<!-- Pick Up: King Mrgl-Mrgl -->
+<PickUp QuestName="King Mrgl-Mrgl" QuestId="11704" GiverName="Mordle Cogspinner" GiverId="25702" />
+
+<!-- Pick Up: Dirty, Stinkin' Snobolds! -->
+<PickUp QuestName="Dirty, Stinkin' Snobolds!" QuestId="11645" GiverName="Crafty Wobblesprocket" GiverId="25477" />
+
+<!-- Collect Objective for Quest 11645: Crafty's Stuff -->
+<Objective QuestName="Unknown" QuestId="11645" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Pick Up: Get Me Outa Here! -->
+<PickUp QuestName="Get Me Outa Here!" QuestId="11673" GiverName="Bonker Togglevolt" GiverId="25589" />
+
+<!-- Turn In: Get Me Outa Here! -->
+<TurnIn QuestName="Get Me Outa Here!" QuestId="11673" TurnInName="Fizzcrank Fullthrottle" TurnInId="25590" />
+
+<!-- Turn In: Dirty, Stinkin' Snobolds! -->
+<TurnIn QuestName="Dirty, Stinkin' Snobolds!" QuestId="11645" TurnInName="Crafty Wobblesprout" TurnInId="25477" />
+
+<!-- Pick Up: Just a Few More Things... -->
+<PickUp QuestName="Just a Few More Things..." QuestId="11650" GiverName="Crafty Wobblesprout" GiverId="25477" />
+
+<!-- Turn In: The Ultrasonic Screwdriver -->
+<TurnIn QuestName="The Ultrasonic Screwdriver" QuestId="11729" TurnInName="Crafty Wobblesprout" TurnInId="25477" />
+
+<!-- Pick Up: Master and Servant -->
+<PickUp QuestName="Master and Servant" QuestId="11730" GiverName="Crafty Wobblesprout" GiverId="25477" />
+
+<!-- Turn In: What's the Matter with the Transmatter? -->
+<TurnIn QuestName="What's the Matter with the Transmatter?" QuestId="11710" TurnInName="Mordle Cogspinner" TurnInId="25702" />
+
+<!-- Pick Up: Check in With Bixie -->
+<PickUp QuestName="Check in With Bixie" QuestId="11692" GiverName="Mordle Cogspinner" GiverId="25702" />
+
+<!-- Turn In: Re-Cursive -->
+<TurnIn QuestName="Re-Cursive" QuestId="11712" TurnInName="Jinky Wingnut" TurnInId="25747" />
+
+<!-- Pick Up: Lefty Loosey, Righty Tighty -->
+<PickUp QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" GiverName="Jinky Wingnut" GiverId="25747" />
+
+<!-- Pick Up: Finding Pilot Tailspin -->
+<PickUp QuestName="Finding Pilot Tailspin" QuestId="11725" GiverName="Fizzcrank Fullthrottle" GiverId="25590" />
+
+<!-- Kill Objective for Quest 11788: Twonky -->
+<Objective QuestName="Unknown" QuestId="11788" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 11788: ED-210 -->
+<Objective QuestName="Unknown" QuestId="11788" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 11788: Max Blasto -->
+<Objective QuestName="Unknown" QuestId="11788" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 11650: Crafty's Tools -->
+<Objective QuestName="Unknown" QuestId="11650" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 11788: The Grinder -->
+<Objective QuestName="Unknown" QuestId="11788" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Finding Pilot Tailspin -->
+<TurnIn QuestName="Finding Pilot Tailspin" QuestId="11725" TurnInName="Iggy &quot;Tailspin&quot; Cogtoggle" TurnInId="25807" />
+
+<!-- Pick Up: A Little Bit of Spice -->
+<PickUp QuestName="A Little Bit of Spice" QuestId="11726" GiverName="Iggy &quot;Tailspin&quot; Cogtoggle" GiverId="25807" />
+
+<!-- Collect Objective for Quest 11726: Gorloc Spice Pouch -->
+<Objective QuestName="Unknown" QuestId="11726" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: A Little Bit of Spice -->
+<TurnIn QuestName="A Little Bit of Spice" QuestId="11726" TurnInName="Iggy &quot;Tailspin&quot; Cogtoggle" TurnInId="25807" />
+
+<!-- Pick Up: Lupus Pupus -->
+<PickUp QuestName="Lupus Pupus" QuestId="11728" GiverName="Iggy &quot;Tailspin&quot; Cogtoggle" GiverId="25807" />
+
+<!-- Collect Objective for Quest 11728: Microfilm -->
+<Objective QuestName="Unknown" QuestId="11728" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Lupus Pupus -->
+<TurnIn QuestName="Lupus Pupus" QuestId="11728" TurnInName="Iggy &quot;Tailspin&quot; Cogtoggle" TurnInId="25807" />
+
+<!-- Pick Up: Emergency Protocol: Section 8.2, Paragraph C -->
+<PickUp QuestName="Emergency Protocol: Section 8.2, Paragraph C" QuestId="11795" GiverName="Iggy &quot;Tailspin&quot; Cogtoggle" GiverId="25807" />
+
+<!-- Collect Objective for Quest 11795: Fizzcrank Pilot's Insignia -->
+<Objective QuestName="Unknown" QuestId="11795" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Emergency Protocol: Section 8.2, Paragraph C -->
+<TurnIn QuestName="Emergency Protocol: Section 8.2, Paragraph C" QuestId="11795" TurnInName="Iggy &quot;Tailspin&quot; Cogtoggle" TurnInId="25807" />
+
+<!-- Pick Up: Emergency Protocol: Section 8.2, Paragraph D -->
+<PickUp QuestName="Emergency Protocol: Section 8.2, Paragraph D" QuestId="11796" GiverName="Iggy &quot;Tailspin&quot; Cogtoggle" GiverId="25807" />
+
+<!-- Turn In: Emergency Protocol: Section 8.2, Paragraph D -->
+<TurnIn QuestName="Emergency Protocol: Section 8.2, Paragraph D" QuestId="11796" TurnInName="Iggy &quot;Tailspin&quot; Cogtoggle" TurnInId="25807" />
+
+<!-- Pick Up: Give Fizzcrank the News -->
+<PickUp QuestName="Give Fizzcrank the News" QuestId="11873" GiverName="Iggy &quot;Tailspin&quot; Cogtoggle" GiverId="25807" />
+
+<!-- Turn In: Cowards and Fools -->
+<TurnIn QuestName="Cowards and Fools" QuestId="11932" TurnInName="Ataika" TurnInId="26169" />
+
+<!-- Pick Up: The Son of Karkut -->
+<PickUp QuestName="The Son of Karkut" QuestId="12086" GiverName="Ataika" GiverId="26169" />
+
+<!-- Pick Up: Not Without a Fight! -->
+<PickUp QuestName="Not Without a Fight!" QuestId="11949" GiverName="Ataika" GiverId="26169" />
+
+<!-- Pick Up: Preparing for the Worst -->
+<PickUp QuestName="Preparing for the Worst" QuestId="11945" GiverName="Utaik" GiverId="26213" />
+
+<!-- Kill Objective for Quest 11949: Kvaldir Raider -->
+<Objective QuestName="Unknown" QuestId="11949" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 11945: Kaskala Supplies -->
+<Objective QuestName="Unknown" QuestId="11945" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Not Without a Fight! -->
+<TurnIn QuestName="Not Without a Fight!" QuestId="11949" TurnInName="Ataika" TurnInId="26169" />
+
+<!-- Pick Up: Muahit's Wisdom -->
+<PickUp QuestName="Muahit's Wisdom" QuestId="11950" GiverName="Ataika" GiverId="26169" />
+
+<!-- Turn In: Preparing for the Worst -->
+<TurnIn QuestName="Preparing for the Worst" QuestId="11945" TurnInName="Utaik" TurnInId="26213" />
+
+<!-- Turn In: Muahit's Wisdom -->
+<TurnIn QuestName="Muahit's Wisdom" QuestId="11950" TurnInName="Elder Muahit" TurnInId="26218" />
+
+<!-- Pick Up: Spirits Watch Over Us -->
+<PickUp QuestName="Spirits Watch Over Us" QuestId="11961" GiverName="Elder Muahit" GiverId="26218" />
+
+<!-- Collect Objective for Quest 11961: Issliruk's Totem -->
+<Objective QuestName="Unknown" QuestId="11961" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Spirits Watch Over Us -->
+<TurnIn QuestName="Spirits Watch Over Us" QuestId="11961" TurnInName="Elder Muahit" TurnInId="26218" />
+
+<!-- Pick Up: The Tides Turn -->
+<PickUp QuestName="The Tides Turn" QuestId="11968" GiverName="Elder Muahit" GiverId="26218" />
+
+<!-- Kill Objective for Quest 11968: Heigarr the Horrible -->
+<Objective QuestName="Unknown" QuestId="11968" Type="KillMob" MobId="26266" KillCount="1" />
+
+<!-- Turn In: The Tides Turn -->
+<TurnIn QuestName="The Tides Turn" QuestId="11968" TurnInName="Elder Muahit" TurnInId="26218" />
+
+<!-- Pick Up: Travel to Moa'ki Harbor -->
+<PickUp QuestName="Travel to Moa'ki Harbor" QuestId="12117" GiverName="Hotawa" GiverId="28382" />
+
+<!-- Turn In: The Son of Karkut -->
+<TurnIn QuestName="The Son of Karkut" QuestId="12086" TurnInName="Corporal Venn" TurnInId="26187" />
+
+<!-- Pick Up: Surrounded! -->
+<PickUp QuestName="Surrounded!" QuestId="11944" GiverName="Corporal Venn" GiverId="26187" />
+
+<!-- Pick Up: The Lost Courier -->
+<PickUp QuestName="The Lost Courier" QuestId="12157" GiverName="Private Casey" GiverId="26186" />
+
+<!-- Collect Objective for Quest 11650: A Handful of Rocknar's Grit -->
+<Objective QuestName="Unknown" QuestId="11650" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 11944: Ziggurat Defender -->
+<Objective QuestName="Unknown" QuestId="11944" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Turn In: Surrounded! -->
+<TurnIn QuestName="Surrounded!" QuestId="11944" TurnInName="Corporal Venn" TurnInId="26187" />
+
+<!-- Pick Up: Thassarian, the Death Knight -->
+<PickUp QuestName="Thassarian, the Death Knight" QuestId="12088" GiverName="Corporal Venn" GiverId="26187" />
+
+<!-- Turn In: Thassarian, the Death Knight -->
+<TurnIn QuestName="Thassarian, the Death Knight" QuestId="12088" TurnInName="Thassarian" TurnInId="26170" />
+
+<!-- Pick Up: Finding the Phylactery -->
+<PickUp QuestName="Finding the Phylactery" QuestId="11956" GiverName="Thassarian" GiverId="26170" />
+
+<!-- Collect Objective for Quest 11956: Tanathal's Phylactery -->
+<Objective QuestName="Unknown" QuestId="11956" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Finding the Phylactery -->
+<TurnIn QuestName="Finding the Phylactery" QuestId="11956" TurnInName="Thassarian" TurnInId="26170" />
+
+<!-- Pick Up: Buying Some Time -->
+<PickUp QuestName="Buying Some Time" QuestId="11938" GiverName="Thassarian" GiverId="26170" />
+
+<!-- Kill Objective for Quest 11938: En'kilah mob|goal 20 En'kilah Casualty -->
+<Objective QuestName="Unknown" QuestId="11938" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Turn In: Buying Some Time -->
+<TurnIn QuestName="Buying Some Time" QuestId="11938" TurnInName="Thassarian" TurnInId="26170" />
+
+<!-- Pick Up: Words of Power -->
+<PickUp QuestName="Words of Power" QuestId="11942" GiverName="Thassarian" GiverId="26170" />
+
+<!-- Collect Objective for Quest 11942: High Priest Talet-Kha's Scroll -->
+<Objective QuestName="Unknown" QuestId="11942" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11942: High Priest Andorath's Scroll -->
+<Objective QuestName="Unknown" QuestId="11942" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11942: High Priest Naferset's Scroll -->
+<Objective QuestName="Unknown" QuestId="11942" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Words of Power -->
+<TurnIn QuestName="Words of Power" QuestId="11942" TurnInName="Thassarian" TurnInId="26170" />
+
+<!-- Turn In: Give Fizzcrank the News -->
+<TurnIn QuestName="Give Fizzcrank the News" QuestId="11873" TurnInName="Fizzcrank Fullthrottle" TurnInId="25590" />
+
+<!-- Pick Up: Scouting the Sinkholes -->
+<PickUp QuestName="Scouting the Sinkholes" QuestId="11713" GiverName="Abner Fizzletorque" GiverId="25780" />
+
+<!-- Turn In: Lefty Loosey, Righty Tighty -->
+<TurnIn QuestName="Lefty Loosey, Righty Tighty" QuestId="11788" TurnInName="Jinky Wingnut" TurnInId="25747" />
+
+<!-- Pick Up: The Gearmaster -->
+<PickUp QuestName="The Gearmaster" QuestId="11798" GiverName="Jinky Wingnut" GiverId="25747" />
+
+<!-- Turn In: Just a Few More Things... -->
+<TurnIn QuestName="Just a Few More Things..." QuestId="11650" TurnInName="Crafty Wobblesprocket" TurnInId="25477" />
+
+<!-- Turn In: Master and Servant -->
+<TurnIn QuestName="Master and Servant" QuestId="11730" TurnInName="Crafty Wobblesprocket" TurnInId="25477" />
+
+<!-- Pick Up: Hah... You're Not So Big Now! -->
+<PickUp QuestName="Hah... You're Not So Big Now!" QuestId="11653" GiverName="Crafty Wobblesprocket" GiverId="25477" />
+
+<!-- Turn In: Hah... You're Not So Big Now! -->
+<TurnIn QuestName="Hah... You're Not So Big Now!" QuestId="11653" TurnInName="Crafty Wobblesprocket" TurnInId="25477" />
+
+<!-- Pick Up: Plan B -->
+<PickUp QuestName="Plan B" QuestId="11658" GiverName="Crafty Wobblesprocket" GiverId="25477" />
+
+<!-- Collect Objective for Quest 11658: Warsong Outfit -->
+<Objective QuestName="Unknown" QuestId="11658" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 11658: Warsong Banner -->
+<Objective QuestName="Unknown" QuestId="11658" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: King Mrgl-Mrgl -->
+<TurnIn QuestName="King Mrgl-Mrgl" QuestId="11704" TurnInName="King Mrgl-Mrgl" TurnInId="25197" />
+
+<!-- Pick Up: Learning to Communicate -->
+<PickUp QuestName="Learning to Communicate" QuestId="11571" GiverName="King Mrgl-Mrgl" GiverId="25197" />
+
+<!-- Collect Objective for Quest 11571: The King's Filled Conch -->
+<Objective QuestName="Unknown" QuestId="11571" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Learning to Communicate -->
+<TurnIn QuestName="Learning to Communicate" QuestId="11571" TurnInName="King Mrgl-Mrgl" TurnInId="25197" />
+
+<!-- Pick Up: Winterfin Commerce -->
+<PickUp QuestName="Winterfin Commerce" QuestId="11559" GiverName="King Mrgl-Mrgl" GiverId="25197" />
+
+<!-- Collect Objective for Quest 11559: Winterfin Clam -->
+<Objective QuestName="Unknown" QuestId="11559" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Winterfin Commerce -->
+<TurnIn QuestName="Winterfin Commerce" QuestId="11559" TurnInName="Ahlurglgr" TurnInId="25206" />
+
+<!-- Pick Up: Them! -->
+<PickUp QuestName="Them!" QuestId="11561" GiverName="Brglmurgl" GiverId="25199" />
+
+<!-- Pick Up: Oh Noes, the Tadpoles! -->
+<PickUp QuestName="Oh Noes, the Tadpoles!" QuestId="11560" GiverName="King Mrgl-Mrgl" GiverId="25197" />
+
+<!-- Kill Objective for Quest 11561: Winterfin murlocs -->
+<Objective QuestName="Unknown" QuestId="11561" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Turn In: Them! -->
+<TurnIn QuestName="Them!" QuestId="11561" TurnInName="Brglmurgl" TurnInId="25199" />
+
+<!-- Turn In: Oh Noes, the Tadpoles! -->
+<TurnIn QuestName="Oh Noes, the Tadpoles!" QuestId="11560" TurnInName="King Mrgl-Mrgl" TurnInId="25197" />
+
+<!-- Pick Up: I'm Being Blackmailed By My Cleaner -->
+<PickUp QuestName="I'm Being Blackmailed By My Cleaner" QuestId="11562" GiverName="King Mrgl-Mrgl" GiverId="25197" />
+
+<!-- Turn In: I'm Being Blackmailed By My Cleaner -->
+<TurnIn QuestName="I'm Being Blackmailed By My Cleaner" QuestId="11562" TurnInName="Mrmrglmr" TurnInId="25205" />
+
+<!-- Pick Up: Grmmurggll Mrllggrl Glrggl!!! -->
+<PickUp QuestName="Grmmurggll Mrllggrl Glrggl!!!" QuestId="11563" GiverName="Mrmrglmr" GiverId="25205" />
+
+<!-- Pick Up: Succulent Orca Stew -->
+<PickUp QuestName="Succulent Orca Stew" QuestId="11564" GiverName="Cleaver Bmurglbrm" GiverId="25211" />
+
+<!-- Collect Objective for Quest 11564: Succulent Orca Blubber -->
+<Objective QuestName="Unknown" QuestId="11564" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 11563: Glrggl's Head -->
+<Objective QuestName="Unknown" QuestId="11563" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Grmmurggll Mrllggrl Glrggl!!! -->
+<TurnIn QuestName="Grmmurggll Mrllggrl Glrggl!!!" QuestId="11563" TurnInName="Mrmrglmr" TurnInId="25205" />
+
+<!-- Pick Up: The Spare Suit -->
+<PickUp QuestName="The Spare Suit" QuestId="11565" GiverName="Mrmrglmr" GiverId="25205" />
+
+<!-- Turn In: Succulent Orca Stew -->
+<TurnIn QuestName="Succulent Orca Stew" QuestId="11564" TurnInName="Cleaver Bmurglbrm" TurnInId="25211" />
+
+<!-- Turn In: The Spare Suit -->
+<TurnIn QuestName="The Spare Suit" QuestId="11565" TurnInName="King Mrgl-Mrgl" TurnInId="25197" />
+
+<!-- Pick Up: Surrender... Not! -->
+<PickUp QuestName="Surrender... Not!" QuestId="11566" GiverName="King Mrgl-Mrgl" GiverId="25197" />
+
+<!-- Pick Up: Keymaster Urmgrgl -->
+<PickUp QuestName="Keymaster Urmgrgl" QuestId="11569" GiverName="Glrglrglr" GiverId="28375" />
+
+<!-- Collect Objective for Quest 11569: Urmgrgl's Key -->
+<Objective QuestName="Unknown" QuestId="11569" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11566: Claw of Claximus -->
+<Objective QuestName="Unknown" QuestId="11566" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Keymaster Urmgrgl -->
+<TurnIn QuestName="Keymaster Urmgrgl" QuestId="11569" TurnInName="Glrglrglr" TurnInId="28375" />
+
+<!-- Pick Up: Escape from the Winterfin Caverns -->
+<PickUp QuestName="Escape from the Winterfin Caverns" QuestId="11570" GiverName="Lurgglbr" GiverId="25208" />
+
+<!-- Turn In: Surrender... Not! -->
+<TurnIn QuestName="Surrender... Not!" QuestId="11566" TurnInName="King Mrgl-Mrgl" TurnInId="25197" />
+
+<!-- Turn In: Escape from the Winterfin Caverns -->
+<TurnIn QuestName="Escape from the Winterfin Caverns" QuestId="11570" TurnInName="King Mrgl-Mrgl" TurnInId="25197" />
+
+<!-- Turn In: Plan B -->
+<TurnIn QuestName="Plan B" QuestId="11658" TurnInName="Crafty Wobblesprocket" TurnInId="25477" />
+
+<!-- Pick Up: It Was The Orcs, Honest! -->
+<PickUp QuestName="It Was The Orcs, Honest!" QuestId="11670" GiverName="Crafty Wobblesprocket" GiverId="25477" />
+
+<!-- Turn In: It Was The Orcs, Honest! -->
+<TurnIn QuestName="It Was The Orcs, Honest!" QuestId="11670" TurnInName="Crafty Wobblesprocket" TurnInId="25477" />
+
+<!-- Collect Objective for Quest 11798: Mechazod's Head -->
+<Objective QuestName="Unknown" QuestId="11798" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Check in With Bixie -->
+<TurnIn QuestName="Check in With Bixie" QuestId="11692" TurnInName="Bixie Wrenchshanker" TurnInId="25705" />
+
+<!-- Pick Up: Oh Great... Plagued Magnataur! -->
+<PickUp QuestName="Oh Great... Plagued Magnataur!" QuestId="11693" GiverName="Bixie Wrenchshanker" GiverId="25705" />
+
+<!-- Kill Objective for Quest 11693: Plagued Magnataur -->
+<Objective QuestName="Unknown" QuestId="11693" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Oh Great... Plagued Magnataur! -->
+<TurnIn QuestName="Oh Great... Plagued Magnataur!" QuestId="11693" TurnInName="Bixie Wrenchshanker" TurnInId="25705" />
+
+<!-- Pick Up: There's Something Going On In Those Caves -->
+<PickUp QuestName="There's Something Going On In Those Caves" QuestId="11694" GiverName="Bixie Wrenchshanker" GiverId="25705" />
+
+<!-- Turn In: There's Something Going On In Those Caves -->
+<TurnIn QuestName="There's Something Going On In Those Caves" QuestId="11694" TurnInName="Bixie Wrenchshanker" TurnInId="25705" />
+
+<!-- Pick Up: Rats, Tinky Went into the Necropolis! -->
+<PickUp QuestName="Rats, Tinky Went into the Necropolis!" QuestId="11697" GiverName="Bixie Wrenchshanker" GiverId="25705" />
+
+<!-- Pick Up: Might As Well Wipe Out the Scourge -->
+<PickUp QuestName="Might As Well Wipe Out the Scourge" QuestId="11698" GiverName="Bixie Wrenchshanker" GiverId="25705" />
+
+<!-- Turn In: Rats, Tinky Went into the Necropolis! -->
+<TurnIn QuestName="Rats, Tinky Went into the Necropolis!" QuestId="11697" TurnInName="Tinky Wickwhistle" TurnInId="25714" />
+
+<!-- Pick Up: I'm Stuck in this Damned Cage... But Not For Long! -->
+<PickUp QuestName="I'm Stuck in this Damned Cage... But Not For Long!" QuestId="11699" GiverName="Tinky Wickwhistle" GiverId="25714" />
+
+<!-- Collect Objective for Quest 11699: Engine-Core Crystal -->
+<Objective QuestName="Unknown" QuestId="11699" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11699: Piloting Scourgestone -->
+<Objective QuestName="Unknown" QuestId="11699" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11699: Magical Gyroscope -->
+<Objective QuestName="Unknown" QuestId="11699" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: I'm Stuck in this Damned Cage... But Not For Long! -->
+<TurnIn QuestName="I'm Stuck in this Damned Cage... But Not For Long!" QuestId="11699" TurnInName="Tinky Wickwhistle" TurnInId="25714" />
+
+<!-- Pick Up: Let Bixie Know -->
+<PickUp QuestName="Let Bixie Know" QuestId="11700" GiverName="Tinky Wickwhistle" GiverId="25714" />
+
+<!-- Turn In: Might As Well Wipe Out the Scourge -->
+<TurnIn QuestName="Might As Well Wipe Out the Scourge" QuestId="11698" TurnInName="Bixie Wrenchshanker" TurnInId="25705" />
+
+<!-- Turn In: Let Bixie Know -->
+<TurnIn QuestName="Let Bixie Know" QuestId="11700" TurnInName="Bixie Wrenchshanker" TurnInId="25705" />
+
+<!-- Pick Up: Back to the Airstrip -->
+<PickUp QuestName="Back to the Airstrip" QuestId="11701" GiverName="Bixie Wrenchshanker" GiverId="25705" />
+
+<!-- Turn In: Scouting the Sinkholes -->
+<TurnIn QuestName="Scouting the Sinkholes" QuestId="11713" TurnInName="Abner Fizzletorque" TurnInId="25780" />
+
+<!-- Pick Up: Fueling the Project -->
+<PickUp QuestName="Fueling the Project" QuestId="11715" GiverName="Abner Fizzletorque" GiverId="25780" />
+
+<!-- Turn In: Back to the Airstrip -->
+<TurnIn QuestName="Back to the Airstrip" QuestId="11701" TurnInName="Fizzcrank Fullthrottle" TurnInId="25590" />
+
+<!-- Turn In: The Gearmaster -->
+<TurnIn QuestName="The Gearmaster" QuestId="11798" TurnInName="Fizzcrank Fullthrottle" TurnInId="25590" />
+
+<!-- Turn In: Fueling the Project -->
+<TurnIn QuestName="Fueling the Project" QuestId="11715" TurnInName="Abner Fizzletorque" TurnInId="25780" />
+
+<!-- Pick Up: A Bot in Mammoth's Clothing -->
+<PickUp QuestName="A Bot in Mammoth's Clothing" QuestId="11718" GiverName="Abner Fizzletorque" GiverId="25780" />
+
+<!-- Collect Objective for Quest 11718: Thick Mammoth Hide -->
+<Objective QuestName="Unknown" QuestId="11718" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: A Bot in Mammoth's Clothing -->
+<TurnIn QuestName="A Bot in Mammoth's Clothing" QuestId="11718" TurnInName="Abner Fizzletorque" TurnInId="25780" />
+
+<!-- Pick Up: Deploy the Shake-n-Quake! -->
+<PickUp QuestName="Deploy the Shake-n-Quake!" QuestId="11723" GiverName="Abner Fizzletorque" GiverId="25780" />
+
+<!-- Kill Objective for Quest 11723: Lord Kryxix -->
+<Objective QuestName="Unknown" QuestId="11723" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Deploy the Shake-n-Quake! -->
+<TurnIn QuestName="Deploy the Shake-n-Quake!" QuestId="11723" TurnInName="Abner Fizzletorque" TurnInId="25780" />
+
+<!-- Pick Up: Hell Has Frozen Over... -->
+<PickUp QuestName="Hell Has Frozen Over..." QuestId="11228" GiverName="Macalroy" GiverId="23547" />
+
+<!-- Turn In: Hell Has Frozen Over... -->
+<TurnIn QuestName="Hell Has Frozen Over..." QuestId="11228" TurnInName="Vice Admiral Keller" TurnInId="23546" />
+
+<!-- Pick Up: If Valgarde Falls... -->
+<PickUp QuestName="If Valgarde Falls..." QuestId="11243" GiverName="Vice Admiral Keller" GiverId="23546" />
+
+<!-- Kill Objective for Quest 11243: Dragonflayer Invader -->
+<Objective QuestName="Unknown" QuestId="11243" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: If Valgarde Falls... -->
+<TurnIn QuestName="If Valgarde Falls..." QuestId="11243" TurnInName="Vice Admiral Keller" TurnInId="23546" />
+
+<!-- Pick Up: Rescuing the Rescuers -->
+<PickUp QuestName="Rescuing the Rescuers" QuestId="11244" GiverName="Vice Admiral Keller" GiverId="23546" />
+
+<!-- Pick Up: Fresh Legs -->
+<PickUp QuestName="Fresh Legs" QuestId="11251" GiverName="Scout Valory" GiverId="24106" />
+
+<!-- Turn In: Fresh Legs -->
+<TurnIn QuestName="Fresh Legs" QuestId="11251" TurnInName="Defender Mordun" TurnInId="24111" />
+
+<!-- Turn In: Rescuing the Rescuers -->
+<TurnIn QuestName="Rescuing the Rescuers" QuestId="11244" TurnInName="Vice Admiral Keller" TurnInId="23546" />
+
+<!-- Pick Up: Prisoners of Wyrmskull -->
+<PickUp QuestName="Prisoners of Wyrmskull" QuestId="11255" GiverName="Vice Admiral Keller" GiverId="23546" />
+
+<!-- Pick Up: The Human League -->
+<PickUp QuestName="The Human League" QuestId="11273" GiverName="Beltrand McSorf" GiverId="23548" />
+
+<!-- Pick Up: Into the World of Spirits -->
+<PickUp QuestName="Into the World of Spirits" QuestId="11333" GiverName="Thoralius the Wise" GiverId="23975" />
+
+<!-- Pick Up: The Path to Payback -->
+<PickUp QuestName="The Path to Payback" QuestId="11420" GiverName="Guard Captain Zorek" GiverId="23728" />
+
+<!-- Collect Objective for Quest 11333: Reagent Pouch -->
+<Objective QuestName="Unknown" QuestId="11333" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Daggercap Divin' -->
+<PickUp QuestName="Daggercap Divin'" QuestId="11443" GiverName="Harold Lagras" GiverId="23730" />
+
+<!-- Collect Objective for Quest 11443: Valgarde Supply Crate -->
+<Objective QuestName="Unknown" QuestId="11443" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Daggercap Divin' -->
+<TurnIn QuestName="Daggercap Divin'" QuestId="11443" TurnInName="Harold Lagras" TurnInId="23730" />
+
+<!-- Turn In: The Human League -->
+<TurnIn QuestName="The Human League" QuestId="11273" TurnInName="Pulroy the Archaeologist" TurnInId="24122" />
+
+<!-- Pick Up: Zedd's Probably Dead -->
+<PickUp QuestName="Zedd's Probably Dead" QuestId="11274" GiverName="Pulroy the Archaeologist" GiverId="24122" />
+
+<!-- Turn In: Zedd's Probably Dead -->
+<TurnIn QuestName="Zedd's Probably Dead" QuestId="11274" TurnInName="Zedd" TurnInId="24145" />
+
+<!-- Pick Up: And Then There Were Two... -->
+<PickUp QuestName="And Then There Were Two..." QuestId="11276" GiverName="Zedd" GiverId="24145" />
+
+<!-- Turn In: And Then There Were Two... -->
+<TurnIn QuestName="And Then There Were Two..." QuestId="11276" TurnInName="Glorenfeld" TurnInId="24150" />
+
+<!-- Pick Up: The Depths of Depravity -->
+<PickUp QuestName="The Depths of Depravity" QuestId="11277" GiverName="Glorenfeld" GiverId="24150" />
+
+<!-- Collect Objective for Quest 11277: Wyrmskull Tablet -->
+<Objective QuestName="Unknown" QuestId="11277" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 11420: Harpoon Operation Manual -->
+<Objective QuestName="Unknown" QuestId="11420" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Shining Light -->
+<PickUp QuestName="The Shining Light" QuestId="11288" GiverName="Ares the Oathbound" GiverId="24189" />
+
+<!-- Collect Objective for Quest 11288: Sacred Artifact -->
+<Objective QuestName="Unknown" QuestId="11288" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Shining Light -->
+<TurnIn QuestName="The Shining Light" QuestId="11288" TurnInName="Ares the Oathbound" TurnInId="24189" />
+
+<!-- Pick Up: Guided by Honor -->
+<PickUp QuestName="Guided by Honor" QuestId="11289" GiverName="Ares the Oathbound" GiverId="24189" />
+
+<!-- Turn In: The Depths of Depravity -->
+<TurnIn QuestName="The Depths of Depravity" QuestId="11277" TurnInName="Glorenfeld" TurnInId="24150" />
+
+<!-- Pick Up: The Ring of Judgement -->
+<PickUp QuestName="The Ring of Judgement" QuestId="11299" GiverName="Glorenfeld" GiverId="24150" />
+
+<!-- Turn In: The Ring of Judgement -->
+<TurnIn QuestName="The Ring of Judgement" QuestId="11299" TurnInName="Daegarn" TurnInId="24151" />
+
+<!-- Pick Up: Stunning Defeat at the Ring -->
+<PickUp QuestName="Stunning Defeat at the Ring" QuestId="11300" GiverName="Daegarn" GiverId="24151" />
+
+<!-- Collect Objective for Quest 11300: Ancient Cipher -->
+<Objective QuestName="Unknown" QuestId="11300" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Stunning Defeat at the Ring -->
+<TurnIn QuestName="Stunning Defeat at the Ring" QuestId="11300" TurnInName="Glorenfeld" TurnInId="24150" />
+
+<!-- Pick Up: Return to Valgarde -->
+<PickUp QuestName="Return to Valgarde" QuestId="11278" GiverName="Glorenfeld" GiverId="24150" />
+
+<!-- Turn In: Guided by Honor -->
+<TurnIn QuestName="Guided by Honor" QuestId="11289" TurnInName="Lord Irulon Trueblade" TurnInId="24191" />
+
+<!-- Turn In: The Path to Payback -->
+<TurnIn QuestName="The Path to Payback" QuestId="11420" TurnInName="Guard Captain Zorek" TurnInId="23728" />
+
+<!-- Pick Up: Locating the Mechanism -->
+<PickUp QuestName="Locating the Mechanism" QuestId="11426" GiverName="Guard Captain Zorek" GiverId="23728" />
+
+<!-- Turn In: Prisoners of Wyrmskull -->
+<TurnIn QuestName="Prisoners of Wyrmskull" QuestId="11255" TurnInName="Vice Admiral Keller" TurnInId="23546" />
+
+<!-- Pick Up: Dragonflayer Battle Plans -->
+<PickUp QuestName="Dragonflayer Battle Plans" QuestId="11290" GiverName="Vice Admiral Keller" GiverId="23546" />
+
+<!-- Turn In: Return to Valgarde -->
+<TurnIn QuestName="Return to Valgarde" QuestId="11278" TurnInName="Beltrand McSorf" TurnInId="23548" />
+
+<!-- Pick Up: The Explorers' League Outpost -->
+<PickUp QuestName="The Explorers' League Outpost" QuestId="11448" GiverName="Beltrand McSorf" GiverId="23548" />
+
+<!-- Turn In: Into the World of Spirits -->
+<TurnIn QuestName="Into the World of Spirits" QuestId="11333" TurnInName="Thoralius the Wise" TurnInId="23975" />
+
+<!-- Pick Up: The Echo of Ymiron -->
+<PickUp QuestName="The Echo of Ymiron" QuestId="11343" GiverName="Thoralius the Wise" GiverId="23975" />
+
+</QuestOrder>

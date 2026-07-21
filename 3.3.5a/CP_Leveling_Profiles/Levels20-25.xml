@@ -1,0 +1,491 @@
+<QuestOrder>
+
+<!-- Collect Objective for Quest 127: Spotted Sunfish -->
+<Objective QuestName="Unknown" QuestId="127" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 92: Tough Condor Meat -->
+<Objective QuestName="Unknown" QuestId="92" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 20: Battleworn Axe -->
+<Objective QuestName="Unknown" QuestId="20" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Pick Up: Gakin's Summons -->
+  <PickUp QuestName="Gakin's Summons" QuestId="1717" GiverName="Lago Blackwrench" GiverId="6120" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Gakin's Summons -->
+  <TurnIn QuestName="Gakin's Summons" QuestId="1717" TurnInName="Gakin the Darkbinder" TurnInId="6122" />
+  <!-- Pick Up: Devourer of Souls -->
+  <PickUp QuestName="Devourer of Souls" QuestId="1716" GiverName="Gakin the Darkbinder" GiverId="6122" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Devourer of Souls -->
+  <TurnIn QuestName="Devourer of Souls" QuestId="1716" TurnInName="Takar the Seer" TurnInId="6244" />
+  <!-- Pick Up: Heartswood -->
+  <PickUp QuestName="Heartswood" QuestId="1738" GiverName="Takar the Seer" GiverId="6244" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Collect Objective for Quest 1738: Heartswood -->
+  <Objective QuestName="Unknown" QuestId="1738" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Heartswood -->
+  <TurnIn QuestName="Heartswood" QuestId="1738" TurnInName="Gakin the Darkbinder" TurnInId="6122" />
+  <!-- Pick Up: The Binding -->
+  <PickUp QuestName="The Binding" QuestId="1739" GiverName="Gakin the Darkbinder" GiverId="6122" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Kill Objective for Quest 1739: Summoned Succubus -->
+  <Objective QuestName="Unknown" QuestId="1739" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Binding -->
+  <TurnIn QuestName="The Binding" QuestId="1739" TurnInName="Gakin the Darkbinder" TurnInId="6122" />
+</If>
+
+<!-- Turn In: Redridge Goulash -->
+<TurnIn QuestName="Redridge Goulash" QuestId="92" TurnInName="Chef Breanna" TurnInId="343" />
+
+<!-- Turn In: Selling Fish -->
+<TurnIn QuestName="Selling Fish" QuestId="127" TurnInName="Dockmaster Baren" TurnInId="381" />
+
+<!-- Pick Up: Murloc Poachers -->
+<PickUp QuestName="Murloc Poachers" QuestId="150" GiverName="Dockmaster Baren" GiverId="381" />
+
+<!-- Turn In: Murloc Poachers -->
+<TurnIn QuestName="Murloc Poachers" QuestId="150" TurnInName="Dockmaster Baren" TurnInId="381" />
+
+<!-- Turn In: Blackrock Menace -->
+<TurnIn QuestName="Blackrock Menace" QuestId="20" TurnInName="Marshal Marris" TurnInId="382" />
+
+<!-- Kill Objective for Quest 124: Redridge Brute -->
+<Objective QuestName="Unknown" QuestId="124" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 124: Redridge Mystic -->
+<Objective QuestName="Unknown" QuestId="124" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 89: Iron Pike -->
+<Objective QuestName="Unknown" QuestId="89" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 89: Iron Rivet -->
+<Objective QuestName="Unknown" QuestId="89" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: The Everstill Bridge -->
+<TurnIn QuestName="The Everstill Bridge" QuestId="89" TurnInName="Foreman Oslow" TurnInId="341" />
+
+<!-- Turn In: A Baying of Gnolls -->
+<TurnIn QuestName="A Baying of Gnolls" QuestId="124" TurnInName="Verner Osgood" TurnInId="415" />
+
+<!-- Collect Objective for Quest 142: A Mysterious Message -->
+<Objective QuestName="Unknown" QuestId="142" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Keeper of the Flame -->
+<PickUp QuestName="Keeper of the Flame" QuestId="103" GiverName="Captain Grayson" GiverId="392" />
+
+<!-- Turn In: Keeper of the Flame -->
+<TurnIn QuestName="Keeper of the Flame" QuestId="103" TurnInName="Captain Grayson" TurnInId="392" />
+
+<!-- Pick Up: The Coastal Menace -->
+<PickUp QuestName="The Coastal Menace" QuestId="104" GiverName="Captain Grayson" GiverId="392" />
+
+<!-- Collect Objective for Quest 104: Scale of Old Murk-Eye -->
+<Objective QuestName="Unknown" QuestId="104" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Coastal Menace -->
+<TurnIn QuestName="The Coastal Menace" QuestId="104" TurnInName="Captain Grayson" TurnInId="392" />
+
+<!-- Turn In: The Defias Brotherhood (5) -->
+<TurnIn QuestName="The Defias Brotherhood (5)" QuestId="142" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: The Defias Brotherhood (6) -->
+<PickUp QuestName="The Defias Brotherhood (6)" QuestId="155" GiverName="Defias Traitor" GiverId="467" />
+
+<!-- Turn In: The Defias Brotherhood (6) -->
+<TurnIn QuestName="The Defias Brotherhood (6)" QuestId="155" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: Fruit of the Sea -->
+<PickUp QuestName="Fruit of the Sea" QuestId="1138" GiverName="Gubber Blump" GiverId="10216" />
+
+<!-- Pick Up: WANTED: Murkdeep! -->
+<PickUp QuestName="WANTED: Murkdeep!" QuestId="4740" GiverName="Gubber Blump" GiverId="10216" />
+
+<!-- Pick Up: Onu -->
+<PickUp QuestName="Onu" QuestId="948" GiverName="Barithras Moonshade" GiverId="3583" />
+
+<!-- Pick Up: A Lost Master (1) -->
+<PickUp QuestName="A Lost Master (1)" QuestId="986" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Pick Up: The Tower of Althalaxx (1) -->
+<PickUp QuestName="The Tower of Althalaxx (1)" QuestId="965" GiverName="Sentinel Elissa Starbreeze" GiverId="3657" />
+
+<!-- Turn In: The Tower of Althalaxx (1) -->
+<TurnIn QuestName="The Tower of Althalaxx (1)" QuestId="965" TurnInName="Balthule Shadowstrike" TurnInId="3661" />
+
+<!-- Pick Up: The Tower of Althalaxx (2) -->
+<PickUp QuestName="The Tower of Althalaxx (2)" QuestId="966" GiverName="Balthule Shadowstrike" GiverId="3661" />
+
+<!-- Collect Objective for Quest 966: Worn Parchment -->
+<Objective QuestName="Unknown" QuestId="966" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: The Tower of Althalaxx (2) -->
+<TurnIn QuestName="The Tower of Althalaxx (2)" QuestId="966" TurnInName="Balthule Shadowstrike" TurnInId="3661" />
+
+<!-- Pick Up: The Tower of Althalaxx (3) -->
+<PickUp QuestName="The Tower of Althalaxx (3)" QuestId="967" GiverName="Balthule Shadowstrike" GiverId="3661" />
+
+<!-- Kill Objective for Quest 4740: Murkdeep -->
+<Objective QuestName="Unknown" QuestId="4740" Type="KillMob" MobId="10323" KillCount="1" />
+
+<!-- Collect Objective for Quest 1138: Fine Crab Chunks -->
+<Objective QuestName="Unknown" QuestId="1138" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Pick Up: Beached Sea Creature -->
+<PickUp QuestName="Beached Sea Creature" QuestId="4730" GiverName="Balthule Shadowstrike" GiverId="3661" />
+
+<!-- Collect Objective for Quest 1003: Grizzled Scalp -->
+<Objective QuestName="Unknown" QuestId="1003" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 986: Fine Moonstalker Pelt -->
+<Objective QuestName="Unknown" QuestId="986" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Buzzbox 525 -->
+<TurnIn QuestName="Buzzbox 525" QuestId="1003" TurnInName="Balthule Shadowstrike" TurnInId="3661" />
+
+<!-- Turn In: Onu -->
+<TurnIn QuestName="Onu" QuestId="948" TurnInName="Onu" TurnInId="3616" />
+
+<!-- Pick Up: The Master's Glaive -->
+<PickUp QuestName="The Master's Glaive" QuestId="944" GiverName="Onu" GiverId="3616" />
+
+<!-- Turn In: The Master's Glaive -->
+<TurnIn QuestName="The Master's Glaive" QuestId="944" TurnInName="Onu" TurnInId="3616" />
+
+<!-- Pick Up: The Twilight Camp -->
+<PickUp QuestName="The Twilight Camp" QuestId="949" GiverName="Onu" GiverId="3616" />
+
+<!-- Turn In: The Twilight Camp -->
+<TurnIn QuestName="The Twilight Camp" QuestId="949" TurnInName="Onu" TurnInId="3616" />
+
+<!-- Pick Up: Return to Onu -->
+<PickUp QuestName="Return to Onu" QuestId="950" GiverName="Onu" GiverId="3616" />
+
+<!-- Pick Up: Therylune's Escape -->
+<PickUp QuestName="Therylune's Escape" QuestId="945" GiverName="Therylune" GiverId="3584" />
+
+<!-- Turn In: Return to Onu -->
+<TurnIn QuestName="Return to Onu" QuestId="950" TurnInName="Onu" TurnInId="3616" />
+
+<!-- Pick Up: Mathystra Relics -->
+<PickUp QuestName="Mathystra Relics" QuestId="951" GiverName="Onu" GiverId="3616" />
+
+<!-- Pick Up: The Sleeper Has Awakened -->
+<PickUp QuestName="The Sleeper Has Awakened" QuestId="5321" GiverName="Kerlonian Evershade" GiverId="11218" />
+
+<!-- Collect Objective for Quest 5321: Horn of Awakening -->
+<Objective QuestName="Unknown" QuestId="5321" Type="CollectItem" ItemId="13536" CollectCount="1" />
+
+<!-- Turn In: The Sleeper Has Awakened -->
+<TurnIn QuestName="The Sleeper Has Awakened" QuestId="5321" TurnInName="Liladris Moonriver" TurnInId="11219" />
+
+<!-- Turn In: The Tower of Althalaxx (3) -->
+<TurnIn QuestName="The Tower of Althalaxx (3)" QuestId="967" TurnInName="Delgren the Purifier" TurnInId="3663" />
+
+<!-- Pick Up: The Tower of Althalaxx (4) -->
+<PickUp QuestName="The Tower of Althalaxx (4)" QuestId="970" GiverName="Delgren the Purifier" GiverId="3663" />
+
+<!-- Pick Up: Bathran's Hair -->
+<PickUp QuestName="Bathran's Hair" QuestId="1010" GiverName="Orendil Broadleaf" GiverId="3847" />
+
+<!-- Turn In: Therylune's Escape -->
+<TurnIn QuestName="Therylune's Escape" QuestId="945" TurnInName="Therysil" TurnInId="3585" />
+
+<!-- Pick Up: On Guard in Stonetalon (1) -->
+<PickUp QuestName="On Guard in Stonetalon (1)" QuestId="1070" GiverName="Sentinel Thenysil" GiverId="4079" />
+
+<!-- Pick Up: Journey to Stonetalon Peak -->
+<PickUp QuestName="Journey to Stonetalon Peak" QuestId="1056" GiverName="Faldreas Goeth'Shael" GiverId="3996" />
+
+<!-- Pick Up: Raene's Cleansing (1) -->
+<PickUp QuestName="Raene's Cleansing (1)" QuestId="991" GiverName="Raene Wolfrunner" GiverId="3691" />
+
+<!-- Pick Up: Culling the Threat -->
+<PickUp QuestName="Culling the Threat" QuestId="1054" GiverName="Raene Wolfrunner" GiverId="3691" />
+
+<!-- Turn In: Beached Sea Creature -->
+<TurnIn QuestName="Beached Sea Creature" QuestId="4730" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Turn In: Fruit of the Sea -->
+<TurnIn QuestName="Fruit of the Sea" QuestId="1138" TurnInName="Gubber Blump" TurnInId="10216" />
+
+<!-- Turn In: WANTED: Murkdeep! -->
+<TurnIn QuestName="WANTED: Murkdeep!" QuestId="4740" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+
+<!-- Turn In: A Lost Master (1) -->
+<TurnIn QuestName="A Lost Master (1)" QuestId="986" TurnInName="Terenthis" TurnInId="3693" />
+
+<!-- Pick Up: A Lost Master (2) -->
+<PickUp QuestName="A Lost Master (2)" QuestId="993" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Collect Objective for Quest 951: Mathystra Relic -->
+<Objective QuestName="Unknown" QuestId="951" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Mathystra Relics -->
+<TurnIn QuestName="Mathystra Relics" QuestId="951" TurnInName="Onu" TurnInId="3616" />
+
+<!-- Turn In: A Lost Master (2) -->
+<TurnIn QuestName="A Lost Master (2)" QuestId="993" TurnInName="Volcor" TurnInId="3692" />
+
+<!-- Pick Up: Escape Through Force -->
+<PickUp QuestName="Escape Through Force" QuestId="994" GiverName="Volcor" GiverId="3692" />
+
+<!-- Collect Objective for Quest 1010: Bathran's Hair -->
+<Objective QuestName="Unknown" QuestId="1010" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 970: Glowing Soul Gem -->
+<Objective QuestName="Unknown" QuestId="970" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Tower of Althalaxx (4) -->
+<TurnIn QuestName="The Tower of Althalaxx (4)" QuestId="970" TurnInName="Delgren the Purifier" TurnInId="3663" />
+
+<!-- Turn In: Bathran's Hair -->
+<TurnIn QuestName="Bathran's Hair" QuestId="1010" TurnInName="Orendil Broadleaf" TurnInId="3847" />
+
+<!-- Pick Up: Orendil's Cure -->
+<PickUp QuestName="Orendil's Cure" QuestId="1020" GiverName="Orendil Broadleaf" GiverId="3847" />
+
+<!-- Pick Up: The Zoram Strand -->
+<PickUp QuestName="The Zoram Strand" QuestId="1008" GiverName="Shindrell Swiftfire" GiverId="3845" />
+
+<!-- Turn In: Orendil's Cure -->
+<TurnIn QuestName="Orendil's Cure" QuestId="1020" TurnInName="Pelturas Whitemoon" TurnInId="3894" />
+
+<!-- Pick Up: Elune's Tear -->
+<PickUp QuestName="Elune's Tear" QuestId="1033" GiverName="Pelturas Whitemoon" GiverId="3894" />
+
+<!-- Turn In: Raene's Cleansing (1) -->
+<TurnIn QuestName="Raene's Cleansing (1)" QuestId="991" TurnInName="Pelturas Whitemoon" TurnInId="3894" />
+
+<!-- Pick Up: Raene's Cleansing (2) -->
+<PickUp QuestName="Raene's Cleansing (2)" QuestId="1023" GiverName="Pelturas Whitemoon" GiverId="3894" />
+
+<!-- Collect Objective for Quest 1023: Glowing Gem -->
+<Objective QuestName="Unknown" QuestId="1023" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Ancient Statuette -->
+<PickUp QuestName="The Ancient Statuette" QuestId="1007" GiverName="Talen" GiverId="3846" />
+
+<!-- Collect Objective for Quest 1008: Wrathtail Head -->
+<Objective QuestName="Unknown" QuestId="1008" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="20" />
+
+<!-- Collect Objective for Quest 1007: Ancient Statuette -->
+<Objective QuestName="Unknown" QuestId="1007" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Ancient Statuette -->
+<TurnIn QuestName="The Ancient Statuette" QuestId="1007" TurnInName="Talen" TurnInId="3846" />
+
+<!-- Pick Up: Ruuzel -->
+<PickUp QuestName="Ruuzel" QuestId="1009" GiverName="Talen" GiverId="3846" />
+
+<!-- Collect Objective for Quest 1009: Ring of Zoram -->
+<Objective QuestName="Unknown" QuestId="1009" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ruuzel -->
+<TurnIn QuestName="Ruuzel" QuestId="1009" TurnInName="Talen" TurnInId="3846" />
+
+<!-- Turn In: Raene's Cleansing (2) -->
+<TurnIn QuestName="Raene's Cleansing (2)" QuestId="1023" TurnInName="Raene Wolfrunner" TurnInId="3691" />
+
+<!-- Pick Up: Raene's Cleansing (3) -->
+<PickUp QuestName="Raene's Cleansing (3)" QuestId="1024" GiverName="Raene Wolfrunner" GiverId="3691" />
+
+<!-- Pick Up: An Aggressive Defense -->
+<PickUp QuestName="An Aggressive Defense" QuestId="1025" GiverName="Raene Wolfrunner" GiverId="3691" />
+
+<!-- Turn In: The Zoram Strand -->
+<TurnIn QuestName="The Zoram Strand" QuestId="1008" TurnInName="Shindrell Swiftfire" TurnInId="3845" />
+
+<!-- Pick Up: Pridewings of Stonetalon -->
+<PickUp QuestName="Pridewings of Stonetalon" QuestId="1134" GiverName="Shindrell Swiftfire" GiverId="3845" />
+
+<!-- Collect Objective for Quest 1054: Dal Bloodclaw's Skull -->
+<Objective QuestName="Unknown" QuestId="1054" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Culling the Threat -->
+<TurnIn QuestName="Culling the Threat" QuestId="1054" TurnInName="Raene Wolfrunner" TurnInId="3691" />
+
+<!-- Turn In: Raene's Cleansing (3) -->
+<TurnIn QuestName="Raene's Cleansing (3)" QuestId="1024" TurnInName="Shael'dryn" TurnInId="3916" />
+
+<!-- Pick Up: Raene's Cleansing (4) -->
+<PickUp QuestName="Raene's Cleansing (4)" QuestId="1026" GiverName="Shael'dryn" GiverId="3916" />
+
+<!-- Kill Objective for Quest 1025: Foulweald Den Watcher -->
+<Objective QuestName="Unknown" QuestId="1025" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 1025: Foulweald Ursa -->
+<Objective QuestName="Unknown" QuestId="1025" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 1025: Foulweald Totemic -->
+<Objective QuestName="Unknown" QuestId="1025" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1025: Foulweald Warrior -->
+<Objective QuestName="Unknown" QuestId="1025" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 1033: Elune's Tear -->
+<Objective QuestName="Unknown" QuestId="1033" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: An Aggressive Defense -->
+<TurnIn QuestName="An Aggressive Defense" QuestId="1025" TurnInName="Raene Wolfrunner" TurnInId="3691" />
+
+<!-- Pick Up: A Helping Hand -->
+<PickUp QuestName="A Helping Hand" QuestId="9533" GiverName="Vindicator Palanaar" GiverId="17106" />
+
+<!-- Turn In: Elune's Tear -->
+<TurnIn QuestName="Elune's Tear" QuestId="1033" TurnInName="Pelturas Whitemoon" TurnInId="3894" />
+
+<!-- Pick Up: The Ruins of Stardust -->
+<PickUp QuestName="The Ruins of Stardust" QuestId="1034" GiverName="Pelturas Whitemoon" GiverId="3894" />
+
+<!-- Collect Objective for Quest 1034: Handful of Stardust -->
+<Objective QuestName="Unknown" QuestId="1034" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: The Ruins of Stardust -->
+<TurnIn QuestName="The Ruins of Stardust" QuestId="1034" TurnInName="Pelturas Whitemoon" TurnInId="3894" />
+
+<!-- Pick Up: Fallen Sky Lake -->
+<PickUp QuestName="Fallen Sky Lake" QuestId="1035" GiverName="Pelturas Whitemoon" GiverId="3894" />
+
+<!-- Pick Up: Elemental Bracers -->
+<PickUp QuestName="Elemental Bracers" QuestId="1016" GiverName="Sentinel Velene Starstrike" GiverId="3885" />
+
+<!-- Collect Objective for Quest 1016: Divined Scroll -->
+<Objective QuestName="Unknown" QuestId="1016" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Elemental Bracers -->
+<TurnIn QuestName="Elemental Bracers" QuestId="1016" TurnInName="Sentinel Velene Starstrike" TurnInId="3885" />
+
+<!-- Pick Up: Super Reaper 6000 -->
+<PickUp QuestName="Super Reaper 6000" QuestId="1093" GiverName="Ziz Fizziks" GiverId="4201" />
+
+<!-- Turn In: On Guard in Stonetalon (1) -->
+<TurnIn QuestName="On Guard in Stonetalon (1)" QuestId="1070" TurnInName="Kaela Shadowspear" TurnInId="4080" />
+
+<!-- Pick Up: On Guard in Stonetalon (2) -->
+<PickUp QuestName="On Guard in Stonetalon (2)" QuestId="1085" GiverName="Kaela Shadowspear" GiverId="4080" />
+
+<!-- Turn In: On Guard in Stonetalon (2) -->
+<TurnIn QuestName="On Guard in Stonetalon (2)" QuestId="1085" TurnInName="Gaxim Rustfizzle" TurnInId="4077" />
+
+<!-- Pick Up: A Gnome's Respite -->
+<PickUp QuestName="A Gnome's Respite" QuestId="1071" GiverName="Gaxim Rustfizzle" GiverId="4077" />
+
+<!-- Kill Objective for Quest 1071: Venture Co. Logger -->
+<Objective QuestName="Unknown" QuestId="1071" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1071: Venture Co. Deforester -->
+<Objective QuestName="Unknown" QuestId="1071" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 1093: Super Reaper 6000 Blueprints -->
+<Objective QuestName="Unknown" QuestId="1093" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Super Reaper 6000 -->
+<TurnIn QuestName="Super Reaper 6000" QuestId="1093" TurnInName="Ziz Fizziks" TurnInId="4201" />
+
+<!-- Turn In: A Gnome's Respite -->
+<TurnIn QuestName="A Gnome's Respite" QuestId="1071" TurnInName="Gaxim Rustfizzle" TurnInId="4077" />
+
+<!-- Pick Up: An Old Colleague -->
+<PickUp QuestName="An Old Colleague" QuestId="1072" GiverName="Gaxim Rustfizzle" GiverId="4077" />
+
+<!-- Pick Up: A Scroll from Mauren -->
+<PickUp QuestName="A Scroll from Mauren" QuestId="1075" GiverName="Gaxim Rustfizzle" GiverId="4077" />
+
+<!-- Collect Objective for Quest 1134: Pridewing Venom Sac -->
+<Objective QuestName="Unknown" QuestId="1134" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Journey to Stonetalon Peak -->
+<TurnIn QuestName="Journey to Stonetalon Peak" QuestId="1056" TurnInName="Keeper Albagorm" TurnInId="3994" />
+
+<!-- Turn In: Pridewings of Stonetalon -->
+<TurnIn QuestName="Pridewings of Stonetalon" QuestId="1134" TurnInName="Shindrell Swiftfire" TurnInId="3845" />
+
+<!-- Pick Up: Kayneth Stillwind -->
+<PickUp QuestName="Kayneth Stillwind" QuestId="4581" GiverName="Shindrell Swiftfire" GiverId="3845" />
+
+<!-- Turn In: Escape Through Force -->
+<TurnIn QuestName="Escape Through Force" QuestId="994" TurnInName="Terenthis" TurnInId="3693" />
+
+<!-- Turn In: A Scroll from Mauren -->
+<TurnIn QuestName="A Scroll from Mauren" QuestId="1075" TurnInName="Collin Mauren" TurnInId="4078" />
+
+<!-- Turn In: An Old Colleague -->
+<TurnIn QuestName="An Old Colleague" QuestId="1072" TurnInName="Lomac Gearstrip" TurnInId="4081" />
+
+<!-- Pick Up: Report to Mountaineer Rockgar -->
+<PickUp QuestName="Report to Mountaineer Rockgar" QuestId="468" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Turn In: Report to Mountaineer Rockgar -->
+<TurnIn QuestName="Report to Mountaineer Rockgar" QuestId="468" TurnInName="Mountaineer Rockgar" TurnInId="1342" />
+
+<!-- Pick Up: The Algaz Gauntlet -->
+<PickUp QuestName="The Algaz Gauntlet" QuestId="455" GiverName="Mountaineer Rockgar" GiverId="1342" />
+
+<!-- Kill Objective for Quest 455: Dragonmaw Scout -->
+<Objective QuestName="Unknown" QuestId="455" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 455: Dragonmaw Grunt -->
+<Objective QuestName="Unknown" QuestId="455" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Pick Up: Daily Delivery -->
+<PickUp QuestName="Daily Delivery" QuestId="469" GiverName="Einar Stonegrip" GiverId="2093" />
+
+<!-- Pick Up: In Search of The Excavation Team (1) -->
+<PickUp QuestName="In Search of The Excavation Team (1)" QuestId="305" GiverName="Tarrel Rockweaver" GiverId="2096" />
+
+<!-- Turn In: Daily Delivery -->
+<TurnIn QuestName="Daily Delivery" QuestId="469" TurnInName="James Halloran" TurnInId="2094" />
+
+<!-- Pick Up: Young Crocolisk Skins -->
+<PickUp QuestName="Young Crocolisk Skins" QuestId="484" GiverName="James Halloran" GiverId="2094" />
+
+<!-- Pick Up: Claws from the Deep -->
+<PickUp QuestName="Claws from the Deep" QuestId="279" GiverName="Karl Boran" GiverId="1242" />
+
+<!-- Pick Up: The Third Fleet -->
+<PickUp QuestName="The Third Fleet" QuestId="288" GiverName="First Mate Fitzsimmons" GiverId="1239" />
+
+<!-- Pick Up: The Greenwarden -->
+<PickUp QuestName="The Greenwarden" QuestId="463" GiverName="First Mate Fitzsimmons" GiverId="1239" />
+
+<!-- Turn In: The Third Fleet -->
+<TurnIn QuestName="The Third Fleet" QuestId="288" TurnInName="First Mate Fitzsimmons" TurnInId="1239" />
+
+<!-- Pick Up: Digging Through the Ooze -->
+<PickUp QuestName="Digging Through the Ooze" QuestId="470" GiverName="Sida" GiverId="2111" />
+
+<!-- Turn In: The Algaz Gauntlet -->
+<TurnIn QuestName="The Algaz Gauntlet" QuestId="455" TurnInName="Valstag Ironjaw" TurnInId="2086" />
+
+<!-- Pick Up: Report to Captain Stoutfist -->
+<PickUp QuestName="Report to Captain Stoutfist" QuestId="473" GiverName="Valstag Ironjaw" GiverId="2086" />
+
+<!-- Turn In: Report to Captain Stoutfist -->
+<TurnIn QuestName="Report to Captain Stoutfist" QuestId="473" TurnInName="Captain Stoutfist" TurnInId="2104" />
+
+<!-- Pick Up: War Banners -->
+<PickUp QuestName="War Banners" QuestId="464" GiverName="Captain Stoutfist" GiverId="2104" />
+
+<!-- Kill Objective for Quest 279: Bluegill Murloc -->
+<Objective QuestName="Unknown" QuestId="279" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 279: Gobbler's Head -->
+<Objective QuestName="Unknown" QuestId="279" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+</QuestOrder>

@@ -1,0 +1,699 @@
+<QuestOrder>
+
+<!-- Pick Up: A Message to Telaar -->
+<PickUp QuestName="A Message to Telaar" QuestId="9792" GiverName="Ikuti" GiverId="18008" />
+
+<!-- Pick Up: Windroc Mastery (1) -->
+<PickUp QuestName="Windroc Mastery (1)" QuestId="9854" GiverName="Shado &quot;Fitz&quot; Farstrider" GiverId="18200" />
+
+<!-- Pick Up: Clefthoof Mastery (1) -->
+<PickUp QuestName="Clefthoof Mastery (1)" QuestId="9789" GiverName="Hemet Nesingwary" GiverId="18180" />
+
+<!-- Pick Up: Talbuk Mastery (1) -->
+<PickUp QuestName="Talbuk Mastery (1)" QuestId="9857" GiverName="Harold Lane" GiverId="18218" />
+
+<!-- Kill Objective for Quest 9857: Talbuk Stag -->
+<Objective QuestName="Unknown" QuestId="9857" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 9854: Windroc -->
+<Objective QuestName="Unknown" QuestId="9854" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 9789: Clefthoof -->
+<Objective QuestName="Unknown" QuestId="9789" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 9914: Pair of Ivory Tusks -->
+<Objective QuestName="Unknown" QuestId="9914" Type="CollectItem" ItemId="25463" CollectCount="3" />
+
+<!-- Pick Up: The Howling Wind -->
+<PickUp QuestName="The Howling Wind" QuestId="9861" GiverName="Harold Lane" GiverId="18218" />
+
+<!-- Turn In: Windroc Mastery (1) -->
+<TurnIn QuestName="Windroc Mastery (1)" QuestId="9854" TurnInName="Shado &quot;Fitz&quot; Farstrider" TurnInId="18200" />
+
+<!-- Pick Up: Windroc Mastery (2) -->
+<PickUp QuestName="Windroc Mastery (2)" QuestId="9855" GiverName="Shado &quot;Fitz&quot; Farstrider" GiverId="18200" />
+
+<!-- Turn In: Clefthoof Mastery (1) -->
+<TurnIn QuestName="Clefthoof Mastery (1)" QuestId="9789" TurnInName="Hemet Nesingwary" TurnInId="18180" />
+
+<!-- Pick Up: Clefthoof Mastery (2) -->
+<PickUp QuestName="Clefthoof Mastery (2)" QuestId="9850" GiverName="Hemet Nesingwary" GiverId="18180" />
+
+<!-- Turn In: Talbuk Mastery (1) -->
+<TurnIn QuestName="Talbuk Mastery (1)" QuestId="9857" TurnInName="Harold Lane" TurnInId="18218" />
+
+<!-- Pick Up: Talbuk Mastery (2) -->
+<PickUp QuestName="Talbuk Mastery (2)" QuestId="9858" GiverName="Harold Lane" GiverId="18218" />
+
+<!-- Turn In: The Howling Wind -->
+<TurnIn QuestName="The Howling Wind" QuestId="9861" TurnInName="Elementalist Morgh" TurnInId="18074" />
+
+<!-- Pick Up: Murkblood Corrupters -->
+<PickUp QuestName="Murkblood Corrupters" QuestId="9862" GiverName="Elementalist Morgh" GiverId="18074" />
+
+<!-- Pick Up: The Underneath -->
+<PickUp QuestName="The Underneath" QuestId="9818" GiverName="Elementalist Untrag" GiverId="18071" />
+
+<!-- Pick Up: A Rare Bean -->
+<PickUp QuestName="A Rare Bean" QuestId="9800" GiverName="Elementalist Lo'ap" GiverId="18073" />
+
+<!-- Pick Up: Muck Diving -->
+<PickUp QuestName="Muck Diving" QuestId="9815" GiverName="Elementalist Lo'ap" GiverId="18073" />
+
+<!-- Turn In: The Underneath -->
+<TurnIn QuestName="The Underneath" QuestId="9818" TurnInName="Gordawg" TurnInId="18099" />
+
+<!-- Pick Up: The Tortured Earth -->
+<PickUp QuestName="The Tortured Earth" QuestId="9819" GiverName="Gordawg" GiverId="18099" />
+
+<!-- Collect Objective for Quest 9800: Digested Caracoli -->
+<Objective QuestName="Unknown" QuestId="9800" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 9858: Talbuk Thorngrazer -->
+<Objective QuestName="Unknown" QuestId="9858" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 9850: Clefthoof Bull -->
+<Objective QuestName="Unknown" QuestId="9850" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Pick Up: The Consortium Needs You! -->
+<PickUp QuestName="The Consortium Needs You!" QuestId="9913" GiverName="Consortium Recruiter" GiverId="18335" />
+
+<!-- Collect Objective for Quest 9815: Muck-ridden Core -->
+<Objective QuestName="Unknown" QuestId="9815" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 9862: Murkblood Putrifier -->
+<Objective QuestName="Unknown" QuestId="9862" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Pick Up: Gava'xi -->
+<PickUp QuestName="Gava'xi" QuestId="9900" GiverName="Zerid" GiverId="18276" />
+
+<!-- Pick Up: Matters of Security -->
+<PickUp QuestName="Matters of Security" QuestId="9925" GiverName="Zerid" GiverId="18276" />
+
+<!-- Turn In: The Consortium Needs You! -->
+<TurnIn QuestName="The Consortium Needs You!" QuestId="9913" TurnInName="Gezhe" TurnInId="18265" />
+
+<!-- Pick Up: Stealing from Thieves -->
+<PickUp QuestName="Stealing from Thieves" QuestId="9882" GiverName="Gezhe" GiverId="18265" />
+
+<!-- Pick Up: A Head Full of Ivory -->
+<PickUp QuestName="A Head Full of Ivory" QuestId="9914" GiverName="Shadrek" GiverId="18333" />
+
+<!-- Turn In: A Head Full of Ivory -->
+<TurnIn QuestName="A Head Full of Ivory" QuestId="9914" TurnInName="Shadrek" TurnInId="18333" />
+
+<!-- Collect Objective for Quest 9882: Oshu'gun Crystal Fragment -->
+<Objective QuestName="Unknown" QuestId="9882" Type="CollectItem" ItemId="25416" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9925: Voidspawn -->
+<Objective QuestName="Unknown" QuestId="9925" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9900: Gava'xi -->
+<Objective QuestName="Unknown" QuestId="9900" Type="KillMob" MobId="18298" KillCount="1" />
+
+<!-- Kill Objective for Quest 9855: Ravenous Windroc -->
+<Objective QuestName="Unknown" QuestId="9855" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: Gava'xi -->
+<TurnIn QuestName="Gava'xi" QuestId="9900" TurnInName="Zerid" TurnInId="18276" />
+
+<!-- Turn In: Matters of Security -->
+<TurnIn QuestName="Matters of Security" QuestId="9925" TurnInName="Zerid" TurnInId="18276" />
+
+<!-- Turn In: Stealing from Thieves -->
+<TurnIn QuestName="Stealing from Thieves" QuestId="9882" TurnInName="Gezhe" TurnInId="18265" />
+
+<!-- Pick Up: The Ravaged Caravan -->
+<PickUp QuestName="The Ravaged Caravan" QuestId="9956" GiverName="Huntress Kima" GiverId="18416" />
+
+<!-- Pick Up: The Throne of the Elements -->
+<PickUp QuestName="The Throne of the Elements" QuestId="9869" GiverName="Elementalist Ioki" GiverId="18233" />
+
+<!-- Pick Up: Do My Eyes Deceive Me -->
+<PickUp QuestName="Do My Eyes Deceive Me" QuestId="9917" GiverName="Huntress Bintook" GiverId="18353" />
+
+<!-- Pick Up: Wanted: Giselda the Crone -->
+<PickUp QuestName="Wanted: Giselda the Crone" QuestId="9936" GiverName="Huntress Bintook" GiverId="18353" />
+
+<!-- Pick Up: Wanted: Zorbo the Advisor -->
+<PickUp QuestName="Wanted: Zorbo the Advisor" QuestId="9940" GiverName="Huntress Bintook" GiverId="18353" />
+
+<!-- Pick Up: Fierce Enemies -->
+<PickUp QuestName="Fierce Enemies" QuestId="10476" GiverName="Warden Moi'bff Jill" GiverId="18408" />
+
+<!-- Turn In: A Message to Telaar -->
+<TurnIn QuestName="A Message to Telaar" QuestId="9792" TurnInName="Nahuud" TurnInId="18097" />
+
+<!-- Pick Up: Stopping the Spread -->
+<PickUp QuestName="Stopping the Spread" QuestId="9874" GiverName="Otonbu the Sage" GiverId="18222" />
+
+<!-- Pick Up: Solving the Problem -->
+<PickUp QuestName="Solving the Problem" QuestId="9878" GiverName="Poli'lukluk the Wiser" GiverId="18224" />
+
+<!-- Pick Up: I Must Have Them! -->
+<PickUp QuestName="I Must Have Them!" QuestId="10109" GiverName="Wazat" GiverId="19035" />
+
+<!-- Collect Objective for Quest 9917: Boulderfist Plans -->
+<Objective QuestName="Unknown" QuestId="9917" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 9819: Tortured Earth Spirit -->
+<Objective QuestName="Unknown" QuestId="9819" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9936: Kil'sorrow Agent -->
+<Objective QuestName="Unknown" QuestId="9936" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9936: Giselda the Crone -->
+<Objective QuestName="Unknown" QuestId="9936" Type="KillMob" MobId="18391" KillCount="1" />
+
+<!-- Pick Up: HELP! -->
+<PickUp QuestName="HELP!" QuestId="9923" GiverName="Corki" GiverId="18369" />
+
+<!-- Collect Objective for Quest 10109: Air Elemental Gas -->
+<Objective QuestName="Unknown" QuestId="10109" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Talbuk Mastery (2) -->
+<TurnIn QuestName="Talbuk Mastery (2)" QuestId="9858" TurnInName="Harold Lane" TurnInId="18218" />
+
+<!-- Turn In: Clefthoof Mastery (2) -->
+<TurnIn QuestName="Clefthoof Mastery (2)" QuestId="9850" TurnInName="Hemet Nesingwary" TurnInId="18180" />
+
+<!-- Turn In: Windroc Mastery (2) -->
+<TurnIn QuestName="Windroc Mastery (2)" QuestId="9855" TurnInName="Shado &quot;Fitz&quot; Farstrider" TurnInId="18200" />
+
+<!-- Turn In: The Tortured Earth -->
+<TurnIn QuestName="The Tortured Earth" QuestId="9819" TurnInName="Gordawg" TurnInId="18099" />
+
+<!-- Pick Up: Eating Damnation -->
+<PickUp QuestName="Eating Damnation" QuestId="9821" GiverName="Gordawg" GiverId="18099" />
+
+<!-- Turn In: A Rare Bean -->
+<TurnIn QuestName="A Rare Bean" QuestId="9800" TurnInName="Elementalist Lo'ap" TurnInId="18073" />
+
+<!-- Pick Up: Agitated Spirits of Skysong -->
+<PickUp QuestName="Agitated Spirits of Skysong" QuestId="9804" GiverName="Elementalist Lo'ap" GiverId="18073" />
+
+<!-- Turn In: Muck Diving -->
+<TurnIn QuestName="Muck Diving" QuestId="9815" TurnInName="Elementalist Lo'ap" TurnInId="18073" />
+
+<!-- Turn In: The Throne of the Elements -->
+<TurnIn QuestName="The Throne of the Elements" QuestId="9869" TurnInName="Elementalist Sharvak" TurnInId="18072" />
+
+<!-- Turn In: Murkblood Corrupters -->
+<TurnIn QuestName="Murkblood Corrupters" QuestId="9862" TurnInName="Elementalist Morgh" TurnInId="18074" />
+
+<!-- Kill Objective for Quest 9804: Lake Spirit -->
+<Objective QuestName="Unknown" QuestId="9804" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Agitated Spirits of Skysong -->
+<TurnIn QuestName="Agitated Spirits of Skysong" QuestId="9804" TurnInName="Elementalist Lo'ap" TurnInId="18073" />
+
+<!-- Pick Up: Blessing of Incineratus -->
+<PickUp QuestName="Blessing of Incineratus" QuestId="9805" GiverName="Elementalist Lo'ap" GiverId="18073" />
+
+<!-- Collect Objective for Quest 9821: Enraged Crusher Core -->
+<Objective QuestName="Unknown" QuestId="9821" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9940: Warmaul Shaman -->
+<Objective QuestName="Unknown" QuestId="9940" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 9940: Warmaul Reaver -->
+<Objective QuestName="Unknown" QuestId="9940" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 10476: Obsidian Warbeads -->
+<Objective QuestName="Unknown" QuestId="10476" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9940: Zorbo the Advisor -->
+<Objective QuestName="Unknown" QuestId="9940" Type="KillMob" MobId="18413" KillCount="1" />
+
+<!-- Turn In: Eating Damnation -->
+<TurnIn QuestName="Eating Damnation" QuestId="9821" TurnInName="Gordawg" TurnInId="18099" />
+
+<!-- Pick Up: Shattering the Veil -->
+<PickUp QuestName="Shattering the Veil" QuestId="9849" GiverName="Gordawg" GiverId="18099" />
+
+<!-- Turn In: Blessing of Incineratus -->
+<TurnIn QuestName="Blessing of Incineratus" QuestId="9805" TurnInName="Elementalist Lo'ap" TurnInId="18073" />
+
+<!-- Pick Up: The Spirit Polluted -->
+<PickUp QuestName="The Spirit Polluted" QuestId="9810" GiverName="Elementalist Lo'ap" GiverId="18073" />
+
+<!-- Collect Objective for Quest 9956: Telaar Supply Crate -->
+<Objective QuestName="Unknown" QuestId="9956" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9878: Murkblood Scavenger -->
+<Objective QuestName="Unknown" QuestId="9878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9878: Murkblood Raider -->
+<Objective QuestName="Unknown" QuestId="9878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 9810: Lake Surger -->
+<Objective QuestName="Unknown" QuestId="9810" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9810: Watoosun's Polluted Essence -->
+<Objective QuestName="Unknown" QuestId="9810" Type="KillMob" MobId="18145" KillCount="1" />
+
+<!-- Kill Objective for Quest 9849: Minion of Gurok -->
+<Objective QuestName="Unknown" QuestId="9849" Type="KillMob" MobId="UNKNOWN_ID" KillCount="30" />
+
+<!-- Turn In: Solving the Problem -->
+<TurnIn QuestName="Solving the Problem" QuestId="9878" TurnInName="Poli'lukluk the Wiser" TurnInId="18224" />
+
+<!-- Turn In: Stopping the Spread -->
+<TurnIn QuestName="Stopping the Spread" QuestId="9874" TurnInName="Otonbu the Sage" TurnInId="18222" />
+
+<!-- Turn In: The Ravaged Caravan -->
+<TurnIn QuestName="The Ravaged Caravan" QuestId="9956" TurnInName="Huntress Kima" TurnInId="18416" />
+
+<!-- Turn In: HELP! -->
+<TurnIn QuestName="HELP!" QuestId="9923" TurnInName="Arechron" TurnInId="18183" />
+
+<!-- Pick Up: Corki's Gone Missing Again! -->
+<PickUp QuestName="Corki's Gone Missing Again!" QuestId="9924" GiverName="Arechron" GiverId="18183" />
+
+<!-- Turn In: Do My Eyes Deceive Me -->
+<TurnIn QuestName="Do My Eyes Deceive Me" QuestId="9917" TurnInName="Huntress Bintook" TurnInId="18353" />
+
+<!-- Pick Up: Not On My Watch! -->
+<PickUp QuestName="Not On My Watch!" QuestId="9918" GiverName="Huntress Bintook" GiverId="18353" />
+
+<!-- Turn In: Wanted: Giselda the Crone -->
+<TurnIn QuestName="Wanted: Giselda the Crone" QuestId="9936" TurnInName="Warden Moi'bff Jill" TurnInId="18408" />
+
+<!-- Turn In: Wanted: Zorbo the Advisor -->
+<TurnIn QuestName="Wanted: Zorbo the Advisor" QuestId="9940" TurnInName="Warden Moi'bff Jill" TurnInId="18408" />
+
+<!-- Turn In: Fierce Enemies -->
+<TurnIn QuestName="Fierce Enemies" QuestId="10476" TurnInName="Warden Moi'bff Jill" TurnInId="18408" />
+
+<!-- Turn In: I Must Have Them! -->
+<TurnIn QuestName="I Must Have Them!" QuestId="10109" TurnInName="Wazat" TurnInId="19035" />
+
+<!-- Turn In: Not On My Watch! -->
+<TurnIn QuestName="Not On My Watch!" QuestId="9918" TurnInName="Huntress Bintook" TurnInId="18353" />
+
+<!-- Pick Up: Mo'mor the Breaker -->
+<PickUp QuestName="Mo'mor the Breaker" QuestId="9920" GiverName="Huntress Bintook" GiverId="18353" />
+
+<!-- Turn In: Mo'mor the Breaker -->
+<TurnIn QuestName="Mo'mor the Breaker" QuestId="9920" TurnInName="Mo'mor the Breaker" TurnInId="18223" />
+
+<!-- Pick Up: The Ruins of Burning Blade -->
+<PickUp QuestName="The Ruins of Burning Blade" QuestId="9921" GiverName="Mo'mor the Breaker" GiverId="18223" />
+
+<!-- Kill Objective for Quest 9921: Boulderfist Crusher -->
+<Objective QuestName="Unknown" QuestId="9921" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9921: Boulderfist Mystic -->
+<Objective QuestName="Unknown" QuestId="9921" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: The Ruins of Burning Blade -->
+<TurnIn QuestName="The Ruins of Burning Blade" QuestId="9921" TurnInName="Mo'mor the Breaker" TurnInId="18223" />
+
+<!-- Pick Up: The Twin Clefts of Nagrand -->
+<PickUp QuestName="The Twin Clefts of Nagrand" QuestId="9922" GiverName="Mo'mor the Breaker" GiverId="18223" />
+
+<!-- Kill Objective for Quest 9922: Boulderfist Warrior -->
+<Objective QuestName="Unknown" QuestId="9922" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9922: Boulderfist Mage -->
+<Objective QuestName="Unknown" QuestId="9922" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 9924: Northwind Cleft Key -->
+<Objective QuestName="Unknown" QuestId="9924" Type="CollectItem" ItemId="25509" CollectCount="1" />
+
+<!-- Turn In: The Twin Clefts of Nagrand -->
+<TurnIn QuestName="The Twin Clefts of Nagrand" QuestId="9922" TurnInName="Mo'mor the Breaker" TurnInId="18223" />
+
+<!-- Pick Up: Diplomatic Measures -->
+<PickUp QuestName="Diplomatic Measures" QuestId="10108" GiverName="Mo'mor the Breaker" GiverId="18223" />
+
+<!-- Turn In: Corki's Gone Missing Again! -->
+<TurnIn QuestName="Corki's Gone Missing Again!" QuestId="9924" TurnInName="Arechron" TurnInId="18183" />
+
+<!-- Turn In: Diplomatic Measures -->
+<TurnIn QuestName="Diplomatic Measures" QuestId="10108" TurnInName="Lantressor of the Blade" TurnInId="18261" />
+
+<!-- Pick Up: Armaments for Deception -->
+<PickUp QuestName="Armaments for Deception" QuestId="9928" GiverName="Lantressor of the Blade" GiverId="18261" />
+
+<!-- Pick Up: Ruthless Cunning -->
+<PickUp QuestName="Ruthless Cunning" QuestId="9927" GiverName="Lantressor of the Blade" GiverId="18261" />
+
+<!-- Collect Objective for Quest 9928: Kil'sorrow Armaments -->
+<Objective QuestName="Unknown" QuestId="9928" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Armaments for Deception -->
+<TurnIn QuestName="Armaments for Deception" QuestId="9928" TurnInName="Lantresor of the Blade" TurnInId="18261" />
+
+<!-- Turn In: Ruthless Cunning -->
+<TurnIn QuestName="Ruthless Cunning" QuestId="9927" TurnInName="Lantresor of the Blade" TurnInId="18261" />
+
+<!-- Pick Up: Returning the Favor -->
+<PickUp QuestName="Returning the Favor" QuestId="9931" GiverName="Lantresor of the Blade" GiverId="18261" />
+
+<!-- Pick Up: Body of Evidence -->
+<PickUp QuestName="Body of Evidence" QuestId="9932" GiverName="Lantresor of the Blade" GiverId="18261" />
+
+<!-- Turn In: Shattering the Veil -->
+<TurnIn QuestName="Shattering the Veil" QuestId="9849" TurnInName="Gordawg" TurnInId="18099" />
+
+<!-- Turn In: The Spirit Polluted -->
+<TurnIn QuestName="The Spirit Polluted" QuestId="9810" TurnInName="Elementalist Lo'ap" TurnInId="18073" />
+
+<!-- Turn In: Returning the Favor -->
+<TurnIn QuestName="Returning the Favor" QuestId="9931" TurnInName="Lantresor of the Blade" TurnInId="18261" />
+
+<!-- Turn In: Body of Evidence -->
+<TurnIn QuestName="Body of Evidence" QuestId="9932" TurnInName="Lantresor of the Blade" TurnInId="18261" />
+
+<!-- Pick Up: Message to Telaar -->
+<PickUp QuestName="Message to Telaar" QuestId="9933" GiverName="Lantresor of the Blade" GiverId="18261" />
+
+<!-- Turn In: Message to Telaar -->
+<TurnIn QuestName="Message to Telaar" QuestId="9933" TurnInName="Arechron" TurnInId="18183" />
+
+<!-- Pick Up: No Time for Curiosity -->
+<PickUp QuestName="No Time for Curiosity" QuestId="9794" GiverName="Timothy Daniels" GiverId="18019" />
+
+<!-- Pick Up: Killing the Crawlers -->
+<PickUp QuestName="Killing the Crawlers" QuestId="10927" GiverName="Sentinel Moonwhisper" GiverId="22488" />
+
+<!-- Turn In: No Time for Curiosity -->
+<TurnIn QuestName="No Time for Curiosity" QuestId="9794" TurnInName="Kialon Nightblade" TurnInId="18098" />
+
+<!-- Pick Up: The Encroaching Wilderness -->
+<PickUp QuestName="The Encroaching Wilderness" QuestId="10455" GiverName="Rina Moonspring" GiverId="21066" />
+
+<!-- Pick Up: The Den Mother -->
+<PickUp QuestName="The Den Mother" QuestId="10690" GiverName="Rina Moonspring" GiverId="21066" />
+
+<!-- Turn In: Killing the Crawlers -->
+<TurnIn QuestName="Killing the Crawlers" QuestId="10927" TurnInName="Commander Skyshadow" TurnInId="21158" />
+
+<!-- Pick Up: The Bloodmaul Ogres -->
+<PickUp QuestName="The Bloodmaul Ogres" QuestId="10502" GiverName="Commander Skyshadow" GiverId="21158" />
+
+<!-- Pick Up: Malaise -->
+<PickUp QuestName="Malaise" QuestId="10555" GiverName="Daranelle" GiverId="21469" />
+
+<!-- Pick Up: Into the Draenethyst Mine -->
+<PickUp QuestName="Into the Draenethyst Mine" QuestId="10510" GiverName="Bronwyn Stouthammer" GiverId="21197" />
+
+<!-- Pick Up: Strange Brew -->
+<PickUp QuestName="Strange Brew" QuestId="10511" GiverName="Borgrim Stouthammer" GiverId="21151" />
+
+<!-- Kill Objective for Quest 10455: Grovestalker Lynx -->
+<Objective QuestName="Unknown" QuestId="10455" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 10555: Plucked Lashh'an Feather -->
+<Objective QuestName="Unknown" QuestId="10555" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="18" />
+
+<!-- Turn In: Malaise -->
+<TurnIn QuestName="Malaise" QuestId="10555" TurnInName="Amerun Leafshade" TurnInId="18937" />
+
+<!-- Pick Up: Scratches -->
+<PickUp QuestName="Scratches" QuestId="10556" GiverName="Amerun Leafshade" GiverId="18937" />
+
+<!-- Turn In: The Encroaching Wilderness -->
+<TurnIn QuestName="The Encroaching Wilderness" QuestId="10455" TurnInName="Rina Moonspring" TurnInId="21066" />
+
+<!-- Pick Up: Marauding Wolves -->
+<PickUp QuestName="Marauding Wolves" QuestId="10456" GiverName="Rina Moonspring" GiverId="21066" />
+
+<!-- Turn In: Scratches -->
+<TurnIn QuestName="Scratches" QuestId="10556" TurnInName="Daranelle" TurnInId="21469" />
+
+<!-- Collect Objective for Quest 10511: Bloodmaul Brutebane Brew -->
+<Objective QuestName="Unknown" QuestId="10511" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="16" />
+
+<!-- Collect Objective for Quest 10510: Draenethyst Mine Crystal -->
+<Objective QuestName="Unknown" QuestId="10510" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: The Bloodmaul Ogres -->
+<TurnIn QuestName="The Bloodmaul Ogres" QuestId="10502" TurnInName="Commander Skyshadow" TurnInId="21158" />
+
+<!-- Pick Up: The Bladespire Ogres -->
+<PickUp QuestName="The Bladespire Ogres" QuestId="10504" GiverName="Commander Skyshadow" GiverId="21158" />
+
+<!-- Turn In: Into the Draenethyst Mine -->
+<TurnIn QuestName="Into the Draenethyst Mine" QuestId="10510" TurnInName="Bronwyn Stouthammer" TurnInId="21197" />
+
+<!-- Turn In: Strange Brew -->
+<TurnIn QuestName="Strange Brew" QuestId="10511" TurnInName="Borgrim Stouthammer" TurnInId="21151" />
+
+<!-- Pick Up: Getting the Bladespire Tanked -->
+<PickUp QuestName="Getting the Bladespire Tanked" QuestId="10512" GiverName="Borgrim Stouthammer" GiverId="21151" />
+
+<!-- Collect Objective for Quest 10456: Thunderlord Dire Wolf Tail -->
+<Objective QuestName="Unknown" QuestId="10456" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Kill Objective for Quest 10690: Rema -->
+<Objective QuestName="Unknown" QuestId="10690" Type="KillMob" MobId="21596" KillCount="1" />
+
+<!-- Pick Up: The Trappings of a Vindicator -->
+<PickUp QuestName="The Trappings of a Vindicator" QuestId="10516" GiverName="Vindicator Vuuleen" GiverId="21277" />
+
+<!-- Collect Objective for Quest 10516: Vindicator Vuuleen's Blade -->
+<Objective QuestName="Unknown" QuestId="10516" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10516: Vindicator Vuuleen's Shield -->
+<Objective QuestName="Unknown" QuestId="10516" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Trappings of a Vindicator -->
+<TurnIn QuestName="The Trappings of a Vindicator" QuestId="10516" TurnInName="Vindicator Vuuleen" TurnInId="21277" />
+
+<!-- Pick Up: Gorr'Dim, Your Time Has Come... -->
+<PickUp QuestName="Gorr'Dim, Your Time Has Come..." QuestId="10517" GiverName="Vindicator Vuuleen" GiverId="21277" />
+
+<!-- Turn In: Gorr'Dim, Your Time Has Come... -->
+<TurnIn QuestName="Gorr'Dim, Your Time Has Come..." QuestId="10517" TurnInName="Vindicator Vuuleen" TurnInId="21277" />
+
+<!-- Pick Up: Planting the Banner -->
+<PickUp QuestName="Planting the Banner" QuestId="10518" GiverName="Vindicator Vuuleen" GiverId="21277" />
+
+<!-- Collect Objective for Quest 10518: Bladespire Clan Banner -->
+<Objective QuestName="Unknown" QuestId="10518" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10518: Helm of Gurn Grubnosh -->
+<Objective QuestName="Unknown" QuestId="10518" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Den Mother -->
+<TurnIn QuestName="The Den Mother" QuestId="10690" TurnInName="Commander Skyshadow" TurnInId="21158" />
+
+<!-- Turn In: The Bladespire Ogres -->
+<TurnIn QuestName="The Bladespire Ogres" QuestId="10504" TurnInName="Commander Skyshadow" TurnInId="21158" />
+
+<!-- Turn In: Planting the Banner -->
+<TurnIn QuestName="Planting the Banner" QuestId="10518" TurnInName="Commander Skyshadow" TurnInId="21158" />
+
+<!-- Pick Up: Where Did Those Darn Gnomes Go? -->
+<PickUp QuestName="Where Did Those Darn Gnomes Go?" QuestId="10580" GiverName="Commander Skyshadow" GiverId="21158" />
+
+<!-- Turn In: Marauding Wolves -->
+<TurnIn QuestName="Marauding Wolves" QuestId="10456" TurnInName="Rina Moonspring" TurnInId="21066" />
+
+<!-- Pick Up: Protecting Our Own -->
+<PickUp QuestName="Protecting Our Own" QuestId="10457" GiverName="Rina Moonspring" GiverId="21066" />
+
+<!-- Turn In: Protecting Our Own -->
+<TurnIn QuestName="Protecting Our Own" QuestId="10457" TurnInName="Rina Moonspring" TurnInId="21066" />
+
+<!-- Pick Up: A Dire Situation -->
+<PickUp QuestName="A Dire Situation" QuestId="10506" GiverName="Rina Moonspring" GiverId="21066" />
+
+<!-- Turn In: Getting the Bladespire Tanked -->
+<TurnIn QuestName="Getting the Bladespire Tanked" QuestId="10512" TurnInName="Borgrim Stouthammer" TurnInId="21151" />
+
+<!-- Turn In: A Dire Situation -->
+<TurnIn QuestName="A Dire Situation" QuestId="10506" TurnInName="Rina Moonspring" TurnInId="21066" />
+
+<!-- Turn In: Where Did Those Darn Gnomes Go? -->
+<TurnIn QuestName="Where Did Those Darn Gnomes Go?" QuestId="10580" TurnInName="R-3D0" TurnInId="21690" />
+
+<!-- Pick Up: Follow the Breadcrumbs -->
+<PickUp QuestName="Follow the Breadcrumbs" QuestId="10581" GiverName="R-3D0" GiverId="21690" />
+
+<!-- Pick Up: Crystal Clear -->
+<PickUp QuestName="Crystal Clear" QuestId="10608" GiverName="Nickwinkle the Metro-Gnome" GiverId="21755" />
+
+<!-- Turn In: Follow the Breadcrumbs -->
+<TurnIn QuestName="Follow the Breadcrumbs" QuestId="10581" TurnInName="Toshley" TurnInId="21691" />
+
+<!-- Pick Up: Picking Up Some Power Converters -->
+<PickUp QuestName="Picking Up Some Power Converters" QuestId="10584" GiverName="Toshley" GiverId="21691" />
+
+<!-- Pick Up: What Came First, the Drake or the Egg? -->
+<PickUp QuestName="What Came First, the Drake or the Egg?" QuestId="10609" GiverName="Fizit &quot;Doc&quot; Clocktock" GiverId="21110" />
+
+<!-- Pick Up: Test Flight: The Zephyrium Capacitorium -->
+<PickUp QuestName="Test Flight: The Zephyrium Capacitorium" QuestId="10557" GiverName="Tally Zapnabber" GiverId="21460" />
+
+<!-- Turn In: Test Flight: The Zephyrium Capacitorium -->
+<TurnIn QuestName="Test Flight: The Zephyrium Capacitorium" QuestId="10557" TurnInName="Tally Zapnabber" TurnInId="21460" />
+
+<!-- Pick Up: Test Flight: The Singing Ridge -->
+<PickUp QuestName="Test Flight: The Singing Ridge" QuestId="10710" GiverName="Tally Zapnabber" GiverId="21460" />
+
+<!-- Turn In: Picking Up Some Power Converters -->
+<TurnIn QuestName="Picking Up Some Power Converters" QuestId="10584" TurnInName="Toshley" TurnInId="21691" />
+
+<!-- Pick Up: Ride the Lightning -->
+<PickUp QuestName="Ride the Lightning" QuestId="10657" GiverName="Toshley" GiverId="21691" />
+
+<!-- Pick Up: Ridgespine Menace -->
+<PickUp QuestName="Ridgespine Menace" QuestId="10620" GiverName="Dizzy Dina" GiverId="21824" />
+
+<!-- Pick Up: Cutting Your Teeth -->
+<PickUp QuestName="Cutting Your Teeth" QuestId="10632" GiverName="Razak Ironsides" GiverId="21118" />
+
+<!-- Collect Objective for Quest 10657: Scalewing Lightning Gland -->
+<Objective QuestName="Unknown" QuestId="10657" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 10608: Crystal Flayer -->
+<Objective QuestName="Unknown" QuestId="10608" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 10609: Proto-Nether Drake Essence -->
+<Objective QuestName="Unknown" QuestId="10609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 10609: Adolescent Nether Drake Essence -->
+<Objective QuestName="Unknown" QuestId="10609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 10609: Mature Nether Drake Essence -->
+<Objective QuestName="Unknown" QuestId="10609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 10632: Extra Sharp Daggermaw Tooth -->
+<Objective QuestName="Unknown" QuestId="10632" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 10620: Ridgespine Stalker -->
+<Objective QuestName="Unknown" QuestId="10620" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Cutting Your Teeth -->
+<TurnIn QuestName="Cutting Your Teeth" QuestId="10632" TurnInName="Razak Ironsides" TurnInId="21118" />
+
+<!-- Turn In: Test Flight: The Singing Ridge -->
+<TurnIn QuestName="Test Flight: The Singing Ridge" QuestId="10710" TurnInName="Tally Zapnabber" TurnInId="21460" />
+
+<!-- Turn In: What Came First, the Drake or the Egg? -->
+<TurnIn QuestName="What Came First, the Drake or the Egg?" QuestId="10609" TurnInName="Fizit &quot;Doc&quot; Clocktock" TurnInId="21110" />
+
+<!-- Turn In: Ride the Lightning -->
+<TurnIn QuestName="Ride the Lightning" QuestId="10657" TurnInName="Toshley" TurnInId="21691" />
+
+<!-- Pick Up: Trapping the Light Fantastic -->
+<PickUp QuestName="Trapping the Light Fantastic" QuestId="10674" GiverName="Toshley" GiverId="21691" />
+
+<!-- Turn In: Ridgespine Menace -->
+<TurnIn QuestName="Ridgespine Menace" QuestId="10620" TurnInName="Dizzy Dina" TurnInId="21824" />
+
+<!-- Pick Up: More than a Pound of Flesh -->
+<PickUp QuestName="More than a Pound of Flesh" QuestId="10671" GiverName="Dizzy Dina" GiverId="21824" />
+
+<!-- Turn In: Crystal Clear -->
+<TurnIn QuestName="Crystal Clear" QuestId="10608" TurnInName="Nickwinkle the Metro-Gnome" TurnInId="21755" />
+
+<!-- Pick Up: Gauging the Resonant Frequency -->
+<PickUp QuestName="Gauging the Resonant Frequency" QuestId="10594" GiverName="Nickwinkle the Metro-Gnome" GiverId="21755" />
+
+<!-- Pick Up: Test Flight: Razaan's Landing -->
+<PickUp QuestName="Test Flight: Razaan's Landing" QuestId="10711" GiverName="Tally Zapnabber" GiverId="21460" />
+
+<!-- Turn In: Gauging the Resonant Frequency -->
+<TurnIn QuestName="Gauging the Resonant Frequency" QuestId="10594" TurnInName="Nickwinkle the Metro-Gnome" TurnInId="21755" />
+
+<!-- Collect Objective for Quest 10671: Ether-Energized Flesh -->
+<Objective QuestName="Unknown" QuestId="10671" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Test Flight: Razaan's Landing -->
+<TurnIn QuestName="Test Flight: Razaan's Landing" QuestId="10711" TurnInName="Tally Zapnabber" TurnInId="21460" />
+
+<!-- Turn In: More than a Pound of Flesh -->
+<TurnIn QuestName="More than a Pound of Flesh" QuestId="10671" TurnInName="Dizzy Dina" TurnInId="21824" />
+
+<!-- Turn In: Trapping the Light Fantastic -->
+<TurnIn QuestName="Trapping the Light Fantastic" QuestId="10674" TurnInName="Toshley" TurnInId="21691" />
+
+<!-- Pick Up: Show Them Gnome Mercy! -->
+<PickUp QuestName="Show Them Gnome Mercy!" QuestId="10675" GiverName="Toshley" GiverId="21691" />
+
+<!-- Collect Objective for Quest 10675: Collection of Souls -->
+<Objective QuestName="Unknown" QuestId="10675" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Show Them Gnome Mercy! -->
+<TurnIn QuestName="Show Them Gnome Mercy!" QuestId="10675" TurnInName="Toshley" TurnInId="21691" />
+
+<!-- Pick Up: Test Flight: Ruuan Weald -->
+<PickUp QuestName="Test Flight: Ruuan Weald" QuestId="10712" GiverName="Tally Zapnabber" GiverId="21460" />
+
+<!-- Pick Up: A Time for Negotiation... -->
+<PickUp QuestName="A Time for Negotiation..." QuestId="10682" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Pick Up: Little Embers -->
+<PickUp QuestName="Little Embers" QuestId="10770" GiverName="Mosswood the Ancient" GiverId="22053" />
+
+<!-- Pick Up: From the Ashes -->
+<PickUp QuestName="From the Ashes" QuestId="10771" GiverName="Mosswood the Ancient" GiverId="22053" />
+
+<!-- Pick Up: Creating the Pendant -->
+<PickUp QuestName="Creating the Pendant" QuestId="10567" GiverName="Timeon" GiverId="21782" />
+
+<!-- Pick Up: A Date with Dorgok -->
+<PickUp QuestName="A Date with Dorgok" QuestId="10795" GiverName="Commander Haephus Stonewall" GiverId="22149" />
+
+<!-- Pick Up: Crush the Bloodmaul Camp! -->
+<PickUp QuestName="Crush the Bloodmaul Camp!" QuestId="10796" GiverName="Lieutenant Fairweather" GiverId="22150" />
+
+<!-- Pick Up: Culling the Wild -->
+<PickUp QuestName="Culling the Wild" QuestId="10753" GiverName="Faradrella" GiverId="22133" />
+
+<!-- Turn In: Test Flight: Ruuan Weald -->
+<TurnIn QuestName="Test Flight: Ruuan Weald" QuestId="10712" TurnInName="O'Mally Zapnabber" TurnInId="22020" />
+
+<!-- Kill Objective for Quest 10753: Felsworn Scalewing -->
+<Objective QuestName="Unknown" QuestId="10753" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10753: Felsworn Daggermaw -->
+<Objective QuestName="Unknown" QuestId="10753" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10753: Fel Corrupter -->
+<Objective QuestName="Unknown" QuestId="10753" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Pick Up: Damaged Mask -->
+<PickUp QuestName="Damaged Mask" QuestId="10810" GiverName="O'Mally Zapnabber" GiverId="22020" />
+
+<!-- Kill Objective for Quest 10770: Scorch Imp -->
+<Objective QuestName="Unknown" QuestId="10770" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 10567: Ruuan'ok Claw -->
+<Objective QuestName="Unknown" QuestId="10567" Type="CollectItem" ItemId="30704" CollectCount="6" />
+
+<!-- Collect Objective for Quest 10567: Harbinger's Pendant -->
+<Objective QuestName="Unknown" QuestId="10567" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Culling the Wild -->
+<TurnIn QuestName="Culling the Wild" QuestId="10753" TurnInName="Faradrella" TurnInId="22133" />
+
+<!-- Turn In: Creating the Pendant -->
+<TurnIn QuestName="Creating the Pendant" QuestId="10567" TurnInName="Timeon" TurnInId="21782" />
+
+<!-- Pick Up: Whispers of the Raven God -->
+<PickUp QuestName="Whispers of the Raven God" QuestId="10607" GiverName="Timeon" GiverId="21782" />
+
+<!-- Turn In: Damaged Mask -->
+<TurnIn QuestName="Damaged Mask" QuestId="10810" TurnInName="O'Mally Zapnabber" TurnInId="22020" />
+
+<!-- Pick Up: Mystery Mask -->
+<PickUp QuestName="Mystery Mask" QuestId="10812" GiverName="O'Mally Zapnabber" GiverId="22020" />
+
+<!-- Turn In: Mystery Mask -->
+<TurnIn QuestName="Mystery Mask" QuestId="10812" TurnInName="Wildlord Antelarion" TurnInId="22127" />
+
+<!-- Pick Up: Felsworn Gas Mask -->
+<PickUp QuestName="Felsworn Gas Mask" QuestId="10819" GiverName="Wildlord Antelarion" GiverId="22127" />
+
+<!-- Turn In: Little Embers -->
+<TurnIn QuestName="Little Embers" QuestId="10770" TurnInName="Mosswood the Ancient" TurnInId="22053" />
+
+<!-- Turn In: From the Ashes -->
+<TurnIn QuestName="From the Ashes" QuestId="10771" TurnInName="Mosswood the Ancient" TurnInId="22053" />
+
+</QuestOrder>

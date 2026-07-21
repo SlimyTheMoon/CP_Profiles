@@ -1,0 +1,745 @@
+<QuestOrder>
+
+<!-- Pick Up: You Survived! -->
+<PickUp QuestName="You Survived!" QuestId="9279" GiverName="Megelon" GiverId="16475" />
+
+<!-- Turn In: You Survived! -->
+<TurnIn QuestName="You Survived!" QuestId="9279" TurnInName="Proenitus" TurnInId="16477" />
+
+<!-- Pick Up: Replenishing the Healing Crystals -->
+<PickUp QuestName="Replenishing the Healing Crystals" QuestId="9280" GiverName="Proenitus" GiverId="16477" />
+
+<!-- Pick Up: Volatile Mutations -->
+<PickUp QuestName="Volatile Mutations" QuestId="10302" GiverName="Botanist Taerix" GiverId="16514" />
+
+<!-- Kill Objective for Quest 10302: Volatile Mutation -->
+<Objective QuestName="Unknown" QuestId="10302" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 9280: Vial of Moth Blood -->
+<Objective QuestName="Unknown" QuestId="9280" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Volatile Mutations -->
+<TurnIn QuestName="Volatile Mutations" QuestId="10302" TurnInName="Botanist Taerix" TurnInId="16514" />
+
+<!-- Pick Up: What Must Be Done... -->
+<PickUp QuestName="What Must Be Done..." QuestId="9293" GiverName="Botanist Taerix" GiverId="16514" />
+
+<!-- Pick Up: Botanical Legwork -->
+<PickUp QuestName="Botanical Legwork" QuestId="9799" GiverName="Apprentice Vishael" GiverId="20233" />
+
+<!-- Turn In: Replenishing the Healing Crystals -->
+<TurnIn QuestName="Replenishing the Healing Crystals" QuestId="9280" TurnInName="Proenitus" TurnInId="16477" />
+
+<!-- Pick Up: Urgent Delivery! -->
+<PickUp QuestName="Urgent Delivery!" QuestId="9409" GiverName="Proenitus" GiverId="16477" />
+
+<!-- Turn In: Urgent Delivery! -->
+<TurnIn QuestName="Urgent Delivery!" QuestId="9409" TurnInName="Zalduun" TurnInId="16502" />
+
+<!-- Pick Up: Rescue the Survivors! -->
+<PickUp QuestName="Rescue the Survivors!" QuestId="9283" GiverName="Zalduun" GiverId="16502" />
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Mage)">
+  <!-- Pick Up: Mage Training -->
+  <PickUp QuestName="Mage Training" QuestId="9290" GiverName="Valaatu" GiverId="16500" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: Warrior Training -->
+  <PickUp QuestName="Warrior Training" QuestId="9289" GiverName="Kore" GiverId="16503" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Shaman Training -->
+  <PickUp QuestName="Shaman Training" QuestId="9421" GiverName="Firmanvaar" GiverId="17089" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Priest)">
+  <!-- Pick Up: Priest Training -->
+  <PickUp QuestName="Priest Training" QuestId="9291" GiverName="Zalduun" GiverId="16502" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Paladin)">
+  <!-- Pick Up: Paladin Training -->
+  <PickUp QuestName="Paladin Training" QuestId="9287" GiverName="Aurelon" GiverId="16501" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Pick Up: Hunter Training -->
+  <PickUp QuestName="Hunter Training" QuestId="9288" GiverName="Keilnei" GiverId="16499" />
+</If>
+
+<!-- Pick Up: Spare Parts -->
+<PickUp QuestName="Spare Parts" QuestId="9305" GiverName="Technician Zhanaa" GiverId="17071" />
+
+<!-- Pick Up: Inoculation -->
+<PickUp QuestName="Inoculation" QuestId="9303" GiverName="Vindicator Aldar" GiverId="16535" />
+
+<!-- Turn In: Rescue the Survivors! -->
+<TurnIn QuestName="Rescue the Survivors!" QuestId="9283" TurnInName="Zalduun" TurnInId="16502" />
+
+<!-- Collect Objective for Quest 9293: Lasher Sample -->
+<Objective QuestName="Unknown" QuestId="9293" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 9799: Corrupted Flower -->
+<Objective QuestName="Unknown" QuestId="9799" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: What Must Be Done... -->
+<TurnIn QuestName="What Must Be Done..." QuestId="9293" TurnInName="Botanist Taerix" TurnInId="16514" />
+
+<!-- Pick Up: Healing the Lake -->
+<PickUp QuestName="Healing the Lake" QuestId="9294" GiverName="Botanist Taerix" GiverId="16514" />
+
+<!-- Turn In: Botanical Legwork -->
+<TurnIn QuestName="Botanical Legwork" QuestId="9799" TurnInName="Apprentice Vishael" TurnInId="20233" />
+
+<!-- Collect Objective for Quest 9305: Emitter Spare Part -->
+<Objective QuestName="Unknown" QuestId="9305" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: Healing the Lake -->
+<TurnIn QuestName="Healing the Lake" QuestId="9294" TurnInName="Botanist Taerix" TurnInId="16514" />
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Earth (1) -->
+  <PickUp QuestName="Call of Earth (1)" QuestId="9449" GiverName="Firmanvaar" GiverId="17089" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Earth (1) -->
+  <TurnIn QuestName="Call of Earth (1)" QuestId="9449" TurnInName="Spirit of the Vale" TurnInId="17087" />
+  <!-- Pick Up: Call of Earth (2) -->
+  <PickUp QuestName="Call of Earth (2)" QuestId="9450" GiverName="Spirit of the Vale" GiverId="17087" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Kill Objective for Quest 9450: Restless Spirit of Earth -->
+  <Objective QuestName="Unknown" QuestId="9450" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Earth (2) -->
+  <TurnIn QuestName="Call of Earth (2)" QuestId="9450" TurnInName="Spirit of the Vale" TurnInId="17087" />
+  <!-- Pick Up: Call of Earth (3) -->
+  <PickUp QuestName="Call of Earth (3)" QuestId="9451" GiverName="Spirit of the Vale" GiverId="17087" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Earth (3) -->
+  <TurnIn QuestName="Call of Earth (3)" QuestId="9451" TurnInName="Firmanvaar" TurnInId="17089" />
+</If>
+
+<!-- Turn In: Spare Parts -->
+<TurnIn QuestName="Spare Parts" QuestId="9305" TurnInName="Technician Zhanaa" TurnInId="17071" />
+
+<!-- Turn In: Inoculation -->
+<TurnIn QuestName="Inoculation" QuestId="9303" TurnInName="Vindicator Aldar" TurnInId="16535" />
+
+<!-- Pick Up: The Missing Scout -->
+<PickUp QuestName="The Missing Scout" QuestId="9309" GiverName="Vindicator Aldar" GiverId="16535" />
+
+<!-- Turn In: The Missing Scout -->
+<TurnIn QuestName="The Missing Scout" QuestId="9309" TurnInName="Tolaan" TurnInId="16546" />
+
+<!-- Pick Up: The Blood Elves -->
+<PickUp QuestName="The Blood Elves" QuestId="10303" GiverName="Tolaan" GiverId="16546" />
+
+<!-- Kill Objective for Quest 10303: Blood Elf Scout -->
+<Objective QuestName="Unknown" QuestId="10303" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: The Blood Elves -->
+<TurnIn QuestName="The Blood Elves" QuestId="10303" TurnInName="Tolaan" TurnInId="16546" />
+
+<!-- Pick Up: Blood Elf Spy -->
+<PickUp QuestName="Blood Elf Spy" QuestId="9311" GiverName="Tolaan" GiverId="16546" />
+
+<!-- Kill Objective for Quest 9311: Surveyor Candress -->
+<Objective QuestName="Unknown" QuestId="9311" Type="KillMob" MobId="16522" KillCount="1" />
+
+<!-- Pick Up: Blood Elf Plans -->
+<PickUp QuestName="Blood Elf Plans" QuestId="9798" GiverName="Tolaan" GiverId="16546" />
+
+<!-- Turn In: Blood Elf Spy -->
+<TurnIn QuestName="Blood Elf Spy" QuestId="9311" TurnInName="Vindicator Aldar" TurnInId="16535" />
+
+<!-- Turn In: Blood Elf Plans -->
+<TurnIn QuestName="Blood Elf Plans" QuestId="9798" TurnInName="Vindicator Aldar" TurnInId="16535" />
+
+<!-- Pick Up: The Emitter -->
+<PickUp QuestName="The Emitter" QuestId="9312" GiverName="Vindicator Aldar" GiverId="16535" />
+
+<!-- Turn In: The Emitter -->
+<TurnIn QuestName="The Emitter" QuestId="9312" TurnInName="Technician Zhanaa" TurnInId="17071" />
+
+<!-- Pick Up: Travel to Azure Watch -->
+<PickUp QuestName="Travel to Azure Watch" QuestId="9313" GiverName="Technician Zhanaa" GiverId="17071" />
+
+<!-- Pick Up: Word from Azure Watch -->
+<PickUp QuestName="Word from Azure Watch" QuestId="9314" GiverName="Aeun" GiverId="16554" />
+
+<!-- Pick Up: Red Snapper - Very Tasty! -->
+<PickUp QuestName="Red Snapper - Very Tasty!" QuestId="9452" GiverName="Diktynna" GiverId="17101" />
+
+<!-- Collect Objective for Quest 9452: Red Snapper -->
+<Objective QuestName="Unknown" QuestId="9452" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Red Snapper - Very Tasty! -->
+<TurnIn QuestName="Red Snapper - Very Tasty!" QuestId="9452" TurnInName="Diktynna" TurnInId="17101" />
+
+<!-- Pick Up: Find Acteon! -->
+<PickUp QuestName="Find Acteon!" QuestId="9453" GiverName="Diktynna" GiverId="17101" />
+
+<!-- Turn In: Find Acteon! -->
+<TurnIn QuestName="Find Acteon!" QuestId="9453" TurnInName="Acteon" TurnInId="17110" />
+
+<!-- Pick Up: The Great Moongraze Hunt (1) -->
+<PickUp QuestName="The Great Moongraze Hunt (1)" QuestId="9454" GiverName="Acteon" GiverId="17110" />
+
+<!-- Pick Up: Medicinal Purpose -->
+<PickUp QuestName="Medicinal Purpose" QuestId="9463" GiverName="Anchorite Fateema" GiverId="17214" />
+
+<!-- Turn In: Travel to Azure Watch -->
+<TurnIn QuestName="Travel to Azure Watch" QuestId="9313" TurnInName="Technician Dyvuun" TurnInId="16551" />
+
+<!-- Turn In: Word from Azure Watch -->
+<TurnIn QuestName="Word from Azure Watch" QuestId="9314" TurnInName="Caregiver Chellan" TurnInId="16553" />
+
+<!-- Collect Objective for Quest 9454: Moongraze Stag Tenderloin -->
+<Objective QuestName="Unknown" QuestId="9454" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 9463: Root Trapper Vine -->
+<Objective QuestName="Unknown" QuestId="9463" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Pick Up: A Small Start -->
+<PickUp QuestName="A Small Start" QuestId="9506" GiverName="Admiral Odesyus" GiverId="17240" />
+
+<!-- Pick Up: Cookie's Jumbo Gumbo -->
+<PickUp QuestName="Cookie's Jumbo Gumbo" QuestId="9512" GiverName="&quot;Cookie&quot; McWeaksauce" GiverId="17246" />
+
+<!-- Collect Objective for Quest 9512: Skittering Crawler Meat -->
+<Objective QuestName="Unknown" QuestId="9512" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Cookie's Jumbo Gumbo -->
+<TurnIn QuestName="Cookie's Jumbo Gumbo" QuestId="9512" TurnInName="&quot;Cookie&quot; McWeaksauce" TurnInId="17246" />
+
+<!-- Pick Up: Reclaiming the Ruins -->
+<PickUp QuestName="Reclaiming the Ruins" QuestId="9513" GiverName="Priestess Kyleen Il'dinare" GiverId="17241" />
+
+<!-- Pick Up: Precious and Fragile Things Need Special Handling -->
+<PickUp QuestName="Precious and Fragile Things Need Special Handling" QuestId="9523" GiverName="Archaeologist Adamant Ironheart" GiverId="17242" />
+
+<!-- Collect Objective for Quest 9506: Nautical Map -->
+<Objective QuestName="Unknown" QuestId="9506" Type="CollectItem" ItemId="23739" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9506: Nautical Compass -->
+<Objective QuestName="Unknown" QuestId="9506" Type="CollectItem" ItemId="23738" CollectCount="1" />
+
+<!-- Turn In: A Small Start -->
+<TurnIn QuestName="A Small Start" QuestId="9506" TurnInName="Admiral Odesyus" TurnInId="17240" />
+
+<!-- Pick Up: I've Got a Plant -->
+<PickUp QuestName="I've Got a Plant" QuestId="9530" GiverName="Admiral Odesyus" GiverId="17240" />
+
+<!-- Collect Objective for Quest 9530: Hollowed Out Tree -->
+<Objective QuestName="Unknown" QuestId="9530" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9530: Pile of Leaves -->
+<Objective QuestName="Unknown" QuestId="9530" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: I've Got a Plant -->
+<TurnIn QuestName="I've Got a Plant" QuestId="9530" TurnInName="Admiral Odesyus" TurnInId="17240" />
+
+<!-- Pick Up: Tree's Company -->
+<PickUp QuestName="Tree's Company" QuestId="9531" GiverName="Admiral Odesyus" GiverId="17240" />
+
+<!-- Collect Objective for Quest 9523: Ancient Relic -->
+<Objective QuestName="Unknown" QuestId="9523" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 9513: Wrathscale Myrmidon -->
+<Objective QuestName="Unknown" QuestId="9513" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 9513: Wrathscale Naga -->
+<Objective QuestName="Unknown" QuestId="9513" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 9513: Wrathscale Siren -->
+<Objective QuestName="Unknown" QuestId="9513" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Pick Up: Rune Covered Tablet -->
+<PickUp QuestName="Rune Covered Tablet" QuestId="9514" GiverName="Admiral Odesyus" GiverId="17240" />
+
+<!-- Turn In: Medicinal Purpose -->
+<TurnIn QuestName="Medicinal Purpose" QuestId="9463" TurnInName="Anchorite Fateema" TurnInId="17214" />
+
+<!-- Pick Up: An Alternative Alternative -->
+<PickUp QuestName="An Alternative Alternative" QuestId="9473" GiverName="Daedal" GiverId="17215" />
+
+<!-- Turn In: The Great Moongraze Hunt (1) -->
+<TurnIn QuestName="The Great Moongraze Hunt (1)" QuestId="9454" TurnInName="Acteon" TurnInId="17110" />
+
+<!-- Pick Up: The Great Moongraze Hunt (2) -->
+<PickUp QuestName="The Great Moongraze Hunt (2)" QuestId="10324" GiverName="Acteon" GiverId="17110" />
+
+<!-- Collect Objective for Quest 10324: Moongraze Buck Hide -->
+<Objective QuestName="Unknown" QuestId="10324" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Pick Up: Strange Findings -->
+<PickUp QuestName="Strange Findings" QuestId="9455" GiverName="Acteon" GiverId="17110" />
+
+<!-- Collect Objective for Quest 9473: Azure Snapdragon Bulb -->
+<Objective QuestName="Unknown" QuestId="9473" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Strange Findings -->
+<TurnIn QuestName="Strange Findings" QuestId="9455" TurnInName="Exarch Menelaous" TurnInId="17116" />
+
+<!-- Pick Up: Nightstalker Clean Up, Isle 2... -->
+<PickUp QuestName="Nightstalker Clean Up, Isle 2..." QuestId="9456" GiverName="Exarch Menelaous" GiverId="17116" />
+
+<!-- Turn In: An Alternative Alternative -->
+<TurnIn QuestName="An Alternative Alternative" QuestId="9473" TurnInName="Daedal" TurnInId="17215" />
+
+<!-- Pick Up: The Missing Fisherman -->
+<PickUp QuestName="The Missing Fisherman" QuestId="10428" GiverName="Dulvi" GiverId="17488" />
+
+<!-- Turn In: The Great Moongraze Hunt (2) -->
+<TurnIn QuestName="The Great Moongraze Hunt (2)" QuestId="10324" TurnInName="Acteon" TurnInId="17110" />
+
+<!-- Kill Objective for Quest 9456: Infected Nightstalker Runt -->
+<Objective QuestName="Unknown" QuestId="9456" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Nightstalker Clean Up, Isle 2... -->
+<TurnIn QuestName="Nightstalker Clean Up, Isle 2..." QuestId="9456" TurnInName="Exarch Menelaous" TurnInId="17116" />
+
+<!-- Turn In: Tree's Company -->
+<TurnIn QuestName="Tree's Company" QuestId="9531" TurnInName="Admiral Odesyus" TurnInId="17240" />
+
+<!-- Pick Up: Show Gnomercy -->
+<PickUp QuestName="Show Gnomercy" QuestId="9537" GiverName="Admiral Odesyus" GiverId="17240" />
+
+<!-- Turn In: Reclaiming the Ruins -->
+<TurnIn QuestName="Reclaiming the Ruins" QuestId="9513" TurnInName="Priestess Kyleen Il'dinare" TurnInId="17241" />
+
+<!-- Turn In: Rune Covered Tablet -->
+<TurnIn QuestName="Rune Covered Tablet" QuestId="9514" TurnInName="Priestess Kyleen Il'dinare" TurnInId="17241" />
+
+<!-- Pick Up: Warlord Sriss'tiz -->
+<PickUp QuestName="Warlord Sriss'tiz" QuestId="9515" GiverName="Priestess Kyleen Il'dinare" GiverId="17241" />
+
+<!-- Turn In: Precious and Fragile Things Need Special Handling -->
+<TurnIn QuestName="Precious and Fragile Things Need Special Handling" QuestId="9523" TurnInName="Archaeologist Adamant Ironheart" TurnInId="17242" />
+
+<!-- Collect Objective for Quest 9537: Traitor's Communication -->
+<Objective QuestName="Unknown" QuestId="9537" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Show Gnomercy -->
+<TurnIn QuestName="Show Gnomercy" QuestId="9537" TurnInName="Admiral Odesyus" TurnInId="17240" />
+
+<!-- Pick Up: Deliver Them From Evil... -->
+<PickUp QuestName="Deliver Them From Evil..." QuestId="9602" GiverName="Admiral Odesyus" GiverId="17240" />
+
+<!-- Turn In: Deliver Them From Evil... -->
+<TurnIn QuestName="Deliver Them From Evil..." QuestId="9602" TurnInName="Exarch Menelaous" TurnInId="17116" />
+
+<!-- Pick Up: Learning the Language -->
+<PickUp QuestName="Learning the Language" QuestId="9538" GiverName="Cryptographer Aurren" GiverId="17232" />
+
+<!-- Turn In: Learning the Language -->
+<TurnIn QuestName="Learning the Language" QuestId="9538" TurnInName="Cryptographer Aurren" TurnInId="17232" />
+
+<!-- Pick Up: Totem of Coo -->
+<PickUp QuestName="Totem of Coo" QuestId="9539" GiverName="Cryptographer Aurren" GiverId="17232" />
+
+<!-- Turn In: Totem of Coo -->
+<TurnIn QuestName="Totem of Coo" QuestId="9539" TurnInName="Cryptographer Aurren" TurnInId="17232" />
+
+<!-- Pick Up: Totem of Tikti -->
+<PickUp QuestName="Totem of Tikti" QuestId="9540" GiverName="Cryptographer Aurren" GiverId="17232" />
+
+<!-- Turn In: Totem of Tikti -->
+<TurnIn QuestName="Totem of Tikti" QuestId="9540" TurnInName="Cryptographer Aurren" TurnInId="17232" />
+
+<!-- Pick Up: Totem of Yor -->
+<PickUp QuestName="Totem of Yor" QuestId="9541" GiverName="Cryptographer Aurren" GiverId="17232" />
+
+<!-- Turn In: Totem of Yor -->
+<TurnIn QuestName="Totem of Yor" QuestId="9541" TurnInName="Cryptographer Aurren" TurnInId="17232" />
+
+<!-- Pick Up: Totem of Vark -->
+<PickUp QuestName="Totem of Vark" QuestId="9542" GiverName="Cryptographer Aurren" GiverId="17232" />
+
+<!-- Turn In: Totem of Vark -->
+<TurnIn QuestName="Totem of Vark" QuestId="9542" TurnInName="Cryptographer Aurren" TurnInId="17232" />
+
+<!-- Pick Up: The Prophecy of Akida -->
+<PickUp QuestName="The Prophecy of Akida" QuestId="9544" GiverName="Cryptographer Aurren" GiverId="17232" />
+
+<!-- Kill Objective for Quest 9515: Warlord Sriss'tiz -->
+<Objective QuestName="Unknown" QuestId="9515" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: The Missing Fisherman -->
+<TurnIn QuestName="The Missing Fisherman" QuestId="10428" TurnInName="Cowlen" TurnInId="17311" />
+
+<!-- Pick Up: All That Remains -->
+<PickUp QuestName="All That Remains" QuestId="9527" GiverName="Cowlen" GiverId="17311" />
+
+<!-- Collect Objective for Quest 9527: Remains of Cowlen's Family -->
+<Objective QuestName="Unknown" QuestId="9527" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: All That Remains -->
+<TurnIn QuestName="All That Remains" QuestId="9527" TurnInName="Cowlen" TurnInId="17311" />
+
+<!-- Turn In: The Prophecy of Akida -->
+<TurnIn QuestName="The Prophecy of Akida" QuestId="9544" TurnInName="Arugoo the Stillpine" TurnInId="17114" />
+
+<!-- Pick Up: Stillpine Hold -->
+<PickUp QuestName="Stillpine Hold" QuestId="9559" GiverName="Arugoo the Stillpine" GiverId="17114" />
+
+<!-- Turn In: Warlord Sriss'tiz -->
+<TurnIn QuestName="Warlord Sriss'tiz" QuestId="9515" TurnInName="Priestess Kyleen Il'dinare" TurnInId="17241" />
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: Strength of One -->
+  <PickUp QuestName="Strength of One" QuestId="9582" GiverName="Ruada" GiverId="17480" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Kill Objective for Quest 9582: Death Ravager -->
+  <Objective QuestName="Unknown" QuestId="9582" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Strength of One -->
+  <TurnIn QuestName="Strength of One" QuestId="9582" TurnInName="Ruada" TurnInId="17480" />
+  <!-- Pick Up: Behomat -->
+  <PickUp QuestName="Behomat" QuestId="10350" GiverName="Ruada" GiverId="17480" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Behomat -->
+  <TurnIn QuestName="Behomat" QuestId="10350" TurnInName="Behomat" TurnInId="17120" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Fire (1) -->
+  <PickUp QuestName="Call of Fire (1)" QuestId="9462" GiverName="Sulaa" GiverId="17219" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (1) -->
+  <TurnIn QuestName="Call of Fire (1)" QuestId="9462" TurnInName="Tuluun" TurnInId="17212" />
+  <!-- Pick Up: Call of Fire (2) -->
+  <PickUp QuestName="Call of Fire (2)" QuestId="9464" GiverName="Tuluun" GiverId="17212" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (2) -->
+  <TurnIn QuestName="Call of Fire (2)" QuestId="9464" TurnInName="Temper" TurnInId="17205" />
+  <!-- Pick Up: Call of Fire (3) -->
+  <PickUp QuestName="Call of Fire (3)" QuestId="9465" GiverName="Temper" GiverId="17205" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 9465: Ritual Torch -->
+  <Objective QuestName="Unknown" QuestId="9465" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (3) -->
+  <TurnIn QuestName="Call of Fire (3)" QuestId="9465" TurnInName="Temper" TurnInId="17205" />
+  <!-- Pick Up: Call of Fire (4) -->
+  <PickUp QuestName="Call of Fire (4)" QuestId="9467" GiverName="Temper" GiverId="17205" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 9467: Hauteur's Ashes -->
+  <Objective QuestName="Unknown" QuestId="9467" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (4) -->
+  <TurnIn QuestName="Call of Fire (4)" QuestId="9467" TurnInName="Temper" TurnInId="17205" />
+  <!-- Pick Up: Call of Fire (5) -->
+  <PickUp QuestName="Call of Fire (5)" QuestId="9468" GiverName="Temper" GiverId="17205" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (5) -->
+  <TurnIn QuestName="Call of Fire (5)" QuestId="9468" TurnInName="Tuluun" TurnInId="17212" />
+  <!-- Pick Up: Call of Fire (6) -->
+  <PickUp QuestName="Call of Fire (6)" QuestId="9461" GiverName="Tuluun" GiverId="17212" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (6) -->
+  <TurnIn QuestName="Call of Fire (6)" QuestId="9461" TurnInName="Prophet Velen" TurnInId="17468" />
+  <!-- Pick Up: Call of Fire (7) -->
+  <PickUp QuestName="Call of Fire (7)" QuestId="9555" GiverName="Prophet Velen" GiverId="17468" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (7) -->
+  <TurnIn QuestName="Call of Fire (7)" QuestId="9555" TurnInName="Farseer Nobundo" TurnInId="17204" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Pick Up: Seek Huntress Kella Nightbow -->
+  <PickUp QuestName="Seek Huntress Kella Nightbow" QuestId="9757" GiverName="Acteon" GiverId="17110" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Seek Huntress Kella Nightbow -->
+  <TurnIn QuestName="Seek Huntress Kella Nightbow" QuestId="9757" TurnInName="Huntress Kella Nightbow" TurnInId="17614" />
+  <!-- Pick Up: Taming the Beast (1) -->
+  <PickUp QuestName="Taming the Beast (1)" QuestId="9591" GiverName="Huntress Kella Nightbow" GiverId="17614" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (1) -->
+  <TurnIn QuestName="Taming the Beast (1)" QuestId="9591" TurnInName="Huntress Kella Nightbow" TurnInId="17614" />
+  <!-- Pick Up: Taming the Beast (2) -->
+  <PickUp QuestName="Taming the Beast (2)" QuestId="9592" GiverName="Huntress Kella Nightbow" GiverId="17614" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (2) -->
+  <TurnIn QuestName="Taming the Beast (2)" QuestId="9592" TurnInName="Huntress Kella Nightbow" TurnInId="17614" />
+  <!-- Pick Up: Taming the Beast (3) -->
+  <PickUp QuestName="Taming the Beast (3)" QuestId="9593" GiverName="Huntress Kella Nightbow" GiverId="17614" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (3) -->
+  <TurnIn QuestName="Taming the Beast (3)" QuestId="9593" TurnInName="Huntress Kella Nightbow" TurnInId="17614" />
+  <!-- Pick Up: Beast Training -->
+  <PickUp QuestName="Beast Training" QuestId="9675" GiverName="Huntress Kella Nightbow" GiverId="17614" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Beast Training -->
+  <TurnIn QuestName="Beast Training" QuestId="9675" TurnInName="Ganaar" TurnInId="16712" />
+</If>
+
+<!-- Pick Up: Coming of Age -->
+<PickUp QuestName="Coming of Age" QuestId="9623" GiverName="Exarch Menelaous" GiverId="17116" />
+
+<!-- Turn In: Stillpine Hold -->
+<TurnIn QuestName="Stillpine Hold" QuestId="9559" TurnInName="High Chief Stillpine" TurnInId="17440" />
+
+<!-- Pick Up: Murlocs... Why Here? Why Now? -->
+<PickUp QuestName="Murlocs... Why Here? Why Now?" QuestId="9562" GiverName="Gurf" GiverId="17441" />
+
+<!-- Collect Objective for Quest 9562: Stillpine Grain -->
+<Objective QuestName="Unknown" QuestId="9562" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Pick Up: Gurf's Dignity -->
+<PickUp QuestName="Gurf's Dignity" QuestId="9564" GiverName="Gurf" GiverId="17441" />
+
+<!-- Turn In: Murlocs... Why Here? Why Now? -->
+<TurnIn QuestName="Murlocs... Why Here? Why Now?" QuestId="9562" TurnInName="Gurf" TurnInId="17441" />
+
+<!-- Turn In: Gurf's Dignity -->
+<TurnIn QuestName="Gurf's Dignity" QuestId="9564" TurnInName="Gurf" TurnInId="17441" />
+
+<!-- Pick Up: Search Stillpine Hold -->
+<PickUp QuestName="Search Stillpine Hold" QuestId="9565" GiverName="High Chief Stillpine" GiverId="17440" />
+
+<!-- Pick Up: Chieftain Oomooroo -->
+<PickUp QuestName="Chieftain Oomooroo" QuestId="9573" GiverName="Stillpine the Younger" GiverId="17445" />
+
+<!-- Turn In: Search Stillpine Hold -->
+<TurnIn QuestName="Search Stillpine Hold" QuestId="9565" TurnInName="Stillpine the Younger" TurnInId="17445" />
+
+<!-- Pick Up: Blood Crystals -->
+<PickUp QuestName="Blood Crystals" QuestId="9566" GiverName="Stillpine the Younger" GiverId="17445" />
+
+<!-- Kill Objective for Quest 9573: Crazed Wildkin -->
+<Objective QuestName="Unknown" QuestId="9573" Type="KillMob" MobId="UNKNOWN_ID" KillCount="9" />
+
+<!-- Kill Objective for Quest 9573: Chieftain Oomooroo -->
+<Objective QuestName="Unknown" QuestId="9573" Type="KillMob" MobId="17448" KillCount="1" />
+
+<!-- Turn In: Blood Crystals -->
+<TurnIn QuestName="Blood Crystals" QuestId="9566" TurnInName="High Chief Stillpine" TurnInId="17440" />
+
+<!-- Turn In: Chieftain Oomooroo -->
+<TurnIn QuestName="Chieftain Oomooroo" QuestId="9573" TurnInName="Stillpine the Younger" TurnInId="17445" />
+
+<!-- Pick Up: The Kurken is Lurkin' -->
+<PickUp QuestName="The Kurken is Lurkin'" QuestId="9570" GiverName="Kurz the Revelator" GiverId="17443" />
+
+<!-- Collect Objective for Quest 9570: The Kurken's Hide -->
+<Objective QuestName="Unknown" QuestId="9570" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Kurken is Lurkin' -->
+<TurnIn QuestName="The Kurken is Lurkin'" QuestId="9570" TurnInName="Kurz the Revelator" TurnInId="17443" />
+
+<!-- Pick Up: The Kurken's Hide -->
+<PickUp QuestName="The Kurken's Hide" QuestId="9571" GiverName="Kurz the Revelator" GiverId="17443" />
+
+<!-- Turn In: The Kurken's Hide -->
+<TurnIn QuestName="The Kurken's Hide" QuestId="9571" TurnInName="Moordo" TurnInId="17442" />
+
+<!-- Turn In: Coming of Age -->
+<TurnIn QuestName="Coming of Age" QuestId="9623" TurnInName="Torallius the Pack Handler" TurnInId="17584" />
+
+<!-- Pick Up: Washed Ashore (1) -->
+<PickUp QuestName="Washed Ashore (1)" QuestId="3524" GiverName="Gwennyth Bly'Leggonde" GiverId="10219" />
+
+<!-- Pick Up: Buzzbox 827 -->
+<PickUp QuestName="Buzzbox 827" QuestId="983" GiverName="Wizbang Cranktoggle" GiverId="3666" />
+
+<!-- Pick Up: How Big a Threat? (1) -->
+<PickUp QuestName="How Big a Threat? (1)" QuestId="984" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Pick Up: Bashal'Aran (1) -->
+<PickUp QuestName="Bashal'Aran (1)" QuestId="954" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Collect Objective for Quest 983: Crawler Leg -->
+<Objective QuestName="Unknown" QuestId="983" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 3524: Sea Creature Bones -->
+<Objective QuestName="Unknown" QuestId="3524" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Buzzbox 827 -->
+<TurnIn QuestName="Buzzbox 827" QuestId="983" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Pick Up: Buzzbox 411 -->
+<PickUp QuestName="Buzzbox 411" QuestId="1001" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Turn In: Washed Ashore (1) -->
+<TurnIn QuestName="Washed Ashore (1)" QuestId="3524" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Pick Up: Washed Ashore (2) -->
+<PickUp QuestName="Washed Ashore (2)" QuestId="4681" GiverName="Gwennyth Bly'Leggonde" GiverId="10219" />
+
+<!-- Collect Objective for Quest 1001: Thresher Eye -->
+<Objective QuestName="Unknown" QuestId="1001" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 4681: Sea Turtle Remains -->
+<Objective QuestName="Unknown" QuestId="4681" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: How Big a Threat? (1) -->
+<TurnIn QuestName="How Big a Threat? (1)" QuestId="984" TurnInName="Terenthis" TurnInId="3693" />
+
+<!-- Pick Up: Thundris Windweaver -->
+<PickUp QuestName="Thundris Windweaver" QuestId="4761" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Turn In: Washed Ashore (2) -->
+<TurnIn QuestName="Washed Ashore (2)" QuestId="4681" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Turn In: Thundris Windweaver -->
+<TurnIn QuestName="Thundris Windweaver" QuestId="4761" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Turn In: Bashal'Aran (1) -->
+<TurnIn QuestName="Bashal'Aran (1)" QuestId="954" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: Bashal'Aran (2) -->
+<PickUp QuestName="Bashal'Aran (2)" QuestId="955" GiverName="Asterion" GiverId="3650" />
+
+<!-- Collect Objective for Quest 955: Grell Earring -->
+<Objective QuestName="Unknown" QuestId="955" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Bashal'Aran (2) -->
+<TurnIn QuestName="Bashal'Aran (2)" QuestId="955" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Turn In: Buzzbox 411 -->
+<TurnIn QuestName="Buzzbox 411" QuestId="1001" TurnInName="Asterion" TurnInId="3650" />
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Paladin)">
+  <!-- Pick Up: Jol -->
+  <PickUp QuestName="Jol" QuestId="10366" GiverName="Tullas" GiverId="17483" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Paladin)">
+  <!-- Turn In: Jol -->
+  <TurnIn QuestName="Jol" QuestId="10366" TurnInName="Jol" TurnInId="17509" />
+  <!-- Pick Up: Redemption (1) -->
+  <PickUp QuestName="Redemption (1)" QuestId="9598" GiverName="Jol" GiverId="17509" />
+  <!-- Turn In: Redemption (1) -->
+  <TurnIn QuestName="Redemption (1)" QuestId="9598" TurnInName="Jol" TurnInId="17509" />
+  <!-- Pick Up: Redemption (2) -->
+  <PickUp QuestName="Redemption (2)" QuestId="9600" GiverName="Jol" GiverId="17509" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Paladin)">
+  <!-- Turn In: Redemption (2) -->
+  <TurnIn QuestName="Redemption (2)" QuestId="9600" TurnInName="Jol" TurnInId="17509" />
+</If>
+
+<!-- Pick Up: The Public Servant -->
+<PickUp QuestName="The Public Servant" QuestId="433" GiverName="Senator Mehr Stonehallow" GiverId="1977" />
+
+<!-- Pick Up: Those Blasted Troggs! -->
+<PickUp QuestName="Those Blasted Troggs!" QuestId="432" GiverName="Foreman Stonebrow" GiverId="1254" />
+
+<!-- Kill Objective for Quest 432: Rockjaw Skullthumper -->
+<Objective QuestName="Unknown" QuestId="432" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 433: Rockjaw Bonesnapper -->
+<Objective QuestName="Unknown" QuestId="433" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: The Public Servant -->
+<TurnIn QuestName="The Public Servant" QuestId="433" TurnInName="Senator Mehr Stonehallow" TurnInId="1977" />
+
+<!-- Turn In: Those Blasted Troggs! -->
+<TurnIn QuestName="Those Blasted Troggs!" QuestId="432" TurnInName="Foreman Stonebrow" TurnInId="1254" />
+
+<!-- Pick Up: Rat Catching -->
+<PickUp QuestName="Rat Catching" QuestId="416" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Pick Up: Mountaineer Stormpike's Task -->
+<PickUp QuestName="Mountaineer Stormpike's Task" QuestId="1339" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Pick Up: Thelsamar Blood Sausages -->
+<PickUp QuestName="Thelsamar Blood Sausages" QuestId="418" GiverName="Vidra Hearthstove" GiverId="1963" />
+
+<!-- Collect Objective for Quest 418: Boar Intestines -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 418: Spider Ichor -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 418: Bear Meat -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 416: Tunnel Rat Ear -->
+<Objective QuestName="Unknown" QuestId="416" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Mountaineer Stormpike's Task -->
+<TurnIn QuestName="Mountaineer Stormpike's Task" QuestId="1339" TurnInName="Mountaineer Stormpike" TurnInId="1343" />
+
+<!-- Pick Up: Stormpike's Order -->
+<PickUp QuestName="Stormpike's Order" QuestId="1338" GiverName="Mountaineer Stormpike" GiverId="1343" />
+
+<!-- Turn In: Thelsamar Blood Sausages -->
+<TurnIn QuestName="Thelsamar Blood Sausages" QuestId="418" TurnInName="Vidra Hearthstove" TurnInId="1963" />
+
+<!-- Turn In: Rat Catching -->
+<TurnIn QuestName="Rat Catching" QuestId="416" TurnInName="Mountaineer Kadrell" TurnInId="1340" />
+
+<!-- Pick Up: In Defense of the King's Lands (1) -->
+<PickUp QuestName="In Defense of the King's Lands (1)" QuestId="224" GiverName="Mountaineer Cobbleflint" GiverId="1089" />
+
+<!-- Pick Up: The Trogg Threat -->
+<PickUp QuestName="The Trogg Threat" QuestId="267" GiverName="Captain Rugelfuss" GiverId="1092" />
+
+<!-- Kill Objective for Quest 224: Stonesplinter Trogg -->
+<Objective QuestName="Unknown" QuestId="224" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 224: Stonesplinter Scout -->
+<Objective QuestName="Unknown" QuestId="224" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 267: Trogg Stone Tooth -->
+<Objective QuestName="Unknown" QuestId="267" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: In Defense of the King's Lands (1) -->
+<TurnIn QuestName="In Defense of the King's Lands (1)" QuestId="224" TurnInName="Mountaineer Cobbleflint" TurnInId="1089" />
+
+<!-- Turn In: The Trogg Threat -->
+<TurnIn QuestName="The Trogg Threat" QuestId="267" TurnInName="Captain Rugelfuss" TurnInId="1092" />
+
+<!-- Turn In: Stormpike's Order -->
+<TurnIn QuestName="Stormpike's Order" QuestId="1338" TurnInName="Furen Longbeard" TurnInId="5413" />
+
+<!-- Pick Up: Report to Gryan Stoutmantle -->
+<PickUp QuestName="Report to Gryan Stoutmantle" QuestId="109" GiverName="Marshal Dughan" GiverId="240" />
+
+</QuestOrder>

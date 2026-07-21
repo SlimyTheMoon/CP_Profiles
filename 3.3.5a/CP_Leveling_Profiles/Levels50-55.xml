@@ -1,0 +1,771 @@
+<QuestOrder>
+
+<!-- Turn In: Thadius Grimshade -->
+<TurnIn QuestName="Thadius Grimshade" QuestId="2990" TurnInName="Thadius Grimshade" TurnInId="8022" />
+
+<!-- Collect Objective for Quest 3444: Stone Circle -->
+<Objective QuestName="Unknown" QuestId="3444" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Volcanic Activity -->
+<PickUp QuestName="Volcanic Activity" QuestId="4502" GiverName="Liv Rizzlefix" GiverId="8496" />
+
+<!-- Turn In: Sprinkle's Secret Ingredient -->
+<TurnIn QuestName="Sprinkle's Secret Ingredient" QuestId="2641" TurnInName="Sprinkle" TurnInId="7583" />
+
+<!-- Pick Up: Delivery for Marin -->
+<PickUp QuestName="Delivery for Marin" QuestId="2661" GiverName="Sprinkle" GiverId="7583" />
+
+<!-- Turn In: Delivery for Marin -->
+<TurnIn QuestName="Delivery for Marin" QuestId="2661" TurnInName="Marin Noggenfogger" TurnInId="7564" />
+
+<!-- Pick Up: Noggenfogger Elixir -->
+<PickUp QuestName="Noggenfogger Elixir" QuestId="2662" GiverName="Marin Noggenfogger" GiverId="7564" />
+
+<!-- Turn In: Noggenfogger Elixir -->
+<TurnIn QuestName="Noggenfogger Elixir" QuestId="2662" TurnInName="Marin Noggenfogger" TurnInId="7564" />
+
+<!-- Turn In: The Stone Circle -->
+<TurnIn QuestName="The Stone Circle" QuestId="3444" TurnInName="Marvon Rivetseeker" TurnInId="7771" />
+
+<!-- Pick Up: Assisting Arch Druid Staghelm -->
+<PickUp QuestName="Assisting Arch Druid Staghelm" QuestId="3790" GiverName="Innkeeper Firebrew" GiverId="5111" />
+
+<!-- Pick Up: JOB OPPORTUNITY: Culling the Competition -->
+<PickUp QuestName="JOB OPPORTUNITY: Culling the Competition" QuestId="7729" GiverName="Innkeeper Firebrew" GiverId="5111" />
+
+<!-- Pick Up: STOLEN: Smithing Tuyere and Lookout's Spyglass -->
+<PickUp QuestName="STOLEN: Smithing Tuyere and Lookout's Spyglass" QuestId="7728" GiverName="Innkeeper Firebrew" GiverId="5111" />
+
+<!-- Pick Up: WANTED: Overseer Maltorius -->
+<PickUp QuestName="WANTED: Overseer Maltorius" QuestId="7701" GiverName="Innkeeper Firebrew" GiverId="5111" />
+
+<!-- Pick Up: Curse These Fat Fingers -->
+<PickUp QuestName="Curse These Fat Fingers" QuestId="7723" GiverName="Hansel Heavyhands" GiverId="14627" />
+
+<!-- Pick Up: Fiery Menace! -->
+<PickUp QuestName="Fiery Menace!" QuestId="7724" GiverName="Hansel Heavyhands" GiverId="14627" />
+
+<!-- Pick Up: Incendosaurs? Whateverosaur is More Like It -->
+<PickUp QuestName="Incendosaurs? Whateverosaur is More Like It" QuestId="7727" GiverName="Hansel Heavyhands" GiverId="14627" />
+
+<!-- Pick Up: What the Flux? -->
+<PickUp QuestName="What the Flux?" QuestId="7722" GiverName="Master Smith Burninate" GiverId="14624" />
+
+<!-- Pick Up: Divine Retribution -->
+<PickUp QuestName="Divine Retribution" QuestId="3441" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Turn In: Divine Retribution -->
+<TurnIn QuestName="Divine Retribution" QuestId="3441" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: The Flawless Flame -->
+<PickUp QuestName="The Flawless Flame" QuestId="3442" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Collect Objective for Quest 7728: Smithing Tuyere -->
+<Objective QuestName="Unknown" QuestId="7728" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Key to Freedom -->
+<PickUp QuestName="The Key to Freedom" QuestId="4451" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Kill Objective for Quest 7723: Heavy War Golem -->
+<Objective QuestName="Unknown" QuestId="7723" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 7728: Lookout's Spyglass -->
+<Objective QuestName="Unknown" QuestId="7728" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 7724: Greater Lava Spider -->
+<Objective QuestName="Unknown" QuestId="7724" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 3442: Golem Oil -->
+<Objective QuestName="Unknown" QuestId="3442" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 3442: Heart of Flame -->
+<Objective QuestName="Unknown" QuestId="3442" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Pick Up: The Horn of the Beast -->
+<PickUp QuestName="The Horn of the Beast" QuestId="3181" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Turn In: The Key to Freedom -->
+<TurnIn QuestName="The Key to Freedom" QuestId="4451" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: Caught! -->
+<PickUp QuestName="Caught!" QuestId="4449" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Kill Objective for Quest 4449: Dark Iron Geologist -->
+<Objective QuestName="Unknown" QuestId="4449" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Caught! -->
+<TurnIn QuestName="Caught!" QuestId="4449" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: Ledger from Tanaris -->
+<PickUp QuestName="Ledger from Tanaris" QuestId="4450" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Collect Objective for Quest 4450: Goodsteel Ledger -->
+<Objective QuestName="Unknown" QuestId="4450" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 4450: Solid Crystal Leg Shaft -->
+<Objective QuestName="Unknown" QuestId="4450" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="20" />
+
+<!-- Pick Up: Suntara Stones (1) -->
+<PickUp QuestName="Suntara Stones (1)" QuestId="3367" GiverName="Dorius Stonetender" GiverId="8284" />
+
+<!-- Turn In: Suntara Stones (1) -->
+<TurnIn QuestName="Suntara Stones (1)" QuestId="3367" TurnInName="Dorius Stonetender" TurnInId="8284" />
+
+<!-- Pick Up: Suntara Stones (2) -->
+<PickUp QuestName="Suntara Stones (2)" QuestId="3368" GiverName="Dorius Stonetender" GiverId="8284" />
+
+<!-- Turn In: The Flawless Flame -->
+<TurnIn QuestName="The Flawless Flame" QuestId="3442" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: Forging the Shaft -->
+<PickUp QuestName="Forging the Shaft" QuestId="3443" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Collect Objective for Quest 3443: Thorium Plated Dagger -->
+<Objective QuestName="Unknown" QuestId="3443" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Forging the Shaft -->
+<TurnIn QuestName="Forging the Shaft" QuestId="3443" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: The Flame's Casing -->
+<PickUp QuestName="The Flame's Casing" QuestId="3452" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Turn In: Curse These Fat Fingers -->
+<TurnIn QuestName="Curse These Fat Fingers" QuestId="7723" TurnInName="Hansel Heavyhands" TurnInId="14627" />
+
+<!-- Turn In: Fiery Menace! -->
+<TurnIn QuestName="Fiery Menace!" QuestId="7724" TurnInName="Hansel Heavyhands" TurnInId="14627" />
+
+<!-- Turn In: STOLEN: Smithing Tuyere and Lookout's Spyglass -->
+<TurnIn QuestName="STOLEN: Smithing Tuyere and Lookout's Spyglass" QuestId="7728" TurnInName="Taskmaster Scrange" TurnInId="14626" />
+
+<!-- Turn In: Suntara Stones (2) -->
+<TurnIn QuestName="Suntara Stones (2)" QuestId="3368" TurnInName="Curator Thorius" TurnInId="8256" />
+
+<!-- Pick Up: Dwarven Justice -->
+<PickUp QuestName="Dwarven Justice" QuestId="3371" GiverName="Curator Thorius" GiverId="8256" />
+
+<!-- Turn In: The Horn of the Beast -->
+<TurnIn QuestName="The Horn of the Beast" QuestId="3181" TurnInName="Mountaineer Pebblebitty" TurnInId="3836" />
+
+<!-- Pick Up: Proof of Deed -->
+<PickUp QuestName="Proof of Deed" QuestId="3182" GiverName="Mountaineer Pebblebitty" GiverId="3836" />
+
+<!-- Turn In: Proof of Deed -->
+<TurnIn QuestName="Proof of Deed" QuestId="3182" TurnInName="Curator Thorius" TurnInId="8256" />
+
+<!-- Pick Up: At Last! -->
+<PickUp QuestName="At Last!" QuestId="3201" GiverName="Curator Thorius" GiverId="8256" />
+
+<!-- Pick Up: A Little Slime Goes a Long Way (1) -->
+<PickUp QuestName="A Little Slime Goes a Long Way (1)" QuestId="4512" GiverName="Laris Geardawdle" GiverId="9616" />
+
+<!-- Turn In: At Last! -->
+<TurnIn QuestName="At Last!" QuestId="3201" TurnInName="Mountaineer Pebblebitty" TurnInId="3836" />
+
+<!-- Turn In: Dwarven Justice -->
+<TurnIn QuestName="Dwarven Justice" QuestId="3371" TurnInName="the Dying Archeologist" TurnInId="8417" />
+
+<!-- Pick Up: Release Them -->
+<PickUp QuestName="Release Them" QuestId="3372" GiverName="the Dying Archeologist" GiverId="8417" />
+
+<!-- Kill Objective for Quest 7729: Dark Iron Taskmaster -->
+<Objective QuestName="Unknown" QuestId="7729" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 7729: Dark Iron Slaver -->
+<Objective QuestName="Unknown" QuestId="7729" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 7701: Head of Overseer Maltorius -->
+<Objective QuestName="Unknown" QuestId="7701" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 7722: Secret Plans: Fiery Flux -->
+<Objective QuestName="Unknown" QuestId="7722" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 7727: Incendosaur -->
+<Objective QuestName="Unknown" QuestId="7727" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Turn In: WANTED: Overseer Maltorius -->
+<TurnIn QuestName="WANTED: Overseer Maltorius" QuestId="7701" TurnInName="Lookout Captain Lolo Longstriker" TurnInId="14634" />
+
+<!-- Turn In: Incendosaurs? Whateverosaur is More Like It -->
+<TurnIn QuestName="Incendosaurs? Whateverosaur is More Like It" QuestId="7727" TurnInName="Hansel Heavyhands" TurnInId="14627" />
+
+<!-- Turn In: JOB OPPORTUNITY: Culling the Competition -->
+<TurnIn QuestName="JOB OPPORTUNITY: Culling the Competition" QuestId="7729" TurnInName="Taskmaster Scrange" TurnInId="14626" />
+
+<!-- Turn In: What the Flux? -->
+<TurnIn QuestName="What the Flux?" QuestId="7722" TurnInName="Master Smith Burninate" TurnInId="14624" />
+
+<!-- Collect Objective for Quest 3452: Symbol of Ragnaros -->
+<Objective QuestName="Unknown" QuestId="3452" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Prayer to Elune (1) -->
+<PickUp QuestName="Prayer to Elune (1)" QuestId="3377" GiverName="Zamael Lunthistle" GiverId="8436" />
+
+<!-- Turn In: Prayer to Elune (1) -->
+<TurnIn QuestName="Prayer to Elune (1)" QuestId="3377" TurnInName="Zamael Lunthistle" TurnInId="8436" />
+
+<!-- Pick Up: Prayer to Elune (2) -->
+<PickUp QuestName="Prayer to Elune (2)" QuestId="3378" GiverName="Zamael Lunthistle" GiverId="8436" />
+
+<!-- Collect Objective for Quest 3378: Prayer to Elune -->
+<Objective QuestName="Unknown" QuestId="3378" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Flame's Casing -->
+<TurnIn QuestName="The Flame's Casing" QuestId="3452" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: The Torch of Retribution (1) -->
+<PickUp QuestName="The Torch of Retribution (1)" QuestId="3453" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Turn In: The Torch of Retribution (1) -->
+<TurnIn QuestName="The Torch of Retribution (1)" QuestId="3453" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: The Torch of Retribution (2) -->
+<PickUp QuestName="The Torch of Retribution (2)" QuestId="3454" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Turn In: The Torch of Retribution (2) -->
+<TurnIn QuestName="The Torch of Retribution (2)" QuestId="3454" TurnInName="Kalaran Windblade" TurnInId="8479" />
+
+<!-- Pick Up: Squire Maltrake -->
+<PickUp QuestName="Squire Maltrake" QuestId="3462" GiverName="Kalaran Windblade" GiverId="8479" />
+
+<!-- Turn In: Squire Maltrake -->
+<TurnIn QuestName="Squire Maltrake" QuestId="3462" TurnInName="Squire Maltrake" TurnInId="8509" />
+
+<!-- Pick Up: Set Them Ablaze! -->
+<PickUp QuestName="Set Them Ablaze!" QuestId="3463" GiverName="Squire Maltrake" GiverId="8509" />
+
+<!-- Turn In: Release Them -->
+<TurnIn QuestName="Release Them" QuestId="3372" TurnInName="Squire Maltrake" TurnInId="8509" />
+
+<!-- Pick Up: Rise, Obsidion! -->
+<PickUp QuestName="Rise, Obsidion!" QuestId="3566" GiverName="the Dying Archeologist" GiverId="8417" />
+
+<!-- Collect Objective for Quest 3566: Head of Lathoric the Black -->
+<Objective QuestName="Unknown" QuestId="3566" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3566: Heart of Obsidion -->
+<Objective QuestName="Unknown" QuestId="3566" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Set Them Ablaze! -->
+<TurnIn QuestName="Set Them Ablaze!" QuestId="3463" TurnInName="Squire Maltrake" TurnInId="8509" />
+
+<!-- Pick Up: Trinkets... -->
+<PickUp QuestName="Trinkets..." QuestId="3481" GiverName="Squire Maltrake" GiverId="8509" />
+
+<!-- Turn In: Trinkets... -->
+<TurnIn QuestName="Trinkets..." QuestId="3481" TurnInName="Squire Maltrake" TurnInId="8509" />
+
+<!-- Pick Up: Petty Squabbles -->
+<PickUp QuestName="Petty Squabbles" QuestId="2783" GiverName="Ambassador Ardalan" GiverId="7826" />
+
+<!-- Turn In: Petty Squabbles -->
+<TurnIn QuestName="Petty Squabbles" QuestId="2783" TurnInName="the Fallen Hero of the Horde" TurnInId="7572" />
+
+<!-- Pick Up: A Tale of Sorrow -->
+<PickUp QuestName="A Tale of Sorrow" QuestId="2801" GiverName="the Fallen Hero of the Horde" GiverId="7572" />
+
+<!-- Turn In: A Tale of Sorrow -->
+<TurnIn QuestName="A Tale of Sorrow" QuestId="2801" TurnInName="the Fallen Hero of the Horde" TurnInId="7572" />
+
+<!-- Collect Objective for Quest 4450: Goodsteel's Balanced Flameberge -->
+<Objective QuestName="Unknown" QuestId="4450" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Rise, Obsidion! -->
+<TurnIn QuestName="Rise, Obsidion!" QuestId="3566" TurnInName="Curator Thorius" TurnInId="8256" />
+
+<!-- Turn In: Prayer to Elune (2) -->
+<TurnIn QuestName="Prayer to Elune (2)" QuestId="3378" TurnInName="Astarii Starseeker" TurnInId="4090" />
+
+<!-- Turn In: Rise of the Silithid -->
+<TurnIn QuestName="Rise of the Silithid" QuestId="162" TurnInName="Gracina Spiritmight" TurnInId="7740" />
+
+<!-- Pick Up: March of the Silithid -->
+<PickUp QuestName="March of the Silithid" QuestId="4493" GiverName="Gracina Spiritmight" GiverId="7740" />
+
+<!-- Turn In: Assisting Arch Druid Staghelm -->
+<TurnIn QuestName="Assisting Arch Druid Staghelm" QuestId="3790" TurnInName="Arch Druid Fandral Staghelm" TurnInId="3516" />
+
+<!-- Pick Up: Un'Goro Soil -->
+<PickUp QuestName="Un'Goro Soil" QuestId="3764" GiverName="Arch Druid Fandral Staghelm" GiverId="3516" />
+
+<!-- Collect Objective for Quest 4450: Overdue Package -->
+<Objective QuestName="Unknown" QuestId="4450" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Cortello's Riddle (2) -->
+<TurnIn QuestName="Cortello's Riddle (2)" QuestId="625" TurnInName="Arch Druid Fandral Staghelm" TurnInId="3516" />
+
+<!-- Turn In: Ledger from Tanaris -->
+<TurnIn QuestName="Ledger from Tanaris" QuestId="4450" TurnInName="Krinkle Goodsteel" TurnInId="5411" />
+
+<!-- Pick Up: Super Sticky -->
+<PickUp QuestName="Super Sticky" QuestId="4504" GiverName="Tran'rek" GiverId="7876" />
+
+<!-- Turn In: March of the Silithid -->
+<TurnIn QuestName="March of the Silithid" QuestId="4493" TurnInName="Alchemist Pestlezugg" TurnInId="5594" />
+
+<!-- Pick Up: Bungle in the Jungle -->
+<PickUp QuestName="Bungle in the Jungle" QuestId="4496" GiverName="Alchemist Pestlezugg" GiverId="5594" />
+
+<!-- Pick Up: The Apes of Un'Goro -->
+<PickUp QuestName="The Apes of Un'Goro" QuestId="4289" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Pick Up: The Fare of Lar'korwi -->
+<PickUp QuestName="The Fare of Lar'korwi" QuestId="4290" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Pick Up: Williden's Journal -->
+<PickUp QuestName="Williden's Journal" QuestId="3884" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Pick Up: It's a Secret to Everybody (1) -->
+<PickUp QuestName="It's a Secret to Everybody (1)" QuestId="3844" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Turn In: It's a Secret to Everybody (1) -->
+<TurnIn QuestName="It's a Secret to Everybody (1)" QuestId="3844" TurnInName="Torwa Pathfinder" TurnInId="9619" />
+
+<!-- Pick Up: It's a Secret to Everybody (2) -->
+<PickUp QuestName="It's a Secret to Everybody (2)" QuestId="3845" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Collect Objective for Quest 4290: Piece of Threshadon Carcass -->
+<Objective QuestName="Unknown" QuestId="4290" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Fare of Lar'korwi -->
+<TurnIn QuestName="The Fare of Lar'korwi" QuestId="4290" TurnInName="Torwa Pathfinder" TurnInId="9619" />
+
+<!-- Pick Up: The Scent of Lar'korwi -->
+<PickUp QuestName="The Scent of Lar'korwi" QuestId="4291" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Collect Objective for Quest 4291: Ravasaur Pheromone Gland -->
+<Objective QuestName="Unknown" QuestId="4291" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Turn In: The Scent of Lar'korwi -->
+<TurnIn QuestName="The Scent of Lar'korwi" QuestId="4291" TurnInName="Torwa Pathfinder" TurnInId="9619" />
+
+<!-- Pick Up: The Bait for Lar'korwi -->
+<PickUp QuestName="The Bait for Lar'korwi" QuestId="4292" GiverName="Torwa Pathfinder" GiverId="9619" />
+
+<!-- Collect Objective for Quest 4292: Lar'korwi's Head -->
+<Objective QuestName="Unknown" QuestId="4292" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 4289: Un'Goro Gorilla Pelt -->
+<Objective QuestName="Unknown" QuestId="4289" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Collect Objective for Quest 4289: Un'Goro Stomper Pelt -->
+<Objective QuestName="Unknown" QuestId="4289" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Collect Objective for Quest 4289: Un'Goro Thunderer Pelt -->
+<Objective QuestName="Unknown" QuestId="4289" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Pick Up: Chasing A-Me 01 (1) -->
+<PickUp QuestName="Chasing A-Me 01 (1)" QuestId="4243" GiverName="Karna Remtravel" GiverId="9618" />
+
+<!-- Turn In: It's a Secret to Everybody (2) -->
+<TurnIn QuestName="It's a Secret to Everybody (2)" QuestId="3845" TurnInName="Linken" TurnInId="8737" />
+
+<!-- Pick Up: It's a Secret to Everybody (3) -->
+<PickUp QuestName="It's a Secret to Everybody (3)" QuestId="3908" GiverName="Linken" GiverId="8737" />
+
+<!-- Turn In: Williden's Journal -->
+<TurnIn QuestName="Williden's Journal" QuestId="3884" TurnInName="Williden Marshal" TurnInId="9270" />
+
+<!-- Pick Up: Expedition Salvation -->
+<PickUp QuestName="Expedition Salvation" QuestId="3881" GiverName="Williden Marshal" GiverId="9270" />
+
+<!-- Pick Up: Alien Ecology -->
+<PickUp QuestName="Alien Ecology" QuestId="3883" GiverName="Hol'anyee Marshal" GiverId="9271" />
+
+<!-- Pick Up: Roll the Bones -->
+<PickUp QuestName="Roll the Bones" QuestId="3882" GiverName="Spark Nilminer" GiverId="9272" />
+
+<!-- Pick Up: Crystals of Power -->
+<PickUp QuestName="Crystals of Power" QuestId="4284" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Turn In: Crystals of Power -->
+<TurnIn QuestName="Crystals of Power" QuestId="4284" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Pick Up: The Northern Pylon -->
+<PickUp QuestName="The Northern Pylon" QuestId="4285" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Pick Up: The Eastern Pylon -->
+<PickUp QuestName="The Eastern Pylon" QuestId="4287" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Pick Up: The Western Pylon -->
+<PickUp QuestName="The Western Pylon" QuestId="4288" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Pick Up: Beware of Pterrordax -->
+<PickUp QuestName="Beware of Pterrordax" QuestId="4501" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Pick Up: Lost! -->
+<PickUp QuestName="Lost!" QuestId="4492" GiverName="Spraggle Frock" GiverId="9997" />
+
+<!-- Pick Up: Muigin and Larion -->
+<PickUp QuestName="Muigin and Larion" QuestId="4141" GiverName="Muigin" GiverId="9119" />
+
+<!-- Pick Up: Shizzle's Flyer -->
+<PickUp QuestName="Shizzle's Flyer" QuestId="4503" GiverName="Shizzle" GiverId="9998" />
+
+<!-- Collect Objective for Quest 4504: Super Sticky Tar -->
+<Objective QuestName="Unknown" QuestId="4504" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Chasing A-Me 01 (1) -->
+<TurnIn QuestName="Chasing A-Me 01 (1)" QuestId="4243" TurnInName="A-Me 01" TurnInId="9623" />
+
+<!-- Collect Objective for Quest 4503: Webbed Diemetradon Scale -->
+<Objective QuestName="Unknown" QuestId="4503" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 3882: Dinosaur Bone -->
+<Objective QuestName="Unknown" QuestId="3882" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 4141: Bloodpetal -->
+<Objective QuestName="Unknown" QuestId="4141" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 3881: Crate of Foodstuffs -->
+<Objective QuestName="Unknown" QuestId="3881" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Bait for Lar'korwi -->
+<TurnIn QuestName="The Bait for Lar'korwi" QuestId="4292" TurnInName="Torwa Pathfinder" TurnInId="9619" />
+
+<!-- Turn In: The Apes of Un'Goro -->
+<TurnIn QuestName="The Apes of Un'Goro" QuestId="4289" TurnInName="Torwa Pathfinder" TurnInId="9619" />
+
+<!-- Collect Objective for Quest 3883: Hive Wall Sample -->
+<Objective QuestName="Unknown" QuestId="3883" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 4496: Gorishi Scent Gland -->
+<Objective QuestName="Unknown" QuestId="4496" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3881: Research Equipment -->
+<Objective QuestName="Unknown" QuestId="3881" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 4501: Frenzied Pterrordax -->
+<Objective QuestName="Unknown" QuestId="4501" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 4503: Webbed Pterrordax Scale -->
+<Objective QuestName="Unknown" QuestId="4503" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Pick Up: Finding the Source -->
+<PickUp QuestName="Finding the Source" QuestId="974" GiverName="Krakle" GiverId="10302" />
+
+<!-- Collect Objective for Quest 4502: Un'Goro Ash -->
+<Objective QuestName="Unknown" QuestId="4502" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Turn In: Finding the Source -->
+<TurnIn QuestName="Finding the Source" QuestId="974" TurnInName="Krakle" TurnInId="10302" />
+
+<!-- Pick Up: The New Springs -->
+<PickUp QuestName="The New Springs" QuestId="980" GiverName="Krakle" GiverId="10302" />
+
+<!-- Turn In: Lost! -->
+<TurnIn QuestName="Lost!" QuestId="4492" TurnInName="Ringo" TurnInId="9999" />
+
+<!-- Pick Up: A Little Help From My Friends -->
+<PickUp QuestName="A Little Help From My Friends" QuestId="4491" GiverName="Ringo" GiverId="9999" />
+
+<!-- Turn In: Beware of Pterrordax -->
+<TurnIn QuestName="Beware of Pterrordax" QuestId="4501" TurnInName="Spraggle Frock" TurnInId="9997" />
+
+<!-- Turn In: A Little Help From My Friends -->
+<TurnIn QuestName="A Little Help From My Friends" QuestId="4491" TurnInName="Spraggle Frock" TurnInId="9997" />
+
+<!-- Turn In: Expedition Salvation -->
+<TurnIn QuestName="Expedition Salvation" QuestId="3881" TurnInName="Williden Marshal" TurnInId="9270" />
+
+<!-- Turn In: Alien Ecology -->
+<TurnIn QuestName="Alien Ecology" QuestId="3883" TurnInName="Hol'anyee Marshal" TurnInId="9271" />
+
+<!-- Turn In: Roll the Bones -->
+<TurnIn QuestName="Roll the Bones" QuestId="3882" TurnInName="Spark Nilminer" TurnInId="9272" />
+
+<!-- Turn In: The Northern Pylon -->
+<TurnIn QuestName="The Northern Pylon" QuestId="4285" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Turn In: The Eastern Pylon -->
+<TurnIn QuestName="The Eastern Pylon" QuestId="4287" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Turn In: The Western Pylon -->
+<TurnIn QuestName="The Western Pylon" QuestId="4288" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Pick Up: Making Sense of It -->
+<PickUp QuestName="Making Sense of It" QuestId="4321" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Turn In: Making Sense of It -->
+<TurnIn QuestName="Making Sense of It" QuestId="4321" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Turn In: Muigin and Larion -->
+<TurnIn QuestName="Muigin and Larion" QuestId="4141" TurnInName="Muigin" TurnInId="9119" />
+
+<!-- Pick Up: A Visit to Gregan -->
+<PickUp QuestName="A Visit to Gregan" QuestId="4142" GiverName="Muigin" GiverId="9119" />
+
+<!-- Turn In: Shizzle's Flyer -->
+<TurnIn QuestName="Shizzle's Flyer" QuestId="4503" TurnInName="Shizzle" TurnInId="9998" />
+
+<!-- Turn In: Super Sticky -->
+<TurnIn QuestName="Super Sticky" QuestId="4504" TurnInName="Tran'rek" TurnInId="7876" />
+
+<!-- Turn In: Bungle in the Jungle -->
+<TurnIn QuestName="Bungle in the Jungle" QuestId="4496" TurnInName="Alchemist Pestlezugg" TurnInId="5594" />
+
+<!-- Turn In: Un'Goro Soil -->
+<TurnIn QuestName="Un'Goro Soil" QuestId="3764" TurnInName="Jenal" TurnInId="9047" />
+
+<!-- Pick Up: Morrowgrain Research (1) -->
+<PickUp QuestName="Morrowgrain Research (1)" QuestId="3781" GiverName="Arch Druid Fandral Staghelm" GiverId="3516" />
+
+<!-- Turn In: Morrowgrain Research (1) -->
+<TurnIn QuestName="Morrowgrain Research (1)" QuestId="3781" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+
+<!-- Pick Up: Moontouched Wildkin -->
+<PickUp QuestName="Moontouched Wildkin" QuestId="978" GiverName="Erelas Ambersky" GiverId="7916" />
+
+<!-- Pick Up: Spiritual Unrest -->
+<PickUp QuestName="Spiritual Unrest" QuestId="5535" GiverName="Loh'atu" GiverId="11548" />
+
+<!-- Pick Up: A Land Filled with Hatred -->
+<PickUp QuestName="A Land Filled with Hatred" QuestId="5536" GiverName="Loh'atu" GiverId="11548" />
+
+<!-- Kill Objective for Quest 5535: Highborne Apparition -->
+<Objective QuestName="Unknown" QuestId="5535" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 5535: Highborne Lichling -->
+<Objective QuestName="Unknown" QuestId="5535" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 5536: Haldarr Satyr -->
+<Objective QuestName="Unknown" QuestId="5536" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 5536: Haldarr Trickster -->
+<Objective QuestName="Unknown" QuestId="5536" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 5536: Haldarr Felsworn -->
+<Objective QuestName="Unknown" QuestId="5536" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Turn In: Spiritual Unrest -->
+<TurnIn QuestName="Spiritual Unrest" QuestId="5535" TurnInName="Loh'atu" TurnInId="11548" />
+
+<!-- Turn In: A Land Filled with Hatred -->
+<TurnIn QuestName="A Land Filled with Hatred" QuestId="5536" TurnInName="Loh'atu" TurnInId="11548" />
+
+<!-- Collect Objective for Quest 3449: Rubbing: Rune of Sael'hai -->
+<Objective QuestName="Unknown" QuestId="3449" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3449: Rubbing: Rune of Markri -->
+<Objective QuestName="Unknown" QuestId="3449" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3449: Rubbing: Rune of Jin'yael -->
+<Objective QuestName="Unknown" QuestId="3449" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3449: Rubbing: Rune of Beth'Amara -->
+<Objective QuestName="Unknown" QuestId="3449" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Kim'jael Indeed! -->
+<PickUp QuestName="Kim'jael Indeed!" QuestId="3601" GiverName="Kim'jael" GiverId="8420" />
+
+<!-- Collect Objective for Quest 3601: Kim'jael's Compass -->
+<Objective QuestName="Unknown" QuestId="3601" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3601: Kim'jael's Scope -->
+<Objective QuestName="Unknown" QuestId="3601" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3601: Kim'jael's Stuffed Chicken -->
+<Objective QuestName="Unknown" QuestId="3601" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3601: Kim'jael's Wizzlegoober -->
+<Objective QuestName="Unknown" QuestId="3601" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Kim'jael Indeed! -->
+<TurnIn QuestName="Kim'jael Indeed!" QuestId="3601" TurnInName="Kim'jael" TurnInId="8420" />
+
+<!-- Pick Up: Kim'jael's "Missing" Equipment -->
+<PickUp QuestName="Kim'jael's "Missing" Equipment" QuestId="5534" GiverName="Kim'jael" GiverId="8420" />
+
+<!-- Collect Objective for Quest 5534: Some Rune -->
+<Objective QuestName="Unknown" QuestId="5534" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Kim'jael's "Missing" Equipment -->
+<TurnIn QuestName="Kim'jael's "Missing" Equipment" QuestId="5534" TurnInName="Kim'jael" TurnInId="8420" />
+
+<!-- Turn In: Arcane Runes -->
+<TurnIn QuestName="Arcane Runes" QuestId="3449" TurnInName="Pilot Xiggs Fuselighter" TurnInId="8392" />
+
+<!-- Pick Up: Return to Tymor -->
+<PickUp QuestName="Return to Tymor" QuestId="3461" GiverName="Pilot Xiggs Fuselighter" GiverId="8392" />
+
+<!-- Pick Up: Cleansing Felwood -->
+<PickUp QuestName="Cleansing Felwood" QuestId="4101" GiverName="Arathandris Silversky" GiverId="9528" />
+
+<!-- Pick Up: Timbermaw Ally -->
+<PickUp QuestName="Timbermaw Ally" QuestId="8460" GiverName="Grazle" GiverId="11554" />
+
+<!-- Pick Up: Forces of Jaedenar -->
+<PickUp QuestName="Forces of Jaedenar" QuestId="5155" GiverName="Greta Mosshoof" GiverId="10922" />
+
+<!-- Pick Up: The Corruption of the Jadefire -->
+<PickUp QuestName="The Corruption of the Jadefire" QuestId="4421" GiverName="Eridan Bluewind" GiverId="9116" />
+
+<!-- Pick Up: Verifying the Corruption -->
+<PickUp QuestName="Verifying the Corruption" QuestId="5156" GiverName="Taronn Redfeather" GiverId="10921" />
+
+<!-- Pick Up: To Winterspring! -->
+<PickUp QuestName="To Winterspring!" QuestId="5249" GiverName="Ivy Leafrunner" GiverId="10924" />
+
+<!-- Kill Objective for Quest 8460: Deadwood Warrior -->
+<Objective QuestName="Unknown" QuestId="8460" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8460: Deadwood Pathfinder -->
+<Objective QuestName="Unknown" QuestId="8460" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8460: Deadwood Gardener -->
+<Objective QuestName="Unknown" QuestId="8460" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Timbermaw Ally -->
+<TurnIn QuestName="Timbermaw Ally" QuestId="8460" TurnInName="Grazle" TurnInId="11554" />
+
+<!-- Pick Up: Speak to Nafien -->
+<PickUp QuestName="Speak to Nafien" QuestId="8462" GiverName="Grazle" GiverId="11554" />
+
+<!-- Collect Objective for Quest 4512: Empty Cursed Ooze Jar -->
+<Objective QuestName="Unknown" QuestId="4512" Type="CollectItem" ItemId="11914" CollectCount="6" />
+
+<!-- Collect Objective for Quest 4512: Empty Tainted Ooze Jar -->
+<Objective QuestName="Unknown" QuestId="4512" Type="CollectItem" ItemId="11948" CollectCount="6" />
+
+<!-- Collect Objective for Quest 4512: Filled Cursed Ooze Jar -->
+<Objective QuestName="Unknown" QuestId="4512" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 4512: Filled Tainted Ooze Jar -->
+<Objective QuestName="Unknown" QuestId="4512" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Hound -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Guardian -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Adept -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Cultist -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 4421: Jadefire Felsworn -->
+<Objective QuestName="Unknown" QuestId="4421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="11" />
+
+<!-- Kill Objective for Quest 4421: Jadefire Shadowstalker -->
+<Objective QuestName="Unknown" QuestId="4421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="9" />
+
+<!-- Kill Objective for Quest 4421: Jadefire Rogue -->
+<Objective QuestName="Unknown" QuestId="4421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="9" />
+
+<!-- Kill Objective for Quest 4421: Xavathras -->
+<Objective QuestName="Unknown" QuestId="4421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Forces of Jaedenar -->
+<TurnIn QuestName="Forces of Jaedenar" QuestId="5155" TurnInName="Greta Mosshoof" TurnInId="10922" />
+
+<!-- Pick Up: Collection of the Corrupt Water -->
+<PickUp QuestName="Collection of the Corrupt Water" QuestId="5157" GiverName="Greta Mosshoof" GiverId="10922" />
+
+<!-- Turn In: The Corruption of the Jadefire -->
+<TurnIn QuestName="The Corruption of the Jadefire" QuestId="4421" TurnInName="Eridan Bluewind" TurnInId="9116" />
+
+<!-- Pick Up: Further Corruption -->
+<PickUp QuestName="Further Corruption" QuestId="4906" GiverName="Eridan Bluewind" GiverId="9116" />
+
+<!-- Collect Objective for Quest 5157: Corrupt Moonwell Water -->
+<Objective QuestName="Unknown" QuestId="5157" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Collection of the Corrupt Water -->
+<TurnIn QuestName="Collection of the Corrupt Water" QuestId="5157" TurnInName="Greta Mosshoof" TurnInId="10922" />
+
+<!-- Pick Up: Seeking Spiritual Aid -->
+<PickUp QuestName="Seeking Spiritual Aid" QuestId="5158" GiverName="Greta Mosshoof" GiverId="10922" />
+
+<!-- Kill Objective for Quest 5156: Entropic Beast -->
+<Objective QuestName="Unknown" QuestId="5156" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 5156: Entropic Horror -->
+<Objective QuestName="Unknown" QuestId="5156" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 4906: Jadefire Hellcaller -->
+<Objective QuestName="Unknown" QuestId="4906" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 4906: Jadefire Betrayer -->
+<Objective QuestName="Unknown" QuestId="4906" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 4906: Jadefire Trickster -->
+<Objective QuestName="Unknown" QuestId="4906" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Pick Up: Flute of Xavaric -->
+<PickUp QuestName="Flute of Xavaric" QuestId="939" GiverName="Greta Mosshoof" GiverId="10922" />
+
+<!-- Collect Objective for Quest 939: Jadefire Felbind -->
+<Objective QuestName="Unknown" QuestId="939" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 4101: Blood Amber -->
+<Objective QuestName="Unknown" QuestId="4101" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: Speak to Nafien -->
+<TurnIn QuestName="Speak to Nafien" QuestId="8462" TurnInName="Nafien" TurnInId="15395" />
+
+<!-- Pick Up: Deadwood of the North -->
+<PickUp QuestName="Deadwood of the North" QuestId="8461" GiverName="Nafien" GiverId="15395" />
+
+<!-- Kill Objective for Quest 8461: Deadwood Den Watcher -->
+<Objective QuestName="Unknown" QuestId="8461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8461: Deadwood Avenger -->
+<Objective QuestName="Unknown" QuestId="8461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8461: Deadwood Shaman -->
+<Objective QuestName="Unknown" QuestId="8461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Deadwood of the North -->
+<TurnIn QuestName="Deadwood of the North" QuestId="8461" TurnInName="Nafien" TurnInId="15395" />
+
+<!-- Pick Up: Speak to Salfa -->
+<PickUp QuestName="Speak to Salfa" QuestId="8465" GiverName="Nafien" GiverId="15395" />
+
+<!-- Turn In: Speak to Salfa -->
+<TurnIn QuestName="Speak to Salfa" QuestId="8465" TurnInName="Salfa" TurnInId="11556" />
+
+<!-- Turn In: The New Springs -->
+<TurnIn QuestName="The New Springs" QuestId="980" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Pick Up: Strange Sources -->
+<PickUp QuestName="Strange Sources" QuestId="4842" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Turn In: It's a Secret to Everybody (3) -->
+<TurnIn QuestName="It's a Secret to Everybody (3)" QuestId="3908" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Pick Up: The Videre Elixir -->
+<PickUp QuestName="The Videre Elixir" QuestId="3909" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Pick Up: Threat of the Winterfall -->
+<PickUp QuestName="Threat of the Winterfall" QuestId="5082" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Pick Up: Jonespyre's Request -->
+<PickUp QuestName="Jonespyre's Request" QuestId="3788" GiverName="Innkeeper Shyria" GiverId="7736" />
+
+<!-- Turn In: Jonespyre's Request -->
+<TurnIn QuestName="Jonespyre's Request" QuestId="3788" TurnInName="Quintis Jonespyre" TurnInId="7879" />
+
+<!-- Turn In: A Visit to Gregan -->
+<TurnIn QuestName="A Visit to Gregan" QuestId="4142" TurnInName="Gregan Brewspewer" TurnInId="7775" />
+
+<!-- Collect Objective for Quest 4041: Evoroot -->
+<Objective QuestName="Unknown" QuestId="4041" Type="CollectItem" ItemId="11242" CollectCount="1" />
+
+<!-- Turn In: Flute of Xavaric -->
+<TurnIn QuestName="Flute of Xavaric" QuestId="939" TurnInName="Eridan Bluewind" TurnInId="9116" />
+
+<!-- Turn In: Further Corruption -->
+<TurnIn QuestName="Further Corruption" QuestId="4906" TurnInName="Eridan Bluewind" TurnInId="9116" />
+
+<!-- Pick Up: Felbound Ancients -->
+<PickUp QuestName="Felbound Ancients" QuestId="4441" GiverName="Eridan Bluewind" GiverId="9116" />
+
+<!-- Turn In: Verifying the Corruption -->
+<TurnIn QuestName="Verifying the Corruption" QuestId="5156" TurnInName="Taronn Redfeather" TurnInId="10921" />
+
+<!-- Turn In: Cleansing Felwood -->
+<TurnIn QuestName="Cleansing Felwood" QuestId="4101" TurnInName="Arathandris Silversky" TurnInId="9528" />
+
+</QuestOrder>

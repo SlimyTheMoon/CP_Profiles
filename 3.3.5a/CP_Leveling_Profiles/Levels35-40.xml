@@ -1,0 +1,633 @@
+<QuestOrder>
+
+<!-- Collect Objective for Quest 1104: Salty Scorpid Venom -->
+<Objective QuestName="Unknown" QuestId="1104" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Rocket Car Parts -->
+<TurnIn QuestName="Rocket Car Parts" QuestId="1110" TurnInName="Kravel Koalbeard" TurnInId="4452" />
+
+<!-- Turn In: Hardened Shells -->
+<TurnIn QuestName="Hardened Shells" QuestId="1105" TurnInName="Wizzle Brassbolts" TurnInId="4453" />
+
+<!-- Turn In: Salt Flat Venom -->
+<TurnIn QuestName="Salt Flat Venom" QuestId="1104" TurnInName="Fizzle Brassbolts" TurnInId="4454" />
+
+<!-- Pick Up: Martek the Exiled -->
+<PickUp QuestName="Martek the Exiled" QuestId="1106" GiverName="Fizzle Brassbolts" GiverId="4454" />
+
+<!-- Turn In: Load Lightening -->
+<TurnIn QuestName="Load Lightening" QuestId="1176" TurnInName="Pozzik" TurnInId="4630" />
+
+<!-- Pick Up: Goblin Sponsorship (1) -->
+<PickUp QuestName="Goblin Sponsorship (1)" QuestId="1178" GiverName="Pozzik" GiverId="4630" />
+
+<!-- Turn In: A Bump in the Road -->
+<TurnIn QuestName="A Bump in the Road" QuestId="1175" TurnInName="Trackmaster Zherin" TurnInId="4629" />
+
+<!-- Turn In: Further Mysteries -->
+<TurnIn QuestName="Further Mysteries" QuestId="525" TurnInName="Magistrate Henry Maleb" TurnInId="2276" />
+
+<!-- Pick Up: Vahlarriel's Search (1) -->
+<PickUp QuestName="Vahlarriel's Search (1)" QuestId="1437" GiverName="Vahlarriel Demonslayer" GiverId="5642" />
+
+<!-- Turn In: Reclaimers' Business in Desolace -->
+<TurnIn QuestName="Reclaimers' Business in Desolace" QuestId="1453" TurnInName="Kreldig Ungor" TurnInId="5638" />
+
+<!-- Pick Up: Reagents for Reclaimers Inc. (1) -->
+<PickUp QuestName="Reagents for Reclaimers Inc. (1)" QuestId="1458" GiverName="Kreldig Ungor" GiverId="5638" />
+
+<!-- Pick Up: The Karnitol Shipwreck (1) -->
+<PickUp QuestName="The Karnitol Shipwreck (1)" QuestId="1454" GiverName="Kreldig Ungor" GiverId="5638" />
+
+<!-- Turn In: Vahlarriel's Search (1) -->
+<TurnIn QuestName="Vahlarriel's Search (1)" QuestId="1437" TurnInName="Baritanas Skyriver" TurnInId="6706" />
+
+<!-- Pick Up: Vahlarriel's Search (2) -->
+<PickUp QuestName="Vahlarriel's Search (2)" QuestId="1465" GiverName="Baritanas Skyriver" GiverId="6706" />
+
+<!-- Turn In: Vahlarriel's Search (2) -->
+<TurnIn QuestName="Vahlarriel's Search (2)" QuestId="1465" TurnInName="Vahlarriel Demonslayer" TurnInId="5642" />
+
+<!-- Pick Up: Vahlarriel's Search (3) -->
+<PickUp QuestName="Vahlarriel's Search (3)" QuestId="1438" GiverName="Vahlarriel Demonslayer" GiverId="5642" />
+
+<!-- Collect Objective for Quest 1458: Hatefury Claw -->
+<Objective QuestName="Unknown" QuestId="1458" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 1458: Hatefury Horn -->
+<Objective QuestName="Unknown" QuestId="1458" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Reagents for Reclaimers Inc. (1) -->
+<TurnIn QuestName="Reagents for Reclaimers Inc. (1)" QuestId="1458" TurnInName="Kreldig Ungor" TurnInId="5638" />
+
+<!-- Pick Up: Bone Collector -->
+<PickUp QuestName="Bone Collector" QuestId="5501" GiverName="Bibbly F'utzbuckle" GiverId="11438" />
+
+<!-- Pick Up: Kodo Roundup -->
+<PickUp QuestName="Kodo Roundup" QuestId="5561" GiverName="Smeed Scrabblescrew" GiverId="11596" />
+
+<!-- Turn In: Kodo Roundup -->
+<TurnIn QuestName="Kodo Roundup" QuestId="5561" TurnInName="Smeed Scrabble" TurnInId="11596" />
+
+<!-- Collect Objective for Quest 5501: Kodo Bone -->
+<Objective QuestName="Unknown" QuestId="5501" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Pick Up: Sceptre of Light -->
+<PickUp QuestName="Sceptre of Light" QuestId="5741" GiverName="Azore Aldamort" GiverId="11863" />
+
+<!-- Turn In: The Karnitol Shipwreck (1) -->
+<TurnIn QuestName="The Karnitol Shipwreck (1)" QuestId="1454" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Pick Up: The Karnitol Shipwreck (2) -->
+<PickUp QuestName="The Karnitol Shipwreck (2)" QuestId="1455" GiverName="Azore Aldamort" GiverId="11863" />
+
+<!-- Pick Up: Claim Rackmore's Treasure! -->
+<PickUp QuestName="Claim Rackmore's Treasure!" QuestId="6161" GiverName="Azore Aldamort" GiverId="11863" />
+
+<!-- Collect Objective for Quest 6161: Rackmore's Silver Key -->
+<Objective QuestName="Unknown" QuestId="6161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 6161: Rackmore's Golden Key -->
+<Objective QuestName="Unknown" QuestId="6161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5741: Sceptre of Light -->
+<Objective QuestName="Unknown" QuestId="5741" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Vahlarriel's Search (3) -->
+<TurnIn QuestName="Vahlarriel's Search (3)" QuestId="1438" TurnInName="Dalinda Malem" TurnInId="5644" />
+
+<!-- Pick Up: Search for Tyranis -->
+<PickUp QuestName="Search for Tyranis" QuestId="1439" GiverName="Dalinda Malem" GiverId="5644" />
+
+<!-- Collect Objective for Quest 1439: Tyranis' Pendant -->
+<Objective QuestName="Unknown" QuestId="1439" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Search for Tyranis -->
+<TurnIn QuestName="Search for Tyranis" QuestId="1439" TurnInName="Dalinda Malem" TurnInId="5644" />
+
+<!-- Pick Up: Return to Vahlarriel -->
+<PickUp QuestName="Return to Vahlarriel" QuestId="1440" GiverName="Dalinda Malem" GiverId="5644" />
+
+<!-- Turn In: Bone Collector -->
+<TurnIn QuestName="Bone Collector" QuestId="5501" TurnInName="Bibbly F'utzbuckle" TurnInId="11438" />
+
+<!-- Turn In: Sceptre of Light -->
+<TurnIn QuestName="Sceptre of Light" QuestId="5741" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Pick Up: Book of the Ancients -->
+<PickUp QuestName="Book of the Ancients" QuestId="6027" GiverName="Azore Aldamort" GiverId="11863" />
+
+<!-- Turn In: Claim Rackmore's Treasure! -->
+<TurnIn QuestName="Claim Rackmore's Treasure!" QuestId="6161" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Collect Objective for Quest 6027: Book of the Ancients -->
+<Objective QuestName="Unknown" QuestId="6027" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Book of the Ancients -->
+<TurnIn QuestName="Book of the Ancients" QuestId="6027" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Turn In: The Karnitol Shipwreck (2) -->
+<TurnIn QuestName="The Karnitol Shipwreck (2)" QuestId="1455" TurnInName="Kreldig Ungor" TurnInId="5638" />
+
+<!-- Turn In: Return to Vahlarriel -->
+<TurnIn QuestName="Return to Vahlarriel" QuestId="1440" TurnInName="Vahlarriel Demonslayer" TurnInId="5642" />
+
+<!-- Turn In: Goblin Sponsorship (1) -->
+<TurnIn QuestName="Goblin Sponsorship (1)" QuestId="1178" TurnInName="Gazlowe" TurnInId="3391" />
+
+<!-- Pick Up: Goblin Sponsorship (2) -->
+<PickUp QuestName="Goblin Sponsorship (2)" QuestId="1180" GiverName="Gazlowe" GiverId="3391" />
+
+<!-- Turn In: Wharfmaster Dizzywig -->
+<TurnIn QuestName="Wharfmaster Dizzywig" QuestId="1111" TurnInName="Wharfmaster Dizzywig" TurnInId="3453" />
+
+<!-- Pick Up: Parts for Kravel -->
+<PickUp QuestName="Parts for Kravel" QuestId="1112" GiverName="Wharfmaster Dizzywig" GiverId="3453" />
+
+<!-- Turn In: Goblin Sponsorship (2) -->
+<TurnIn QuestName="Goblin Sponsorship (2)" QuestId="1180" TurnInName="Wharfmaster Lozgil" TurnInId="4631" />
+
+<!-- Pick Up: Goblin Sponsorship (3) -->
+<PickUp QuestName="Goblin Sponsorship (3)" QuestId="1181" GiverName="Wharfmaster Lozgil" GiverId="4631" />
+
+<!-- Turn In: Passage to Booty Bay -->
+<TurnIn QuestName="Passage to Booty Bay" QuestId="1040" TurnInName="Caravaneer Ruzzgot" TurnInId="3945" />
+
+<!-- Pick Up: Singing Blue Shards -->
+<PickUp QuestName="Singing Blue Shards" QuestId="605" GiverName="Crank Fizzlebub" GiverId="2498" />
+
+<!-- Pick Up: Bloodscalp Ears -->
+<PickUp QuestName="Bloodscalp Ears" QuestId="189" GiverName="Kebok" GiverId="737" />
+
+<!-- Pick Up: Hostile Takeover -->
+<PickUp QuestName="Hostile Takeover" QuestId="213" GiverName="Kebok" GiverId="737" />
+
+<!-- Pick Up: The Haunted Isle -->
+<PickUp QuestName="The Haunted Isle" QuestId="616" GiverName="Krazek" GiverId="773" />
+
+<!-- Turn In: The Haunted Isle -->
+<TurnIn QuestName="The Haunted Isle" QuestId="616" TurnInName="Baron Revilgaz" TurnInId="2496" />
+
+<!-- Pick Up: The Stone of the Tides -->
+<PickUp QuestName="The Stone of the Tides" QuestId="578" GiverName="Baron Revilgaz" GiverId="2496" />
+
+<!-- Turn In: Goblin Sponsorship (3) -->
+<TurnIn QuestName="Goblin Sponsorship (3)" QuestId="1181" TurnInName="Baron Revilgaz" TurnInId="2496" />
+
+<!-- Pick Up: Goblin Sponsorship (4) -->
+<PickUp QuestName="Goblin Sponsorship (4)" QuestId="1182" GiverName="Baron Revilgaz" GiverId="2496" />
+
+<!-- Pick Up: Supply and Demand -->
+<PickUp QuestName="Supply and Demand" QuestId="575" GiverName="Drizzlik" GiverId="2495" />
+
+<!-- Kill Objective for Quest 192: Shadowmaw Panther -->
+<Objective QuestName="Unknown" QuestId="192" Type="KillMob" MobId="684" KillCount="10" />
+
+<!-- Collect Objective for Quest 213: Tumbled Crystal -->
+<Objective QuestName="Unknown" QuestId="213" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 1182: Cozzle's Key -->
+<Objective QuestName="Unknown" QuestId="1182" Type="CollectItem" ItemId="5851" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1182: Fuel Regulator Blueprints -->
+<Objective QuestName="Unknown" QuestId="1182" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 195: Lashtail Raptor -->
+<Objective QuestName="Unknown" QuestId="195" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 187: Elder Stranglethorn Tiger -->
+<Objective QuestName="Unknown" QuestId="187" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 575: Large River Crocolisk Skin -->
+<Objective QuestName="Unknown" QuestId="575" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Turn In: Panther Mastery (3) -->
+<TurnIn QuestName="Panther Mastery (3)" QuestId="192" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Pick Up: Panther Mastery (4) -->
+<PickUp QuestName="Panther Mastery (4)" QuestId="193" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Turn In: Tiger Mastery (3) -->
+<TurnIn QuestName="Tiger Mastery (3)" QuestId="187" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Pick Up: Tiger Mastery (4) -->
+<PickUp QuestName="Tiger Mastery (4)" QuestId="188" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Turn In: Hemet Nesingwary Jr. -->
+<TurnIn QuestName="Hemet Nesingwary Jr." QuestId="5762" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Turn In: Raptor Mastery (2) -->
+<TurnIn QuestName="Raptor Mastery (2)" QuestId="195" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: Raptor Mastery (3) -->
+<PickUp QuestName="Raptor Mastery (3)" QuestId="196" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Collect Objective for Quest 188: Paw of Sin'Dall -->
+<Objective QuestName="Unknown" QuestId="188" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Tiger Mastery (4) -->
+<TurnIn QuestName="Tiger Mastery (4)" QuestId="188" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Turn In: Supplies to Private Thorsen -->
+<TurnIn QuestName="Supplies to Private Thorsen" QuestId="198" TurnInName="Private Thorsen" TurnInId="738" />
+
+<!-- Pick Up: Special Forces -->
+<PickUp QuestName="Special Forces" QuestId="574" GiverName="Sergeant Yohwa" GiverId="733" />
+
+<!-- Turn In: Return to Corporal Kaleb -->
+<TurnIn QuestName="Return to Corporal Kaleb" QuestId="622" TurnInName="Corporal Kaleb" TurnInId="770" />
+
+<!-- Kill Objective for Quest 574: Kurzen Commando -->
+<Objective QuestName="Unknown" QuestId="574" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 574: Kurzen Headshrinker -->
+<Objective QuestName="Unknown" QuestId="574" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Special Forces -->
+<TurnIn QuestName="Special Forces" QuestId="574" TurnInName="Lieutenant Doren" TurnInId="469" />
+
+<!-- Collect Objective for Quest 189: Bloodscalp Ear -->
+<Objective QuestName="Unknown" QuestId="189" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 605: Singing Crystal Shard -->
+<Objective QuestName="Unknown" QuestId="605" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Singing Blue Shards -->
+<TurnIn QuestName="Singing Blue Shards" QuestId="605" TurnInName="Crank Fizzlebub" TurnInId="2498" />
+
+<!-- Turn In: Bloodscalp Ears -->
+<TurnIn QuestName="Bloodscalp Ears" QuestId="189" TurnInName="Kebok" TurnInId="737" />
+
+<!-- Turn In: Hostile Takeover -->
+<TurnIn QuestName="Hostile Takeover" QuestId="213" TurnInName="Kebok" TurnInId="737" />
+
+<!-- Turn In: Investigate the Camp -->
+<TurnIn QuestName="Investigate the Camp" QuestId="201" TurnInName="Krazek" TurnInId="773" />
+
+<!-- Turn In: Goblin Sponsorship (4) -->
+<TurnIn QuestName="Goblin Sponsorship (4)" QuestId="1182" TurnInName="Baron Revilgaz" TurnInId="2496" />
+
+<!-- Pick Up: Goblin Sponsorship (5) -->
+<PickUp QuestName="Goblin Sponsorship (5)" QuestId="1183" GiverName="Baron Revilgaz" GiverId="2496" />
+
+<!-- Turn In: The Stone of the Tides -->
+<TurnIn QuestName="The Stone of the Tides" QuestId="578" TurnInName="Baron Revilgaz" TurnInId="2496" />
+
+<!-- Pick Up: Water Elementals -->
+<PickUp QuestName="Water Elementals" QuestId="601" GiverName="Baron Revilgaz" GiverId="2496" />
+
+<!-- Turn In: Supply and Demand -->
+<TurnIn QuestName="Supply and Demand" QuestId="575" TurnInName="Drizzlik" TurnInId="2495" />
+
+<!-- Pick Up: Some Assembly Required -->
+<PickUp QuestName="Some Assembly Required" QuestId="577" GiverName="Drizzlik" GiverId="2495" />
+
+<!-- Turn In: Parts for Kravel -->
+<TurnIn QuestName="Parts for Kravel" QuestId="1112" TurnInName="Kravel Koalbeard" TurnInId="4452" />
+
+<!-- Pick Up: Delivery to the Gnomes -->
+<PickUp QuestName="Delivery to the Gnomes" QuestId="1114" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Turn In: Delivery to the Gnomes -->
+<TurnIn QuestName="Delivery to the Gnomes" QuestId="1114" TurnInName="Fizzle Brassbolts" TurnInId="4454" />
+
+<!-- Pick Up: The Rumormonger -->
+<PickUp QuestName="The Rumormonger" QuestId="1115" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Turn In: Goblin Sponsorship (5) -->
+<TurnIn QuestName="Goblin Sponsorship (5)" QuestId="1183" TurnInName="Pozzik" TurnInId="4630" />
+
+<!-- Pick Up: The Eighteenth Pilot -->
+<PickUp QuestName="The Eighteenth Pilot" QuestId="1186" GiverName="Pozzik" GiverId="4630" />
+
+<!-- Turn In: The Eighteenth Pilot -->
+<TurnIn QuestName="The Eighteenth Pilot" QuestId="1186" TurnInName="Razzeric" TurnInId="4706" />
+
+<!-- Pick Up: Razzeric's Tweaking -->
+<PickUp QuestName="Razzeric's Tweaking" QuestId="1187" GiverName="Razzeric" GiverId="4706" />
+
+<!-- Turn In: The Rumormonger -->
+<TurnIn QuestName="The Rumormonger" QuestId="1115" TurnInName="Krazek" TurnInId="773" />
+
+<!-- Collect Objective for Quest 500: Dirty Knucklebones -->
+<Objective QuestName="Unknown" QuestId="500" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Collect Objective for Quest 512: Alterac Signet Ring -->
+<Objective QuestName="Unknown" QuestId="512" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: Crushridge Bounty -->
+<TurnIn QuestName="Crushridge Bounty" QuestId="500" TurnInName="Marshal Redpath" TurnInId="2263" />
+
+<!-- Turn In: Noble Deaths -->
+<TurnIn QuestName="Noble Deaths" QuestId="512" TurnInName="Magistrate Henry Maleb" TurnInId="2276" />
+
+<!-- Pick Up: Worth Its Weight in Gold -->
+<PickUp QuestName="Worth Its Weight in Gold" QuestId="691" GiverName="Apprentice Kryten" GiverId="2788" />
+
+<!-- Pick Up: The Princess Trapped -->
+<PickUp QuestName="The Princess Trapped" QuestId="642" GiverName="Apprentice Kryten" GiverId="2788" />
+
+<!-- Collect Objective for Quest 642: Mote of Myzrael -->
+<Objective QuestName="Unknown" QuestId="642" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: The Princess Trapped -->
+<TurnIn QuestName="The Princess Trapped" QuestId="642" TurnInName="Apprentice Kryten" TurnInId="2788" />
+
+<!-- Pick Up: Stones of Binding -->
+<PickUp QuestName="Stones of Binding" QuestId="651" GiverName="Apprentice Kryten" GiverId="2788" />
+
+<!-- Collect Objective for Quest 651: Cresting Key -->
+<Objective QuestName="Unknown" QuestId="651" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 691: Witherbark Tusk -->
+<Objective QuestName="Unknown" QuestId="691" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 691: Witherbark Medicine Pouch -->
+<Objective QuestName="Unknown" QuestId="691" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 691: Shadow Hunter Knife -->
+<Objective QuestName="Unknown" QuestId="691" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Hints of a New Plague? (1) -->
+<TurnIn QuestName="Hints of a New Plague? (1)" QuestId="659" TurnInName="Quae" TurnInId="2712" />
+
+<!-- Pick Up: Hints of a New Plague? (2) -->
+<PickUp QuestName="Hints of a New Plague? (2)" QuestId="658" GiverName="Quae" GiverId="2712" />
+
+<!-- Collect Objective for Quest 651: Thundering Key -->
+<Objective QuestName="Unknown" QuestId="651" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Worth Its Weight in Gold -->
+<TurnIn QuestName="Worth Its Weight in Gold" QuestId="691" TurnInName="Apprentice Kryten" TurnInId="2788" />
+
+<!-- Pick Up: Wand over Fist -->
+<PickUp QuestName="Wand over Fist" QuestId="693" GiverName="Skuerto" GiverId="2789" />
+
+<!-- Collect Objective for Quest 693: Trelane's Wand of Invocation -->
+<Objective QuestName="Unknown" QuestId="693" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Wand over Fist -->
+<TurnIn QuestName="Wand over Fist" QuestId="693" TurnInName="Skuerto" TurnInId="2789" />
+
+<!-- Pick Up: Trelane's Defenses -->
+<PickUp QuestName="Trelane's Defenses" QuestId="694" GiverName="Skuerto" GiverId="2789" />
+
+<!-- Pick Up: Wanted!  Marez Cowl -->
+<PickUp QuestName="Wanted!  Marez Cowl" QuestId="684" GiverName="Skuerto" GiverId="2789" />
+
+<!-- Pick Up: Wanted!  Otto and Falconcrest -->
+<PickUp QuestName="Wanted!  Otto and Falconcrest" QuestId="685" GiverName="Skuerto" GiverId="2789" />
+
+<!-- Pick Up: Stromgarde Badges -->
+<PickUp QuestName="Stromgarde Badges" QuestId="682" GiverName="Captain Nials" GiverId="2700" />
+
+<!-- Collect Objective for Quest 651: Burning Key -->
+<Objective QuestName="Unknown" QuestId="651" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 682: Stromgarde Badge -->
+<Objective QuestName="Unknown" QuestId="682" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 684: Marez's Head -->
+<Objective QuestName="Unknown" QuestId="684" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 685: Otto's Head -->
+<Objective QuestName="Unknown" QuestId="685" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 685: Falconcrest's Head -->
+<Objective QuestName="Unknown" QuestId="685" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 694: Azure Agate -->
+<Objective QuestName="Unknown" QuestId="694" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Land Ho! -->
+<PickUp QuestName="Land Ho!" QuestId="663" GiverName="Lolo the Lookout" GiverId="2766" />
+
+<!-- Turn In: Land Ho! -->
+<TurnIn QuestName="Land Ho!" QuestId="663" TurnInName="Shakes O'Breen" TurnInId="2610" />
+
+<!-- Pick Up: Deep Sea Salvage -->
+<PickUp QuestName="Deep Sea Salvage" QuestId="662" GiverName="First Mate Nilzlix" GiverId="2767" />
+
+<!-- Pick Up: Drowned Sorrows -->
+<PickUp QuestName="Drowned Sorrows" QuestId="664" GiverName="Captain Steelgut" GiverId="2769" />
+
+<!-- Pick Up: Sunken Treasure (1) -->
+<PickUp QuestName="Sunken Treasure (1)" QuestId="665" GiverName="Professor Phizzlethorpe" GiverId="2768" />
+
+<!-- Turn In: Sunken Treasure (1) -->
+<TurnIn QuestName="Sunken Treasure (1)" QuestId="665" TurnInName="Doctor Draxlegauge" TurnInId="2774" />
+
+<!-- Pick Up: Sunken Treasure (2) -->
+<PickUp QuestName="Sunken Treasure (2)" QuestId="666" GiverName="Doctor Draxlegauge" GiverId="2774" />
+
+<!-- Collect Objective for Quest 662: Maiden's Folly Log -->
+<Objective QuestName="Unknown" QuestId="662" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 662: Maiden's Folly Charts -->
+<Objective QuestName="Unknown" QuestId="662" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 662: Spirit of Silverpine Charts -->
+<Objective QuestName="Unknown" QuestId="662" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 662: Spirit of Silverpine Log -->
+<Objective QuestName="Unknown" QuestId="662" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 666: Elven Gem -->
+<Objective QuestName="Unknown" QuestId="666" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 664: Daggerspine Raider -->
+<Objective QuestName="Unknown" QuestId="664" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 664: Daggerspine Sorceress -->
+<Objective QuestName="Unknown" QuestId="664" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Turn In: Deep Sea Salvage -->
+<TurnIn QuestName="Deep Sea Salvage" QuestId="662" TurnInName="First Mate Nilzlix" TurnInId="2767" />
+
+<!-- Turn In: Sunken Treasure (2) -->
+<TurnIn QuestName="Sunken Treasure (2)" QuestId="666" TurnInName="Doctor Draxlegauge" TurnInId="2774" />
+
+<!-- Pick Up: Sunken Treasure (3) -->
+<PickUp QuestName="Sunken Treasure (3)" QuestId="668" GiverName="Doctor Draxlegauge" GiverId="2774" />
+
+<!-- Turn In: Drowned Sorrows -->
+<TurnIn QuestName="Drowned Sorrows" QuestId="664" TurnInName="Captain Steelgut" TurnInId="2769" />
+
+<!-- Turn In: Sunken Treasure (3) -->
+<TurnIn QuestName="Sunken Treasure (3)" QuestId="668" TurnInName="Shakes O'Breen" TurnInId="2610" />
+
+<!-- Pick Up: Sunken Treasure (4) -->
+<PickUp QuestName="Sunken Treasure (4)" QuestId="669" GiverName="Shakes O'Breen" GiverId="2610" />
+
+<!-- Collect Objective for Quest 658: Sealed Folder -->
+<Objective QuestName="Unknown" QuestId="658" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Stromgarde Badges -->
+<TurnIn QuestName="Stromgarde Badges" QuestId="682" TurnInName="Captain Nials" TurnInId="2700" />
+
+<!-- Turn In: Wanted!  Marez Cowl -->
+<TurnIn QuestName="Wanted!  Marez Cowl" QuestId="684" TurnInName="Captain Nials" TurnInId="2700" />
+
+<!-- Turn In: Wanted!  Otto and Falconcrest -->
+<TurnIn QuestName="Wanted!  Otto and Falconcrest" QuestId="685" TurnInName="Captain Nials" TurnInId="2700" />
+
+<!-- Turn In: Trelane's Defenses -->
+<TurnIn QuestName="Trelane's Defenses" QuestId="694" TurnInName="Apprentice Kryten" TurnInId="2788" />
+
+<!-- Pick Up: An Apprentice's Enchantment -->
+<PickUp QuestName="An Apprentice's Enchantment" QuestId="695" GiverName="Apprentice Kryten" GiverId="2788" />
+
+<!-- Turn In: An Apprentice's Enchantment -->
+<TurnIn QuestName="An Apprentice's Enchantment" QuestId="695" TurnInName="Skuerto" TurnInId="2789" />
+
+<!-- Turn In: Hints of a New Plague? (2) -->
+<TurnIn QuestName="Hints of a New Plague? (2)" QuestId="658" TurnInName="Quae" TurnInId="2712" />
+
+<!-- Pick Up: Hints of a New Plague? (3) -->
+<PickUp QuestName="Hints of a New Plague? (3)" QuestId="657" GiverName="Quae" GiverId="2712" />
+
+<!-- Turn In: Hints of a New Plague? (3) -->
+<TurnIn QuestName="Hints of a New Plague? (3)" QuestId="657" TurnInName="Kinelory" TurnInId="2713" />
+
+<!-- Pick Up: Hints of a New Plague? (4) -->
+<PickUp QuestName="Hints of a New Plague? (4)" QuestId="660" GiverName="Kinelory" GiverId="2713" />
+
+<!-- Turn In: Hints of a New Plague? (4) -->
+<TurnIn QuestName="Hints of a New Plague? (4)" QuestId="660" TurnInName="Quae" TurnInId="2712" />
+
+<!-- Pick Up: Hints of a New Plague? (5) -->
+<PickUp QuestName="Hints of a New Plague? (5)" QuestId="661" GiverName="Quae" GiverId="2712" />
+
+<!-- Turn In: Hints of a New Plague? (5) -->
+<TurnIn QuestName="Hints of a New Plague? (5)" QuestId="661" TurnInName="Phin Odelic" TurnInId="2711" />
+
+<!-- Pick Up: This Old Lighthouse -->
+<PickUp QuestName="This Old Lighthouse" QuestId="11191" GiverName="Sergeant Amelyn" GiverId="23835" />
+
+<!-- Pick Up: Traitors Among Us -->
+<PickUp QuestName="Traitors Among Us" QuestId="11126" GiverName="Calia Hastings" GiverId="23566" />
+
+<!-- Pick Up: Mission to Mudsprocket -->
+<PickUp QuestName="Mission to Mudsprocket" QuestId="11214" GiverName="Lieutenant Aden" GiverId="23951" />
+
+<!-- Pick Up: They Call Him Smiling Jim -->
+<PickUp QuestName="They Call Him Smiling Jim" QuestId="1282" GiverName="Guard Byron" GiverId="4921" />
+
+<!-- Pick Up: Tabetha's Farm -->
+<PickUp QuestName="Tabetha's Farm" QuestId="11212" GiverName="Guard Byron" GiverId="4921" />
+
+<!-- Pick Up: Mudrock Soup and Bugs -->
+<PickUp QuestName="Mudrock Soup and Bugs" QuestId="1204" GiverName="Morgan Stern" GiverId="4794" />
+
+<!-- Turn In: James Hyal -->
+<TurnIn QuestName="James Hyal" QuestId="1302" TurnInName="Clerk Lendry" TurnInId="5083" />
+
+<!-- Turn In: They Call Him Smiling Jim -->
+<TurnIn QuestName="They Call Him Smiling Jim" QuestId="1282" TurnInName="Captain Garran Vimes" TurnInId="4944" />
+
+<!-- Pick Up: Inspecting the Ruins -->
+<PickUp QuestName="Inspecting the Ruins" QuestId="11123" GiverName="Captain Garran Vimes" GiverId="4944" />
+
+<!-- Turn In: Traitors Among Us -->
+<TurnIn QuestName="Traitors Among Us" QuestId="11126" TurnInName="Calia Hastings" TurnInId="23566" />
+
+<!-- Pick Up: Propaganda War -->
+<PickUp QuestName="Propaganda War" QuestId="11128" GiverName="Calia Hastings" GiverId="23566" />
+
+<!-- Collect Objective for Quest 11128: Deserter Propaganda -->
+<Objective QuestName="Unknown" QuestId="11128" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Propaganda War -->
+<TurnIn QuestName="Propaganda War" QuestId="11128" TurnInName="Calia Hastings" TurnInId="23566" />
+
+<!-- Pick Up: Discrediting the Deserters -->
+<PickUp QuestName="Discrediting the Deserters" QuestId="11133" GiverName="Calia Hastings" GiverId="23566" />
+
+<!-- Turn In: Discrediting the Deserters -->
+<TurnIn QuestName="Discrediting the Deserters" QuestId="11133" TurnInName="Calia Hastings" TurnInId="23566" />
+
+<!-- Pick Up: The End of the Deserters -->
+<PickUp QuestName="The End of the Deserters" QuestId="11134" GiverName="Calia Hastings" GiverId="23566" />
+
+<!-- Turn In: The End of the Deserters -->
+<TurnIn QuestName="The End of the Deserters" QuestId="11134" TurnInName="Calia Hastings" TurnInId="23566" />
+
+<!-- Pick Up: The Hermit of Swamplight Manor -->
+<PickUp QuestName="The Hermit of Swamplight Manor" QuestId="11177" GiverName="Sergeant Amelyn" GiverId="23835" />
+
+<!-- Turn In: This Old Lighthouse -->
+<TurnIn QuestName="This Old Lighthouse" QuestId="11191" TurnInName="Babs Fizzletorque" TurnInId="23892" />
+
+<!-- Pick Up: Thresher Oil -->
+<PickUp QuestName="Thresher Oil" QuestId="11192" GiverName="Babs Fizzletorque" GiverId="23892" />
+
+<!-- Collect Objective for Quest 11192: Thresher Oil -->
+<Objective QuestName="Unknown" QuestId="11192" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: Thresher Oil -->
+<TurnIn QuestName="Thresher Oil" QuestId="11192" TurnInName="Babs Fizzletorque" TurnInId="23892" />
+
+<!-- Pick Up: Dastardly Denizens of the Deep -->
+<PickUp QuestName="Dastardly Denizens of the Deep" QuestId="11193" GiverName="Babs Fizzletorque" GiverId="23892" />
+
+<!-- Turn In: Dastardly Denizens of the Deep -->
+<TurnIn QuestName="Dastardly Denizens of the Deep" QuestId="11193" TurnInName="&quot;Dirty&quot; Michael Crowe" TurnInId="23896" />
+
+<!-- Pick Up: Is it Real? -->
+<PickUp QuestName="Is it Real?" QuestId="11194" GiverName="&quot;Dirty&quot; Michael Crowe" GiverId="23896" />
+
+<!-- Pick Up: A Disturbing Development -->
+<PickUp QuestName="A Disturbing Development" QuestId="11136" GiverName="Lieutenant Aden" GiverId="23951" />
+
+<!-- Turn In: A Disturbing Development -->
+<TurnIn QuestName="A Disturbing Development" QuestId="11136" TurnInName="Captain Wymor" TurnInId="5086" />
+
+<!-- Pick Up: Defias in Dustwallow? -->
+<PickUp QuestName="Defias in Dustwallow?" QuestId="11137" GiverName="Captain Wymor" GiverId="5086" />
+
+<!-- Collect Objective for Quest 1204: Forked Mudrock Tongue -->
+<Objective QuestName="Unknown" QuestId="1204" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 11137: Defias Orders -->
+<Objective QuestName="Unknown" QuestId="11137" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Defias in Dustwallow? -->
+<TurnIn QuestName="Defias in Dustwallow?" QuestId="11137" TurnInName="Captain Wymor" TurnInId="5086" />
+
+<!-- Turn In: The Hermit of Swamplight Manor -->
+<TurnIn QuestName="The Hermit of Swamplight Manor" QuestId="11177" TurnInName="&quot;Swamp Eye&quot; Jarl" TurnInId="4792" />
+
+<!-- Pick Up: Marsh Frog Legs -->
+<PickUp QuestName="Marsh Frog Legs" QuestId="1218" GiverName="&quot;Swamp Eye&quot; Jarl" GiverId="4792" />
+
+<!-- Pick Up: What's Haunting Witch Hill? -->
+<PickUp QuestName="What's Haunting Witch Hill?" QuestId="11180" GiverName="Mordant Grimsby" GiverId="23843" />
+
+<!-- Pick Up: The Orc Report -->
+<PickUp QuestName="The Orc Report" QuestId="1219" GiverName="Mordant Grimsby" GiverId="23843" />
+
+<!-- Collect Objective for Quest 1218: Marsh Frog Leg -->
+<Objective QuestName="Unknown" QuestId="1218" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Marsh Frog Legs -->
+<TurnIn QuestName="Marsh Frog Legs" QuestId="1218" TurnInName="&quot;Swamp Eye&quot; Jarl" TurnInId="4792" />
+
+<!-- Pick Up: Jarl Needs Eyes -->
+<PickUp QuestName="Jarl Needs Eyes" QuestId="1206" GiverName="&quot;Swamp Eye&quot; Jarl" GiverId="4792" />
+
+<!-- Turn In: What's Haunting Witch Hill? -->
+<TurnIn QuestName="What's Haunting Witch Hill?" QuestId="11180" TurnInName="Mordant Grimsby" TurnInId="23843" />
+
+<!-- Pick Up: The Witch's Bane -->
+<PickUp QuestName="The Witch's Bane" QuestId="11181" GiverName="Mordant Grimsby" GiverId="23843" />
+
+<!-- Collect Objective for Quest 11181: Witchbane -->
+<Objective QuestName="Unknown" QuestId="11181" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Turn In: The Witch's Bane -->
+<TurnIn QuestName="The Witch's Bane" QuestId="11181" TurnInName="Mordant Grimsby" TurnInId="23843" />
+
+<!-- Pick Up: Cleansing Witch Hill -->
+<PickUp QuestName="Cleansing Witch Hill" QuestId="11183" GiverName="Mordant Grimsby" GiverId="23843" />
+
+</QuestOrder>

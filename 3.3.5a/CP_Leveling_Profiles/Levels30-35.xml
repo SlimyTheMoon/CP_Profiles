@@ -1,0 +1,671 @@
+<QuestOrder>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: The Islander -->
+  <PickUp QuestName="The Islander" QuestId="1718" GiverName="Wu Shen" GiverId="5479" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Islander -->
+  <TurnIn QuestName="The Islander" QuestId="1718" TurnInName="Klannoc Macleod" TurnInId="6236" />
+  <!-- Pick Up: The Affray -->
+  <PickUp QuestName="The Affray" QuestId="1719" GiverName="Klannoc Macleod" GiverId="6236" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Kill Objective for Quest 1719: Big Will -->
+  <Objective QuestName="Unknown" QuestId="1719" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Affray -->
+  <TurnIn QuestName="The Affray" QuestId="1719" TurnInName="Klannoc Macleod" TurnInId="6236" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Air (1) -->
+  <PickUp QuestName="Call of Air (1)" QuestId="9551" GiverName="Sulaa" GiverId="17219" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Air (1) -->
+  <TurnIn QuestName="Call of Air (1)" QuestId="9551" TurnInName="Farseer Nobundo" TurnInId="17204" />
+  <!-- Pick Up: Call of Air (2) -->
+  <PickUp QuestName="Call of Air (2)" QuestId="9552" GiverName="Farseer Nobundo" GiverId="17204" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Air (2) -->
+  <TurnIn QuestName="Call of Air (2)" QuestId="9552" TurnInName="Velaada" TurnInId="17431" />
+  <!-- Pick Up: Call of Air (3) -->
+  <PickUp QuestName="Call of Air (3)" QuestId="9553" GiverName="Velaada" GiverId="17431" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Air (3) -->
+  <TurnIn QuestName="Call of Air (3)" QuestId="9553" TurnInName="Susurrus" TurnInId="17435" />
+  <!-- Pick Up: Call of Air (4) -->
+  <PickUp QuestName="Call of Air (4)" QuestId="9554" GiverName="Susurrus" GiverId="17435" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Air (4) -->
+  <TurnIn QuestName="Call of Air (4)" QuestId="9554" TurnInName="Farseer Nobundo" TurnInId="17204" />
+</If>
+
+<!-- Collect Objective for Quest 98: Mistmantle Family Ring -->
+<Objective QuestName="Unknown" QuestId="98" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Legend of Stalvan (13) -->
+<TurnIn QuestName="The Legend of Stalvan (13)" QuestId="98" TurnInName="Madame Eva" TurnInId="265" />
+
+<!-- Collect Objective for Quest 1026: Wooden Key -->
+<Objective QuestName="Unknown" QuestId="1026" Type="CollectItem" ItemId="5475" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1026: Iron Shaft -->
+<Objective QuestName="Unknown" QuestId="1026" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Raene's Cleansing (4) -->
+<TurnIn QuestName="Raene's Cleansing (4)" QuestId="1026" TurnInName="Shael'dryn" TurnInId="3916" />
+
+<!-- Pick Up: Raene's Cleansing (5) -->
+<PickUp QuestName="Raene's Cleansing (5)" QuestId="1027" GiverName="Shael'dryn" GiverId="3916" />
+
+<!-- Pick Up: Reclaiming Felfire Hill -->
+<PickUp QuestName="Reclaiming Felfire Hill" QuestId="9526" GiverName="Gnarl" GiverId="17310" />
+
+<!-- Turn In: A Helping Hand -->
+<TurnIn QuestName="A Helping Hand" QuestId="9533" TurnInName="Architect Nemos" TurnInId="17291" />
+
+<!-- Pick Up: A Shameful Waste -->
+<PickUp QuestName="A Shameful Waste" QuestId="9517" GiverName="Architect Nemos" GiverId="17291" />
+
+<!-- Pick Up: Vile Satyr! Dryads in Danger! -->
+<PickUp QuestName="Vile Satyr! Dryads in Danger!" QuestId="1021" GiverName="Illiyana" GiverId="3901" />
+
+<!-- Pick Up: Destroy the Legion -->
+<PickUp QuestName="Destroy the Legion" QuestId="9516" GiverName="Vindicator Vedaar" GiverId="17303" />
+
+<!-- Pick Up: The Howling Vale -->
+<PickUp QuestName="The Howling Vale" QuestId="1022" GiverName="Sentinel Melyria Frostshadow" GiverId="3880" />
+
+<!-- Pick Up: Report from the Northern Front -->
+<PickUp QuestName="Report from the Northern Front" QuestId="9521" GiverName="Sentinel Luciel Starwhisper" GiverId="17287" />
+
+<!-- Pick Up: Agents of Destruction -->
+<PickUp QuestName="Agents of Destruction" QuestId="9518" GiverName="Sentinel Luciel Starwhisper" GiverId="17287" />
+
+<!-- Turn In: Kayneth Stillwind -->
+<TurnIn QuestName="Kayneth Stillwind" QuestId="4581" TurnInName="Kayneth Stillwind" TurnInId="3848" />
+
+<!-- Pick Up: Forsaken Diseases -->
+<PickUp QuestName="Forsaken Diseases" QuestId="1011" GiverName="Kayneth Stillwind" GiverId="3848" />
+
+<!-- Pick Up: The Lost Chalice -->
+<PickUp QuestName="The Lost Chalice" QuestId="9519" GiverName="Kayneth Stillwind" GiverId="3848" />
+
+<!-- Turn In: Vile Satyr! Dryads in Danger! -->
+<TurnIn QuestName="Vile Satyr! Dryads in Danger!" QuestId="1021" TurnInName="Anilia" TurnInId="3920" />
+
+<!-- Pick Up: The Branch of Cenarius -->
+<PickUp QuestName="The Branch of Cenarius" QuestId="1031" GiverName="Anilia" GiverId="3920" />
+
+<!-- Collect Objective for Quest 1031: Branch of Cenarius -->
+<Objective QuestName="Unknown" QuestId="1031" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9517: Satyrnaar Fel Wood -->
+<Objective QuestName="Unknown" QuestId="9517" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 9519: Chalice of Elune -->
+<Objective QuestName="Unknown" QuestId="9519" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9517: Warsong Lumber -->
+<Objective QuestName="Unknown" QuestId="9517" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Kill Objective for Quest 9518: Warsong Shredder -->
+<Objective QuestName="Unknown" QuestId="9518" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 9518: Horde Deforester -->
+<Objective QuestName="Unknown" QuestId="9518" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 9518: Horde Scout -->
+<Objective QuestName="Unknown" QuestId="9518" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9518: Overseer Gorthak -->
+<Objective QuestName="Unknown" QuestId="9518" Type="KillMob" MobId="17304" KillCount="1" />
+
+<!-- Kill Objective for Quest 9516: Mannoroc Lasher -->
+<Objective QuestName="Unknown" QuestId="9516" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9516: Roaming Felguard -->
+<Objective QuestName="Unknown" QuestId="9516" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9516: Searing Infernal -->
+<Objective QuestName="Unknown" QuestId="9516" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Pick Up: Diabolical Plans -->
+<PickUp QuestName="Diabolical Plans" QuestId="9520" GiverName="Anilia" GiverId="3920" />
+
+<!-- Collect Objective for Quest 1011: Bottle of Disease -->
+<Objective QuestName="Unknown" QuestId="1011" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1027: Iron Pommel -->
+<Objective QuestName="Unknown" QuestId="1027" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1035: Fallen Moonstone -->
+<Objective QuestName="Unknown" QuestId="1035" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Report from the Northern Front -->
+<TurnIn QuestName="Report from the Northern Front" QuestId="9521" TurnInName="Sentinel Farsong" TurnInId="14733" />
+
+<!-- Turn In: A Shameful Waste -->
+<TurnIn QuestName="A Shameful Waste" QuestId="9517" TurnInName="Gnarl" TurnInId="17310" />
+
+<!-- Turn In: Reclaiming Felfire Hill -->
+<TurnIn QuestName="Reclaiming Felfire Hill" QuestId="9526" TurnInName="Gnarl" TurnInId="17310" />
+
+<!-- Turn In: The Branch of Cenarius -->
+<TurnIn QuestName="The Branch of Cenarius" QuestId="1031" TurnInName="Illiyana" TurnInId="3901" />
+
+<!-- Pick Up: Satyr Slaying! -->
+<PickUp QuestName="Satyr Slaying!" QuestId="1032" GiverName="Illiyana" GiverId="3901" />
+
+<!-- Turn In: Destroy the Legion -->
+<TurnIn QuestName="Destroy the Legion" QuestId="9516" TurnInName="Vindicator Vedaar" TurnInId="17303" />
+
+<!-- Turn In: Diabolical Plans -->
+<TurnIn QuestName="Diabolical Plans" QuestId="9520" TurnInName="Vindicator Vedaar" TurnInId="17303" />
+
+<!-- Turn In: The Howling Vale -->
+<TurnIn QuestName="The Howling Vale" QuestId="1022" TurnInName="Sentinel Melyria Frostshadow" TurnInId="3880" />
+
+<!-- Pick Up: Velinde Starsong -->
+<PickUp QuestName="Velinde Starsong" QuestId="1037" GiverName="Sentinel Melyria Frostshadow" GiverId="3880" />
+
+<!-- Turn In: Agents of Destruction -->
+<TurnIn QuestName="Agents of Destruction" QuestId="9518" TurnInName="Sentinel Luciel Starwhisper" TurnInId="17287" />
+
+<!-- Turn In: Forsaken Diseases -->
+<TurnIn QuestName="Forsaken Diseases" QuestId="1011" TurnInName="Kayneth Stillwind" TurnInId="3848" />
+
+<!-- Turn In: The Lost Chalice -->
+<TurnIn QuestName="The Lost Chalice" QuestId="9519" TurnInName="Kayneth Stillwind" TurnInId="3848" />
+
+<!-- Collect Objective for Quest 1032: Satyr Horns -->
+<Objective QuestName="Unknown" QuestId="1032" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="16" />
+
+<!-- Turn In: Satyr Slaying! -->
+<TurnIn QuestName="Satyr Slaying!" QuestId="1032" TurnInName="Illiyana" TurnInId="3901" />
+
+<!-- Turn In: Fallen Sky Lake -->
+<TurnIn QuestName="Fallen Sky Lake" QuestId="1035" TurnInName="Pelturas Whitemoon" TurnInId="3894" />
+
+<!-- Turn In: Raene's Cleansing (5) -->
+<TurnIn QuestName="Raene's Cleansing (5)" QuestId="1027" TurnInName="Shael'dryn" TurnInId="3916" />
+
+<!-- Pick Up: Raene's Cleansing (6) -->
+<PickUp QuestName="Raene's Cleansing (6)" QuestId="1028" GiverName="Shael'dryn" GiverId="3916" />
+
+<!-- Turn In: Raene's Cleansing (6) -->
+<TurnIn QuestName="Raene's Cleansing (6)" QuestId="1028" TurnInName="Shael'dryn" TurnInId="3916" />
+
+<!-- Pick Up: Raene's Cleansing (7) -->
+<PickUp QuestName="Raene's Cleansing (7)" QuestId="1055" GiverName="Shael'dryn" GiverId="3916" />
+
+<!-- Turn In: Raene's Cleansing (7) -->
+<TurnIn QuestName="Raene's Cleansing (7)" QuestId="1055" TurnInName="Shael'dryn" TurnInId="3916" />
+
+<!-- Pick Up: Raene's Cleansing (8) -->
+<PickUp QuestName="Raene's Cleansing (8)" QuestId="1029" GiverName="Shael'dryn" GiverId="3916" />
+
+<!-- Turn In: Raene's Cleansing (8) -->
+<TurnIn QuestName="Raene's Cleansing (8)" QuestId="1029" TurnInName="Raene Wolfrunner" TurnInId="3691" />
+
+<!-- Turn In: Velinde Starsong -->
+<TurnIn QuestName="Velinde Starsong" QuestId="1037" TurnInName="Thyn'tel Bladeweaver" TurnInId="8026" />
+
+<!-- Pick Up: Velinde's Effects -->
+<PickUp QuestName="Velinde's Effects" QuestId="1038" GiverName="Thyn'tel Bladeweaver" GiverId="8026" />
+
+<!-- Collect Objective for Quest 1038: Velinde's Journal -->
+<Objective QuestName="Unknown" QuestId="1038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Velinde's Effects -->
+<TurnIn QuestName="Velinde's Effects" QuestId="1038" TurnInName="Thyn'tel Bladeweaver" TurnInId="8026" />
+
+<!-- Pick Up: The Barrens Port -->
+<PickUp QuestName="The Barrens Port" QuestId="1039" GiverName="Thyn'tel Bladeweaver" GiverId="8026" />
+
+<!-- Pick Up: James Hyal -->
+<PickUp QuestName="James Hyal" QuestId="1302" GiverName="Vincent Hyal" GiverId="5082" />
+
+<!-- Pick Up: The Cursed Crew -->
+<PickUp QuestName="The Cursed Crew" QuestId="289" GiverName="First Mate Fitzsimmons" GiverId="1239" />
+
+<!-- Turn In: The Doomed Fleet -->
+<TurnIn QuestName="The Doomed Fleet" QuestId="270" TurnInName="Glorin Steelbrow" TurnInId="1217" />
+
+<!-- Pick Up: Lightforge Iron -->
+<PickUp QuestName="Lightforge Iron" QuestId="321" GiverName="Glorin Steelbrow" GiverId="1217" />
+
+<!-- Turn In: Lightforge Iron -->
+<TurnIn QuestName="Lightforge Iron" QuestId="321" TurnInName="Glorin Steelbrow" TurnInId="1217" />
+
+<!-- Pick Up: The Lost Ingots -->
+<PickUp QuestName="The Lost Ingots" QuestId="324" GiverName="Glorin Steelbrow" GiverId="1217" />
+
+<!-- Collect Objective for Quest 324: Lightforge Ingot -->
+<Objective QuestName="Unknown" QuestId="324" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: The Lost Ingots -->
+<TurnIn QuestName="The Lost Ingots" QuestId="324" TurnInName="Glorin Steelbrow" TurnInId="1217" />
+
+<!-- Pick Up: Blessed Arm -->
+<PickUp QuestName="Blessed Arm" QuestId="322" GiverName="Glorin Steelbrow" GiverId="1217" />
+
+<!-- Pick Up: Fall of Dun Modr -->
+<PickUp QuestName="Fall of Dun Modr" QuestId="472" GiverName="Harlo Barnaby" GiverId="2097" />
+
+<!-- Kill Objective for Quest 289: Cursed Sailor -->
+<Objective QuestName="Unknown" QuestId="289" Type="KillMob" MobId="UNKNOWN_ID" KillCount="13" />
+
+<!-- Kill Objective for Quest 289: Cursed Marine -->
+<Objective QuestName="Unknown" QuestId="289" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 289: Snellig's Snuffbox -->
+<Objective QuestName="Unknown" QuestId="289" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Cursed Crew -->
+<TurnIn QuestName="The Cursed Crew" QuestId="289" TurnInName="First Mate Fitzsimmons" TurnInId="1239" />
+
+<!-- Pick Up: Lifting the Curse -->
+<PickUp QuestName="Lifting the Curse" QuestId="290" GiverName="First Mate Fitzsimmons" GiverId="1239" />
+
+<!-- Collect Objective for Quest 290: Intrepid Strongbox Key -->
+<Objective QuestName="Unknown" QuestId="290" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Lifting the Curse -->
+<TurnIn QuestName="Lifting the Curse" QuestId="290" TurnInName="First Mate Fitzsimmons" TurnInId="1239" />
+
+<!-- Pick Up: The Eye of Paleth -->
+<PickUp QuestName="The Eye of Paleth" QuestId="292" GiverName="First Mate Fitzsimmons" GiverId="1239" />
+
+<!-- Collect Objective for Quest 296: Sarltooth's Talon -->
+<Objective QuestName="Unknown" QuestId="296" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ormer's Revenge (3) -->
+<TurnIn QuestName="Ormer's Revenge (3)" QuestId="296" TurnInName="Ormer Ironbraid" TurnInId="1078" />
+
+<!-- Turn In: Nek'rosh's Gambit -->
+<TurnIn QuestName="Nek'rosh's Gambit" QuestId="465" TurnInName="Ormer Ironbraid" TurnInId="1078" />
+
+<!-- Pick Up: Defeat Nek'rosh -->
+<PickUp QuestName="Defeat Nek'rosh" QuestId="474" GiverName="Ormer Ironbraid" GiverId="1078" />
+
+<!-- Collect Objective for Quest 474: Nek'rosh's Head -->
+<Objective QuestName="Unknown" QuestId="474" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Eye of Paleth -->
+<TurnIn QuestName="The Eye of Paleth" QuestId="292" TurnInName="Glorin Steelbrow" TurnInId="1217" />
+
+<!-- Pick Up: Cleansing the Eye -->
+<PickUp QuestName="Cleansing the Eye" QuestId="293" GiverName="Glorin Steelbrow" GiverId="1217" />
+
+<!-- Turn In: Defeat Nek'rosh -->
+<TurnIn QuestName="Defeat Nek'rosh" QuestId="474" TurnInName="Captain Stoutfist" TurnInId="2104" />
+
+<!-- Turn In: Fall of Dun Modr -->
+<TurnIn QuestName="Fall of Dun Modr" QuestId="472" TurnInName="Longbraid the Grim" TurnInId="1071" />
+
+<!-- Pick Up: A Grim Task -->
+<PickUp QuestName="A Grim Task" QuestId="304" GiverName="Longbraid the Grim" GiverId="1071" />
+
+<!-- Pick Up: The Thandol Span (1) -->
+<PickUp QuestName="The Thandol Span (1)" QuestId="631" GiverName="Rhag Garmason" GiverId="1075" />
+
+<!-- Pick Up: The Dark Iron War -->
+<PickUp QuestName="The Dark Iron War" QuestId="303" GiverName="Motley Garmason" GiverId="1074" />
+
+<!-- Kill Objective for Quest 303: Dark Iron Dwarf -->
+<Objective QuestName="Unknown" QuestId="303" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 303: Dark Iron Tunneler -->
+<Objective QuestName="Unknown" QuestId="303" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 303: Dark Iron Saboteur -->
+<Objective QuestName="Unknown" QuestId="303" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 303: Dark Iron Demolitionist -->
+<Objective QuestName="Unknown" QuestId="303" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 304: Ear of Balgaras -->
+<Objective QuestName="Unknown" QuestId="304" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Grim Task -->
+<TurnIn QuestName="A Grim Task" QuestId="304" TurnInName="Longbraid the Grim" TurnInId="1071" />
+
+<!-- Turn In: The Dark Iron War -->
+<TurnIn QuestName="The Dark Iron War" QuestId="303" TurnInName="Motley Garmason" TurnInId="1074" />
+
+<!-- Turn In: The Thandol Span (1) -->
+<TurnIn QuestName="The Thandol Span (1)" QuestId="631" TurnInName="Motley Garmason" TurnInId="1074" />
+
+<!-- Pick Up: The Thandol Span (2) -->
+<PickUp QuestName="The Thandol Span (2)" QuestId="632" GiverName="Motley Garmason" GiverId="1074" />
+
+<!-- Turn In: The Thandol Span (2) -->
+<TurnIn QuestName="The Thandol Span (2)" QuestId="632" TurnInName="Rhag Garmason" TurnInId="1075" />
+
+<!-- Pick Up: The Thandol Span (3) -->
+<PickUp QuestName="The Thandol Span (3)" QuestId="633" GiverName="Rhag Garmason" GiverId="1075" />
+
+<!-- Turn In: The Thandol Span (3) -->
+<TurnIn QuestName="The Thandol Span (3)" QuestId="633" TurnInName="Rhag Garmason" TurnInId="1075" />
+
+<!-- Pick Up: Plea To The Alliance -->
+<PickUp QuestName="Plea To The Alliance" QuestId="634" GiverName="Rhag Garmason" GiverId="1075" />
+
+<!-- Turn In: Plea To The Alliance -->
+<TurnIn QuestName="Plea To The Alliance" QuestId="634" TurnInName="Captain Nials" TurnInId="2700" />
+
+<!-- Pick Up: Northfold Manor -->
+<PickUp QuestName="Northfold Manor" QuestId="681" GiverName="Captain Nials" GiverId="2700" />
+
+<!-- Pick Up: Crushridge Bounty -->
+<PickUp QuestName="Crushridge Bounty" QuestId="500" GiverName="Marshal Redpath" GiverId="2263" />
+
+<!-- Pick Up: Syndicate Assassins -->
+<PickUp QuestName="Syndicate Assassins" QuestId="505" GiverName="Magistrate Henry Maleb" GiverId="2276" />
+
+<!-- Pick Up: Hints of a New Plague? (1) -->
+<PickUp QuestName="Hints of a New Plague? (1)" QuestId="659" GiverName="Phin Odelic" GiverId="2711" />
+
+<!-- Pick Up: Missing Crystals -->
+<PickUp QuestName="Missing Crystals" QuestId="9435" GiverName="Huraan" GiverId="17218" />
+
+<!-- Pick Up: Down the Coast -->
+<PickUp QuestName="Down the Coast" QuestId="536" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Pick Up: Soothing Turtle Bisque -->
+<PickUp QuestName="Soothing Turtle Bisque" QuestId="555" GiverName="Chef Jessen" GiverId="2430" />
+
+<!-- Pick Up: Costly Menace -->
+<PickUp QuestName="Costly Menace" QuestId="564" GiverName="Darren Malvew" GiverId="2382" />
+
+<!-- Collect Objective for Quest 555: Turtle Meat -->
+<Objective QuestName="Unknown" QuestId="555" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Soothing Turtle Bisque -->
+<TurnIn QuestName="Soothing Turtle Bisque" QuestId="555" TurnInName="Chef Jessen" TurnInId="2430" />
+
+<!-- Kill Objective for Quest 536: Torn Fin Tidehunter -->
+<Objective QuestName="Unknown" QuestId="536" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 536: Torn Fin Oracle -->
+<Objective QuestName="Unknown" QuestId="536" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Down the Coast -->
+<TurnIn QuestName="Down the Coast" QuestId="536" TurnInName="Lieutenant Farren Orinelle" TurnInId="2228" />
+
+<!-- Pick Up: Farren's Proof (1) -->
+<PickUp QuestName="Farren's Proof (1)" QuestId="559" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Collect Objective for Quest 559: Murloc Head -->
+<Objective QuestName="Unknown" QuestId="559" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Farren's Proof (1) -->
+<TurnIn QuestName="Farren's Proof (1)" QuestId="559" TurnInName="Lieutenant Farren Orinelle" TurnInId="2228" />
+
+<!-- Pick Up: Farren's Proof (2) -->
+<PickUp QuestName="Farren's Proof (2)" QuestId="560" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Turn In: Farren's Proof (2) -->
+<TurnIn QuestName="Farren's Proof (2)" QuestId="560" TurnInName="Marshal Redpath" TurnInId="2263" />
+
+<!-- Pick Up: Farren's Proof (3) -->
+<PickUp QuestName="Farren's Proof (3)" QuestId="561" GiverName="Marshal Redpath" GiverId="2263" />
+
+<!-- Turn In: Farren's Proof (3) -->
+<TurnIn QuestName="Farren's Proof (3)" QuestId="561" TurnInName="Lieutenant Farren Orinelle" TurnInId="2228" />
+
+<!-- Pick Up: Stormwind Ho! -->
+<PickUp QuestName="Stormwind Ho!" QuestId="562" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Kill Objective for Quest 562: Daggerspine Shorehunter -->
+<Objective QuestName="Unknown" QuestId="562" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 562: Daggerspine Siren -->
+<Objective QuestName="Unknown" QuestId="562" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Stormwind Ho! -->
+<TurnIn QuestName="Stormwind Ho!" QuestId="562" TurnInName="Lieutenant Farren Orinelle" TurnInId="2228" />
+
+<!-- Pick Up: Reassignment -->
+<PickUp QuestName="Reassignment" QuestId="563" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Collect Objective for Quest 9435: Shipment of Rare Crystals -->
+<Objective QuestName="Unknown" QuestId="9435" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 564: Mountain Lion -->
+<Objective QuestName="Unknown" QuestId="564" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 564: Hulking Mountain Lion -->
+<Objective QuestName="Unknown" QuestId="564" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 505: Syndicate Footpad -->
+<Objective QuestName="Unknown" QuestId="505" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 505: Syndicate Thief -->
+<Objective QuestName="Unknown" QuestId="505" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Pick Up: Foreboding Plans -->
+<PickUp QuestName="Foreboding Plans" QuestId="510" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Pick Up: Encrypted Letter -->
+<PickUp QuestName="Encrypted Letter" QuestId="511" GiverName="Lieutenant Farren Orinelle" GiverId="2228" />
+
+<!-- Turn In: Missing Crystals -->
+<TurnIn QuestName="Missing Crystals" QuestId="9435" TurnInName="Huraan" TurnInId="17218" />
+
+<!-- Turn In: Encrypted Letter -->
+<TurnIn QuestName="Encrypted Letter" QuestId="511" TurnInName="Loremaster Dibbs" TurnInId="2277" />
+
+<!-- Pick Up: Letter to Stormpike -->
+<PickUp QuestName="Letter to Stormpike" QuestId="514" GiverName="Loremaster Dibbs" GiverId="2277" />
+
+<!-- Turn In: Syndicate Assassins -->
+<TurnIn QuestName="Syndicate Assassins" QuestId="505" TurnInName="Magistrate Henry Maleb" TurnInId="2276" />
+
+<!-- Turn In: Foreboding Plans -->
+<TurnIn QuestName="Foreboding Plans" QuestId="510" TurnInName="Magistrate Henry Maleb" TurnInId="2276" />
+
+<!-- Pick Up: Noble Deaths -->
+<PickUp QuestName="Noble Deaths" QuestId="512" GiverName="Magistrate Henry Maleb" GiverId="2276" />
+
+<!-- Turn In: Costly Menace -->
+<TurnIn QuestName="Costly Menace" QuestId="564" TurnInName="Darren Malvew" TurnInId="2382" />
+
+<!-- Kill Objective for Quest 681: Syndicate Highwayman -->
+<Objective QuestName="Unknown" QuestId="681" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 681: Syndicate Mercenary -->
+<Objective QuestName="Unknown" QuestId="681" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Northfold Manor -->
+<TurnIn QuestName="Northfold Manor" QuestId="681" TurnInName="Captain Nials" TurnInId="2700" />
+
+<!-- Pick Up: The Brassbolts Brothers -->
+<PickUp QuestName="The Brassbolts Brothers" QuestId="1179" GiverName="Pilot Longbeard" GiverId="2092" />
+
+<!-- Pick Up: Reclaimers' Business in Desolace -->
+<PickUp QuestName="Reclaimers' Business in Desolace" QuestId="1453" GiverName="Roetten Stonehammer" GiverId="5637" />
+
+<!-- Turn In: Letter to Stormpike -->
+<TurnIn QuestName="Letter to Stormpike" QuestId="514" TurnInName="Prospector Stormpike" TurnInId="1356" />
+
+<!-- Pick Up: Further Mysteries -->
+<PickUp QuestName="Further Mysteries" QuestId="525" GiverName="Prospector Stormpike" GiverId="1356" />
+
+<!-- Turn In: Reassignment -->
+<TurnIn QuestName="Reassignment" QuestId="563" TurnInName="Major Samuelson" TurnInId="2439" />
+
+<!-- Turn In: Blessed Arm -->
+<TurnIn QuestName="Blessed Arm" QuestId="322" TurnInName="Grimand Elmore" TurnInId="1416" />
+
+<!-- Turn In: Cleansing the Eye -->
+<TurnIn QuestName="Cleansing the Eye" QuestId="293" TurnInName="Archbishop Benedictus" TurnInId="1284" />
+
+<!-- Pick Up: The Second Rebellion -->
+<PickUp QuestName="The Second Rebellion" QuestId="203" GiverName="Sergeant Yohwa" GiverId="733" />
+
+<!-- Pick Up: Bad Medicine -->
+<PickUp QuestName="Bad Medicine" QuestId="204" GiverName="Sergeant Yohwa" GiverId="733" />
+
+<!-- Pick Up: Krazek's Cookery -->
+<PickUp QuestName="Krazek's Cookery" QuestId="210" GiverName="Corporal Kaleb" GiverId="770" />
+
+<!-- Pick Up: Welcome to the Jungle -->
+<PickUp QuestName="Welcome to the Jungle" QuestId="583" GiverName="Barnil Stonepot" GiverId="716" />
+
+<!-- Turn In: Welcome to the Jungle -->
+<TurnIn QuestName="Welcome to the Jungle" QuestId="583" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: Raptor Mastery (1) -->
+<PickUp QuestName="Raptor Mastery (1)" QuestId="194" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Pick Up: Tiger Mastery (1) -->
+<PickUp QuestName="Tiger Mastery (1)" QuestId="185" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Pick Up: Panther Mastery (1) -->
+<PickUp QuestName="Panther Mastery (1)" QuestId="190" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Kill Objective for Quest 190: Young Panther -->
+<Objective QuestName="Unknown" QuestId="190" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 203: Kurzen Jungle Fighter -->
+<Objective QuestName="Unknown" QuestId="203" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 204: Jungle Remedy -->
+<Objective QuestName="Unknown" QuestId="204" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 204: Venom Fern Extract -->
+<Objective QuestName="Unknown" QuestId="204" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Second Rebellion -->
+<TurnIn QuestName="The Second Rebellion" QuestId="203" TurnInName="Sergeant Yohwa" TurnInId="733" />
+
+<!-- Turn In: Bad Medicine -->
+<TurnIn QuestName="Bad Medicine" QuestId="204" TurnInName="Sergeant Yohwa" TurnInId="733" />
+
+<!-- Turn In: Panther Mastery (1) -->
+<TurnIn QuestName="Panther Mastery (1)" QuestId="190" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Pick Up: Panther Mastery (2) -->
+<PickUp QuestName="Panther Mastery (2)" QuestId="191" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Kill Objective for Quest 185: Young Stranglethorn Tiger -->
+<Objective QuestName="Unknown" QuestId="185" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Tiger Mastery (1) -->
+<TurnIn QuestName="Tiger Mastery (1)" QuestId="185" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Pick Up: Tiger Mastery (2) -->
+<PickUp QuestName="Tiger Mastery (2)" QuestId="186" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Kill Objective for Quest 191: Panther -->
+<Objective QuestName="Unknown" QuestId="191" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 186: Stranglethorn Tiger -->
+<Objective QuestName="Unknown" QuestId="186" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 194: Stranglethorn Raptor -->
+<Objective QuestName="Unknown" QuestId="194" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Raptor Mastery (1) -->
+<TurnIn QuestName="Raptor Mastery (1)" QuestId="194" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: Raptor Mastery (2) -->
+<PickUp QuestName="Raptor Mastery (2)" QuestId="195" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Turn In: Tiger Mastery (2) -->
+<TurnIn QuestName="Tiger Mastery (2)" QuestId="186" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Pick Up: Tiger Mastery (3) -->
+<PickUp QuestName="Tiger Mastery (3)" QuestId="187" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Turn In: Panther Mastery (2) -->
+<TurnIn QuestName="Panther Mastery (2)" QuestId="191" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Pick Up: Panther Mastery (3) -->
+<PickUp QuestName="Panther Mastery (3)" QuestId="192" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Turn In: Krazek's Cookery -->
+<TurnIn QuestName="Krazek's Cookery" QuestId="210" TurnInName="Krazek" TurnInId="773" />
+
+<!-- Pick Up: Favor for Krazek -->
+<PickUp QuestName="Favor for Krazek" QuestId="627" GiverName="Krazek" GiverId="773" />
+
+<!-- Turn In: Favor for Krazek -->
+<TurnIn QuestName="Favor for Krazek" QuestId="627" TurnInName="Krazek" TurnInId="773" />
+
+<!-- Pick Up: Return to Corporal Kaleb -->
+<PickUp QuestName="Return to Corporal Kaleb" QuestId="622" GiverName="Krazek" GiverId="773" />
+
+<!-- Pick Up: Investigate the Camp -->
+<PickUp QuestName="Investigate the Camp" QuestId="201" GiverName="Krazek" GiverId="773" />
+
+<!-- Pick Up: Supplies to Private Thorsen -->
+<PickUp QuestName="Supplies to Private Thorsen" QuestId="198" GiverName="Krazek" GiverId="773" />
+
+<!-- Turn In: The Barrens Port -->
+<TurnIn QuestName="The Barrens Port" QuestId="1039" TurnInName="Wharfmaster Dizzywig" TurnInId="3453" />
+
+<!-- Pick Up: Passage to Booty Bay -->
+<PickUp QuestName="Passage to Booty Bay" QuestId="1040" GiverName="Wharfmaster Dizzywig" GiverId="3453" />
+
+<!-- Pick Up: Lonebrow's Journal -->
+<PickUp QuestName="Lonebrow's Journal" QuestId="1100" GiverName="Bragok" GiverId="16227" />
+
+<!-- Turn In: Lonebrow's Journal -->
+<TurnIn QuestName="Lonebrow's Journal" QuestId="1100" TurnInName="Falfindel Waywarder" TurnInId="4048" />
+
+<!-- Turn In: The Brassbolts Brothers -->
+<TurnIn QuestName="The Brassbolts Brothers" QuestId="1179" TurnInName="Wizzle Brassbolts" TurnInId="4453" />
+
+<!-- Pick Up: Hardened Shells -->
+<PickUp QuestName="Hardened Shells" QuestId="1105" GiverName="Wizzle Brassbolts" GiverId="4453" />
+
+<!-- Pick Up: Salt Flat Venom -->
+<PickUp QuestName="Salt Flat Venom" QuestId="1104" GiverName="Fizzle Brassbolts" GiverId="4454" />
+
+<!-- Pick Up: Hemet Nesingwary Jr. -->
+<PickUp QuestName="Hemet Nesingwary Jr." QuestId="5762" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Pick Up: Rocket Car Parts -->
+<PickUp QuestName="Rocket Car Parts" QuestId="1110" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Pick Up: Wharfmaster Dizzywig -->
+<PickUp QuestName="Wharfmaster Dizzywig" QuestId="1111" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Pick Up: Load Lightening -->
+<PickUp QuestName="Load Lightening" QuestId="1176" GiverName="Pozzik" GiverId="4630" />
+
+<!-- Pick Up: A Bump in the Road -->
+<PickUp QuestName="A Bump in the Road" QuestId="1175" GiverName="Trackmaster Zherin" GiverId="4629" />
+
+<!-- Kill Objective for Quest 1175: Saltstone Crystalhide -->
+<Objective QuestName="Unknown" QuestId="1175" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1175: Saltstone Gazer -->
+<Objective QuestName="Unknown" QuestId="1175" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 1176: Hollow Vulture Bone -->
+<Objective QuestName="Unknown" QuestId="1176" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 1105: Hardened Tortoise Shell -->
+<Objective QuestName="Unknown" QuestId="1105" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Kill Objective for Quest 1175: Saltstone Basilisk -->
+<Objective QuestName="Unknown" QuestId="1175" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+</QuestOrder>

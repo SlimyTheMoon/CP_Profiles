@@ -1,0 +1,645 @@
+<QuestOrder>
+
+<!-- Pick Up: Ormer's Revenge (1) -->
+<PickUp QuestName="Ormer's Revenge (1)" QuestId="294" GiverName="Ormer Ironbraid" GiverId="1078" />
+
+<!-- Turn In: In Search of The Excavation Team (1) -->
+<TurnIn QuestName="In Search of The Excavation Team (1)" QuestId="305" TurnInName="Merrin Rockweaver" TurnInId="1076" />
+
+<!-- Pick Up: In Search of The Excavation Team (2) -->
+<PickUp QuestName="In Search of The Excavation Team (2)" QuestId="306" GiverName="Merrin Rockweaver" GiverId="1076" />
+
+<!-- Pick Up: Uncovering the Past -->
+<PickUp QuestName="Uncovering the Past" QuestId="299" GiverName="Prospector Whelgar" GiverId="1077" />
+
+<!-- Kill Objective for Quest 294: Mottled Raptor -->
+<Objective QuestName="Unknown" QuestId="294" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 294: Mottled Screecher -->
+<Objective QuestName="Unknown" QuestId="294" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Ormer's Revenge (1) -->
+<TurnIn QuestName="Ormer's Revenge (1)" QuestId="294" TurnInName="Ormer Ironbraid" TurnInId="1078" />
+
+<!-- Pick Up: Ormer's Revenge (2) -->
+<PickUp QuestName="Ormer's Revenge (2)" QuestId="295" GiverName="Ormer Ironbraid" GiverId="1078" />
+
+<!-- Kill Objective for Quest 295: Mottled Scytheclaw -->
+<Objective QuestName="Unknown" QuestId="295" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 295: Mottled Razormaw -->
+<Objective QuestName="Unknown" QuestId="295" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Ormer's Revenge (2) -->
+<TurnIn QuestName="Ormer's Revenge (2)" QuestId="295" TurnInName="Ormer Ironbraid" TurnInId="1078" />
+
+<!-- Pick Up: Ormer's Revenge (3) -->
+<PickUp QuestName="Ormer's Revenge (3)" QuestId="296" GiverName="Ormer Ironbraid" GiverId="1078" />
+
+<!-- Turn In: Uncovering the Past -->
+<TurnIn QuestName="Uncovering the Past" QuestId="299" TurnInName="Prospector Whelgar" TurnInId="1077" />
+
+<!-- Collect Objective for Quest 464: Dragonmaw War Banner -->
+<Objective QuestName="Unknown" QuestId="464" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 484: Young Crocolisk Skin -->
+<Objective QuestName="Unknown" QuestId="484" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: The Greenwarden -->
+<TurnIn QuestName="The Greenwarden" QuestId="463" TurnInName="Rethiel the Greenwarden" TurnInId="1244" />
+
+<!-- Pick Up: Tramping Paws -->
+<PickUp QuestName="Tramping Paws" QuestId="276" GiverName="Rethiel the Greenwarden" GiverId="1244" />
+
+<!-- Kill Objective for Quest 276: Mosshide Gnoll -->
+<Objective QuestName="Unknown" QuestId="276" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 276: Mosshide Mongrel -->
+<Objective QuestName="Unknown" QuestId="276" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Tramping Paws -->
+<TurnIn QuestName="Tramping Paws" QuestId="276" TurnInName="Rethiel the Greenwarden" TurnInId="1244" />
+
+<!-- Pick Up: Fire Taboo -->
+<PickUp QuestName="Fire Taboo" QuestId="277" GiverName="Rethiel the Greenwarden" GiverId="1244" />
+
+<!-- Collect Objective for Quest 277: Crude Flint -->
+<Objective QuestName="Unknown" QuestId="277" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Turn In: Fire Taboo -->
+<TurnIn QuestName="Fire Taboo" QuestId="277" TurnInName="Rethiel the Greenwarden" TurnInId="1244" />
+
+<!-- Pick Up: Blisters on The Land -->
+<PickUp QuestName="Blisters on The Land" QuestId="275" GiverName="Rethiel the Greenwarden" GiverId="1244" />
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Water (1) -->
+  <PickUp QuestName="Call of Water (1)" QuestId="9502" GiverName="Sulaa" GiverId="17219" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (1) -->
+  <TurnIn QuestName="Call of Water (1)" QuestId="9502" TurnInName="Farseer Nobundo" TurnInId="17204" />
+  <!-- Pick Up: Call of Water (2) -->
+  <PickUp QuestName="Call of Water (2)" QuestId="9501" GiverName="Farseer Nobundo" GiverId="17204" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (2) -->
+  <TurnIn QuestName="Call of Water (2)" QuestId="9501" TurnInName="Aqueous" TurnInId="17275" />
+  <!-- Pick Up: Call of Water (3) -->
+  <PickUp QuestName="Call of Water (3)" QuestId="9503" GiverName="Aqueous" GiverId="17275" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 9503: Foul Essence -->
+  <Objective QuestName="Unknown" QuestId="9503" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (3) -->
+  <TurnIn QuestName="Call of Water (3)" QuestId="9503" TurnInName="Aqueous" TurnInId="17275" />
+  <!-- Pick Up: Call of Water (4) -->
+  <PickUp QuestName="Call of Water (4)" QuestId="9504" GiverName="Aqueous" GiverId="17275" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 9504: Filled Bota Bag -->
+  <Objective QuestName="Unknown" QuestId="9504" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (4) -->
+  <TurnIn QuestName="Call of Water (4)" QuestId="9504" TurnInName="Aqueous" TurnInId="17275" />
+  <!-- Pick Up: Call of Water (5) -->
+  <PickUp QuestName="Call of Water (5)" QuestId="9508" GiverName="Aqueous" GiverId="17275" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 9508: Head of Tel'athion -->
+  <Objective QuestName="Unknown" QuestId="9508" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (5) -->
+  <TurnIn QuestName="Call of Water (5)" QuestId="9508" TurnInName="Aqueous" TurnInId="17275" />
+  <!-- Pick Up: Call of Water (6) -->
+  <PickUp QuestName="Call of Water (6)" QuestId="9509" GiverName="Aqueous" GiverId="17275" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Draenei) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (6) -->
+  <TurnIn QuestName="Call of Water (6)" QuestId="9509" TurnInName="Farseer Nobundo" TurnInId="17204" />
+</If>
+
+<!-- Turn In: Claws from the Deep -->
+<TurnIn QuestName="Claws from the Deep" QuestId="279" TurnInName="Karl Boran" TurnInId="1242" />
+
+<!-- Pick Up: Reclaiming Goods -->
+<PickUp QuestName="Reclaiming Goods" QuestId="281" GiverName="Karl Boran" GiverId="1242" />
+
+<!-- Turn In: Young Crocolisk Skins -->
+<TurnIn QuestName="Young Crocolisk Skins" QuestId="484" TurnInName="James Halloran" TurnInId="2094" />
+
+<!-- Pick Up: Apprentice's Duties -->
+<PickUp QuestName="Apprentice's Duties" QuestId="471" GiverName="James Halloran" GiverId="2094" />
+
+<!-- Turn In: War Banners -->
+<TurnIn QuestName="War Banners" QuestId="464" TurnInName="Captain Stoutfist" TurnInId="2104" />
+
+<!-- Pick Up: Nek'rosh's Gambit -->
+<PickUp QuestName="Nek'rosh's Gambit" QuestId="465" GiverName="Captain Stoutfist" GiverId="2104" />
+
+<!-- Turn In: In Search of The Excavation Team (2) -->
+<TurnIn QuestName="In Search of The Excavation Team (2)" QuestId="306" TurnInName="Tarrel Rockweaver" TurnInId="2096" />
+
+<!-- Turn In: Reclaiming Goods -->
+<TurnIn QuestName="Reclaiming Goods" QuestId="281" TurnInName="Tarrel Rockweaver" TurnInId="2096" />
+
+<!-- Pick Up: The Search Continues -->
+<PickUp QuestName="The Search Continues" QuestId="284" GiverName="Tarrel Rockweaver" GiverId="2096" />
+
+<!-- Turn In: The Search Continues -->
+<TurnIn QuestName="The Search Continues" QuestId="284" TurnInName="Tarrel Rockweaver" TurnInId="2096" />
+
+<!-- Pick Up: Search More Hovels -->
+<PickUp QuestName="Search More Hovels" QuestId="285" GiverName="Tarrel Rockweaver" GiverId="2096" />
+
+<!-- Turn In: Search More Hovels -->
+<TurnIn QuestName="Search More Hovels" QuestId="285" TurnInName="Tarrel Rockweaver" TurnInId="2096" />
+
+<!-- Pick Up: Return the Statuette -->
+<PickUp QuestName="Return the Statuette" QuestId="286" GiverName="Tarrel Rockweaver" GiverId="2096" />
+
+<!-- Kill Objective for Quest 275: Fen Creeper -->
+<Objective QuestName="Unknown" QuestId="275" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 471: Giant Crocolisk Skin -->
+<Objective QuestName="Unknown" QuestId="471" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 470: Sida's Bag -->
+<Objective QuestName="Unknown" QuestId="470" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Blisters on The Land -->
+<TurnIn QuestName="Blisters on The Land" QuestId="275" TurnInName="Rethiel the Greenwarden" TurnInId="1244" />
+
+<!-- Turn In: Digging Through the Ooze -->
+<TurnIn QuestName="Digging Through the Ooze" QuestId="470" TurnInName="Sida" TurnInId="2111" />
+
+<!-- Turn In: Apprentice's Duties -->
+<TurnIn QuestName="Apprentice's Duties" QuestId="471" TurnInName="James Halloran" TurnInId="2094" />
+
+<!-- Turn In: Return the Statuette -->
+<TurnIn QuestName="Return the Statuette" QuestId="286" TurnInName="Karl Boran" TurnInId="1242" />
+
+<!-- Pick Up: Blackrock Bounty -->
+<PickUp QuestName="Blackrock Bounty" QuestId="128" GiverName="Guard Howe" GiverId="903" />
+
+<!-- Collect Objective for Quest 34: Bellygrub's Tusk -->
+<Objective QuestName="Unknown" QuestId="34" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: An Unwelcome Guest -->
+<TurnIn QuestName="An Unwelcome Guest" QuestId="34" TurnInName="Martie Jainrose" TurnInId="342" />
+
+<!-- Pick Up: Wanted: Lieutenant Fangore -->
+<PickUp QuestName="Wanted: Lieutenant Fangore" QuestId="180" GiverName="Martie Jainrose" GiverId="342" />
+
+<!-- Pick Up: Shadow Magic -->
+<PickUp QuestName="Shadow Magic" QuestId="115" GiverName="Marshal Marris" GiverId="382" />
+
+<!-- Collect Objective for Quest 115: Midnight Orb -->
+<Objective QuestName="Unknown" QuestId="115" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 91: Shadowhide Pendant -->
+<Objective QuestName="Unknown" QuestId="91" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Shadow Magic -->
+<TurnIn QuestName="Shadow Magic" QuestId="115" TurnInName="Marshal Marris" TurnInId="382" />
+
+<!-- Pick Up: Howling in the Hills -->
+<PickUp QuestName="Howling in the Hills" QuestId="126" GiverName="Verner Osgood" GiverId="415" />
+
+<!-- Turn In: Solomon's Law -->
+<TurnIn QuestName="Solomon's Law" QuestId="91" TurnInName="Bailiff Conacher" TurnInId="900" />
+
+<!-- Collect Objective for Quest 126: Yowler's Paw -->
+<Objective QuestName="Unknown" QuestId="126" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 128: Blackrock Champion -->
+<Objective QuestName="Unknown" QuestId="128" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Pick Up: Missing In Action -->
+<PickUp QuestName="Missing In Action" QuestId="219" GiverName="Corporal Keeshan" GiverId="349" />
+
+<!-- Turn In: Missing In Action -->
+<TurnIn QuestName="Missing In Action" QuestId="219" TurnInName="Marshal Marris" TurnInId="382" />
+
+<!-- Turn In: Howling in the Hills -->
+<TurnIn QuestName="Howling in the Hills" QuestId="126" TurnInName="Verner Osgood" TurnInId="415" />
+
+<!-- Turn In: Blackrock Bounty -->
+<TurnIn QuestName="Blackrock Bounty" QuestId="128" TurnInName="Guard Howe" TurnInId="903" />
+
+<!-- Collect Objective for Quest 180: Fangore's Paw -->
+<Objective QuestName="Unknown" QuestId="180" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Wanted: Lieutenant Fangore -->
+<TurnIn QuestName="Wanted: Lieutenant Fangore" QuestId="180" TurnInName="Magistrate Solomon" TurnInId="344" />
+
+<!-- Pick Up: The Totem of Infliction -->
+<PickUp QuestName="The Totem of Infliction" QuestId="101" GiverName="Madame Eva" GiverId="265" />
+
+<!-- Pick Up: The Legend of Stalvan (1) -->
+<PickUp QuestName="The Legend of Stalvan (1)" QuestId="66" GiverName="Madame Eva" GiverId="265" />
+
+<!-- Pick Up: Look To The Stars (1) -->
+<PickUp QuestName="Look To The Stars (1)" QuestId="174" GiverName="Viktori Prism'Antras" GiverId="276" />
+
+<!-- Turn In: Look To The Stars (1) -->
+<TurnIn QuestName="Look To The Stars (1)" QuestId="174" TurnInName="Viktori Prism'Antras" TurnInId="276" />
+
+<!-- Pick Up: Look To The Stars (2) -->
+<PickUp QuestName="Look To The Stars (2)" QuestId="175" GiverName="Viktori Prism'Antras" GiverId="276" />
+
+<!-- Pick Up: Worgen in the Woods (1) -->
+<PickUp QuestName="Worgen in the Woods (1)" QuestId="173" GiverName="Calor" GiverId="663" />
+
+<!-- Pick Up: Deliveries to Sven -->
+<PickUp QuestName="Deliveries to Sven" QuestId="164" GiverName="Elaine Carevin" GiverId="633" />
+
+<!-- Pick Up: The Hermit -->
+<PickUp QuestName="The Hermit" QuestId="165" GiverName="Elaine Carevin" GiverId="633" />
+
+<!-- Pick Up: Raven Hill -->
+<PickUp QuestName="Raven Hill" QuestId="163" GiverName="Elaine Carevin" GiverId="633" />
+
+<!-- Pick Up: The Night Watch (1) -->
+<PickUp QuestName="The Night Watch (1)" QuestId="56" GiverName="Commander Althea Ebonlocke" GiverId="264" />
+
+<!-- Turn In: The Legend of Stalvan (1) -->
+<TurnIn QuestName="The Legend of Stalvan (1)" QuestId="66" TurnInName="Clerk Daltry" TurnInId="267" />
+
+<!-- Pick Up: The Legend of Stalvan (2) -->
+<PickUp QuestName="The Legend of Stalvan (2)" QuestId="67" GiverName="Clerk Daltry" GiverId="267" />
+
+<!-- Turn In: The Legend of Stalvan (2) -->
+<TurnIn QuestName="The Legend of Stalvan (2)" QuestId="67" TurnInName="Clerk Daltry" TurnInId="267" />
+
+<!-- Pick Up: The Legend of Stalvan (3) -->
+<PickUp QuestName="The Legend of Stalvan (3)" QuestId="68" GiverName="Clerk Daltry" GiverId="267" />
+
+<!-- Turn In: The Legend of Stalvan (3) -->
+<TurnIn QuestName="The Legend of Stalvan (3)" QuestId="68" TurnInName="Clerk Daltry" TurnInId="267" />
+
+<!-- Pick Up: The Legend of Stalvan (4) -->
+<PickUp QuestName="The Legend of Stalvan (4)" QuestId="69" GiverName="Clerk Daltry" GiverId="267" />
+
+<!-- Turn In: The Legend of Stalvan (4) -->
+<TurnIn QuestName="The Legend of Stalvan (4)" QuestId="69" TurnInName="Innkeeper Farley" TurnInId="295" />
+
+<!-- Pick Up: The Legend of Stalvan (5) -->
+<PickUp QuestName="The Legend of Stalvan (5)" QuestId="70" GiverName="Innkeeper Farley" GiverId="295" />
+
+<!-- Collect Objective for Quest 70: An Undelivered Letter -->
+<Objective QuestName="Unknown" QuestId="70" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Legend of Stalvan (5) -->
+<TurnIn QuestName="The Legend of Stalvan (5)" QuestId="70" TurnInName="Caretaker Folsom" TurnInId="297" />
+
+<!-- Pick Up: The Legend of Stalvan (6) -->
+<PickUp QuestName="The Legend of Stalvan (6)" QuestId="72" GiverName="Caretaker Folsom" GiverId="297" />
+
+<!-- Turn In: The Legend of Stalvan (6) -->
+<TurnIn QuestName="The Legend of Stalvan (6)" QuestId="72" TurnInName="Caretaker Folsom" TurnInId="297" />
+
+<!-- Pick Up: The Legend of Stalvan (7) -->
+<PickUp QuestName="The Legend of Stalvan (7)" QuestId="74" GiverName="Caretaker Folsom" GiverId="297" />
+
+<!-- Turn In: The Legend of Stalvan (7) -->
+<TurnIn QuestName="The Legend of Stalvan (7)" QuestId="74" TurnInName="Marshal Haggard" TurnInId="294" />
+
+<!-- Pick Up: The Legend of Stalvan (8) -->
+<PickUp QuestName="The Legend of Stalvan (8)" QuestId="75" GiverName="Marshal Haggard" GiverId="294" />
+
+<!-- Collect Objective for Quest 75: A Faded Journal Page -->
+<Objective QuestName="Unknown" QuestId="75" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Legend of Stalvan (8) -->
+<TurnIn QuestName="The Legend of Stalvan (8)" QuestId="75" TurnInName="Marshal Haggard" TurnInId="294" />
+
+<!-- Pick Up: The Legend of Stalvan (9) -->
+<PickUp QuestName="The Legend of Stalvan (9)" QuestId="78" GiverName="Marshal Haggard" GiverId="294" />
+
+<!-- Turn In: The Legend of Stalvan (9) -->
+<TurnIn QuestName="The Legend of Stalvan (9)" QuestId="78" TurnInName="Tavernkeep Smitts" TurnInId="273" />
+
+<!-- Pick Up: The Legend of Stalvan (10) -->
+<PickUp QuestName="The Legend of Stalvan (10)" QuestId="79" GiverName="Tavernkeep Smitts" GiverId="273" />
+
+<!-- Turn In: The Legend of Stalvan (10) -->
+<TurnIn QuestName="The Legend of Stalvan (10)" QuestId="79" TurnInName="Commander Althea Ebonlocke" TurnInId="264" />
+
+<!-- Pick Up: The Legend of Stalvan (11) -->
+<PickUp QuestName="The Legend of Stalvan (11)" QuestId="80" GiverName="Commander Althea Ebonlocke" GiverId="264" />
+
+<!-- Turn In: The Legend of Stalvan (11) -->
+<TurnIn QuestName="The Legend of Stalvan (11)" QuestId="80" TurnInName="Clerk Daltry" TurnInId="267" />
+
+<!-- Pick Up: The Legend of Stalvan (12) -->
+<PickUp QuestName="The Legend of Stalvan (12)" QuestId="97" GiverName="Clerk Daltry" GiverId="267" />
+
+<!-- Turn In: The Legend of Stalvan (12) -->
+<TurnIn QuestName="The Legend of Stalvan (12)" QuestId="97" TurnInName="Commander Althea Ebonlocke" TurnInId="264" />
+
+<!-- Pick Up: The Legend of Stalvan (13) -->
+<PickUp QuestName="The Legend of Stalvan (13)" QuestId="98" GiverName="Commander Althea Ebonlocke" GiverId="264" />
+
+<!-- Kill Objective for Quest 173: Nightbane Shadow Weaver -->
+<Objective QuestName="Unknown" QuestId="173" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Worgen in the Woods (1) -->
+<TurnIn QuestName="Worgen in the Woods (1)" QuestId="173" TurnInName="Calor" TurnInId="663" />
+
+<!-- Pick Up: Worgen in the Woods (2) -->
+<PickUp QuestName="Worgen in the Woods (2)" QuestId="221" GiverName="Calor" GiverId="663" />
+
+<!-- Kill Objective for Quest 221: Nightbane Dark Runner -->
+<Objective QuestName="Unknown" QuestId="221" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: Worgen in the Woods (2) -->
+<TurnIn QuestName="Worgen in the Woods (2)" QuestId="221" TurnInName="Calor" TurnInId="663" />
+
+<!-- Pick Up: Worgen in the Woods (3) -->
+<PickUp QuestName="Worgen in the Woods (3)" QuestId="222" GiverName="Calor" GiverId="663" />
+
+<!-- Turn In: Look To The Stars (2) -->
+<TurnIn QuestName="Look To The Stars (2)" QuestId="175" TurnInName="Blind Mary" TurnInId="302" />
+
+<!-- Pick Up: Look To The Stars (3) -->
+<PickUp QuestName="Look To The Stars (3)" QuestId="177" GiverName="Blind Mary" GiverId="302" />
+
+<!-- Kill Objective for Quest 56: Skeletal Warrior -->
+<Objective QuestName="Unknown" QuestId="56" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 56: Skeletal Mage -->
+<Objective QuestName="Unknown" QuestId="56" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 101: Skeleton Finger -->
+<Objective QuestName="Unknown" QuestId="101" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 177: Mary's Looking Glass -->
+<Objective QuestName="Unknown" QuestId="177" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 222: Nightbane Vile Fang -->
+<Objective QuestName="Unknown" QuestId="222" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 222: Nightbane Tainted One -->
+<Objective QuestName="Unknown" QuestId="222" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: The Night Watch (1) -->
+<TurnIn QuestName="The Night Watch (1)" QuestId="56" TurnInName="Commander Althea Ebonlocke" TurnInId="264" />
+
+<!-- Pick Up: The Night Watch (2) -->
+<PickUp QuestName="The Night Watch (2)" QuestId="57" GiverName="Commander Althea Ebonlocke" GiverId="264" />
+
+<!-- Turn In: Worgen in the Woods (3) -->
+<TurnIn QuestName="Worgen in the Woods (3)" QuestId="222" TurnInName="Calor" TurnInId="663" />
+
+<!-- Pick Up: Worgen in the Woods (4) -->
+<PickUp QuestName="Worgen in the Woods (4)" QuestId="223" GiverName="Calor" GiverId="663" />
+
+<!-- Turn In: Worgen in the Woods (4) -->
+<TurnIn QuestName="Worgen in the Woods (4)" QuestId="223" TurnInName="Jonathan Carevin" TurnInId="661" />
+
+<!-- Turn In: Look To The Stars (3) -->
+<TurnIn QuestName="Look To The Stars (3)" QuestId="177" TurnInName="Viktori Prism'Antras" TurnInId="276" />
+
+<!-- Pick Up: Look To The Stars (4) -->
+<PickUp QuestName="Look To The Stars (4)" QuestId="181" GiverName="Viktori Prism'Antras" GiverId="276" />
+
+<!-- Collect Objective for Quest 181: Ogre's Monocle -->
+<Objective QuestName="Unknown" QuestId="181" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Raven Hill -->
+<TurnIn QuestName="Raven Hill" QuestId="163" TurnInName="Jitters" TurnInId="288" />
+
+<!-- Pick Up: Jitters' Growling Gut -->
+<PickUp QuestName="Jitters' Growling Gut" QuestId="5" GiverName="Jitters" GiverId="288" />
+
+<!-- Kill Objective for Quest 57: Skeletal Fiend -->
+<Objective QuestName="Unknown" QuestId="57" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 57: Skeletal Horror -->
+<Objective QuestName="Unknown" QuestId="57" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 101: Vial of Spider Venom -->
+<Objective QuestName="Unknown" QuestId="101" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 101: Ghoul Fang -->
+<Objective QuestName="Unknown" QuestId="101" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: The Hermit -->
+<TurnIn QuestName="The Hermit" QuestId="165" TurnInName="Abercrombie" TurnInId="289" />
+
+<!-- Pick Up: Supplies from Darkshire -->
+<PickUp QuestName="Supplies from Darkshire" QuestId="148" GiverName="Abercrombie" GiverId="289" />
+
+<!-- Pick Up: The Weathered Grave -->
+<PickUp QuestName="The Weathered Grave" QuestId="225" GiverName="Abercrombie" GiverId="289" />
+
+<!-- Turn In: Deliveries to Sven -->
+<TurnIn QuestName="Deliveries to Sven" QuestId="164" TurnInName="Sven Yorgen" TurnInId="311" />
+
+<!-- Pick Up: Sven's Revenge -->
+<PickUp QuestName="Sven's Revenge" QuestId="95" GiverName="Sven Yorgen" GiverId="311" />
+
+<!-- Turn In: Jitters' Growling Gut -->
+<TurnIn QuestName="Jitters' Growling Gut" QuestId="5" TurnInName="Chef Grual" TurnInId="272" />
+
+<!-- Turn In: The Night Watch (2) -->
+<TurnIn QuestName="The Night Watch (2)" QuestId="57" TurnInName="Commander Althea Ebonlocke" TurnInId="264" />
+
+<!-- Pick Up: The Night Watch (3) -->
+<PickUp QuestName="The Night Watch (3)" QuestId="58" GiverName="Commander Althea Ebonlocke" GiverId="264" />
+
+<!-- Turn In: The Weathered Grave -->
+<TurnIn QuestName="The Weathered Grave" QuestId="225" TurnInName="Sirra Von'Indi" TurnInId="268" />
+
+<!-- Pick Up: Morgan Ladimore -->
+<PickUp QuestName="Morgan Ladimore" QuestId="227" GiverName="Sirra Von'Indi" GiverId="268" />
+
+<!-- Turn In: Morgan Ladimore -->
+<TurnIn QuestName="Morgan Ladimore" QuestId="227" TurnInName="Commander Althea Ebonlocke" TurnInId="264" />
+
+<!-- Turn In: The Totem of Infliction -->
+<TurnIn QuestName="The Totem of Infliction" QuestId="101" TurnInName="Madame Eva" TurnInId="265" />
+
+<!-- Turn In: Supplies from Darkshire -->
+<TurnIn QuestName="Supplies from Darkshire" QuestId="148" TurnInName="Madame Eva" TurnInId="265" />
+
+<!-- Pick Up: Ghost Hair Thread -->
+<PickUp QuestName="Ghost Hair Thread" QuestId="149" GiverName="Madame Eva" GiverId="265" />
+
+<!-- Turn In: Look To The Stars (4) -->
+<TurnIn QuestName="Look To The Stars (4)" QuestId="181" TurnInName="Viktori Prism'Antras" TurnInId="276" />
+
+<!-- Turn In: Ghost Hair Thread -->
+<TurnIn QuestName="Ghost Hair Thread" QuestId="149" TurnInName="Blind Mary" TurnInId="302" />
+
+<!-- Pick Up: Return the Comb -->
+<PickUp QuestName="Return the Comb" QuestId="154" GiverName="Blind Mary" GiverId="302" />
+
+<!-- Turn In: Return the Comb -->
+<TurnIn QuestName="Return the Comb" QuestId="154" TurnInName="Madame Eva" TurnInId="265" />
+
+<!-- Pick Up: Deliver the Thread -->
+<PickUp QuestName="Deliver the Thread" QuestId="157" GiverName="Madame Eva" GiverId="265" />
+
+<!-- Turn In: Sven's Revenge -->
+<TurnIn QuestName="Sven's Revenge" QuestId="95" TurnInName="Madame Eva" TurnInId="265" />
+
+<!-- Pick Up: Sven's Camp -->
+<PickUp QuestName="Sven's Camp" QuestId="230" GiverName="Madame Eva" GiverId="265" />
+
+<!-- Turn In: Deliver the Thread -->
+<TurnIn QuestName="Deliver the Thread" QuestId="157" TurnInName="Abercrombie" TurnInId="289" />
+
+<!-- Pick Up: Zombie Juice -->
+<PickUp QuestName="Zombie Juice" QuestId="158" GiverName="Abercrombie" GiverId="289" />
+
+<!-- Kill Objective for Quest 58: Plague Spreader -->
+<Objective QuestName="Unknown" QuestId="58" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Turn In: Sven's Camp -->
+<TurnIn QuestName="Sven's Camp" QuestId="230" TurnInName="Sven Yorgen" TurnInId="311" />
+
+<!-- Pick Up: The Shadowy Figure -->
+<PickUp QuestName="The Shadowy Figure" QuestId="262" GiverName="Sven Yorgen" GiverId="311" />
+
+<!-- Turn In: The Shadowy Figure -->
+<TurnIn QuestName="The Shadowy Figure" QuestId="262" TurnInName="Madame Eva" TurnInId="265" />
+
+<!-- Pick Up: The Shadowy Search Continues -->
+<PickUp QuestName="The Shadowy Search Continues" QuestId="265" GiverName="Madame Eva" GiverId="265" />
+
+<!-- Turn In: The Night Watch (3) -->
+<TurnIn QuestName="The Night Watch (3)" QuestId="58" TurnInName="Commander Althea Ebonlocke" TurnInId="264" />
+
+<!-- Turn In: The Shadowy Search Continues -->
+<TurnIn QuestName="The Shadowy Search Continues" QuestId="265" TurnInName="Clerk Daltry" TurnInId="267" />
+
+<!-- Pick Up: Inquire at the Inn -->
+<PickUp QuestName="Inquire at the Inn" QuestId="266" GiverName="Clerk Daltry" GiverId="267" />
+
+<!-- Turn In: Inquire at the Inn -->
+<TurnIn QuestName="Inquire at the Inn" QuestId="266" TurnInName="Tavernkeep Smitts" TurnInId="273" />
+
+<!-- Pick Up: Finding the Shadowy Figure -->
+<PickUp QuestName="Finding the Shadowy Figure" QuestId="453" GiverName="Tavernkeep Smitts" GiverId="273" />
+
+<!-- Turn In: Zombie Juice -->
+<TurnIn QuestName="Zombie Juice" QuestId="158" TurnInName="Tavernkeep Smitts" TurnInId="273" />
+
+<!-- Pick Up: Gather Rot Blossoms -->
+<PickUp QuestName="Gather Rot Blossoms" QuestId="156" GiverName="Tavernkeep Smitts" GiverId="273" />
+
+<!-- Turn In: Finding the Shadowy Figure -->
+<TurnIn QuestName="Finding the Shadowy Figure" QuestId="453" TurnInName="Jitters" TurnInId="288" />
+
+<!-- Pick Up: Return to Sven -->
+<PickUp QuestName="Return to Sven" QuestId="268" GiverName="Jitters" GiverId="288" />
+
+<!-- Turn In: Return to Sven -->
+<TurnIn QuestName="Return to Sven" QuestId="268" TurnInName="Sven Yorgen" TurnInId="311" />
+
+<!-- Pick Up: Proving Your Worth -->
+<PickUp QuestName="Proving Your Worth" QuestId="323" GiverName="Sven Yorgen" GiverId="311" />
+
+<!-- Kill Objective for Quest 323: Skeletal Raider -->
+<Objective QuestName="Unknown" QuestId="323" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 323: Skeletal Healer -->
+<Objective QuestName="Unknown" QuestId="323" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Kill Objective for Quest 323: Skeletal Warder -->
+<Objective QuestName="Unknown" QuestId="323" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Collect Objective for Quest 156: Rot Blossom -->
+<Objective QuestName="Unknown" QuestId="156" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Proving Your Worth -->
+<TurnIn QuestName="Proving Your Worth" QuestId="323" TurnInName="Sven Yorgen" TurnInId="311" />
+
+<!-- Pick Up: Seeking Wisdom -->
+<PickUp QuestName="Seeking Wisdom" QuestId="269" GiverName="Sven Yorgen" GiverId="311" />
+
+<!-- Turn In: Gather Rot Blossoms -->
+<TurnIn QuestName="Gather Rot Blossoms" QuestId="156" TurnInName="Tavernkeep Smitts" TurnInId="273" />
+
+<!-- Pick Up: Juice Delivery -->
+<PickUp QuestName="Juice Delivery" QuestId="159" GiverName="Tavernkeep Smitts" GiverId="273" />
+
+<!-- Turn In: Seeking Wisdom -->
+<TurnIn QuestName="Seeking Wisdom" QuestId="269" TurnInName="Bishop Farthing" TurnInId="1212" />
+
+<!-- Pick Up: The Doomed Fleet -->
+<PickUp QuestName="The Doomed Fleet" QuestId="270" GiverName="Bishop Farthing" GiverId="1212" />
+
+<!-- Turn In: Juice Delivery -->
+<TurnIn QuestName="Juice Delivery" QuestId="159" TurnInName="Abercrombie" TurnInId="289" />
+
+<!-- Pick Up: Ghoulish Effigy -->
+<PickUp QuestName="Ghoulish Effigy" QuestId="133" GiverName="Abercrombie" GiverId="289" />
+
+<!-- Collect Objective for Quest 133: Ghoul Rib -->
+<Objective QuestName="Unknown" QuestId="133" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: Ghoulish Effigy -->
+<TurnIn QuestName="Ghoulish Effigy" QuestId="133" TurnInName="Abercrombie" TurnInId="289" />
+
+<!-- Pick Up: Ogre Thieves -->
+<PickUp QuestName="Ogre Thieves" QuestId="134" GiverName="Abercrombie" GiverId="289" />
+
+<!-- Collect Objective for Quest 134: Abercrombie's Crate -->
+<Objective QuestName="Unknown" QuestId="134" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ogre Thieves -->
+<TurnIn QuestName="Ogre Thieves" QuestId="134" TurnInName="Abercrombie" TurnInId="289" />
+
+<!-- Pick Up: Note to the Mayor -->
+<PickUp QuestName="Note to the Mayor" QuestId="160" GiverName="Abercrombie" GiverId="289" />
+
+<!-- Turn In: Note to the Mayor -->
+<TurnIn QuestName="Note to the Mayor" QuestId="160" TurnInName="Lord Ello Ebonlocke" TurnInId="263" />
+
+<!-- Pick Up: Translate Abercrombie's Note -->
+<PickUp QuestName="Translate Abercrombie's Note" QuestId="251" GiverName="Lord Ello Ebonlocke" GiverId="263" />
+
+<!-- Turn In: Translate Abercrombie's Note -->
+<TurnIn QuestName="Translate Abercrombie's Note" QuestId="251" TurnInName="Sirra Von'Indi" TurnInId="268" />
+
+<!-- Pick Up: Wait for Sirra to Finish -->
+<PickUp QuestName="Wait for Sirra to Finish" QuestId="401" GiverName="Sirra Von'Indi" GiverId="268" />
+
+<!-- Turn In: Wait for Sirra to Finish -->
+<TurnIn QuestName="Wait for Sirra to Finish" QuestId="401" TurnInName="Sirra Von'Indi" TurnInId="268" />
+
+<!-- Pick Up: Translation to Ello -->
+<PickUp QuestName="Translation to Ello" QuestId="252" GiverName="Sirra Von'Indi" GiverId="268" />
+
+<!-- Turn In: Translation to Ello -->
+<TurnIn QuestName="Translation to Ello" QuestId="252" TurnInName="Lord Ello Ebonlocke" TurnInId="263" />
+
+<!-- Pick Up: Bride of the Embalmer -->
+<PickUp QuestName="Bride of the Embalmer" QuestId="253" GiverName="Lord Ello Ebonlocke" GiverId="263" />
+
+<!-- Pick Up: Digging Through the Dirt -->
+<PickUp QuestName="Digging Through the Dirt" QuestId="254" GiverName="Lord Ello Ebonlocke" GiverId="263" />
+
+<!-- Collect Objective for Quest 253: The Embalmer's Heart -->
+<Objective QuestName="Unknown" QuestId="253" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Bride of the Embalmer -->
+<TurnIn QuestName="Bride of the Embalmer" QuestId="253" TurnInName="Lord Ello Ebonlocke" TurnInId="263" />
+
+</QuestOrder>

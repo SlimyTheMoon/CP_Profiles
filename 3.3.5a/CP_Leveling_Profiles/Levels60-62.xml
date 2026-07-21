@@ -1,0 +1,453 @@
+<QuestOrder>
+
+<!-- Pick Up: Through the Dark Portal -->
+<PickUp QuestName="Through the Dark Portal" QuestId="10119" GiverName="Watch Commander Relthorn Netherwane" GiverId="16841" />
+
+<!-- Turn In: Through the Dark Portal -->
+<TurnIn QuestName="Through the Dark Portal" QuestId="10119" TurnInName="Commander Duron" TurnInId="19229" />
+
+<!-- Pick Up: Arrival in Outland -->
+<PickUp QuestName="Arrival in Outland" QuestId="10288" GiverName="Commander Duron" GiverId="19229" />
+
+<!-- Turn In: Arrival in Outland -->
+<TurnIn QuestName="Arrival in Outland" QuestId="10288" TurnInName="Amish Wildhammer" TurnInId="18931" />
+
+<!-- Pick Up: Journey to Honor Hold -->
+<PickUp QuestName="Journey to Honor Hold" QuestId="10140" GiverName="Amish Wildhammer" GiverId="18931" />
+
+<!-- Turn In: Journey to Honor Hold -->
+<TurnIn QuestName="Journey to Honor Hold" QuestId="10140" TurnInName="Marshal Isildor" TurnInId="19308" />
+
+<!-- Pick Up: Force Commander Danath -->
+<PickUp QuestName="Force Commander Danath" QuestId="10254" GiverName="Marshal Isildor" GiverId="19308" />
+
+<!-- Turn In: Force Commander Danath -->
+<TurnIn QuestName="Force Commander Danath" QuestId="10254" TurnInName="Force Commander Danath Trollbane" TurnInId="16819" />
+
+<!-- Pick Up: The Legion Reborn -->
+<PickUp QuestName="The Legion Reborn" QuestId="10141" GiverName="Force Commander Danath Trollbane" GiverId="16819" />
+
+<!-- Pick Up: Know your Enemy -->
+<PickUp QuestName="Know your Enemy" QuestId="10160" GiverName="Force Commander Danath Trollbane" GiverId="16819" />
+
+<!-- Pick Up: Waste Not, Want Not -->
+<PickUp QuestName="Waste Not, Want Not" QuestId="10055" GiverName="Dumphry" GiverId="21209" />
+
+<!-- Turn In: Know your Enemy -->
+<TurnIn QuestName="Know your Enemy" QuestId="10160" TurnInName="Lieutenant Amadi" TurnInId="16820" />
+
+<!-- Pick Up: Fel Orc Scavengers -->
+<PickUp QuestName="Fel Orc Scavengers" QuestId="10482" GiverName="Lieutenant Amadi" GiverId="16820" />
+
+<!-- Turn In: The Legion Reborn -->
+<TurnIn QuestName="The Legion Reborn" QuestId="10141" TurnInName="Sergeant Altumus" TurnInId="19309" />
+
+<!-- Pick Up: The Path of Anguish -->
+<PickUp QuestName="The Path of Anguish" QuestId="10142" GiverName="Sergeant Altumus" GiverId="19309" />
+
+<!-- Collect Objective for Quest 10055: Salvaged Metal -->
+<Objective QuestName="Unknown" QuestId="10055" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 10055: Salvaged Wood -->
+<Objective QuestName="Unknown" QuestId="10055" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 10482: Bonechewer Orc -->
+<Objective QuestName="Unknown" QuestId="10482" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Kill Objective for Quest 10142: Dreadcaller -->
+<Objective QuestName="Unknown" QuestId="10142" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10142: Flamewaker Imp -->
+<Objective QuestName="Unknown" QuestId="10142" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10142: Infernal Warbringer -->
+<Objective QuestName="Unknown" QuestId="10142" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: The Path of Anguish -->
+<TurnIn QuestName="The Path of Anguish" QuestId="10142" TurnInName="Sergeant Altumus" TurnInId="19309" />
+
+<!-- Pick Up: Expedition Point -->
+<PickUp QuestName="Expedition Point" QuestId="10143" GiverName="Sergeant Altumus" GiverId="19309" />
+
+<!-- Turn In: Waste Not, Want Not -->
+<TurnIn QuestName="Waste Not, Want Not" QuestId="10055" TurnInName="Dumphry" TurnInId="21209" />
+
+<!-- Pick Up: Laying Waste to the Unwanted -->
+<PickUp QuestName="Laying Waste to the Unwanted" QuestId="10078" GiverName="Dumphry" GiverId="21209" />
+
+<!-- Turn In: Fel Orc Scavengers -->
+<TurnIn QuestName="Fel Orc Scavengers" QuestId="10482" TurnInName="Lieutenant Amadi" TurnInId="16820" />
+
+<!-- Pick Up: Ill Omens -->
+<PickUp QuestName="Ill Omens" QuestId="10483" GiverName="Lieutenant Amadi" GiverId="16820" />
+
+<!-- Turn In: Expedition Point -->
+<TurnIn QuestName="Expedition Point" QuestId="10143" TurnInName="Forward Commander Kingston" TurnInId="19310" />
+
+<!-- Pick Up: Disrupt Their Reinforcements -->
+<PickUp QuestName="Disrupt Their Reinforcements" QuestId="10144" GiverName="Forward Commander Kingston" GiverId="19310" />
+
+<!-- Collect Objective for Quest 10144: Demonic Rune Stone -->
+<Objective QuestName="Unknown" QuestId="10144" Type="CollectItem" ItemId="28513" CollectCount="4" />
+
+<!-- Collect Objective for Quest 10144: Demonic Rune Stone -->
+<Objective QuestName="Unknown" QuestId="10144" Type="CollectItem" ItemId="28513" CollectCount="4" />
+
+<!-- Turn In: Disrupt Their Reinforcements -->
+<TurnIn QuestName="Disrupt Their Reinforcements" QuestId="10144" TurnInName="Forward Commander Kingston" TurnInId="19310" />
+
+<!-- Pick Up: Mission: The Murketh and Shaadraz Gateways -->
+<PickUp QuestName="Mission: The Murketh and Shaadraz Gateways" QuestId="10146" GiverName="Forward Commander Kingston" GiverId="19310" />
+
+<!-- Turn In: Mission: The Murketh and Shaadraz Gateways -->
+<TurnIn QuestName="Mission: The Murketh and Shaadraz Gateways" QuestId="10146" TurnInName="Forward Commander Kingston" TurnInId="19310" />
+
+<!-- Pick Up: Shatter Point -->
+<PickUp QuestName="Shatter Point" QuestId="10340" GiverName="Forward Commander Kingston" GiverId="19310" />
+
+<!-- Turn In: Shatter Point -->
+<TurnIn QuestName="Shatter Point" QuestId="10340" TurnInName="Runetog Wildhammer" TurnInId="20234" />
+
+<!-- Pick Up: Wing Commander Gryphongar -->
+<PickUp QuestName="Wing Commander Gryphongar" QuestId="10344" GiverName="Runetog Wildhammer" GiverId="20234" />
+
+<!-- Turn In: Wing Commander Gryphongar -->
+<TurnIn QuestName="Wing Commander Gryphongar" QuestId="10344" TurnInName="Wing Commander Gryphongar" TurnInId="20232" />
+
+<!-- Pick Up: Mission: The Abyssal Shelf -->
+<PickUp QuestName="Mission: The Abyssal Shelf" QuestId="10163" GiverName="Wing Commander Gryphongar" GiverId="20232" />
+
+<!-- Turn In: Mission: The Abyssal Shelf -->
+<TurnIn QuestName="Mission: The Abyssal Shelf" QuestId="10163" TurnInName="Wing Commander Gryphongar" TurnInId="20232" />
+
+<!-- Pick Up: Go to the Front -->
+<PickUp QuestName="Go to the Front" QuestId="10382" GiverName="Wing Commander Gryphongar" GiverId="20232" />
+
+<!-- Turn In: Go to the Front -->
+<TurnIn QuestName="Go to the Front" QuestId="10382" TurnInName="Field Marshal Brock" TurnInId="20793" />
+
+<!-- Pick Up: An Old Gift -->
+<PickUp QuestName="An Old Gift" QuestId="10058" GiverName="Father Malgor Devidicus" GiverId="16825" />
+
+<!-- Pick Up: The Longbeards -->
+<PickUp QuestName="The Longbeards" QuestId="9558" GiverName="Sid Limbardi" GiverId="16826" />
+
+<!-- Pick Up: The Path of Glory -->
+<PickUp QuestName="The Path of Glory" QuestId="10047" GiverName="Warp-Scryer Kryv" GiverId="16839" />
+
+<!-- Pick Up: Unyielding Souls -->
+<PickUp QuestName="Unyielding Souls" QuestId="10050" GiverName="Honor Guard Wesilow" GiverId="16827" />
+
+<!-- Pick Up: A Job for an Intelligent Man -->
+<PickUp QuestName="A Job for an Intelligent Man" QuestId="9355" GiverName="Foreman Biggums" GiverId="16837" />
+
+<!-- Pick Up: When This Mine's a-Rockin' -->
+<PickUp QuestName="When This Mine's a-Rockin'" QuestId="10079" GiverName="Foreman Biggums" GiverId="16837" />
+
+<!-- Kill Objective for Quest 10079: Gan'arg Sapper -->
+<Objective QuestName="Unknown" QuestId="10079" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: When This Mine's a-Rockin' -->
+<TurnIn QuestName="When This Mine's a-Rockin'" QuestId="10079" TurnInName="Foreman Biggums" TurnInId="16837" />
+
+<!-- Pick Up: The Mastermind -->
+<PickUp QuestName="The Mastermind" QuestId="10099" GiverName="Foreman Biggums" GiverId="16837" />
+
+<!-- Kill Objective for Quest 10099: Z'kral -->
+<Objective QuestName="Unknown" QuestId="10099" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: The Mastermind -->
+<TurnIn QuestName="The Mastermind" QuestId="10099" TurnInName="Foreman Biggums" TurnInId="16837" />
+
+<!-- Collect Objective for Quest 10483: Cursed Talisman -->
+<Objective QuestName="Unknown" QuestId="10483" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ill Omens -->
+<TurnIn QuestName="Ill Omens" QuestId="10483" TurnInName="Corporal Ironridge" TurnInId="21133" />
+
+<!-- Pick Up: Cursed Talismans -->
+<PickUp QuestName="Cursed Talismans" QuestId="10484" GiverName="Corporal Ironridge" GiverId="21133" />
+
+<!-- Collect Objective for Quest 10058: Mysteries of the Light -->
+<Objective QuestName="Unknown" QuestId="10058" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 10050: Unyielding Sorcerer -->
+<Objective QuestName="Unknown" QuestId="10050" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 10050: Unyielding Knight -->
+<Objective QuestName="Unknown" QuestId="10050" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 10050: Unyielding Footman -->
+<Objective QuestName="Unknown" QuestId="10050" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Pick Up: In Case of Emergency... -->
+<PickUp QuestName="In Case of Emergency..." QuestId="10161" GiverName="&quot;Screaming&quot; Screed Luckheed" GiverId="19367" />
+
+<!-- Pick Up: Ravager Egg Roundup -->
+<PickUp QuestName="Ravager Egg Roundup" QuestId="9349" GiverName="Legassi" GiverId="19344" />
+
+<!-- Collect Objective for Quest 9349: Ravager Egg -->
+<Objective QuestName="Unknown" QuestId="9349" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Ravager Egg Roundup -->
+<TurnIn QuestName="Ravager Egg Roundup" QuestId="9349" TurnInName="Legassi" TurnInId="19344" />
+
+<!-- Pick Up: Helboar, the Other White Meat -->
+<PickUp QuestName="Helboar, the Other White Meat" QuestId="9361" GiverName="Legassi" GiverId="19344" />
+
+<!-- Collect Objective for Quest 9361: Purified Helboar Meat -->
+<Objective QuestName="Unknown" QuestId="9361" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Helboar, the Other White Meat -->
+<TurnIn QuestName="Helboar, the Other White Meat" QuestId="9361" TurnInName="Legassi" TurnInId="19344" />
+
+<!-- Pick Up: Smooth as Butter -->
+<PickUp QuestName="Smooth as Butter" QuestId="9356" GiverName="Legassi" GiverId="19344" />
+
+<!-- Collect Objective for Quest 9356: Plump Buzzard Wing -->
+<Objective QuestName="Unknown" QuestId="9356" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Collect Objective for Quest 10161: Zeppelin Debris -->
+<Objective QuestName="Unknown" QuestId="10161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Turn In: In Case of Emergency... -->
+<TurnIn QuestName="In Case of Emergency..." QuestId="10161" TurnInName="&quot;Screaming&quot; Screed Luckheed" TurnInId="19367" />
+
+<!-- Pick Up: Voidwalkers Gone Wild -->
+<PickUp QuestName="Voidwalkers Gone Wild" QuestId="9351" GiverName="&quot;Screaming&quot; Screed Luckheed" GiverId="19367" />
+
+<!-- Turn In: Smooth as Butter -->
+<TurnIn QuestName="Smooth as Butter" QuestId="9356" TurnInName="Legassi" TurnInId="19344" />
+
+<!-- Kill Objective for Quest 9355: Marauding Crust Burster -->
+<Objective QuestName="Unknown" QuestId="9355" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Pick Up: Missing Missive -->
+<PickUp QuestName="Missing Missive" QuestId="9373" GiverName="Legassi" GiverId="19344" />
+
+<!-- Turn In: A Job for an Intelligent Man -->
+<TurnIn QuestName="A Job for an Intelligent Man" QuestId="9355" TurnInName="Foreman Biggums" TurnInId="16837" />
+
+<!-- Turn In: Laying Waste to the Unwanted -->
+<TurnIn QuestName="Laying Waste to the Unwanted" QuestId="10078" TurnInName="Dumphry" TurnInId="21209" />
+
+<!-- Turn In: Unyielding Souls -->
+<TurnIn QuestName="Unyielding Souls" QuestId="10050" TurnInName="Honor Guard Wesilow" TurnInId="16827" />
+
+<!-- Pick Up: Looking to the Leadership -->
+<PickUp QuestName="Looking to the Leadership" QuestId="10057" GiverName="Honor Guard Wesilow" GiverId="16827" />
+
+<!-- Turn In: An Old Gift -->
+<TurnIn QuestName="An Old Gift" QuestId="10058" TurnInName="Father Malgor Devidicus" TurnInId="16825" />
+
+<!-- Turn In: The Path of Glory -->
+<TurnIn QuestName="The Path of Glory" QuestId="10047" TurnInName="Warp-Scryer Kryv" TurnInId="16839" />
+
+<!-- Pick Up: The Temple of Telhamat -->
+<PickUp QuestName="The Temple of Telhamat" QuestId="10093" GiverName="Warp-Scryer Kryv" GiverId="16839" />
+
+<!-- Pick Up: In Search of Sedai -->
+<PickUp QuestName="In Search of Sedai" QuestId="9390" GiverName="Anchorite Obadei" GiverId="16834" />
+
+<!-- Pick Up: Cruel Taskmasters -->
+<PickUp QuestName="Cruel Taskmasters" QuestId="9399" GiverName="Ikan" GiverId="16799" />
+
+<!-- Pick Up: Deadly Predators -->
+<PickUp QuestName="Deadly Predators" QuestId="9398" GiverName="Scout Vanura" GiverId="16797" />
+
+<!-- Turn In: The Temple of Telhamat -->
+<TurnIn QuestName="The Temple of Telhamat" QuestId="10093" TurnInName="Amaan the Wise" TurnInId="16796" />
+
+<!-- Pick Up: The Pools of Aggonar -->
+<PickUp QuestName="The Pools of Aggonar" QuestId="9426" GiverName="Amaan the Wise" GiverId="16796" />
+
+<!-- Turn In: In Search of Sedai -->
+<TurnIn QuestName="In Search of Sedai" QuestId="9390" TurnInName="Kuma" TurnInId="18785" />
+
+<!-- Pick Up: Return to Obadei -->
+<PickUp QuestName="Return to Obadei" QuestId="9423" GiverName="Kuma" GiverId="18785" />
+
+<!-- Turn In: Return to Obadei -->
+<TurnIn QuestName="Return to Obadei" QuestId="9423" TurnInName="Anchorite Obadei" TurnInId="16834" />
+
+<!-- Pick Up: Makuru's Vengeance -->
+<PickUp QuestName="Makuru's Vengeance" QuestId="9424" GiverName="Makuru" GiverId="16833" />
+
+<!-- Collect Objective for Quest 9424: Mag'har Ancestral Beads -->
+<Objective QuestName="Unknown" QuestId="9424" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9426: Terrorfiend -->
+<Objective QuestName="Unknown" QuestId="9426" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9426: Blistering Rot -->
+<Objective QuestName="Unknown" QuestId="9426" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Makuru's Vengeance -->
+<TurnIn QuestName="Makuru's Vengeance" QuestId="9424" TurnInName="Makuru" TurnInId="16833" />
+
+<!-- Pick Up: Atonement -->
+<PickUp QuestName="Atonement" QuestId="9543" GiverName="Anchorite Obadei" GiverId="16834" />
+
+<!-- Turn In: Atonement -->
+<TurnIn QuestName="Atonement" QuestId="9543" TurnInName="Amaan the Wise" TurnInId="16796" />
+
+<!-- Pick Up: Sha'naar Relics -->
+<PickUp QuestName="Sha'naar Relics" QuestId="9430" GiverName="Amaan the Wise" GiverId="16796" />
+
+<!-- Turn In: The Pools of Aggonar -->
+<TurnIn QuestName="The Pools of Aggonar" QuestId="9426" TurnInName="Amaan the Wise" TurnInId="16796" />
+
+<!-- Pick Up: Cleansing the Waters -->
+<PickUp QuestName="Cleansing the Waters" QuestId="9427" GiverName="Amaan the Wise" GiverId="16796" />
+
+<!-- Pick Up: Helping the Cenarion Post -->
+<PickUp QuestName="Helping the Cenarion Post" QuestId="10443" GiverName="Amaan the Wise" GiverId="16796" />
+
+<!-- Pick Up: An Ambitious Plan -->
+<PickUp QuestName="An Ambitious Plan" QuestId="9383" GiverName="Elsaana" GiverId="17006" />
+
+<!-- Turn In: Cleansing the Waters -->
+<TurnIn QuestName="Cleansing the Waters" QuestId="9427" TurnInName="Amaan the Wise" TurnInId="16796" />
+
+<!-- Turn In: Missing Missive -->
+<TurnIn QuestName="Missing Missive" QuestId="9373" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Turn In: Helping the Cenarion Post -->
+<TurnIn QuestName="Helping the Cenarion Post" QuestId="10443" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Pick Up: Demonic Contamination -->
+<PickUp QuestName="Demonic Contamination" QuestId="9372" GiverName="Thiah Redmane" GiverId="16991" />
+
+<!-- Collect Objective for Quest 9372: Helboar Blood Sample -->
+<Objective QuestName="Unknown" QuestId="9372" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Demonic Contamination -->
+<TurnIn QuestName="Demonic Contamination" QuestId="9372" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Pick Up: Testing the Antidote -->
+<PickUp QuestName="Testing the Antidote" QuestId="10255" GiverName="Thiah Redmane" GiverId="16991" />
+
+<!-- Turn In: Testing the Antidote -->
+<TurnIn QuestName="Testing the Antidote" QuestId="10255" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Kill Objective for Quest 9399: Illidari Taskmaster -->
+<Objective QuestName="Unknown" QuestId="9399" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Collect Objective for Quest 9430: Sha'naar Relic -->
+<Objective QuestName="Unknown" QuestId="9430" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Pick Up: Naladu -->
+<PickUp QuestName="Naladu" QuestId="10403" GiverName="Akoru the Firecaller" GiverId="20678" />
+
+<!-- Turn In: Naladu -->
+<TurnIn QuestName="Naladu" QuestId="10403" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Pick Up: A Traitor Among Us -->
+<PickUp QuestName="A Traitor Among Us" QuestId="10367" GiverName="Naladu" GiverId="19361" />
+
+<!-- Collect Objective for Quest 10367: Sha'naar Key -->
+<Objective QuestName="Unknown" QuestId="10367" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Traitor Among Us -->
+<TurnIn QuestName="A Traitor Among Us" QuestId="10367" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Pick Up: The Dreghood Elders -->
+<PickUp QuestName="The Dreghood Elders" QuestId="10368" GiverName="Naladu" GiverId="19361" />
+
+<!-- Turn In: The Dreghood Elders -->
+<TurnIn QuestName="The Dreghood Elders" QuestId="10368" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Pick Up: Arzeth's Demise -->
+<PickUp QuestName="Arzeth's Demise" QuestId="10369" GiverName="Naladu" GiverId="19361" />
+
+<!-- Kill Objective for Quest 10369: Arzeth the Powerless -->
+<Objective QuestName="Unknown" QuestId="10369" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Arzeth's Demise -->
+<TurnIn QuestName="Arzeth's Demise" QuestId="10369" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Turn In: The Longbeards -->
+<TurnIn QuestName="The Longbeards" QuestId="9558" TurnInName="Gremni Longbeard" TurnInId="16850" />
+
+<!-- Pick Up: The Arakkoa Threat -->
+<PickUp QuestName="The Arakkoa Threat" QuestId="9417" GiverName="Gremni Longbeard" GiverId="16850" />
+
+<!-- Pick Up: Rampaging Ravagers -->
+<PickUp QuestName="Rampaging Ravagers" QuestId="9385" GiverName="Gremni Longbeard" GiverId="16850" />
+
+<!-- Pick Up: Gaining Mirren's Trust -->
+<PickUp QuestName="Gaining Mirren's Trust" QuestId="9563" GiverName="Mirren Longbeard" GiverId="16851" />
+
+<!-- Turn In: Gaining Mirren's Trust -->
+<TurnIn QuestName="Gaining Mirren's Trust" QuestId="9563" TurnInName="Mirren Longbeard" TurnInId="16851" />
+
+<!-- Pick Up: The Finest Down -->
+<PickUp QuestName="The Finest Down" QuestId="9420" GiverName="Mirren Longbeard" GiverId="16851" />
+
+<!-- Kill Objective for Quest 9417: Haal'eshi Windwalker -->
+<Objective QuestName="Unknown" QuestId="9417" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 9417: Haal'eshi Talonguard -->
+<Objective QuestName="Unknown" QuestId="9417" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 9420: Kaliri Feather -->
+<Objective QuestName="Unknown" QuestId="9420" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Pick Up: Avruu's Orb -->
+<PickUp QuestName="Avruu's Orb" QuestId="9418" GiverName="Mirren Longbeard" GiverId="16851" />
+
+<!-- Turn In: Avruu's Orb -->
+<TurnIn QuestName="Avruu's Orb" QuestId="9418" TurnInName="Aeranas" TurnInId="17085" />
+
+<!-- Turn In: The Arakkoa Threat -->
+<TurnIn QuestName="The Arakkoa Threat" QuestId="9417" TurnInName="Gremni Longbeard" TurnInId="16850" />
+
+<!-- Turn In: The Finest Down -->
+<TurnIn QuestName="The Finest Down" QuestId="9420" TurnInName="Mirren Longbeard" TurnInId="16851" />
+
+<!-- Kill Objective for Quest 9385: Quillfang Ravager -->
+<Objective QuestName="Unknown" QuestId="9385" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Rampaging Ravagers -->
+<TurnIn QuestName="Rampaging Ravagers" QuestId="9385" TurnInName="Gremni Longbeard" TurnInId="16850" />
+
+<!-- Kill Objective for Quest 9398: Stonescythe Whelp -->
+<Objective QuestName="Unknown" QuestId="9398" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9398: Stonescythe Alpha -->
+<Objective QuestName="Unknown" QuestId="9398" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Collect Objective for Quest 9351: Condensed Voidwalker Essence -->
+<Objective QuestName="Unknown" QuestId="9351" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 9383: Glowing Sanctified Crystal -->
+<Objective QuestName="Unknown" QuestId="9383" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 10057: Arch Mage Xintor -->
+<Objective QuestName="Unknown" QuestId="10057" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10057: Lieutenant Commander Thalvos -->
+<Objective QuestName="Unknown" QuestId="10057" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Voidwalkers Gone Wild -->
+<TurnIn QuestName="Voidwalkers Gone Wild" QuestId="9351" TurnInName="&quot;Screaming&quot; Screed Luckheed" TurnInId="19367" />
+
+<!-- Turn In: Sha'naar Relics -->
+<TurnIn QuestName="Sha'naar Relics" QuestId="9430" TurnInName="Amaan the Wise" TurnInId="16796" />
+
+<!-- Pick Up: The Seer's Relic -->
+<PickUp QuestName="The Seer's Relic" QuestId="9545" GiverName="Amaan the Wise" GiverId="16796" />
+
+<!-- Turn In: An Ambitious Plan -->
+<TurnIn QuestName="An Ambitious Plan" QuestId="9383" TurnInName="Elsaana" TurnInId="17006" />
+
+<!-- Turn In: Deadly Predators -->
+<TurnIn QuestName="Deadly Predators" QuestId="9398" TurnInName="Scout Vanura" TurnInId="16797" />
+
+<!-- Turn In: Cruel Taskmasters -->
+<TurnIn QuestName="Cruel Taskmasters" QuestId="9399" TurnInName="Ikan" TurnInId="16799" />
+
+<!-- Turn In: The Seer's Relic -->
+<TurnIn QuestName="The Seer's Relic" QuestId="9545" TurnInName="Amaan the Wise" TurnInId="16796" />
+
+</QuestOrder>

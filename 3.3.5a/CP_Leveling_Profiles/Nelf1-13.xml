@@ -1,0 +1,641 @@
+<QuestOrder>
+
+<!-- Pick Up: The Balance of Nature (1) -->
+<PickUp QuestName="The Balance of Nature (1)" QuestId="456" GiverName="Conservator Ilthalaine" GiverId="2079" />
+
+<!-- Kill Objective for Quest 456: Young Nightsaber -->
+<Objective QuestName="Unknown" QuestId="456" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 456: Young Thistle Boar -->
+<Objective QuestName="Unknown" QuestId="456" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Balance of Nature (1) -->
+  <TurnIn QuestName="The Balance of Nature (1)" QuestId="456" TurnInName="Conservator Ilthalaine" TurnInId="2079" />
+  <!-- Pick Up: The Balance of Nature (2) -->
+  <PickUp QuestName="The Balance of Nature (2)" QuestId="457" GiverName="Conservator Ilthalaine" GiverId="2079" />
+  <!-- Pick Up: Simple Sigil -->
+  <PickUp QuestName="Simple Sigil" QuestId="3116" GiverName="Conservator Ilthalaine" GiverId="2079" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: The Balance of Nature (1) -->
+  <TurnIn QuestName="The Balance of Nature (1)" QuestId="456" TurnInName="Conservator Ilthalaine" TurnInId="2079" />
+  <!-- Pick Up: The Balance of Nature (2) -->
+  <PickUp QuestName="The Balance of Nature (2)" QuestId="457" GiverName="Conservator Ilthalaine" GiverId="2079" />
+  <!-- Pick Up: Encrypted Sigil -->
+  <PickUp QuestName="Encrypted Sigil" QuestId="3118" GiverName="Conservator Ilthalaine" GiverId="2079" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Priest)">
+  <!-- Turn In: The Balance of Nature (1) -->
+  <TurnIn QuestName="The Balance of Nature (1)" QuestId="456" TurnInName="Conservator Ilthalaine" TurnInId="2079" />
+  <!-- Pick Up: The Balance of Nature (2) -->
+  <PickUp QuestName="The Balance of Nature (2)" QuestId="457" GiverName="Conservator Ilthalaine" GiverId="2079" />
+  <!-- Pick Up: Hallowed Sigil -->
+  <PickUp QuestName="Hallowed Sigil" QuestId="3119" GiverName="Conservator Ilthalaine" GiverId="2079" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: The Balance of Nature (1) -->
+  <TurnIn QuestName="The Balance of Nature (1)" QuestId="456" TurnInName="Conservator Ilthalaine" TurnInId="2079" />
+  <!-- Pick Up: The Balance of Nature (2) -->
+  <PickUp QuestName="The Balance of Nature (2)" QuestId="457" GiverName="Conservator Ilthalaine" GiverId="2079" />
+  <!-- Pick Up: Etched Sigil -->
+  <PickUp QuestName="Etched Sigil" QuestId="3117" GiverName="Conservator Ilthalaine" GiverId="2079" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: The Balance of Nature (1) -->
+  <TurnIn QuestName="The Balance of Nature (1)" QuestId="456" TurnInName="Conservator Ilthalaine" TurnInId="2079" />
+  <!-- Pick Up: The Balance of Nature (2) -->
+  <PickUp QuestName="The Balance of Nature (2)" QuestId="457" GiverName="Conservator Ilthalaine" GiverId="2079" />
+  <!-- Pick Up: Verdant Sigil -->
+  <PickUp QuestName="Verdant Sigil" QuestId="3120" GiverName="Conservator Ilthalaine" GiverId="2079" />
+</If>
+
+<!-- Pick Up: The Woodland Protector (1) -->
+<PickUp QuestName="The Woodland Protector (1)" QuestId="458" GiverName="Melithar Staghelm" GiverId="2077" />
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Simple Sigil -->
+  <TurnIn QuestName="Simple Sigil" QuestId="3116" TurnInName="Alyissia" TurnInId="3593" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: Encrypted Sigil -->
+  <TurnIn QuestName="Encrypted Sigil" QuestId="3118" TurnInName="Frahun Shadewhisper" TurnInId="3594" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Priest)">
+  <!-- Turn In: Hallowed Sigil -->
+  <TurnIn QuestName="Hallowed Sigil" QuestId="3119" TurnInName="Shanda" TurnInId="3595" />
+</If>
+
+<!-- Pick Up: A Good Friend -->
+<PickUp QuestName="A Good Friend" QuestId="4495" GiverName="Dirania Silvershine" GiverId="8583" />
+
+<!-- Turn In: The Woodland Protector (1) -->
+<TurnIn QuestName="The Woodland Protector (1)" QuestId="458" TurnInName="Tarindrella" TurnInId="1992" />
+
+<!-- Pick Up: The Woodland Protector (2) -->
+<PickUp QuestName="The Woodland Protector (2)" QuestId="459" GiverName="Tarindrella" GiverId="1992" />
+
+<!-- Collect Objective for Quest 459: Fel Moss -->
+<Objective QuestName="Unknown" QuestId="459" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: The Woodland Protector (2) -->
+<TurnIn QuestName="The Woodland Protector (2)" QuestId="459" TurnInName="Tarindrella" TurnInId="1992" />
+
+<!-- Pick Up: Webwood Venom -->
+<PickUp QuestName="Webwood Venom" QuestId="916" GiverName="Gilshalan Windwalker" GiverId="2082" />
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Etched Sigil -->
+  <TurnIn QuestName="Etched Sigil" QuestId="3117" TurnInName="Ayanna Everstride" TurnInId="3596" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Verdant Sigil -->
+  <TurnIn QuestName="Verdant Sigil" QuestId="3120" TurnInName="Mardant Strongoak" TurnInId="3597" />
+</If>
+
+<!-- Kill Objective for Quest 457: Mangy Nightsaber -->
+<Objective QuestName="Unknown" QuestId="457" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 457: Thistle Boar -->
+<Objective QuestName="Unknown" QuestId="457" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Collect Objective for Quest 916: Webwood Venom Sac -->
+<Objective QuestName="Unknown" QuestId="916" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: A Good Friend -->
+<TurnIn QuestName="A Good Friend" QuestId="4495" TurnInName="Iverron" TurnInId="8584" />
+
+<!-- Pick Up: A Friend in Need -->
+<PickUp QuestName="A Friend in Need" QuestId="3519" GiverName="Iverron" GiverId="8584" />
+
+<!-- Turn In: Webwood Venom -->
+<TurnIn QuestName="Webwood Venom" QuestId="916" TurnInName="Gilshalan Windwalker" TurnInId="2082" />
+
+<!-- Pick Up: Webwood Egg -->
+<PickUp QuestName="Webwood Egg" QuestId="917" GiverName="Gilshalan Windwalker" GiverId="2082" />
+
+<!-- Turn In: The Balance of Nature (2) -->
+<TurnIn QuestName="The Balance of Nature (2)" QuestId="457" TurnInName="Conservator Ilthalaine" TurnInId="2079" />
+
+<!-- Turn In: A Friend in Need -->
+<TurnIn QuestName="A Friend in Need" QuestId="3519" TurnInName="Dirania Silvershine" TurnInId="8583" />
+
+<!-- Pick Up: Iverron's Antidote (1) -->
+<PickUp QuestName="Iverron's Antidote (1)" QuestId="3521" GiverName="Dirania Silvershine" GiverId="8583" />
+
+<!-- Collect Objective for Quest 3521: Hyacinth Mushroom -->
+<Objective QuestName="Unknown" QuestId="3521" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 3521: Moonpetal Lily -->
+<Objective QuestName="Unknown" QuestId="3521" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 3521: Webwood Ichor -->
+<Objective QuestName="Unknown" QuestId="3521" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 917: Webwood Egg -->
+<Objective QuestName="Unknown" QuestId="917" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Webwood Egg -->
+<TurnIn QuestName="Webwood Egg" QuestId="917" TurnInName="Gilshalan Windwalker" TurnInId="2082" />
+
+<!-- Pick Up: Tenaron's Summons -->
+<PickUp QuestName="Tenaron's Summons" QuestId="920" GiverName="Gilshalan Windwalker" GiverId="2082" />
+
+<!-- Turn In: Tenaron's Summons -->
+<TurnIn QuestName="Tenaron's Summons" QuestId="920" TurnInName="Tenaron Stormgrip" TurnInId="3514" />
+
+<!-- Pick Up: Crown of the Earth (1) -->
+<PickUp QuestName="Crown of the Earth (1)" QuestId="921" GiverName="Tenaron Stormgrip" GiverId="3514" />
+
+<!-- Turn In: Iverron's Antidote (1) -->
+<TurnIn QuestName="Iverron's Antidote (1)" QuestId="3521" TurnInName="Dirania Silvershine" TurnInId="8583" />
+
+<!-- Pick Up: Iverron's Antidote (2) -->
+<PickUp QuestName="Iverron's Antidote (2)" QuestId="3522" GiverName="Dirania Silvershine" GiverId="8583" />
+
+<!-- Turn In: Iverron's Antidote (2) -->
+<TurnIn QuestName="Iverron's Antidote (2)" QuestId="3522" TurnInName="Iverron" TurnInId="8584" />
+
+<!-- Collect Objective for Quest 921: Filled Crystal Phial -->
+<Objective QuestName="Unknown" QuestId="921" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Crown of the Earth (1) -->
+<TurnIn QuestName="Crown of the Earth (1)" QuestId="921" TurnInName="Tenaron Stormgrip" TurnInId="3514" />
+
+<!-- Pick Up: Crown of the Earth (2) -->
+<PickUp QuestName="Crown of the Earth (2)" QuestId="928" GiverName="Tenaron Stormgrip" GiverId="3514" />
+
+<!-- Pick Up: Dolanaar Delivery -->
+<PickUp QuestName="Dolanaar Delivery" QuestId="2159" GiverName="Porthannius" GiverId="6780" />
+
+<!-- Pick Up: Zenn's Bidding -->
+<PickUp QuestName="Zenn's Bidding" QuestId="488" GiverName="Zenn Foulhoof" GiverId="2150" />
+
+<!-- Collect Objective for Quest 488: Strigid Owl Feather -->
+<Objective QuestName="Unknown" QuestId="488" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 488: Webwood Spider Silk -->
+<Objective QuestName="Unknown" QuestId="488" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 488: Nightsaber Fang -->
+<Objective QuestName="Unknown" QuestId="488" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Zenn's Bidding -->
+<TurnIn QuestName="Zenn's Bidding" QuestId="488" TurnInName="Zenn Foulhoof" TurnInId="2150" />
+
+<!-- Pick Up: Seek Redemption! -->
+<PickUp QuestName="Seek Redemption!" QuestId="489" GiverName="Syral Bladeleaf" GiverId="2083" />
+
+<!-- Pick Up: Denalan's Earth -->
+<PickUp QuestName="Denalan's Earth" QuestId="997" GiverName="Syral Bladeleaf" GiverId="2083" />
+
+<!-- Pick Up: A Troubling Breeze -->
+<PickUp QuestName="A Troubling Breeze" QuestId="475" GiverName="Athridas Bearmantle" GiverId="2078" />
+
+<!-- Pick Up: The Emerald Dreamcatcher -->
+<PickUp QuestName="The Emerald Dreamcatcher" QuestId="2438" GiverName="Tallonkai Swiftroot" GiverId="3567" />
+
+<!-- Pick Up: Twisted Hatred -->
+<PickUp QuestName="Twisted Hatred" QuestId="932" GiverName="Tallonkai Swiftroot" GiverId="3567" />
+
+<!-- Turn In: Dolanaar Delivery -->
+<TurnIn QuestName="Dolanaar Delivery" QuestId="2159" TurnInName="Innkeeper Keldamyr" TurnInId="6736" />
+
+<!-- Turn In: Crown of the Earth (2) -->
+<TurnIn QuestName="Crown of the Earth (2)" QuestId="928" TurnInName="Corithras Moonrage" TurnInId="3515" />
+
+<!-- Pick Up: Crown of the Earth (3) -->
+<PickUp QuestName="Crown of the Earth (3)" QuestId="929" GiverName="Corithras Moonrage" GiverId="3515" />
+
+<!-- Collect Objective for Quest 929: Filled Jade Phial -->
+<Objective QuestName="Unknown" QuestId="929" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Troubling Breeze -->
+<TurnIn QuestName="A Troubling Breeze" QuestId="475" TurnInName="Gaerolas Talvethren" TurnInId="2107" />
+
+<!-- Pick Up: Gnarlpine Corruption -->
+<PickUp QuestName="Gnarlpine Corruption" QuestId="476" GiverName="Gaerolas Talvethren" GiverId="2107" />
+
+<!-- Collect Objective for Quest 2438: Emerald Dreamcatcher -->
+<Objective QuestName="Unknown" QuestId="2438" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 489: Fel Cone -->
+<Objective QuestName="Unknown" QuestId="489" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Gnarlpine Corruption -->
+<TurnIn QuestName="Gnarlpine Corruption" QuestId="476" TurnInName="Athridas Bearmantle" TurnInId="2078" />
+
+<!-- Pick Up: The Relics of Wakening -->
+<PickUp QuestName="The Relics of Wakening" QuestId="483" GiverName="Athridas Bearmantle" GiverId="2078" />
+
+<!-- Turn In: The Emerald Dreamcatcher -->
+<TurnIn QuestName="The Emerald Dreamcatcher" QuestId="2438" TurnInName="Tallonkai Swiftroot" TurnInId="3567" />
+
+<!-- Pick Up: Ferocitas the Dream Eater -->
+<PickUp QuestName="Ferocitas the Dream Eater" QuestId="2459" GiverName="Tallonkai Swiftroot" GiverId="3567" />
+
+<!-- Turn In: Crown of the Earth (3) -->
+<TurnIn QuestName="Crown of the Earth (3)" QuestId="929" TurnInName="Corithras Moonrage" TurnInId="3515" />
+
+<!-- Pick Up: Crown of the Earth (4) -->
+<PickUp QuestName="Crown of the Earth (4)" QuestId="933" GiverName="Corithras Moonrage" GiverId="3515" />
+
+<!-- Turn In: Seek Redemption! -->
+<TurnIn QuestName="Seek Redemption!" QuestId="489" TurnInName="Zenn Foulhoof" TurnInId="2150" />
+
+<!-- Turn In: Denalan's Earth -->
+<TurnIn QuestName="Denalan's Earth" QuestId="997" TurnInName="Denalan" TurnInId="2080" />
+
+<!-- Pick Up: Timberling Seeds -->
+<PickUp QuestName="Timberling Seeds" QuestId="918" GiverName="Denalan" GiverId="2080" />
+
+<!-- Pick Up: Timberling Sprouts -->
+<PickUp QuestName="Timberling Sprouts" QuestId="919" GiverName="Denalan" GiverId="2080" />
+
+<!-- Collect Objective for Quest 918: Timberling Seed -->
+<Objective QuestName="Unknown" QuestId="918" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 919: Timberling Sprout -->
+<Objective QuestName="Unknown" QuestId="919" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Timberling Seeds -->
+<TurnIn QuestName="Timberling Seeds" QuestId="918" TurnInName="Denalan" TurnInId="2080" />
+
+<!-- Pick Up: Rellian Greenspyre -->
+<PickUp QuestName="Rellian Greenspyre" QuestId="922" GiverName="Denalan" GiverId="2080" />
+
+<!-- Turn In: Timberling Sprouts -->
+<TurnIn QuestName="Timberling Sprouts" QuestId="919" TurnInName="Denalan" TurnInId="2080" />
+
+<!-- Kill Objective for Quest 2459: Gnarlpine Mystic -->
+<Objective QuestName="Unknown" QuestId="2459" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Collect Objective for Quest 2459: Tallonkai's Jewel -->
+<Objective QuestName="Unknown" QuestId="2459" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ferocitas the Dream Eater -->
+<TurnIn QuestName="Ferocitas the Dream Eater" QuestId="2459" TurnInName="Tallonkai Swiftroot" TurnInId="3567" />
+
+<!-- Pick Up: The Road to Darnassus -->
+<PickUp QuestName="The Road to Darnassus" QuestId="487" GiverName="Moon Priestess Amara" GiverId="2151" />
+
+<!-- Kill Objective for Quest 487: Gnarlpine Ambusher -->
+<Objective QuestName="Unknown" QuestId="487" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 483: Black Feather Quill -->
+<Objective QuestName="Unknown" QuestId="483" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 483: Rune of Nesting -->
+<Objective QuestName="Unknown" QuestId="483" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Sleeping Druid -->
+<PickUp QuestName="The Sleeping Druid" QuestId="2541" GiverName="Oben Rageclaw" GiverId="7317" />
+
+<!-- Collect Objective for Quest 2541: Shaman Voodoo Charm -->
+<Objective QuestName="Unknown" QuestId="2541" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 483: Raven Claw Talisman -->
+<Objective QuestName="Unknown" QuestId="483" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Sleeping Druid -->
+<TurnIn QuestName="The Sleeping Druid" QuestId="2541" TurnInName="Oben Rageclaw" TurnInId="7317" />
+
+<!-- Pick Up: Druid of the Claw -->
+<PickUp QuestName="Druid of the Claw" QuestId="2561" GiverName="Oben Rageclaw" GiverId="7317" />
+
+<!-- Collect Objective for Quest 483: Sapphire of Sky -->
+<Objective QuestName="Unknown" QuestId="483" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Druid of the Claw -->
+<TurnIn QuestName="Druid of the Claw" QuestId="2561" TurnInName="Oben Rageclaw" TurnInId="7317" />
+
+<!-- Turn In: The Relics of Wakening -->
+<TurnIn QuestName="The Relics of Wakening" QuestId="483" TurnInName="Athridas Bearmantle" TurnInId="2078" />
+
+<!-- Pick Up: Ursal the Mauler -->
+<PickUp QuestName="Ursal the Mauler" QuestId="486" GiverName="Athridas Bearmantle" GiverId="2078" />
+
+<!-- Collect Objective for Quest 932: Melenas' Head -->
+<Objective QuestName="Unknown" QuestId="932" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Twisted Hatred -->
+<TurnIn QuestName="Twisted Hatred" QuestId="932" TurnInName="Tallonkai Swiftroot" TurnInId="3567" />
+
+<!-- Collect Objective for Quest 933: Filled Tourmaline Phial -->
+<Objective QuestName="Unknown" QuestId="933" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Glowing Fruit -->
+<PickUp QuestName="The Glowing Fruit" QuestId="930" GiverName="Tallonkai Swiftroot" GiverId="3567" />
+
+<!-- Turn In: The Glowing Fruit -->
+<TurnIn QuestName="The Glowing Fruit" QuestId="930" TurnInName="Denalan" TurnInId="2080" />
+
+<!-- Turn In: Crown of the Earth (4) -->
+<TurnIn QuestName="Crown of the Earth (4)" QuestId="933" TurnInName="Corithras Moonrage" TurnInId="3515" />
+
+<!-- Pick Up: Crown of the Earth (5) -->
+<PickUp QuestName="Crown of the Earth (5)" QuestId="7383" GiverName="Corithras Moonrage" GiverId="3515" />
+
+<!-- Turn In: The Road to Darnassus -->
+<TurnIn QuestName="The Road to Darnassus" QuestId="487" TurnInName="Moon Priestess Amara" TurnInId="2151" />
+
+<!-- Pick Up: The Enchanted Glade -->
+<PickUp QuestName="The Enchanted Glade" QuestId="937" GiverName="Sentinel Arynia Cloudsbreak" GiverId="3519" />
+
+<!-- Collect Objective for Quest 7383: Filled Amethyst Phial -->
+<Objective QuestName="Unknown" QuestId="7383" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 937: Bloodfeather Belt -->
+<Objective QuestName="Unknown" QuestId="937" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: The Enchanted Glade -->
+<TurnIn QuestName="The Enchanted Glade" QuestId="937" TurnInName="Sentinel Arynia Cloudsbreak" TurnInId="3519" />
+
+<!-- Pick Up: The Shimmering Frond -->
+<PickUp QuestName="The Shimmering Frond" QuestId="931" GiverName="Sentinel Arynia Cloudsbreak" GiverId="3519" />
+
+<!-- Turn In: Crown of the Earth (5) -->
+<TurnIn QuestName="Crown of the Earth (5)" QuestId="7383" TurnInName="Corithras Moonrage" TurnInId="3515" />
+
+<!-- Pick Up: Crown of the Earth (6) -->
+<PickUp QuestName="Crown of the Earth (6)" QuestId="935" GiverName="Corithras Moonrage" GiverId="3515" />
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: Elanaria -->
+  <PickUp QuestName="Elanaria" QuestId="1684" GiverName="Kyra Windblade" GiverId="3598" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Elanaria -->
+  <TurnIn QuestName="Elanaria" QuestId="1684" TurnInName="Elanaria" TurnInId="4088" />
+  <!-- Pick Up: Vorlus Vilehoof -->
+  <PickUp QuestName="Vorlus Vilehoof" QuestId="1683" GiverName="Elanaria" GiverId="4088" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Collect Objective for Quest 1683: Horn of Vorlus -->
+  <Objective QuestName="Unknown" QuestId="1683" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Vorlus Vilehoof -->
+  <TurnIn QuestName="Vorlus Vilehoof" QuestId="1683" TurnInName="Elanaria" TurnInId="4088" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Pick Up: Taming the Beast (1) -->
+  <PickUp QuestName="Taming the Beast (1)" QuestId="6063" GiverName="Dazalar" GiverId="3601" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (1) -->
+  <TurnIn QuestName="Taming the Beast (1)" QuestId="6063" TurnInName="Dazalar" TurnInId="3601" />
+  <!-- Pick Up: Taming the Beast (2) -->
+  <PickUp QuestName="Taming the Beast (2)" QuestId="6101" GiverName="Dazalar" GiverId="3601" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (2) -->
+  <TurnIn QuestName="Taming the Beast (2)" QuestId="6101" TurnInName="Dazalar" TurnInId="3601" />
+  <!-- Pick Up: Taming the Beast (3) -->
+  <PickUp QuestName="Taming the Beast (3)" QuestId="6102" GiverName="Dazalar" GiverId="3601" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (3) -->
+  <TurnIn QuestName="Taming the Beast (3)" QuestId="6102" TurnInName="Dazalar" TurnInId="3601" />
+  <!-- Pick Up: Training the Beast -->
+  <PickUp QuestName="Training the Beast" QuestId="6103" GiverName="Dazalar" GiverId="3601" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Training the Beast -->
+  <TurnIn QuestName="Training the Beast" QuestId="6103" TurnInName="Jocaste" TurnInId="4146" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Pick Up: Heeding the Call -->
+  <PickUp QuestName="Heeding the Call" QuestId="5925" GiverName="Kal" GiverId="3602" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Heeding the Call -->
+  <TurnIn QuestName="Heeding the Call" QuestId="5925" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+  <!-- Pick Up: Moonglade -->
+  <PickUp QuestName="Moonglade" QuestId="5921" GiverName="Mathrengyl Bearwalker" GiverId="4217" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Moonglade -->
+  <TurnIn QuestName="Moonglade" QuestId="5921" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Great Bear Spirit -->
+  <PickUp QuestName="Great Bear Spirit" QuestId="5929" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Great Bear Spirit -->
+  <TurnIn QuestName="Great Bear Spirit" QuestId="5929" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Back to Darnassus -->
+  <PickUp QuestName="Back to Darnassus" QuestId="5931" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Back to Darnassus -->
+  <TurnIn QuestName="Back to Darnassus" QuestId="5931" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+  <!-- Pick Up: Body and Heart -->
+  <PickUp QuestName="Body and Heart" QuestId="6001" GiverName="Mathrengyl Bearwalker" GiverId="4217" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Body and Heart -->
+  <TurnIn QuestName="Body and Heart" QuestId="6001" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+</If>
+
+<!-- Kill Objective for Quest 486: Ursal the Mauler -->
+<Objective QuestName="Unknown" QuestId="486" Type="KillMob" MobId="2039" KillCount="1" />
+
+<!-- Turn In: The Shimmering Frond -->
+<TurnIn QuestName="The Shimmering Frond" QuestId="931" TurnInName="Denalan" TurnInId="2080" />
+
+<!-- Turn In: Ursal the Mauler -->
+<TurnIn QuestName="Ursal the Mauler" QuestId="486" TurnInName="Athridas Bearmantle" TurnInId="2078" />
+
+<!-- Pick Up: Nessa Shadowsong -->
+<PickUp QuestName="Nessa Shadowsong" QuestId="6344" GiverName="Mydrannul" GiverId="4241" />
+
+<!-- Turn In: Rellian Greenspyre -->
+<TurnIn QuestName="Rellian Greenspyre" QuestId="922" TurnInName="Rellian Greenspyre" TurnInId="3517" />
+
+<!-- Turn In: Crown of the Earth (6) -->
+<TurnIn QuestName="Crown of the Earth (6)" QuestId="935" TurnInName="Arch Druid Fandral Staghelm" TurnInId="3516" />
+
+<!-- Turn In: Nessa Shadowsong -->
+<TurnIn QuestName="Nessa Shadowsong" QuestId="6344" TurnInName="Nessa Shadowsong" TurnInId="10118" />
+
+<!-- Pick Up: The Bounty of Teldrassil -->
+<PickUp QuestName="The Bounty of Teldrassil" QuestId="6341" GiverName="Nessa Shadowsong" GiverId="10118" />
+
+<!-- Turn In: The Bounty of Teldrassil -->
+<TurnIn QuestName="The Bounty of Teldrassil" QuestId="6341" TurnInName="Vesprystus" TurnInId="3838" />
+
+<!-- Pick Up: Flight to Auberdine -->
+<PickUp QuestName="Flight to Auberdine" QuestId="6342" GiverName="Vesprystus" GiverId="3838" />
+
+<!-- Pick Up: Washed Ashore (1) -->
+<PickUp QuestName="Washed Ashore (1)" QuestId="3524" GiverName="Gwennyth Bly'Leggonde" GiverId="10219" />
+
+<!-- Turn In: Flight to Auberdine -->
+<TurnIn QuestName="Flight to Auberdine" QuestId="6342" TurnInName="Laird" TurnInId="4200" />
+
+<!-- Pick Up: Return to Nessa -->
+<PickUp QuestName="Return to Nessa" QuestId="6343" GiverName="Laird" GiverId="4200" />
+
+<!-- Turn In: Return to Nessa -->
+<TurnIn QuestName="Return to Nessa" QuestId="6343" TurnInName="Nessa Shadowsong" TurnInId="10118" />
+
+<!-- Pick Up: Buzzbox 827 -->
+<PickUp QuestName="Buzzbox 827" QuestId="983" GiverName="Wizbang Cranktoggle" GiverId="3666" />
+
+<!-- Pick Up: How Big a Threat? (1) -->
+<PickUp QuestName="How Big a Threat? (1)" QuestId="984" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Pick Up: Bashal'Aran (1) -->
+<PickUp QuestName="Bashal'Aran (1)" QuestId="954" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Collect Objective for Quest 983: Crawler Leg -->
+<Objective QuestName="Unknown" QuestId="983" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 3524: Sea Creature Bones -->
+<Objective QuestName="Unknown" QuestId="3524" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Buzzbox 827 -->
+<TurnIn QuestName="Buzzbox 827" QuestId="983" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Pick Up: Buzzbox 411 -->
+<PickUp QuestName="Buzzbox 411" QuestId="1001" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Turn In: Washed Ashore (1) -->
+<TurnIn QuestName="Washed Ashore (1)" QuestId="3524" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Pick Up: Washed Ashore (2) -->
+<PickUp QuestName="Washed Ashore (2)" QuestId="4681" GiverName="Gwennyth Bly'Leggonde" GiverId="10219" />
+
+<!-- Collect Objective for Quest 1001: Thresher Eye -->
+<Objective QuestName="Unknown" QuestId="1001" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 4681: Sea Turtle Remains -->
+<Objective QuestName="Unknown" QuestId="4681" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: How Big a Threat? (1) -->
+<TurnIn QuestName="How Big a Threat? (1)" QuestId="984" TurnInName="Terenthis" TurnInId="3693" />
+
+<!-- Pick Up: Thundris Windweaver -->
+<PickUp QuestName="Thundris Windweaver" QuestId="4761" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Turn In: Washed Ashore (2) -->
+<TurnIn QuestName="Washed Ashore (2)" QuestId="4681" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Turn In: Thundris Windweaver -->
+<TurnIn QuestName="Thundris Windweaver" QuestId="4761" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Turn In: Bashal'Aran (1) -->
+<TurnIn QuestName="Bashal'Aran (1)" QuestId="954" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: Bashal'Aran (2) -->
+<PickUp QuestName="Bashal'Aran (2)" QuestId="955" GiverName="Asterion" GiverId="3650" />
+
+<!-- Collect Objective for Quest 955: Grell Earring -->
+<Objective QuestName="Unknown" QuestId="955" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Bashal'Aran (2) -->
+<TurnIn QuestName="Bashal'Aran (2)" QuestId="955" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Turn In: Buzzbox 411 -->
+<TurnIn QuestName="Buzzbox 411" QuestId="1001" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: The Public Servant -->
+<PickUp QuestName="The Public Servant" QuestId="433" GiverName="Senator Mehr Stonehallow" GiverId="1977" />
+
+<!-- Pick Up: Those Blasted Troggs! -->
+<PickUp QuestName="Those Blasted Troggs!" QuestId="432" GiverName="Foreman Stonebrow" GiverId="1254" />
+
+<!-- Kill Objective for Quest 432: Rockjaw Skullthumper -->
+<Objective QuestName="Unknown" QuestId="432" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 433: Rockjaw Bonesnapper -->
+<Objective QuestName="Unknown" QuestId="433" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: The Public Servant -->
+<TurnIn QuestName="The Public Servant" QuestId="433" TurnInName="Senator Mehr Stonehallow" TurnInId="1977" />
+
+<!-- Turn In: Those Blasted Troggs! -->
+<TurnIn QuestName="Those Blasted Troggs!" QuestId="432" TurnInName="Foreman Stonebrow" TurnInId="1254" />
+
+<!-- Pick Up: Rat Catching -->
+<PickUp QuestName="Rat Catching" QuestId="416" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Pick Up: Mountaineer Stormpike's Task -->
+<PickUp QuestName="Mountaineer Stormpike's Task" QuestId="1339" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Pick Up: Thelsamar Blood Sausages -->
+<PickUp QuestName="Thelsamar Blood Sausages" QuestId="418" GiverName="Vidra Hearthstove" GiverId="1963" />
+
+<!-- Collect Objective for Quest 418: Boar Intestines -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 418: Bear Meat -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 418: Spider Ichor -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 416: Tunnel Rat Ear -->
+<Objective QuestName="Unknown" QuestId="416" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Mountaineer Stormpike's Task -->
+<TurnIn QuestName="Mountaineer Stormpike's Task" QuestId="1339" TurnInName="Mountaineer Stormpike" TurnInId="1343" />
+
+<!-- Pick Up: Stormpike's Order -->
+<PickUp QuestName="Stormpike's Order" QuestId="1338" GiverName="Mountaineer Stormpike" GiverId="1343" />
+
+<!-- Turn In: Thelsamar Blood Sausages -->
+<TurnIn QuestName="Thelsamar Blood Sausages" QuestId="418" TurnInName="Vidra Hearthstove" TurnInId="1963" />
+
+<!-- Turn In: Rat Catching -->
+<TurnIn QuestName="Rat Catching" QuestId="416" TurnInName="Mountaineer Kadrell" TurnInId="1340" />
+
+<!-- Pick Up: In Defense of the King's Lands (1) -->
+<PickUp QuestName="In Defense of the King's Lands (1)" QuestId="224" GiverName="Mountaineer Cobbleflint" GiverId="1089" />
+
+<!-- Pick Up: The Trogg Threat -->
+<PickUp QuestName="The Trogg Threat" QuestId="267" GiverName="Captain Rugelfuss" GiverId="1092" />
+
+<!-- Kill Objective for Quest 224: Stonesplinter Trogg -->
+<Objective QuestName="Unknown" QuestId="224" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 224: Stonesplinter Scout -->
+<Objective QuestName="Unknown" QuestId="224" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 267: Trogg Stone Tooth -->
+<Objective QuestName="Unknown" QuestId="267" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: In Defense of the King's Lands (1) -->
+<TurnIn QuestName="In Defense of the King's Lands (1)" QuestId="224" TurnInName="Mountaineer Cobbleflint" TurnInId="1089" />
+
+<!-- Turn In: The Trogg Threat -->
+<TurnIn QuestName="The Trogg Threat" QuestId="267" TurnInName="Captain Rugelfuss" TurnInId="1092" />
+
+<!-- Turn In: Stormpike's Order -->
+<TurnIn QuestName="Stormpike's Order" QuestId="1338" TurnInName="Furen Longbeard" TurnInId="5413" />
+
+<!-- Pick Up: Report to Gryan Stoutmantle -->
+<PickUp QuestName="Report to Gryan Stoutmantle" QuestId="109" GiverName="Marshal Dughan" GiverId="240" />
+
+</QuestOrder>

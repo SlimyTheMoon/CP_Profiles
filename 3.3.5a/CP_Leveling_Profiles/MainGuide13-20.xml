@@ -1,0 +1,624 @@
+<QuestOrder>
+
+<!-- Pick Up: The Forgotten Heirloom -->
+<PickUp QuestName="The Forgotten Heirloom" QuestId="64" GiverName="Farmer Furlbrow" GiverId="237" />
+
+<!-- Pick Up: Westfall Stew (1) -->
+<PickUp QuestName="Westfall Stew (1)" QuestId="36" GiverName="Verna Furlbrow" GiverId="238" />
+
+<!-- Pick Up: Poor Old Blanchy -->
+<PickUp QuestName="Poor Old Blanchy" QuestId="151" GiverName="Verna Furlbrow" GiverId="238" />
+
+<!-- Pick Up: The Killing Fields -->
+<PickUp QuestName="The Killing Fields" QuestId="9" GiverName="Farmer Saldean" GiverId="233" />
+
+<!-- Turn In: Westfall Stew (1) -->
+<TurnIn QuestName="Westfall Stew (1)" QuestId="36" TurnInName="Salma Saldean" TurnInId="235" />
+
+<!-- Pick Up: Westfall Stew (2) -->
+<PickUp QuestName="Westfall Stew (2)" QuestId="38" GiverName="Salma Saldean" GiverId="235" />
+
+<!-- Pick Up: Goretusk Liver Pie -->
+<PickUp QuestName="Goretusk Liver Pie" QuestId="22" GiverName="Salma Saldean" GiverId="235" />
+
+<!-- Pick Up: Red Leather Bandanas -->
+<PickUp QuestName="Red Leather Bandanas" QuestId="153" GiverName="Scout Galiaan" GiverId="878" />
+
+<!-- Turn In: Report to Gryan Stoutmantle -->
+<TurnIn QuestName="Report to Gryan Stoutmantle" QuestId="109" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: The People's Militia (1) -->
+<PickUp QuestName="The People's Militia (1)" QuestId="12" GiverName="Gryan Stoutmantle" GiverId="234" />
+
+<!-- Pick Up: Patrolling Westfall -->
+<PickUp QuestName="Patrolling Westfall" QuestId="102" GiverName="Captain Danuvin" GiverId="821" />
+
+<!-- Kill Objective for Quest 12: Defias Trapper -->
+<Objective QuestName="Unknown" QuestId="12" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 12: Defias Smuggler -->
+<Objective QuestName="Unknown" QuestId="12" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 153: Red Leather Bandana -->
+<Objective QuestName="Unknown" QuestId="153" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: The People's Militia (1) -->
+<TurnIn QuestName="The People's Militia (1)" QuestId="12" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: The People's Militia (2) -->
+<PickUp QuestName="The People's Militia (2)" QuestId="13" GiverName="Gryan Stoutmantle" GiverId="234" />
+
+<!-- Turn In: Red Leather Bandanas -->
+<TurnIn QuestName="Red Leather Bandanas" QuestId="153" TurnInName="Scout Galiaan" TurnInId="878" />
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Pick Up: Lessons Anew -->
+  <PickUp QuestName="Lessons Anew" QuestId="6121" GiverName="Mathrengyl Bearwalker" GiverId="4217" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Lessons Anew -->
+  <TurnIn QuestName="Lessons Anew" QuestId="6121" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: The Principal Source -->
+  <PickUp QuestName="The Principal Source" QuestId="6122" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 6122: Filled Cliffspring Falls Sampler -->
+  <Objective QuestName="Unknown" QuestId="6122" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: The Principal Source -->
+  <TurnIn QuestName="The Principal Source" QuestId="6122" TurnInName="Alanndarian Nightsong" TurnInId="3702" />
+  <!-- Pick Up: Gathering the Cure -->
+  <PickUp QuestName="Gathering the Cure" QuestId="6123" GiverName="Alanndarian Nightsong" GiverId="3702" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 6123: Lunar Fungus -->
+  <Objective QuestName="Unknown" QuestId="6123" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Gathering the Cure -->
+  <TurnIn QuestName="Gathering the Cure" QuestId="6123" TurnInName="Alanndarian Nightsong" TurnInId="3702" />
+  <!-- Pick Up: Curing the Sick -->
+  <PickUp QuestName="Curing the Sick" QuestId="6124" GiverName="Alanndarian Nightsong" GiverId="3702" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Curing the Sick -->
+  <TurnIn QuestName="Curing the Sick" QuestId="6124" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Power over Poison -->
+  <PickUp QuestName="Power over Poison" QuestId="6125" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Power over Poison -->
+  <TurnIn QuestName="Power over Poison" QuestId="6125" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+</If>
+
+<!-- Collect Objective for Quest 22: Goretusk Liver -->
+<Objective QuestName="Unknown" QuestId="22" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 38: Goretusk Snout -->
+<Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 38: Stringy Vulture Meat -->
+<Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 102: Gnoll Paw -->
+<Objective QuestName="Unknown" QuestId="102" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 38: Murloc Eye -->
+<Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 64: Furlbrow's Pocket Watch -->
+<Objective QuestName="Unknown" QuestId="64" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 9: Harvest Watcher -->
+<Objective QuestName="Unknown" QuestId="9" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 38: Okra -->
+<Objective QuestName="Unknown" QuestId="38" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 103: Flask of Oil -->
+<Objective QuestName="Unknown" QuestId="103" Type="CollectItem" ItemId="814" CollectCount="5" />
+
+<!-- Turn In: The Killing Fields -->
+<TurnIn QuestName="The Killing Fields" QuestId="9" TurnInName="Farmer Saldean" TurnInId="233" />
+
+<!-- Turn In: Westfall Stew (2) -->
+<TurnIn QuestName="Westfall Stew (2)" QuestId="38" TurnInName="Salma Saldean" TurnInId="235" />
+
+<!-- Turn In: Goretusk Liver Pie -->
+<TurnIn QuestName="Goretusk Liver Pie" QuestId="22" TurnInName="Salma Saldean" TurnInId="235" />
+
+<!-- Turn In: The Forgotten Heirloom -->
+<TurnIn QuestName="The Forgotten Heirloom" QuestId="64" TurnInName="Farmer Furlbrow" TurnInId="237" />
+
+<!-- Turn In: Poor Old Blanchy -->
+<TurnIn QuestName="Poor Old Blanchy" QuestId="151" TurnInName="Verna Furlbrow" TurnInId="238" />
+
+<!-- Turn In: Patrolling Westfall -->
+<TurnIn QuestName="Patrolling Westfall" QuestId="102" TurnInName="Captain Danuvin" TurnInId="821" />
+
+<!-- Pick Up: The Red Crystal -->
+<PickUp QuestName="The Red Crystal" QuestId="4811" GiverName="Sentinel Glynda Nal'Shea" GiverId="2930" />
+
+<!-- Pick Up: Plagued Lands -->
+<PickUp QuestName="Plagued Lands" QuestId="2118" GiverName="Tharnariun Treetender" GiverId="3701" />
+
+<!-- Pick Up: How Big a Threat? (2) -->
+<PickUp QuestName="How Big a Threat? (2)" QuestId="985" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Pick Up: Deep Ocean, Vast Sea -->
+<PickUp QuestName="Deep Ocean, Vast Sea" QuestId="982" GiverName="Gorbold Steelhand" GiverId="6301" />
+
+<!-- Pick Up: The Cliffspring River -->
+<PickUp QuestName="The Cliffspring River" QuestId="4762" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Kill Objective for Quest 985: Blackwood Pathfinder -->
+<Objective QuestName="Unknown" QuestId="985" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 985: Blackwood Windtalker -->
+<Objective QuestName="Unknown" QuestId="985" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: Plagued Lands -->
+<TurnIn QuestName="Plagued Lands" QuestId="2118" TurnInName="Tharnariun Treetender" TurnInId="3701" />
+
+<!-- Pick Up: Cleansing of the Infected -->
+<PickUp QuestName="Cleansing of the Infected" QuestId="2138" GiverName="Tharnariun Treetender" GiverId="3701" />
+
+<!-- Turn In: How Big a Threat? (2) -->
+<TurnIn QuestName="How Big a Threat? (2)" QuestId="985" TurnInName="Terenthis" TurnInId="3693" />
+
+<!-- Turn In: The Red Crystal -->
+<TurnIn QuestName="The Red Crystal" QuestId="4811" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+
+<!-- Pick Up: As Water Cascades -->
+<PickUp QuestName="As Water Cascades" QuestId="4812" GiverName="Sentinel Glynda Nal'Shea" GiverId="2930" />
+
+<!-- Collect Objective for Quest 4812: Moonwell Water Tube -->
+<Objective QuestName="Unknown" QuestId="4812" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: As Water Cascades -->
+<TurnIn QuestName="As Water Cascades" QuestId="4812" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+
+<!-- Pick Up: The Fragments Within -->
+<PickUp QuestName="The Fragments Within" QuestId="4813" GiverName="Sentinel Glynda Nal'Shea" GiverId="2930" />
+
+<!-- Pick Up: Bashal'Aran (3) -->
+<PickUp QuestName="Bashal'Aran (3)" QuestId="956" GiverName="Asterion" GiverId="3650" />
+
+<!-- Collect Objective for Quest 956: Ancient Moonstone Seal -->
+<Objective QuestName="Unknown" QuestId="956" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Bashal'Aran (3) -->
+<TurnIn QuestName="Bashal'Aran (3)" QuestId="956" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: Bashal'Aran (4) -->
+<PickUp QuestName="Bashal'Aran (4)" QuestId="957" GiverName="Asterion" GiverId="3650" />
+
+<!-- Pick Up: Buzzbox 323 -->
+<PickUp QuestName="Buzzbox 323" QuestId="1002" GiverName="Asterion" GiverId="3650" />
+
+<!-- Kill Objective for Quest 2138: Rabid Thistle Bear -->
+<Objective QuestName="Unknown" QuestId="2138" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 1002: Moonstalker Fang -->
+<Objective QuestName="Unknown" QuestId="1002" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Buzzbox 323 -->
+<TurnIn QuestName="Buzzbox 323" QuestId="1002" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: Buzzbox 525 -->
+<PickUp QuestName="Buzzbox 525" QuestId="1003" GiverName="Asterion" GiverId="3650" />
+
+<!-- Collect Objective for Quest 4762: Cliffspring River Sample -->
+<Objective QuestName="Unknown" QuestId="4762" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Beached Sea Turtle -->
+<PickUp QuestName="Beached Sea Turtle" QuestId="4725" GiverName="Asterion" GiverId="3650" />
+
+<!-- Collect Objective for Quest 982: Mist Veil's Lockbox -->
+<Objective QuestName="Unknown" QuestId="982" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 982: Silver Dawning's Lockbox -->
+<Objective QuestName="Unknown" QuestId="982" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Deep Ocean, Vast Sea -->
+<TurnIn QuestName="Deep Ocean, Vast Sea" QuestId="982" TurnInName="Gorbold Steelhand" TurnInId="6301" />
+
+<!-- Turn In: The Cliffspring River -->
+<TurnIn QuestName="The Cliffspring River" QuestId="4762" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Pick Up: Tools of the Highborne -->
+<PickUp QuestName="Tools of the Highborne" QuestId="958" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Turn In: The Fragments Within -->
+<TurnIn QuestName="The Fragments Within" QuestId="4813" TurnInName="Sentinel Glynda Nal'Shea" TurnInId="2930" />
+
+<!-- Pick Up: Cave Mushrooms -->
+<PickUp QuestName="Cave Mushrooms" QuestId="947" GiverName="Barithras Moonshade" GiverId="3583" />
+
+<!-- Pick Up: For Love Eternal -->
+<PickUp QuestName="For Love Eternal" QuestId="963" GiverName="Cerellean Whiteclaw" GiverId="3644" />
+
+<!-- Turn In: Beached Sea Turtle -->
+<TurnIn QuestName="Beached Sea Turtle" QuestId="4725" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Turn In: Cleansing of the Infected -->
+<TurnIn QuestName="Cleansing of the Infected" QuestId="2138" TurnInName="Tharnariun Treetender" TurnInId="3701" />
+
+<!-- Pick Up: Tharnariun's Hope -->
+<PickUp QuestName="Tharnariun's Hope" QuestId="2139" GiverName="Tharnariun Treetender" GiverId="3701" />
+
+<!-- Pick Up: The Fall of Ameth'Aran -->
+<PickUp QuestName="The Fall of Ameth'Aran" QuestId="953" GiverName="Sentinel Tysha Moonblade" GiverId="3639" />
+
+<!-- Collect Objective for Quest 958: Highborne Relic -->
+<Objective QuestName="Unknown" QuestId="958" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 963: Anaya's Pendant -->
+<Objective QuestName="Unknown" QuestId="963" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Fall of Ameth'Aran -->
+<TurnIn QuestName="The Fall of Ameth'Aran" QuestId="953" TurnInName="Sentinel Tysha Moonblade" TurnInId="3639" />
+
+<!-- Turn In: For Love Eternal -->
+<TurnIn QuestName="For Love Eternal" QuestId="963" TurnInName="Cerellean Whiteclaw" TurnInId="3644" />
+
+<!-- Turn In: Tools of the Highborne -->
+<TurnIn QuestName="Tools of the Highborne" QuestId="958" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Turn In: Bashal'Aran (4) -->
+<TurnIn QuestName="Bashal'Aran (4)" QuestId="957" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Kill Objective for Quest 2139: Den Mother -->
+<Objective QuestName="Unknown" QuestId="2139" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 947: Scaber Stalk -->
+<Objective QuestName="Unknown" QuestId="947" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 947: Death Cap -->
+<Objective QuestName="Unknown" QuestId="947" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Tharnariun's Hope -->
+<TurnIn QuestName="Tharnariun's Hope" QuestId="2139" TurnInName="Tharnariun Treetender" TurnInId="3701" />
+
+<!-- Turn In: Cave Mushrooms -->
+<TurnIn QuestName="Cave Mushrooms" QuestId="947" TurnInName="Barithras Moonshade" TurnInId="3583" />
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Pick Up: A Lesson to Learn -->
+  <PickUp QuestName="A Lesson to Learn" QuestId="27" GiverName="Mathrengyl Bearwalker" GiverId="4217" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: A Lesson to Learn -->
+  <TurnIn QuestName="A Lesson to Learn" QuestId="27" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Trial of the Lake -->
+  <PickUp QuestName="Trial of the Lake" QuestId="29" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 29: Shrine Bauble -->
+  <Objective QuestName="Unknown" QuestId="29" Type="CollectItem" ItemId="15877" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Trial of the Lake -->
+  <TurnIn QuestName="Trial of the Lake" QuestId="29" TurnInName="Tajarri" TurnInId="11799" />
+  <!-- Pick Up: Trial of the Sea Lion -->
+  <PickUp QuestName="Trial of the Sea Lion" QuestId="272" GiverName="Tajarri" GiverId="11799" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 272: Half Pendant of Aquatic Agility -->
+  <Objective QuestName="Unknown" QuestId="272" Type="CollectItem" ItemId="15883" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 272: Half Pendant of Aquatic Endurance -->
+  <Objective QuestName="Unknown" QuestId="272" Type="CollectItem" ItemId="15882" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 272: Pendant of the Sea Lion -->
+  <Objective QuestName="Unknown" QuestId="272" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Trial of the Sea Lion -->
+  <TurnIn QuestName="Trial of the Sea Lion" QuestId="272" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Aquatic Form -->
+  <PickUp QuestName="Aquatic Form" QuestId="5061" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Aquatic Form -->
+  <TurnIn QuestName="Aquatic Form" QuestId="5061" TurnInName="Mathrengyl Bearwalker" TurnInId="4217" />
+</If>
+
+<!-- Kill Objective for Quest 13: Defias Looter -->
+<Objective QuestName="Unknown" QuestId="13" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 13: Defias Pillager -->
+<Objective QuestName="Unknown" QuestId="13" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Turn In: The People's Militia (2) -->
+<TurnIn QuestName="The People's Militia (2)" QuestId="13" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: The People's Militia (3) -->
+<PickUp QuestName="The People's Militia (3)" QuestId="14" GiverName="Gryan Stoutmantle" GiverId="234" />
+
+<!-- Pick Up: The Defias Brotherhood (1) -->
+<PickUp QuestName="The Defias Brotherhood (1)" QuestId="65" GiverName="Gryan Stoutmantle" GiverId="234" />
+
+<!-- Kill Objective for Quest 14: Defias Highwayman -->
+<Objective QuestName="Unknown" QuestId="14" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 14: Defias Pathstalker -->
+<Objective QuestName="Unknown" QuestId="14" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 14: Defias Knuckleduster -->
+<Objective QuestName="Unknown" QuestId="14" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: The People's Militia (3) -->
+<TurnIn QuestName="The People's Militia (3)" QuestId="14" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: Mercenaries -->
+<PickUp QuestName="Mercenaries" QuestId="255" GiverName="Magistrate Bluntnose" GiverId="1139" />
+
+<!-- Pick Up: Filthy Paws -->
+<PickUp QuestName="Filthy Paws" QuestId="307" GiverName="Mountaineer Stormpike" GiverId="1343" />
+
+<!-- Collect Objective for Quest 307: Miners' Gear -->
+<Objective QuestName="Unknown" QuestId="307" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: Filthy Paws -->
+<TurnIn QuestName="Filthy Paws" QuestId="307" TurnInName="Mountaineer Stormpike" TurnInId="1343" />
+
+<!-- Pick Up: Ironband's Excavation -->
+<PickUp QuestName="Ironband's Excavation" QuestId="436" GiverName="Jern Hornhelm" GiverId="1105" />
+
+<!-- Turn In: Ironband's Excavation -->
+<TurnIn QuestName="Ironband's Excavation" QuestId="436" TurnInName="Magmar Fellhew" TurnInId="1345" />
+
+<!-- Pick Up: Gathering Idols -->
+<PickUp QuestName="Gathering Idols" QuestId="297" GiverName="Magmar Fellhew" GiverId="1345" />
+
+<!-- Pick Up: Excavation Progress Report -->
+<PickUp QuestName="Excavation Progress Report" QuestId="298" GiverName="Prospector Ironband" GiverId="1344" />
+
+<!-- Collect Objective for Quest 297: Carved Stone Idol -->
+<Objective QuestName="Unknown" QuestId="297" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Gathering Idols -->
+<TurnIn QuestName="Gathering Idols" QuestId="297" TurnInName="Magmar Fellhew" TurnInId="1345" />
+
+<!-- Pick Up: A Hunter's Boast -->
+<PickUp QuestName="A Hunter's Boast" QuestId="257" GiverName="Daryl the Youngling" GiverId="1187" />
+
+<!-- Pick Up: Crocolisk Hunting -->
+<PickUp QuestName="Crocolisk Hunting" QuestId="385" GiverName="Marek Ironheart" GiverId="1154" />
+
+<!-- Kill Objective for Quest 257: Mountain Buzzard -->
+<Objective QuestName="Unknown" QuestId="257" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: A Hunter's Boast -->
+<TurnIn QuestName="A Hunter's Boast" QuestId="257" TurnInName="Daryl the Youngling" TurnInId="1187" />
+
+<!-- Pick Up: A Hunter's Challenge -->
+<PickUp QuestName="A Hunter's Challenge" QuestId="258" GiverName="Daryl the Youngling" GiverId="1187" />
+
+<!-- Kill Objective for Quest 258: Elder Mountain Boar -->
+<Objective QuestName="Unknown" QuestId="258" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: A Hunter's Challenge -->
+<TurnIn QuestName="A Hunter's Challenge" QuestId="258" TurnInName="Daryl the Youngling" TurnInId="1187" />
+
+<!-- Pick Up: Bingles' Missing Supplies -->
+<PickUp QuestName="Bingles' Missing Supplies" QuestId="2038" GiverName="Bingles Blastenheimer" GiverId="6577" />
+
+<!-- Collect Objective for Quest 385: Crocolisk Meat -->
+<Objective QuestName="Unknown" QuestId="385" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 385: Crocolisk Skin -->
+<Objective QuestName="Unknown" QuestId="385" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 2038: Bingles' Wrench -->
+<Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 2038: Bingles' Blastencapper -->
+<Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 2038: Bingles' Hammer -->
+<Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 2038: Bingles' Screwdriver -->
+<Objective QuestName="Unknown" QuestId="2038" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: A Dark Threat Looms (1) -->
+<PickUp QuestName="A Dark Threat Looms (1)" QuestId="250" GiverName="Chief Engineer Hinderweir VII" GiverId="1093" />
+
+<!-- Turn In: A Dark Threat Looms (1) -->
+<TurnIn QuestName="A Dark Threat Looms (1)" QuestId="250" TurnInName="Chief Engineer Hinderweir VII" TurnInId="1093" />
+
+<!-- Pick Up: A Dark Threat Looms (2) -->
+<PickUp QuestName="A Dark Threat Looms (2)" QuestId="199" GiverName="Chief Engineer Hinderweir VII" GiverId="1093" />
+
+<!-- Turn In: A Dark Threat Looms (2) -->
+<TurnIn QuestName="A Dark Threat Looms (2)" QuestId="199" TurnInName="Chief Engineer Hinderweir VII" TurnInId="1093" />
+
+<!-- Kill Objective for Quest 255: Mo'grosh Ogre -->
+<Objective QuestName="Unknown" QuestId="255" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 255: Mo'grosh Enforcer -->
+<Objective QuestName="Unknown" QuestId="255" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 255: Mo'grosh Brute -->
+<Objective QuestName="Unknown" QuestId="255" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Turn In: Bingles' Missing Supplies -->
+<TurnIn QuestName="Bingles' Missing Supplies" QuestId="2038" TurnInName="Bingles Blastenheimer" TurnInId="6577" />
+
+<!-- Turn In: Crocolisk Hunting -->
+<TurnIn QuestName="Crocolisk Hunting" QuestId="385" TurnInName="Marek Ironheart" TurnInId="1154" />
+
+<!-- Pick Up: Vyrin's Revenge (1) -->
+<PickUp QuestName="Vyrin's Revenge (1)" QuestId="271" GiverName="Vyrin Swiftwind" GiverId="1156" />
+
+<!-- Collect Objective for Quest 271: Ol' Sooty's Head -->
+<Objective QuestName="Unknown" QuestId="271" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Vyrin's Revenge (1) -->
+<TurnIn QuestName="Vyrin's Revenge (1)" QuestId="271" TurnInName="Daryl the Youngling" TurnInId="1187" />
+
+<!-- Pick Up: Vyrin's Revenge (2) -->
+<PickUp QuestName="Vyrin's Revenge (2)" QuestId="531" GiverName="Daryl the Youngling" GiverId="1187" />
+
+<!-- Turn In: Vyrin's Revenge (2) -->
+<TurnIn QuestName="Vyrin's Revenge (2)" QuestId="531" TurnInName="Vyrin Swiftwind" TurnInId="1156" />
+
+<!-- Turn In: Mercenaries -->
+<TurnIn QuestName="Mercenaries" QuestId="255" TurnInName="Magistrate Bluntnose" TurnInId="1139" />
+
+<!-- Turn In: Excavation Progress Report -->
+<TurnIn QuestName="Excavation Progress Report" QuestId="298" TurnInName="Jern Hornhelm" TurnInId="1105" />
+
+<!-- Pick Up: Report to Ironforge -->
+<PickUp QuestName="Report to Ironforge" QuestId="301" GiverName="Jern Hornhelm" GiverId="1105" />
+
+<!-- Turn In: Report to Ironforge -->
+<TurnIn QuestName="Report to Ironforge" QuestId="301" TurnInName="Prospector Stormpike" TurnInId="1356" />
+
+<!-- Pick Up: Encroaching Gnolls -->
+<PickUp QuestName="Encroaching Gnolls" QuestId="244" GiverName="Guard Parker" GiverId="464" />
+
+<!-- Turn In: Encroaching Gnolls -->
+<TurnIn QuestName="Encroaching Gnolls" QuestId="244" TurnInName="Deputy Feldon" TurnInId="1070" />
+
+<!-- Pick Up: Assessing the Threat -->
+<PickUp QuestName="Assessing the Threat" QuestId="246" GiverName="Deputy Feldon" GiverId="1070" />
+
+<!-- Pick Up: Blackrock Menace -->
+<PickUp QuestName="Blackrock Menace" QuestId="20" GiverName="Marshal Marris" GiverId="382" />
+
+<!-- Pick Up: The Lost Tools -->
+<PickUp QuestName="The Lost Tools" QuestId="125" GiverName="Foreman Oslow" GiverId="341" />
+
+<!-- Pick Up: The Price of Shoes -->
+<PickUp QuestName="The Price of Shoes" QuestId="118" GiverName="Verner Osgood" GiverId="415" />
+
+<!-- Pick Up: Hilary's Necklace -->
+<PickUp QuestName="Hilary's Necklace" QuestId="3741" GiverName="Shawn" GiverId="8965" />
+
+<!-- Collect Objective for Quest 3741: Hilary's Necklace -->
+<Objective QuestName="Unknown" QuestId="3741" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 125: Oslow's Toolbox -->
+<Objective QuestName="Unknown" QuestId="125" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Lost Tools -->
+<TurnIn QuestName="The Lost Tools" QuestId="125" TurnInName="Foreman Oslow" TurnInId="341" />
+
+<!-- Pick Up: The Everstill Bridge -->
+<PickUp QuestName="The Everstill Bridge" QuestId="89" GiverName="Foreman Oslow" GiverId="341" />
+
+<!-- Turn In: Hilary's Necklace -->
+<TurnIn QuestName="Hilary's Necklace" QuestId="3741" TurnInName="Hilary" TurnInId="8962" />
+
+<!-- Pick Up: Solomon's Law -->
+<PickUp QuestName="Solomon's Law" QuestId="91" GiverName="Bailiff Conacher" GiverId="900" />
+
+<!-- Pick Up: Selling Fish -->
+<PickUp QuestName="Selling Fish" QuestId="127" GiverName="Dockmaster Baren" GiverId="381" />
+
+<!-- Pick Up: A Free Lunch -->
+<PickUp QuestName="A Free Lunch" QuestId="129" GiverName="Darcy" GiverId="379" />
+
+<!-- Turn In: The Defias Brotherhood (1) -->
+<TurnIn QuestName="The Defias Brotherhood (1)" QuestId="65" TurnInName="Wiley the Black" TurnInId="266" />
+
+<!-- Pick Up: The Defias Brotherhood (2) -->
+<PickUp QuestName="The Defias Brotherhood (2)" QuestId="132" GiverName="Wiley the Black" GiverId="266" />
+
+<!-- Pick Up: Redridge Goulash -->
+<PickUp QuestName="Redridge Goulash" QuestId="92" GiverName="Chef Breanna" GiverId="343" />
+
+<!-- Pick Up: An Unwelcome Guest -->
+<PickUp QuestName="An Unwelcome Guest" QuestId="34" GiverName="Martie Jainrose" GiverId="342" />
+
+<!-- Turn In: A Free Lunch -->
+<TurnIn QuestName="A Free Lunch" QuestId="129" TurnInName="Guard Parker" TurnInId="464" />
+
+<!-- Pick Up: Visit the Herbalist -->
+<PickUp QuestName="Visit the Herbalist" QuestId="130" GiverName="Guard Parker" GiverId="464" />
+
+<!-- Turn In: The Defias Brotherhood (2) -->
+<TurnIn QuestName="The Defias Brotherhood (2)" QuestId="132" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: The Defias Brotherhood (3) -->
+<PickUp QuestName="The Defias Brotherhood (3)" QuestId="135" GiverName="Gryan Stoutmantle" GiverId="234" />
+
+<!-- Turn In: The Defias Brotherhood (3) -->
+<TurnIn QuestName="The Defias Brotherhood (3)" QuestId="135" TurnInName="Master Mathias Shaw" TurnInId="332" />
+
+<!-- Pick Up: The Defias Brotherhood (4) -->
+<PickUp QuestName="The Defias Brotherhood (4)" QuestId="141" GiverName="Master Mathias Shaw" GiverId="332" />
+
+<!-- Turn In: The Defias Brotherhood (4) -->
+<TurnIn QuestName="The Defias Brotherhood (4)" QuestId="141" TurnInName="Gryan Stoutmantle" TurnInId="234" />
+
+<!-- Pick Up: The Defias Brotherhood (5) -->
+<PickUp QuestName="The Defias Brotherhood (5)" QuestId="142" GiverName="Gryan Stoutmantle" GiverId="234" />
+
+<!-- Turn In: The Price of Shoes -->
+<TurnIn QuestName="The Price of Shoes" QuestId="118" TurnInName="Smith Argus" TurnInId="514" />
+
+<!-- Pick Up: Return to Verner -->
+<PickUp QuestName="Return to Verner" QuestId="119" GiverName="Smith Argus" GiverId="514" />
+
+<!-- Turn In: Visit the Herbalist -->
+<TurnIn QuestName="Visit the Herbalist" QuestId="130" TurnInName="Martie Jainrose" TurnInId="342" />
+
+<!-- Pick Up: Delivering Daffodils -->
+<PickUp QuestName="Delivering Daffodils" QuestId="131" GiverName="Martie Jainrose" GiverId="342" />
+
+<!-- Turn In: Delivering Daffodils -->
+<TurnIn QuestName="Delivering Daffodils" QuestId="131" TurnInName="Darcy" TurnInId="379" />
+
+<!-- Turn In: Return to Verner -->
+<TurnIn QuestName="Return to Verner" QuestId="119" TurnInName="Verner Osgood" TurnInId="415" />
+
+<!-- Pick Up: Underbelly Scales -->
+<PickUp QuestName="Underbelly Scales" QuestId="122" GiverName="Verner Osgood" GiverId="415" />
+
+<!-- Pick Up: A Baying of Gnolls -->
+<PickUp QuestName="A Baying of Gnolls" QuestId="124" GiverName="Verner Osgood" GiverId="415" />
+
+<!-- Collect Objective for Quest 122: Underbelly Whelp Scale -->
+<Objective QuestName="Unknown" QuestId="122" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 92: Great Goretusk Snout -->
+<Objective QuestName="Unknown" QuestId="92" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 92: Crisp Spider Meat -->
+<Objective QuestName="Unknown" QuestId="92" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 246: Redridge Mongrel -->
+<Objective QuestName="Unknown" QuestId="246" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 246: Redridge Poacher -->
+<Objective QuestName="Unknown" QuestId="246" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Assessing the Threat -->
+<TurnIn QuestName="Assessing the Threat" QuestId="246" TurnInName="Deputy Feldon" TurnInId="1070" />
+
+<!-- Turn In: Underbelly Scales -->
+<TurnIn QuestName="Underbelly Scales" QuestId="122" TurnInName="Verner Osgood" TurnInId="415" />
+
+</QuestOrder>

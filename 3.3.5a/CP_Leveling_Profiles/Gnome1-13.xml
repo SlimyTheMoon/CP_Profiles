@@ -1,0 +1,504 @@
+<QuestOrder>
+
+<!-- Pick Up: Dwarven Outfitters -->
+<PickUp QuestName="Dwarven Outfitters" QuestId="179" GiverName="Sten Stoutarm" GiverId="658" />
+
+<!-- Collect Objective for Quest 179: Tough Wolf Meat -->
+<Objective QuestName="Unknown" QuestId="179" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Mage)">
+  <!-- Turn In: Dwarven Outfitters -->
+  <TurnIn QuestName="Dwarven Outfitters" QuestId="179" TurnInName="Sten Stoutarm" TurnInId="658" />
+  <!-- Pick Up: Coldridge Valley Mail Delivery (1) -->
+  <PickUp QuestName="Coldridge Valley Mail Delivery (1)" QuestId="233" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: Glyphic Memorandum -->
+  <PickUp QuestName="Glyphic Memorandum" QuestId="3114" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: A New Threat -->
+  <PickUp QuestName="A New Threat" QuestId="170" GiverName="Balir Frosthammer" GiverId="713" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Dwarven Outfitters -->
+  <TurnIn QuestName="Dwarven Outfitters" QuestId="179" TurnInName="Sten Stoutarm" TurnInId="658" />
+  <!-- Pick Up: Coldridge Valley Mail Delivery (1) -->
+  <PickUp QuestName="Coldridge Valley Mail Delivery (1)" QuestId="233" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: Simple Memorandum -->
+  <PickUp QuestName="Simple Memorandum" QuestId="3112" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: A New Threat -->
+  <PickUp QuestName="A New Threat" QuestId="170" GiverName="Balir Frosthammer" GiverId="713" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Dwarven Outfitters -->
+  <TurnIn QuestName="Dwarven Outfitters" QuestId="179" TurnInName="Sten Stoutarm" TurnInId="658" />
+  <!-- Pick Up: Coldridge Valley Mail Delivery (1) -->
+  <PickUp QuestName="Coldridge Valley Mail Delivery (1)" QuestId="233" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: Tainted Memorandum -->
+  <PickUp QuestName="Tainted Memorandum" QuestId="3115" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: A New Threat -->
+  <PickUp QuestName="A New Threat" QuestId="170" GiverName="Balir Frosthammer" GiverId="713" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: Dwarven Outfitters -->
+  <TurnIn QuestName="Dwarven Outfitters" QuestId="179" TurnInName="Sten Stoutarm" TurnInId="658" />
+  <!-- Pick Up: Coldridge Valley Mail Delivery (1) -->
+  <PickUp QuestName="Coldridge Valley Mail Delivery (1)" QuestId="233" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: Encrypted Memorandum -->
+  <PickUp QuestName="Encrypted Memorandum" QuestId="3113" GiverName="Sten Stoutarm" GiverId="658" />
+  <!-- Pick Up: A New Threat -->
+  <PickUp QuestName="A New Threat" QuestId="170" GiverName="Balir Frosthammer" GiverId="713" />
+</If>
+
+<!-- Kill Objective for Quest 170: Rockjaw Trogg -->
+<Objective QuestName="Unknown" QuestId="170" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 170: Burly Rockjaw Trogg -->
+<Objective QuestName="Unknown" QuestId="170" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: A New Threat -->
+<TurnIn QuestName="A New Threat" QuestId="170" TurnInName="Balir Frosthammer" TurnInId="713" />
+
+<!-- Pick Up: A Refugee's Quandary -->
+<PickUp QuestName="A Refugee's Quandary" QuestId="3361" GiverName="Felix Whindlebolt" GiverId="8416" />
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Mage)">
+  <!-- Turn In: Glyphic Memorandum -->
+  <TurnIn QuestName="Glyphic Memorandum" QuestId="3114" TurnInName="Marryk Nurribit" TurnInId="944" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Simple Memorandum -->
+  <TurnIn QuestName="Simple Memorandum" QuestId="3112" TurnInName="Thran Khorman" TurnInId="912" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Tainted Memorandum -->
+  <TurnIn QuestName="Tainted Memorandum" QuestId="3115" TurnInName="Alamar Grimm" TurnInId="460" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: Encrypted Memorandum -->
+  <TurnIn QuestName="Encrypted Memorandum" QuestId="3113" TurnInName="Solm Hargrin" TurnInId="916" />
+</If>
+
+<!-- Turn In: Coldridge Valley Mail Delivery (1) -->
+<TurnIn QuestName="Coldridge Valley Mail Delivery (1)" QuestId="233" TurnInName="Talin Keeneye" TurnInId="714" />
+
+<!-- Pick Up: Coldridge Valley Mail Delivery (2) -->
+<PickUp QuestName="Coldridge Valley Mail Delivery (2)" QuestId="234" GiverName="Talin Keeneye" GiverId="714" />
+
+<!-- Pick Up: The Boar Hunter -->
+<PickUp QuestName="The Boar Hunter" QuestId="183" GiverName="Talin Keeneye" GiverId="714" />
+
+<!-- Kill Objective for Quest 183: Small Crag Boar -->
+<Objective QuestName="Unknown" QuestId="183" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: The Boar Hunter -->
+<TurnIn QuestName="The Boar Hunter" QuestId="183" TurnInName="Talin Keeneye" TurnInId="714" />
+
+<!-- Turn In: Coldridge Valley Mail Delivery (2) -->
+<TurnIn QuestName="Coldridge Valley Mail Delivery (2)" QuestId="234" TurnInName="Grelin Whitebeard" TurnInId="786" />
+
+<!-- Pick Up: The Troll Cave -->
+<PickUp QuestName="The Troll Cave" QuestId="182" GiverName="Grelin Whitebeard" GiverId="786" />
+
+<!-- Collect Objective for Quest 3361: Felix's Bucket of Bolts -->
+<Objective QuestName="Unknown" QuestId="3361" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 182: Frostmane Troll Whelp -->
+<Objective QuestName="Unknown" QuestId="182" Type="KillMob" MobId="UNKNOWN_ID" KillCount="14" />
+
+<!-- Turn In: The Troll Cave -->
+<TurnIn QuestName="The Troll Cave" QuestId="182" TurnInName="Grelin Whitebeard" TurnInId="786" />
+
+<!-- Pick Up: The Stolen Journal -->
+<PickUp QuestName="The Stolen Journal" QuestId="218" GiverName="Grelin Whitebeard" GiverId="786" />
+
+<!-- Collect Objective for Quest 218: Grelin Whitebeard's Journal -->
+<Objective QuestName="Unknown" QuestId="218" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3361: Felix's Chest -->
+<Objective QuestName="Unknown" QuestId="3361" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3361: Felix's Box -->
+<Objective QuestName="Unknown" QuestId="3361" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Stolen Journal -->
+<TurnIn QuestName="The Stolen Journal" QuestId="218" TurnInName="Grelin Whitebeard" TurnInId="786" />
+
+<!-- Pick Up: Senir's Observations (1) -->
+<PickUp QuestName="Senir's Observations (1)" QuestId="282" GiverName="Grelin Whitebeard" GiverId="786" />
+
+<!-- Pick Up: Scalding Mornbrew Delivery -->
+<PickUp QuestName="Scalding Mornbrew Delivery" QuestId="3364" GiverName="Nori Pridedrift" GiverId="12738" />
+
+<!-- Turn In: A Refugee's Quandary -->
+<TurnIn QuestName="A Refugee's Quandary" QuestId="3361" TurnInName="Felix Whindlebolt" TurnInId="8416" />
+
+<!-- Turn In: Scalding Mornbrew Delivery -->
+<TurnIn QuestName="Scalding Mornbrew Delivery" QuestId="3364" TurnInName="Durnan Furcutter" TurnInId="836" />
+
+<!-- Pick Up: Bring Back the Mug -->
+<PickUp QuestName="Bring Back the Mug" QuestId="3365" GiverName="Durnan Furcutter" GiverId="836" />
+
+<!-- Turn In: Bring Back the Mug -->
+<TurnIn QuestName="Bring Back the Mug" QuestId="3365" TurnInName="Nori Pridedrift" TurnInId="12738" />
+
+<!-- Turn In: Senir's Observations (1) -->
+<TurnIn QuestName="Senir's Observations (1)" QuestId="282" TurnInName="Mountaineer Thalos" TurnInId="1965" />
+
+<!-- Pick Up: Senir's Observations (2) -->
+<PickUp QuestName="Senir's Observations (2)" QuestId="420" GiverName="Mountaineer Thalos" GiverId="1965" />
+
+<!-- Pick Up: Supplies to Tannok -->
+<PickUp QuestName="Supplies to Tannok" QuestId="2160" GiverName="Hands Springsprocket" GiverId="6782" />
+
+<!-- Turn In: Senir's Observations (2) -->
+<TurnIn QuestName="Senir's Observations (2)" QuestId="420" TurnInName="Senir Whitebeard" TurnInId="1252" />
+
+<!-- Pick Up: Beer Basted Boar Ribs -->
+<PickUp QuestName="Beer Basted Boar Ribs" QuestId="384" GiverName="Ragnar Thunderbrew" GiverId="1267" />
+
+<!-- Turn In: Supplies to Tannok -->
+<TurnIn QuestName="Supplies to Tannok" QuestId="2160" TurnInName="Tannok Frosthammer" TurnInId="6806" />
+
+<!-- Pick Up: Tools for Steelgrill -->
+<PickUp QuestName="Tools for Steelgrill" QuestId="400" GiverName="Tharek Blackstone" GiverId="1872" />
+
+<!-- Turn In: Tools for Steelgrill -->
+<TurnIn QuestName="Tools for Steelgrill" QuestId="400" TurnInName="Beldin Steelgrill" TurnInId="1376" />
+
+<!-- Pick Up: Stocking Jetsteam -->
+<PickUp QuestName="Stocking Jetsteam" QuestId="317" GiverName="Pilot Bellowfiz" GiverId="1378" />
+
+<!-- Pick Up: The Grizzled Den -->
+<PickUp QuestName="The Grizzled Den" QuestId="313" GiverName="Pilot Stonegear" GiverId="1377" />
+
+<!-- Pick Up: Ammo for Rumbleshot -->
+<PickUp QuestName="Ammo for Rumbleshot" QuestId="5541" GiverName="Loslor Rudge" GiverId="1694" />
+
+<!-- Collect Objective for Quest 317: Chunk of Boar Meat -->
+<Objective QuestName="Unknown" QuestId="317" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 384: Crag Boar Rib -->
+<Objective QuestName="Unknown" QuestId="384" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 317: Thick Bear Fur -->
+<Objective QuestName="Unknown" QuestId="317" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Collect Objective for Quest 5541: Rumbleshot's Ammo -->
+<Objective QuestName="Unknown" QuestId="5541" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 313: Wendigo Mane -->
+<Objective QuestName="Unknown" QuestId="313" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Ammo for Rumbleshot -->
+<TurnIn QuestName="Ammo for Rumbleshot" QuestId="5541" TurnInName="Hegnar Rumbleshot" TurnInId="1243" />
+
+<!-- Turn In: Beer Basted Boar Ribs -->
+<TurnIn QuestName="Beer Basted Boar Ribs" QuestId="384" TurnInName="Ragnar Thunderbrew" TurnInId="1267" />
+
+<!-- Turn In: Stocking Jetsteam -->
+<TurnIn QuestName="Stocking Jetsteam" QuestId="317" TurnInName="Pilot Bellowfiz" TurnInId="1378" />
+
+<!-- Pick Up: Evershine -->
+<PickUp QuestName="Evershine" QuestId="318" GiverName="Pilot Bellowfiz" GiverId="1378" />
+
+<!-- Turn In: The Grizzled Den -->
+<TurnIn QuestName="The Grizzled Den" QuestId="313" TurnInName="Pilot Stonegear" TurnInId="1377" />
+
+<!-- Turn In: Evershine -->
+<TurnIn QuestName="Evershine" QuestId="318" TurnInName="Rejold Barleybrew" TurnInId="1374" />
+
+<!-- Pick Up: A Favor for Evershine -->
+<PickUp QuestName="A Favor for Evershine" QuestId="319" GiverName="Rejold Barleybrew" GiverId="1374" />
+
+<!-- Pick Up: The Perfect Stout -->
+<PickUp QuestName="The Perfect Stout" QuestId="315" GiverName="Rejold Barleybrew" GiverId="1374" />
+
+<!-- Pick Up: Bitter Rivals -->
+<PickUp QuestName="Bitter Rivals" QuestId="310" GiverName="Marleth Barleybrew" GiverId="1375" />
+
+<!-- Kill Objective for Quest 319: Ice Claw Bear -->
+<Objective QuestName="Unknown" QuestId="319" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 319: Elder Crag Boar -->
+<Objective QuestName="Unknown" QuestId="319" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 319: Snow Leopard -->
+<Objective QuestName="Unknown" QuestId="319" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: A Favor for Evershine -->
+<TurnIn QuestName="A Favor for Evershine" QuestId="319" TurnInName="Rejold Barleybrew" TurnInId="1374" />
+
+<!-- Pick Up: Return to Bellowfiz -->
+<PickUp QuestName="Return to Bellowfiz" QuestId="320" GiverName="Rejold Barleybrew" GiverId="1374" />
+
+<!-- Collect Objective for Quest 315: Shimmerweed -->
+<Objective QuestName="Unknown" QuestId="315" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Return to Bellowfiz -->
+<TurnIn QuestName="Return to Bellowfiz" QuestId="320" TurnInName="Pilot Bellowfiz" TurnInId="1378" />
+
+<!-- Turn In: Bitter Rivals -->
+<TurnIn QuestName="Bitter Rivals" QuestId="310" TurnInName="Jarven Thunderbrew" TurnInId="1373" />
+
+<!-- Pick Up: Return to Marleth -->
+<PickUp QuestName="Return to Marleth" QuestId="311" GiverName="Jarven Thunderbrew" GiverId="1373" />
+
+<!-- Pick Up: Frostmane Hold -->
+<PickUp QuestName="Frostmane Hold" QuestId="287" GiverName="Senir Whitebeard" GiverId="1252" />
+
+<!-- Pick Up: Operation Recombobulation -->
+<PickUp QuestName="Operation Recombobulation" QuestId="412" GiverName="Razzle Sprysprocket" GiverId="1269" />
+
+<!-- Turn In: The Perfect Stout -->
+<TurnIn QuestName="The Perfect Stout" QuestId="315" TurnInName="Rejold Barleybrew" TurnInId="1374" />
+
+<!-- Pick Up: Shimmer Stout -->
+<PickUp QuestName="Shimmer Stout" QuestId="413" GiverName="Rejold Barleybrew" GiverId="1374" />
+
+<!-- Turn In: Return to Marleth -->
+<TurnIn QuestName="Return to Marleth" QuestId="311" TurnInName="Marleth Barleybrew" TurnInId="1375" />
+
+<!-- Kill Objective for Quest 287: Frostmane Headhunter -->
+<Objective QuestName="Unknown" QuestId="287" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 412: Restabilization Cog -->
+<Objective QuestName="Unknown" QuestId="412" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 412: Gyromechanic Gear -->
+<Objective QuestName="Unknown" QuestId="412" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Operation Recombobulation -->
+<TurnIn QuestName="Operation Recombobulation" QuestId="412" TurnInName="Razzle Sprysprocket" TurnInId="1269" />
+
+<!-- Turn In: Frostmane Hold -->
+<TurnIn QuestName="Frostmane Hold" QuestId="287" TurnInName="Senir Whitebeard" TurnInId="1252" />
+
+<!-- Turn In: Frostmane Hold -->
+<TurnIn QuestName="Frostmane Hold" QuestId="287" TurnInName="Senir Whitebeard" TurnInId="1252" />
+
+<!-- Pick Up: The Reports -->
+<PickUp QuestName="The Reports" QuestId="291" GiverName="Senir Whitebeard" GiverId="1252" />
+
+<!-- Pick Up: Protecting the Herd -->
+<PickUp QuestName="Protecting the Herd" QuestId="314" GiverName="Rudra Amberstill" GiverId="1265" />
+
+<!-- Collect Objective for Quest 314: Fang of Vagash -->
+<Objective QuestName="Unknown" QuestId="314" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Protecting the Herd -->
+<TurnIn QuestName="Protecting the Herd" QuestId="314" TurnInName="Rudra Amberstill" TurnInId="1265" />
+
+<!-- Pick Up: The Public Servant -->
+<PickUp QuestName="The Public Servant" QuestId="433" GiverName="Senator Mehr Stonehallow" GiverId="1977" />
+
+<!-- Pick Up: Those Blasted Troggs! -->
+<PickUp QuestName="Those Blasted Troggs!" QuestId="432" GiverName="Foreman Stonebrow" GiverId="1254" />
+
+<!-- Kill Objective for Quest 432: Rockjaw Skullthumper -->
+<Objective QuestName="Unknown" QuestId="432" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 433: Rockjaw Bonesnapper -->
+<Objective QuestName="Unknown" QuestId="433" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: The Public Servant -->
+<TurnIn QuestName="The Public Servant" QuestId="433" TurnInName="Senator Mehr Stonehallow" TurnInId="1977" />
+
+<!-- Turn In: Those Blasted Troggs! -->
+<TurnIn QuestName="Those Blasted Troggs!" QuestId="432" TurnInName="Foreman Stonebrow" TurnInId="1254" />
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: Muren Stormpike -->
+  <PickUp QuestName="Muren Stormpike" QuestId="1679" GiverName="Granis Swiftaxe" GiverId="1229" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Muren Stormpike -->
+  <TurnIn QuestName="Muren Stormpike" QuestId="1679" TurnInName="Muren Stormpike" TurnInId="6114" />
+  <!-- Pick Up: Vejrek -->
+  <PickUp QuestName="Vejrek" QuestId="1678" GiverName="Muren Stormpike" GiverId="6114" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Collect Objective for Quest 1678: Vejrek's Head -->
+  <Objective QuestName="Unknown" QuestId="1678" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Vejrek -->
+  <TurnIn QuestName="Vejrek" QuestId="1678" TurnInName="Muren Stormpike" TurnInId="6114" />
+</If>
+
+<!-- Turn In: Shimmer Stout -->
+<TurnIn QuestName="Shimmer Stout" QuestId="413" TurnInName="Mountaineer Barleybrew" TurnInId="1959" />
+
+<!-- Pick Up: Stout to Kadrell -->
+<PickUp QuestName="Stout to Kadrell" QuestId="414" GiverName="Mountaineer Barleybrew" GiverId="1959" />
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Pick Up: The Slaughtered Lamb -->
+  <PickUp QuestName="The Slaughtered Lamb" QuestId="1715" GiverName="Lago Blackwrench" GiverId="6120" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Slaughtered Lamb -->
+  <TurnIn QuestName="The Slaughtered Lamb" QuestId="1715" TurnInName="Gakin the Darkbinder" TurnInId="6122" />
+  <!-- Pick Up: Surena Caledon -->
+  <PickUp QuestName="Surena Caledon" QuestId="1688" GiverName="Gakin the Darkbinder" GiverId="6122" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Collect Objective for Quest 1688: Surena's Choker -->
+  <Objective QuestName="Unknown" QuestId="1688" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Surena Caledon -->
+  <TurnIn QuestName="Surena Caledon" QuestId="1688" TurnInName="Gakin the Darkbinder" TurnInId="6122" />
+  <!-- Pick Up: The Binding -->
+  <PickUp QuestName="The Binding" QuestId="1689" GiverName="Gakin the Darkbinder" GiverId="6122" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Kill Objective for Quest 1689: Summoned Voidwalker -->
+  <Objective QuestName="Unknown" QuestId="1689" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Binding -->
+  <TurnIn QuestName="The Binding" QuestId="1689" TurnInName="Gakin the Darkbinder" TurnInId="6122" />
+</If>
+
+<!-- Turn In: Stout to Kadrell -->
+<TurnIn QuestName="Stout to Kadrell" QuestId="414" TurnInName="Mountaineer Kadrell" TurnInId="1340" />
+
+<!-- Pick Up: Rat Catching -->
+<PickUp QuestName="Rat Catching" QuestId="416" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Pick Up: Mountaineer Stormpike's Task -->
+<PickUp QuestName="Mountaineer Stormpike's Task" QuestId="1339" GiverName="Mountaineer Kadrell" GiverId="1340" />
+
+<!-- Pick Up: Thelsamar Blood Sausages -->
+<PickUp QuestName="Thelsamar Blood Sausages" QuestId="418" GiverName="Vidra Hearthstove" GiverId="1963" />
+
+<!-- Collect Objective for Quest 418: Boar Intestines -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 418: Bear Meat -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 418: Spider Ichor -->
+<Objective QuestName="Unknown" QuestId="418" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 416: Tunnel Rat Ear -->
+<Objective QuestName="Unknown" QuestId="416" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Mountaineer Stormpike's Task -->
+<TurnIn QuestName="Mountaineer Stormpike's Task" QuestId="1339" TurnInName="Mountaineer Stormpike" TurnInId="1343" />
+
+<!-- Pick Up: Stormpike's Order -->
+<PickUp QuestName="Stormpike's Order" QuestId="1338" GiverName="Mountaineer Stormpike" GiverId="1343" />
+
+<!-- Turn In: Thelsamar Blood Sausages -->
+<TurnIn QuestName="Thelsamar Blood Sausages" QuestId="418" TurnInName="Vidra Hearthstove" TurnInId="1963" />
+
+<!-- Turn In: Rat Catching -->
+<TurnIn QuestName="Rat Catching" QuestId="416" TurnInName="Mountaineer Kadrell" TurnInId="1340" />
+
+<!-- Pick Up: In Defense of the King's Lands (1) -->
+<PickUp QuestName="In Defense of the King's Lands (1)" QuestId="224" GiverName="Mountaineer Cobbleflint" GiverId="1089" />
+
+<!-- Pick Up: The Trogg Threat -->
+<PickUp QuestName="The Trogg Threat" QuestId="267" GiverName="Captain Rugelfuss" GiverId="1092" />
+
+<!-- Kill Objective for Quest 224: Stonesplinter Trogg -->
+<Objective QuestName="Unknown" QuestId="224" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 224: Stonesplinter Scout -->
+<Objective QuestName="Unknown" QuestId="224" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 267: Trogg Stone Tooth -->
+<Objective QuestName="Unknown" QuestId="267" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: In Defense of the King's Lands (1) -->
+<TurnIn QuestName="In Defense of the King's Lands (1)" QuestId="224" TurnInName="Mountaineer Cobbleflint" TurnInId="1089" />
+
+<!-- Turn In: The Trogg Threat -->
+<TurnIn QuestName="The Trogg Threat" QuestId="267" TurnInName="Captain Rugelfuss" TurnInId="1092" />
+
+<!-- Turn In: The Reports -->
+<TurnIn QuestName="The Reports" QuestId="291" TurnInName="Senator Barin Redstone" TurnInId="1274" />
+
+<!-- Turn In: Stormpike's Order -->
+<TurnIn QuestName="Stormpike's Order" QuestId="1338" TurnInName="Furen Longbeard" TurnInId="5413" />
+
+<!-- Pick Up: Buzzbox 827 -->
+<PickUp QuestName="Buzzbox 827" QuestId="983" GiverName="Wizbang Cranktoggle" GiverId="3666" />
+
+<!-- Pick Up: Washed Ashore (1) -->
+<PickUp QuestName="Washed Ashore (1)" QuestId="3524" GiverName="Gwennyth Bly'Leggonde" GiverId="10219" />
+
+<!-- Pick Up: How Big a Threat? (1) -->
+<PickUp QuestName="How Big a Threat? (1)" QuestId="984" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Pick Up: Bashal'Aran (1) -->
+<PickUp QuestName="Bashal'Aran (1)" QuestId="954" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Collect Objective for Quest 983: Crawler Leg -->
+<Objective QuestName="Unknown" QuestId="983" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 3524: Sea Creature Bones -->
+<Objective QuestName="Unknown" QuestId="3524" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Buzzbox 827 -->
+<TurnIn QuestName="Buzzbox 827" QuestId="983" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Pick Up: Buzzbox 411 -->
+<PickUp QuestName="Buzzbox 411" QuestId="1001" GiverName="Thundris Windweaver" GiverId="3649" />
+
+<!-- Turn In: Washed Ashore (1) -->
+<TurnIn QuestName="Washed Ashore (1)" QuestId="3524" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Pick Up: Washed Ashore (2) -->
+<PickUp QuestName="Washed Ashore (2)" QuestId="4681" GiverName="Gwennyth Bly'Leggonde" GiverId="10219" />
+
+<!-- Collect Objective for Quest 1001: Thresher Eye -->
+<Objective QuestName="Unknown" QuestId="1001" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 4681: Sea Turtle Remains -->
+<Objective QuestName="Unknown" QuestId="4681" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: How Big a Threat? (1) -->
+<TurnIn QuestName="How Big a Threat? (1)" QuestId="984" TurnInName="Terenthis" TurnInId="3693" />
+
+<!-- Pick Up: Thundris Windweaver -->
+<PickUp QuestName="Thundris Windweaver" QuestId="4761" GiverName="Terenthis" GiverId="3693" />
+
+<!-- Turn In: Washed Ashore (2) -->
+<TurnIn QuestName="Washed Ashore (2)" QuestId="4681" TurnInName="Gwennyth Bly'Leggonde" TurnInId="10219" />
+
+<!-- Turn In: Thundris Windweaver -->
+<TurnIn QuestName="Thundris Windweaver" QuestId="4761" TurnInName="Thundris Windweaver" TurnInId="3649" />
+
+<!-- Turn In: Bashal'Aran (1) -->
+<TurnIn QuestName="Bashal'Aran (1)" QuestId="954" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: Bashal'Aran (2) -->
+<PickUp QuestName="Bashal'Aran (2)" QuestId="955" GiverName="Asterion" GiverId="3650" />
+
+<!-- Collect Objective for Quest 955: Grell Earring -->
+<Objective QuestName="Unknown" QuestId="955" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Bashal'Aran (2) -->
+<TurnIn QuestName="Bashal'Aran (2)" QuestId="955" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Turn In: Buzzbox 411 -->
+<TurnIn QuestName="Buzzbox 411" QuestId="1001" TurnInName="Asterion" TurnInId="3650" />
+
+<!-- Pick Up: Report to Gryan Stoutmantle -->
+<PickUp QuestName="Report to Gryan Stoutmantle" QuestId="109" GiverName="Marshal Dughan" GiverId="240" />
+
+</QuestOrder>
