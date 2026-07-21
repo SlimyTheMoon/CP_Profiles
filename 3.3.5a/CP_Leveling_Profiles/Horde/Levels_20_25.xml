@@ -1,0 +1,573 @@
+<QuestOrder>
+
+<!-- Collect Objective for Quest 3281: Stolen Silver -->
+<Objective QuestName="Unknown" QuestId="3281" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 878: Bristleback Water Seeker -->
+<Objective QuestName="Unknown" QuestId="878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 878: Bristleback Thornweaver -->
+<Objective QuestName="Unknown" QuestId="878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 878: Bristleback Geomancer -->
+<Objective QuestName="Unknown" QuestId="878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 899: Bristleback Quilboar Tusk -->
+<Objective QuestName="Unknown" QuestId="899" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="60" />
+
+<!-- Collect Objective for Quest 5052: Blood Shard -->
+<Objective QuestName="Unknown" QuestId="5052" Type="CollectItem" ItemId="5075" CollectCount="1" />
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Pick Up: Devourer of Souls -->
+  <PickUp QuestName="Devourer of Souls" QuestId="1507" GiverName="Gan'rul Bloodeye" GiverId="5875" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Devourer of Souls -->
+  <TurnIn QuestName="Devourer of Souls" QuestId="1507" TurnInName="Cazul" TurnInId="5909" />
+  <!-- Pick Up: Blind Cazul -->
+  <PickUp QuestName="Blind Cazul" QuestId="1508" GiverName="Cazul" GiverId="5909" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Blind Cazul -->
+  <TurnIn QuestName="Blind Cazul" QuestId="1508" TurnInName="Zankaja" TurnInId="5910" />
+  <!-- Pick Up: News of Dogran (1) -->
+  <PickUp QuestName="News of Dogran (1)" QuestId="1509" GiverName="Zankaja" GiverId="5910" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: News of Dogran (1) -->
+  <TurnIn QuestName="News of Dogran (1)" QuestId="1509" TurnInName="Gazrog" TurnInId="3464" />
+  <!-- Pick Up: News of Dogran (2) -->
+  <PickUp QuestName="News of Dogran (2)" QuestId="1510" GiverName="Gazrog" GiverId="3464" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: News of Dogran (2) -->
+  <TurnIn QuestName="News of Dogran (2)" QuestId="1510" TurnInName="Ken'zigla" TurnInId="4197" />
+  <!-- Pick Up: Ken'zigla's Draught -->
+  <PickUp QuestName="Ken'zigla's Draught" QuestId="1511" GiverName="Ken'zigla" GiverId="4197" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Ken'zigla's Draught -->
+  <TurnIn QuestName="Ken'zigla's Draught" QuestId="1511" TurnInName="Grunt Logmar" TurnInId="5911" />
+  <!-- Pick Up: Dogran's Captivity -->
+  <PickUp QuestName="Dogran's Captivity" QuestId="1515" GiverName="Grunt Logmar" GiverId="5911" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Dogran's Captivity -->
+  <TurnIn QuestName="Dogran's Captivity" QuestId="1515" TurnInName="Grunt Dogran" TurnInId="5908" />
+  <!-- Pick Up: Love's Gift -->
+  <PickUp QuestName="Love's Gift" QuestId="1512" GiverName="Grunt Dogran" GiverId="5908" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Love's Gift -->
+  <TurnIn QuestName="Love's Gift" QuestId="1512" TurnInName="Gan'rul Bloodeye" TurnInId="5875" />
+  <!-- Pick Up: The Binding -->
+  <PickUp QuestName="The Binding" QuestId="1513" GiverName="Gan'rul Bloodeye" GiverId="5875" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Kill Objective for Quest 1513: Summoned Succubus -->
+  <Objective QuestName="Unknown" QuestId="1513" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Binding -->
+  <TurnIn QuestName="The Binding" QuestId="1513" TurnInName="Gan'rul Bloodeye" TurnInId="5875" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Water (1) -->
+  <PickUp QuestName="Call of Water (1)" QuestId="1528" GiverName="Searn Firewarder" GiverId="5892" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (1) -->
+  <TurnIn QuestName="Call of Water (1)" QuestId="1528" TurnInName="Islen Waterseer" TurnInId="5901" />
+  <!-- Pick Up: Call of Water (2) -->
+  <PickUp QuestName="Call of Water (2)" QuestId="1530" GiverName="Islen Waterseer" GiverId="5901" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (2) -->
+  <TurnIn QuestName="Call of Water (2)" QuestId="1530" TurnInName="Brine" TurnInId="5899" />
+  <!-- Pick Up: Call of Water (3) -->
+  <PickUp QuestName="Call of Water (3)" QuestId="1535" GiverName="Brine" GiverId="5899" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1535: Filled Brown Waterskin -->
+  <Objective QuestName="Unknown" QuestId="1535" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (3) -->
+  <TurnIn QuestName="Call of Water (3)" QuestId="1535" TurnInName="Brine" TurnInId="5899" />
+  <!-- Pick Up: Call of Water (4) -->
+  <PickUp QuestName="Call of Water (4)" QuestId="1536" GiverName="Brine" GiverId="5899" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1536: Filled Red Waterskin -->
+  <Objective QuestName="Unknown" QuestId="1536" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (4) -->
+  <TurnIn QuestName="Call of Water (4)" QuestId="1536" TurnInName="Brine" TurnInId="5899" />
+  <!-- Pick Up: Call of Water (5) -->
+  <PickUp QuestName="Call of Water (5)" QuestId="1534" GiverName="Brine" GiverId="5899" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1534: Filled Blue Waterskin -->
+  <Objective QuestName="Unknown" QuestId="1534" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (5) -->
+  <TurnIn QuestName="Call of Water (5)" QuestId="1534" TurnInName="Brine" TurnInId="5899" />
+  <!-- Pick Up: Call of Water (6) -->
+  <PickUp QuestName="Call of Water (6)" QuestId="220" GiverName="Brine" GiverId="5899" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (6) -->
+  <TurnIn QuestName="Call of Water (6)" QuestId="220" TurnInName="Islen Waterseer" TurnInId="5901" />
+  <!-- Pick Up: Call of Water (7) -->
+  <PickUp QuestName="Call of Water (7)" QuestId="63" GiverName="Islen Waterseer" GiverId="5901" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 63: Corrupt Manifestation's Bracers -->
+  <Objective QuestName="Unknown" QuestId="63" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (7) -->
+  <TurnIn QuestName="Call of Water (7)" QuestId="63" TurnInName="Islen Waterseer" TurnInId="5901" />
+  <!-- Pick Up: Call of Water (8) -->
+  <PickUp QuestName="Call of Water (8)" QuestId="100" GiverName="Islen Waterseer" GiverId="5901" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (8) -->
+  <TurnIn QuestName="Call of Water (8)" QuestId="100" TurnInName="the Minor Manifestation of Water" TurnInId="5895" />
+  <!-- Pick Up: Call of Water (9) -->
+  <PickUp QuestName="Call of Water (9)" QuestId="96" GiverName="the Minor Manifestation of Water" GiverId="5895" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Water (9) -->
+  <TurnIn QuestName="Call of Water (9)" QuestId="96" TurnInName="Islen Waterseer" TurnInId="5901" />
+</If>
+
+<!-- Pick Up: Melor Sends Word -->
+<PickUp QuestName="Melor Sends Word" QuestId="1130" GiverName="Jorn Skyseer" GiverId="3387" />
+
+<!-- Turn In: Tribes at War -->
+<TurnIn QuestName="Tribes at War" QuestId="878" TurnInName="Mangletooth" TurnInId="3430" />
+
+<!-- Pick Up: Blood Shards of Agamaggan -->
+<PickUp QuestName="Blood Shards of Agamaggan" QuestId="5052" GiverName="Mangletooth" GiverId="3430" />
+
+<!-- Turn In: Blood Shards of Agamaggan -->
+<TurnIn QuestName="Blood Shards of Agamaggan" QuestId="5052" TurnInName="Mangletooth" TurnInId="3430" />
+
+<!-- Pick Up: Betrayal from Within (1) -->
+<PickUp QuestName="Betrayal from Within (1)" QuestId="879" GiverName="Mangletooth" GiverId="3430" />
+
+<!-- Turn In: Stolen Silver -->
+<TurnIn QuestName="Stolen Silver" QuestId="3281" TurnInName="Gazrog" TurnInId="3464" />
+
+<!-- Turn In: The Angry Scytheclaws -->
+<TurnIn QuestName="The Angry Scytheclaws" QuestId="905" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<!-- Pick Up: Jorn Skyseer -->
+<PickUp QuestName="Jorn Skyseer" QuestId="3261" GiverName="Sergra Darkthorn" GiverId="3338" />
+
+<!-- Turn In: Consumed by Hatred -->
+<TurnIn QuestName="Consumed by Hatred" QuestId="899" TurnInName="Mankrik" TurnInId="3432" />
+
+<!-- Turn In: Altered Beings -->
+<TurnIn QuestName="Altered Beings" QuestId="880" TurnInName="Tonga Runetotem" TurnInId="3448" />
+
+<!-- Pick Up: Hamuul Runetotem -->
+<PickUp QuestName="Hamuul Runetotem" QuestId="1489" GiverName="Tonga Runetotem" GiverId="3448" />
+
+<!-- Pick Up: The Ashenvale Hunt (1) -->
+<PickUp QuestName="The Ashenvale Hunt (1)" QuestId="235" GiverName="Warcaller Gorlach" GiverId="10880" />
+
+<!-- Collect Objective for Quest 891: Theramore Medal -->
+<Objective QuestName="Unknown" QuestId="891" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 891: Captain Fairmount -->
+<Objective QuestName="Unknown" QuestId="891" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 891: Cannoneer Smythe -->
+<Objective QuestName="Unknown" QuestId="891" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 891: Cannoneer Whessan -->
+<Objective QuestName="Unknown" QuestId="891" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Pick Up: Free From the Hold -->
+<PickUp QuestName="Free From the Hold" QuestId="898" GiverName="Gilthares Firebough" GiverId="3465" />
+
+<!-- Turn In: The Guns of Northwatch -->
+<TurnIn QuestName="The Guns of Northwatch" QuestId="891" TurnInName="Captain Thalo'thas Brightsun" TurnInId="3339" />
+
+<!-- Turn In: Free From the Hold -->
+<TurnIn QuestName="Free From the Hold" QuestId="898" TurnInName="Captain Thalo'thas Brightsun" TurnInId="3339" />
+
+<!-- Turn In: Verog the Dervish -->
+<TurnIn QuestName="Verog the Dervish" QuestId="851" TurnInName="Regthar Deathgate" TurnInId="3389" />
+
+<!-- Pick Up: Blood Feeders -->
+<PickUp QuestName="Blood Feeders" QuestId="6461" GiverName="Xen'Zilla" GiverId="12816" />
+
+<!-- Turn In: Letter to Jin'Zil -->
+<TurnIn QuestName="Letter to Jin'Zil" QuestId="1060" TurnInName="Witch Doctor Jin'Zil" TurnInId="3995" />
+
+<!-- Pick Up: Jin'Zil's Forest Magic -->
+<PickUp QuestName="Jin'Zil's Forest Magic" QuestId="1058" GiverName="Witch Doctor Jin'Zil" GiverId="3995" />
+
+<!-- Kill Objective for Quest 6461: Deepmoss Creeper -->
+<Objective QuestName="Unknown" QuestId="6461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 6461: Deepmoss Venomspitter -->
+<Objective QuestName="Unknown" QuestId="6461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Collect Objective for Quest 1069: Deepmoss Egg -->
+<Objective QuestName="Unknown" QuestId="1069" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: Ziz Fizziks -->
+<TurnIn QuestName="Ziz Fizziks" QuestId="1483" TurnInName="Ziz Fizziks" TurnInId="4201" />
+
+<!-- Pick Up: Super Reaper 6000 -->
+<PickUp QuestName="Super Reaper 6000" QuestId="1093" GiverName="Ziz Fizziks" GiverId="4201" />
+
+<!-- Kill Objective for Quest 1062: Venture Co. Logger -->
+<Objective QuestName="Unknown" QuestId="1062" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 1093: Super Reaper 6000 Blueprints -->
+<Objective QuestName="Unknown" QuestId="1093" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1069: Deepmoss Egg -->
+<Objective QuestName="Unknown" QuestId="1069" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: Super Reaper 6000 -->
+<TurnIn QuestName="Super Reaper 6000" QuestId="1093" TurnInName="Ziz Fizziks" TurnInId="4201" />
+
+<!-- Pick Up: Further Instructions (1) -->
+<PickUp QuestName="Further Instructions (1)" QuestId="1094" GiverName="Ziz Fizziks" GiverId="4201" />
+
+<!-- Pick Up: Harpies Threaten -->
+<PickUp QuestName="Harpies Threaten" QuestId="6282" GiverName="Maggran Earthbinder" GiverId="11860" />
+
+<!-- Pick Up: Cycle of Rebirth -->
+<PickUp QuestName="Cycle of Rebirth" QuestId="6301" GiverName="Tammra Windfield" GiverId="11864" />
+
+<!-- Pick Up: Cenarius' Legacy -->
+<PickUp QuestName="Cenarius' Legacy" QuestId="1087" GiverName="Braelyn Firehand" GiverId="4198" />
+
+<!-- Pick Up: Boulderslide Ravine -->
+<PickUp QuestName="Boulderslide Ravine" QuestId="6421" GiverName="Mor'rogal" GiverId="11861" />
+
+<!-- Pick Up: Trouble in the Deeps -->
+<PickUp QuestName="Trouble in the Deeps" QuestId="6562" GiverName="Tsunaman" GiverId="11862" />
+
+<!-- Pick Up: Elemental War -->
+<PickUp QuestName="Elemental War" QuestId="6393" GiverName="Tsunaman" GiverId="11862" />
+
+<!-- Collect Objective for Quest 6421: Resonite Crystal -->
+<Objective QuestName="Unknown" QuestId="6421" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Blood Feeders -->
+<TurnIn QuestName="Blood Feeders" QuestId="6461" TurnInName="Xen'Zilla" TurnInId="12816" />
+
+<!-- Turn In: Goblin Invaders -->
+<TurnIn QuestName="Goblin Invaders" QuestId="1062" TurnInName="Seereth Stonebreak" TurnInId="4049" />
+
+<!-- Pick Up: The Elder Crone -->
+<PickUp QuestName="The Elder Crone" QuestId="1063" GiverName="Seereth Stonebreak" GiverId="4049" />
+
+<!-- Pick Up: Shredding Machines -->
+<PickUp QuestName="Shredding Machines" QuestId="1068" GiverName="Seereth Stonebreak" GiverId="4049" />
+
+<!-- Turn In: Further Instructions (1) -->
+<TurnIn QuestName="Further Instructions (1)" QuestId="1094" TurnInName="Sputtervalve" TurnInId="3442" />
+
+<!-- Pick Up: Further Instructions (2) -->
+<PickUp QuestName="Further Instructions (2)" QuestId="1095" GiverName="Sputtervalve" GiverId="3442" />
+
+<!-- Turn In: Deepmoss Spider Eggs -->
+<TurnIn QuestName="Deepmoss Spider Eggs" QuestId="1069" TurnInName="Mebok Mizzyrix" TurnInId="3446" />
+
+<!-- Turn In: Melor Sends Word -->
+<TurnIn QuestName="Melor Sends Word" QuestId="1130" TurnInName="Melor Stonehoof" TurnInId="3441" />
+
+<!-- Pick Up: Steelsnap -->
+<PickUp QuestName="Steelsnap" QuestId="1131" GiverName="Melor Stonehoof" GiverId="3441" />
+
+<!-- Turn In: The Elder Crone -->
+<TurnIn QuestName="The Elder Crone" QuestId="1063" TurnInName="Magatha Grimtotem" TurnInId="4046" />
+
+<!-- Pick Up: Forsaken Aid -->
+<PickUp QuestName="Forsaken Aid" QuestId="1064" GiverName="Magatha Grimtotem" GiverId="4046" />
+
+<!-- Turn In: Hamuul Runetotem -->
+<TurnIn QuestName="Hamuul Runetotem" QuestId="1489" TurnInName="Arch Druid Hamuul Runetotem" TurnInId="5769" />
+
+<!-- Pick Up: Nara Wildmane -->
+<PickUp QuestName="Nara Wildmane" QuestId="1490" GiverName="Arch Druid Hamuul Runetotem" GiverId="5769" />
+
+<!-- Turn In: Nara Wildmane -->
+<TurnIn QuestName="Nara Wildmane" QuestId="1490" TurnInName="Nara Wildmane" TurnInId="5770" />
+
+<!-- Turn In: Forsaken Aid -->
+<TurnIn QuestName="Forsaken Aid" QuestId="1064" TurnInName="Apothecary Zamah" TurnInId="3419" />
+
+<!-- Pick Up: Journey to Tarren Mill -->
+<PickUp QuestName="Journey to Tarren Mill" QuestId="1065" GiverName="Apothecary Zamah" GiverId="3419" />
+
+<!-- Turn In: The Ashenvale Hunt (1) -->
+<TurnIn QuestName="The Ashenvale Hunt (1)" QuestId="235" TurnInName="Senani Thunderheart" TurnInId="12696" />
+
+<!-- Pick Up: The Ashenvale Hunt (2) -->
+<PickUp QuestName="The Ashenvale Hunt (2)" QuestId="6383" GiverName="Senani Thunderheart" GiverId="12696" />
+
+<!-- Pick Up: Naga at the Zoram Strand -->
+<PickUp QuestName="Naga at the Zoram Strand" QuestId="6442" GiverName="Marukai" GiverId="12719" />
+
+<!-- Turn In: Trouble in the Deeps -->
+<TurnIn QuestName="Trouble in the Deeps" QuestId="6562" TurnInName="Je'neu Sancrea" TurnInId="12736" />
+
+<!-- Collect Objective for Quest 6442: Wrathtail Head -->
+<Objective QuestName="Unknown" QuestId="6442" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="20" />
+
+<!-- Turn In: Naga at the Zoram Strand -->
+<TurnIn QuestName="Naga at the Zoram Strand" QuestId="6442" TurnInName="Marukai" TurnInId="12719" />
+
+<!-- Turn In: Jorn Skyseer -->
+<TurnIn QuestName="Jorn Skyseer" QuestId="3261" TurnInName="Jorn Skyseer" TurnInId="3387" />
+
+<!-- Pick Up: Ishamuhale -->
+<PickUp QuestName="Ishamuhale" QuestId="882" GiverName="Jorn Skyseer" GiverId="3387" />
+
+<!-- Pick Up: Chen's Empty Keg -->
+<PickUp QuestName="Chen's Empty Keg" QuestId="819" GiverName="Jorn Skyseer" GiverId="3387" />
+
+<!-- Collect Objective for Quest 868: Silithid Egg -->
+<Objective QuestName="Unknown" QuestId="868" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Pick Up: Gann's Reclamation -->
+<PickUp QuestName="Gann's Reclamation" QuestId="843" GiverName="Gann Stonespire" GiverId="3341" />
+
+<!-- Collect Objective for Quest 879: Kuz's Skull -->
+<Objective QuestName="Unknown" QuestId="879" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 893: Razormane Backstabber -->
+<Objective QuestName="Unknown" QuestId="893" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 893: Charred Razormane Wand -->
+<Objective QuestName="Unknown" QuestId="893" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 893: Razormane War Shield -->
+<Objective QuestName="Unknown" QuestId="893" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 879: Lok's Skull -->
+<Objective QuestName="Unknown" QuestId="879" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 879: Nak's Skull -->
+<Objective QuestName="Unknown" QuestId="879" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 843: Bael'dun Excavator -->
+<Objective QuestName="Unknown" QuestId="843" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 843: Bael'dun Foreman -->
+<Objective QuestName="Unknown" QuestId="843" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 843: Khazgorm's Journal -->
+<Objective QuestName="Unknown" QuestId="843" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Gann's Reclamation -->
+<TurnIn QuestName="Gann's Reclamation" QuestId="843" TurnInName="Gann Stonespire" TurnInId="3341" />
+
+<!-- Pick Up: Revenge of Gann (1) -->
+<PickUp QuestName="Revenge of Gann (1)" QuestId="846" GiverName="Gann Stonespire" GiverId="3341" />
+
+<!-- Turn In: Weapons of Choice -->
+<TurnIn QuestName="Weapons of Choice" QuestId="893" TurnInName="Tatternack Steelforge" TurnInId="3433" />
+
+<!-- Turn In: Betrayal from Within (1) -->
+<TurnIn QuestName="Betrayal from Within (1)" QuestId="879" TurnInName="Mangletooth" TurnInId="3430" />
+
+<!-- Pick Up: Betrayal from Within (2) -->
+<PickUp QuestName="Betrayal from Within (2)" QuestId="906" GiverName="Mangletooth" GiverId="3430" />
+
+<!-- Turn In: Betrayal from Within (2) -->
+<TurnIn QuestName="Betrayal from Within (2)" QuestId="906" TurnInName="Thork" TurnInId="3429" />
+
+<!-- Turn In: Egg Hunt -->
+<TurnIn QuestName="Egg Hunt" QuestId="868" TurnInName="Korran" TurnInId="3428" />
+
+<!-- Collect Objective for Quest 882: Ishamuhale's Fang -->
+<Objective QuestName="Unknown" QuestId="882" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Chen's Empty Keg -->
+<TurnIn QuestName="Chen's Empty Keg" QuestId="819" TurnInName="Brewmaster Drohn" TurnInId="3292" />
+
+<!-- Pick Up: Calling in the Reserves -->
+<PickUp QuestName="Calling in the Reserves" QuestId="5881" GiverName="Maggran Earthbinder" GiverId="11860" />
+
+<!-- Turn In: Boulderslide Ravine -->
+<TurnIn QuestName="Boulderslide Ravine" QuestId="6421" TurnInName="Mor'rogal" TurnInId="11861" />
+
+<!-- Collect Objective for Quest 6301: Gaea Seed -->
+<Objective QuestName="Unknown" QuestId="6301" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 1058: Courser Eye -->
+<Objective QuestName="Unknown" QuestId="1058" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Collect Objective for Quest 1058: Stonetalon Sap -->
+<Objective QuestName="Unknown" QuestId="1058" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 1058: Fey Dragon Scale -->
+<Objective QuestName="Unknown" QuestId="1058" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 1087: Son of Cenarius -->
+<Objective QuestName="Unknown" QuestId="1087" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 1087: Daughter of Cenarius -->
+<Objective QuestName="Unknown" QuestId="1087" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 1087: Cenarion Botanist -->
+<Objective QuestName="Unknown" QuestId="1087" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Collect Objective for Quest 1058: Twilight Whisker -->
+<Objective QuestName="Unknown" QuestId="1058" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Cycle of Rebirth -->
+<TurnIn QuestName="Cycle of Rebirth" QuestId="6301" TurnInName="Tammra Windfield" TurnInId="11864" />
+
+<!-- Pick Up: New Life -->
+<PickUp QuestName="New Life" QuestId="6381" GiverName="Tammra Windfield" GiverId="11864" />
+
+<!-- Turn In: Cenarius' Legacy -->
+<TurnIn QuestName="Cenarius' Legacy" QuestId="1087" TurnInName="Braelyn Firehand" TurnInId="4198" />
+
+<!-- Turn In: Further Instructions (2) -->
+<TurnIn QuestName="Further Instructions (2)" QuestId="1095" TurnInName="Ziz Fizziks" TurnInId="4201" />
+
+<!-- Pick Up: Gerenzo Wrenchwhistle -->
+<PickUp QuestName="Gerenzo Wrenchwhistle" QuestId="1096" GiverName="Ziz Fizziks" GiverId="4201" />
+
+<!-- Pick Up: Arachnophobia -->
+<PickUp QuestName="Arachnophobia" QuestId="6284" GiverName="Ziz Fizziks" GiverId="4201" />
+
+<!-- Collect Objective for Quest 6284: Besseleth's Fang -->
+<Objective QuestName="Unknown" QuestId="6284" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 1068: XT:9 -->
+<Objective QuestName="Unknown" QuestId="1068" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 1068: XT:4 -->
+<Objective QuestName="Unknown" QuestId="1068" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Jin'Zil's Forest Magic -->
+<TurnIn QuestName="Jin'Zil's Forest Magic" QuestId="1058" TurnInName="Witch Doctor Jin'Zil" TurnInId="3995" />
+
+<!-- Turn In: Shredding Machines -->
+<TurnIn QuestName="Shredding Machines" QuestId="1068" TurnInName="Seereth Stonebreak" TurnInId="4049" />
+
+<!-- Turn In: Arachnophobia -->
+<TurnIn QuestName="Arachnophobia" QuestId="6284" TurnInName="Maggran Earthbinder" TurnInId="11860" />
+
+<!-- Turn In: Ishamuhale -->
+<TurnIn QuestName="Ishamuhale" QuestId="882" TurnInName="Jorn Skyseer" TurnInId="3387" />
+
+<!-- Pick Up: Enraged Thunder Lizards -->
+<PickUp QuestName="Enraged Thunder Lizards" QuestId="907" GiverName="Jorn Skyseer" GiverId="3387" />
+
+<!-- Collect Objective for Quest 907: Thunder Lizard Blood -->
+<Objective QuestName="Unknown" QuestId="907" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 846: Nitroglycerin -->
+<Objective QuestName="Unknown" QuestId="846" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 846: Wood Pulp -->
+<Objective QuestName="Unknown" QuestId="846" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 846: Sodium Nitrate -->
+<Objective QuestName="Unknown" QuestId="846" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Revenge of Gann (1) -->
+<TurnIn QuestName="Revenge of Gann (1)" QuestId="846" TurnInName="Gann Stonespire" TurnInId="3341" />
+
+<!-- Pick Up: Revenge of Gann (2) -->
+<PickUp QuestName="Revenge of Gann (2)" QuestId="849" GiverName="Gann Stonespire" GiverId="3341" />
+
+<!-- Turn In: Revenge of Gann (2) -->
+<TurnIn QuestName="Revenge of Gann (2)" QuestId="849" TurnInName="Gann Stonespire" TurnInId="3341" />
+
+<!-- Turn In: Calling in the Reserves -->
+<TurnIn QuestName="Calling in the Reserves" QuestId="5881" TurnInName="Grish Longrunner" TurnInId="12576" />
+
+<!-- Pick Up: Message to Freewind Post -->
+<PickUp QuestName="Message to Freewind Post" QuestId="4542" GiverName="Brave Moonhorn" GiverId="10079" />
+
+<!-- Pick Up: Alien Egg -->
+<PickUp QuestName="Alien Egg" QuestId="4821" GiverName="Hagar Lightninghoof" GiverId="10539" />
+
+<!-- Turn In: Message to Freewind Post -->
+<TurnIn QuestName="Message to Freewind Post" QuestId="4542" TurnInName="Cliffwatcher Longhorn" TurnInId="10537" />
+
+<!-- Pick Up: Pacify the Centaur -->
+<PickUp QuestName="Pacify the Centaur" QuestId="4841" GiverName="Cliffwatcher Longhorn" GiverId="10537" />
+
+<!-- Pick Up: Wanted - Arnak Grimtotem -->
+<PickUp QuestName="Wanted - Arnak Grimtotem" QuestId="5147" GiverName="Cliffwatcher Longhorn" GiverId="10537" />
+
+<!-- Kill Objective for Quest 4841: Galak Scout -->
+<Objective QuestName="Unknown" QuestId="4841" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 4841: Galak Wrangler -->
+<Objective QuestName="Unknown" QuestId="4841" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 4841: Galak Windchaser -->
+<Objective QuestName="Unknown" QuestId="4841" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 4821: Alien Egg -->
+<Objective QuestName="Unknown" QuestId="4821" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Pacify the Centaur -->
+<TurnIn QuestName="Pacify the Centaur" QuestId="4841" TurnInName="Cliffwatcher Longhorn" TurnInId="10537" />
+
+<!-- Pick Up: Grimtotem Spying -->
+<PickUp QuestName="Grimtotem Spying" QuestId="5064" GiverName="Cliffwatcher Longhorn" GiverId="10537" />
+
+<!-- Turn In: Alien Egg -->
+<TurnIn QuestName="Alien Egg" QuestId="4821" TurnInName="Hagar Lightninghoof" TurnInId="10539" />
+
+<!-- Pick Up: Serpent Wild -->
+<PickUp QuestName="Serpent Wild" QuestId="4865" GiverName="Hagar Lightninghoof" GiverId="10539" />
+
+<!-- Turn In: Enraged Thunder Lizards -->
+<TurnIn QuestName="Enraged Thunder Lizards" QuestId="907" TurnInName="Jorn Skyseer" TurnInId="3387" />
+
+<!-- Pick Up: Cry of the Thunderhawk -->
+<PickUp QuestName="Cry of the Thunderhawk" QuestId="913" GiverName="Jorn Skyseer" GiverId="3387" />
+
+<!-- Collect Objective for Quest 913: Thunderhawk Wings -->
+<Objective QuestName="Unknown" QuestId="913" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Cry of the Thunderhawk -->
+<TurnIn QuestName="Cry of the Thunderhawk" QuestId="913" TurnInName="Jorn Skyseer" TurnInId="3387" />
+
+</QuestOrder>

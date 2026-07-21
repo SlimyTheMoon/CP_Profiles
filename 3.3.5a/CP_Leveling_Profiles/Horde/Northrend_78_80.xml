@@ -1,0 +1,1161 @@
+<QuestOrder>
+
+<!-- Turn In: Need an Engine, Take an Engine -->
+<TurnIn QuestName="Need an Engine, Take an Engine" QuestId="12522" TurnInName="Weslex Quickwrench" TurnInId="28033" />
+
+<!-- Pick Up: Have a Part, Give a Part -->
+<PickUp QuestName="Have a Part, Give a Part" QuestId="12523" GiverName="Weslex Quickwrench" GiverId="28033" />
+
+<!-- Collect Objective for Quest 12523: Venture Co. Spare Parts -->
+<Objective QuestName="Unknown" QuestId="12523" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Kill Objective for Quest 12525: Meatpie -->
+<Objective QuestName="Unknown" QuestId="12525" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 12525: Foreman Swindlegrin -->
+<Objective QuestName="Unknown" QuestId="12525" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Wipe That Grin Off His Face -->
+<TurnIn QuestName="Wipe That Grin Off His Face" QuestId="12525" TurnInName="Debaar" TurnInId="28032" />
+
+<!-- Turn In: Have a Part, Give a Part -->
+<TurnIn QuestName="Have a Part, Give a Part" QuestId="12523" TurnInName="Weslex Quickwrench" TurnInId="28033" />
+
+<!-- Pick Up: Aerial Surveillance -->
+<PickUp QuestName="Aerial Surveillance" QuestId="12696" GiverName="Professor Calvert" GiverId="28266" />
+
+<!-- Pick Up: Dreadsaber Mastery: Becoming a Predator -->
+<PickUp QuestName="Dreadsaber Mastery: Becoming a Predator" QuestId="12549" GiverName="Buck Cantwell" GiverId="28031" />
+
+<!-- Pick Up: Rhino Mastery: The Test -->
+<PickUp QuestName="Rhino Mastery: The Test" QuestId="12520" GiverName="Hemet Nesingwary" GiverId="27986" />
+
+<!-- Pick Up: Kick, What Kick? -->
+<PickUp QuestName="Kick, What Kick?" QuestId="12589" GiverName="Drostan" GiverId="28328" />
+
+<!-- Turn In: Kick, What Kick? -->
+<TurnIn QuestName="Kick, What Kick?" QuestId="12589" TurnInName="Drostan" TurnInId="28328" />
+
+<!-- Pick Up: The Great Hunter's Challenge -->
+<PickUp QuestName="The Great Hunter's Challenge" QuestId="12592" GiverName="Drostan" GiverId="28328" />
+
+<!-- Kill Objective for Quest 12549: Dreadsaber -->
+<Objective QuestName="Unknown" QuestId="12549" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 12520: Shardhorn Rhino -->
+<Objective QuestName="Unknown" QuestId="12520" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Turn In: Dreadsaber Mastery: Becoming a Predator -->
+<TurnIn QuestName="Dreadsaber Mastery: Becoming a Predator" QuestId="12549" TurnInName="Buck Cantwell" TurnInId="28031" />
+
+<!-- Pick Up: Dreadsaber Mastery: Stalking the Prey -->
+<PickUp QuestName="Dreadsaber Mastery: Stalking the Prey" QuestId="12550" GiverName="Buck Cantwell" GiverId="28031" />
+
+<!-- Turn In: Rhino Mastery: The Test -->
+<TurnIn QuestName="Rhino Mastery: The Test" QuestId="12520" TurnInName="Hemet Nesingwary" TurnInId="27986" />
+
+<!-- Pick Up: Rhino Mastery: The Chase -->
+<PickUp QuestName="Rhino Mastery: The Chase" QuestId="12526" GiverName="Hemet Nesingwary" GiverId="27986" />
+
+<!-- Pick Up: A Steak Fit for a Hunter -->
+<PickUp QuestName="A Steak Fit for a Hunter" QuestId="12804" GiverName="Korg the Cleaver" GiverId="28046" />
+
+<!-- Pick Up: Some Make Lemonade, Some Make Liquor -->
+<PickUp QuestName="Some Make Lemonade, Some Make Liquor" QuestId="12634" GiverName="Grimbooze Thunderbrew" GiverId="29157" />
+
+<!-- Turn In: The Great Hunter's Challenge -->
+<TurnIn QuestName="The Great Hunter's Challenge" QuestId="12592" TurnInName="Drostan" TurnInId="28328" />
+
+<!-- Pick Up: Crocolisk Mastery: The Trial -->
+<PickUp QuestName="Crocolisk Mastery: The Trial" QuestId="12551" GiverName="Debaar" GiverId="28032" />
+
+<!-- Turn In: Rhino Mastery: The Chase -->
+<TurnIn QuestName="Rhino Mastery: The Chase" QuestId="12526" TurnInName="Oracle Soo-rahm" TurnInId="28191" />
+
+<!-- Pick Up: An Offering for Soo-rahm -->
+<PickUp QuestName="An Offering for Soo-rahm" QuestId="12543" GiverName="Oracle Soo-rahm" GiverId="28191" />
+
+<!-- Collect Objective for Quest 12804: Longneck Grazer Steak -->
+<Objective QuestName="Unknown" QuestId="12804" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 12551: Mangal Crocolisk -->
+<Objective QuestName="Unknown" QuestId="12551" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 12543: Intact Cobra Fang -->
+<Objective QuestName="Unknown" QuestId="12543" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 12634: Orange -->
+<Objective QuestName="Unknown" QuestId="12634" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12634: Banana Bunch -->
+<Objective QuestName="Unknown" QuestId="12634" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Collect Objective for Quest 12634: Papaya -->
+<Objective QuestName="Unknown" QuestId="12634" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Aerial Surveillance -->
+<TurnIn QuestName="Aerial Surveillance" QuestId="12696" TurnInName="Pilot Vic" TurnInId="28746" />
+
+<!-- Pick Up: An Embarassing Incident -->
+<PickUp QuestName="An Embarassing Incident" QuestId="12699" GiverName="Pilot Vic" GiverId="28746" />
+
+<!-- Pick Up: Force of Nature -->
+<PickUp QuestName="Force of Nature" QuestId="12803" GiverName="Pilot Vic" GiverId="28746" />
+
+<!-- Pick Up: The Part-time Hunter -->
+<PickUp QuestName="The Part-time Hunter" QuestId="12654" GiverName="Tamara Wobblesprocket" GiverId="28568" />
+
+<!-- Collect Objective for Quest 12699: Vic's Keys -->
+<Objective QuestName="Unknown" QuestId="12699" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: An Embarassing Incident -->
+<TurnIn QuestName="An Embarassing Incident" QuestId="12699" TurnInName="Pilot Vic" TurnInId="28746" />
+
+<!-- Pick Up: Reconnaissance Flight -->
+<PickUp QuestName="Reconnaissance Flight" QuestId="12671" GiverName="Pilot Vic" GiverId="28746" />
+
+<!-- Turn In: Reconnaissance Flight -->
+<TurnIn QuestName="Reconnaissance Flight" QuestId="12671" TurnInName="Pilot Vic" TurnInId="28746" />
+
+<!-- Turn In: Dreadsaber Mastery: Stalking the Prey -->
+<TurnIn QuestName="Dreadsaber Mastery: Stalking the Prey" QuestId="12550" TurnInName="Buck Cantwell" TurnInId="28031" />
+
+<!-- Pick Up: Dreadsaber Mastery: Ready to Pounce -->
+<PickUp QuestName="Dreadsaber Mastery: Ready to Pounce" QuestId="12558" GiverName="Buck Cantwell" GiverId="28031" />
+
+<!-- Turn In: A Steak Fit for a Hunter -->
+<TurnIn QuestName="A Steak Fit for a Hunter" QuestId="12804" TurnInName="Korg the Cleaver" TurnInId="28046" />
+
+<!-- Turn In: Some Make Lemonade, Some Make Liquor -->
+<TurnIn QuestName="Some Make Lemonade, Some Make Liquor" QuestId="12634" TurnInName="Grimbooze Thunderbrew" TurnInId="29157" />
+
+<!-- Pick Up: Still At It -->
+<PickUp QuestName="Still At It" QuestId="12644" GiverName="Grimbooze Thunderbrew" GiverId="29157" />
+
+<!-- Collect Objective for Quest 12644: Thunderbrew's Jungle Punch -->
+<Objective QuestName="Unknown" QuestId="12644" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Still At It -->
+<TurnIn QuestName="Still At It" QuestId="12644" TurnInName="Grimbooze Thunderbrew" TurnInId="29157" />
+
+<!-- Pick Up: The Taste Test -->
+<PickUp QuestName="The Taste Test" QuestId="12645" GiverName="Grimbooze Thunderbrew" GiverId="29157" />
+
+<!-- Turn In: Crocolisk Mastery: The Trial -->
+<TurnIn QuestName="Crocolisk Mastery: The Trial" QuestId="12551" TurnInName="Debaar" TurnInId="28032" />
+
+<!-- Pick Up: Crocolisk Mastery: The Plan -->
+<PickUp QuestName="Crocolisk Mastery: The Plan" QuestId="12560" GiverName="Debaar" GiverId="28032" />
+
+<!-- Turn In: An Offering for Soo-rahm -->
+<TurnIn QuestName="An Offering for Soo-rahm" QuestId="12543" TurnInName="Oracle Soo-rahm" TurnInId="28191" />
+
+<!-- Pick Up: The Bones of Nozronn -->
+<PickUp QuestName="The Bones of Nozronn" QuestId="12544" GiverName="Oracle Soo-rahm" GiverId="28191" />
+
+<!-- Turn In: The Bones of Nozronn -->
+<TurnIn QuestName="The Bones of Nozronn" QuestId="12544" TurnInName="Hemet Nesingwary" TurnInId="27986" />
+
+<!-- Pick Up: Rhino Mastery: The Kill -->
+<PickUp QuestName="Rhino Mastery: The Kill" QuestId="12556" GiverName="Hemet Nesingwary" GiverId="27986" />
+
+<!-- Collect Objective for Quest 12558: Shango's Pelt -->
+<Objective QuestName="Unknown" QuestId="12558" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12560: Sandfern -->
+<Objective QuestName="Unknown" QuestId="12560" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 12556: Farunn's Horn -->
+<Objective QuestName="Unknown" QuestId="12556" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Rhino Mastery: The Kill -->
+<TurnIn QuestName="Rhino Mastery: The Kill" QuestId="12556" TurnInName="Hemet Nesingwary" TurnInId="27986" />
+
+<!-- Turn In: Dreadsaber Mastery: Ready to Pounce -->
+<TurnIn QuestName="Dreadsaber Mastery: Ready to Pounce" QuestId="12558" TurnInName="Buck Cantwell" TurnInId="28031" />
+
+<!-- Turn In: The Taste Test -->
+<TurnIn QuestName="The Taste Test" QuestId="12645" TurnInName="Grimbooze Thunderbrew" TurnInId="29157" />
+
+<!-- Turn In: Crocolisk Mastery: The Plan -->
+<TurnIn QuestName="Crocolisk Mastery: The Plan" QuestId="12560" TurnInName="Debaar" TurnInId="28032" />
+
+<!-- Pick Up: Crocolisk Mastery: The Ambush -->
+<PickUp QuestName="Crocolisk Mastery: The Ambush" QuestId="12569" GiverName="Debaar" GiverId="28032" />
+
+<!-- Collect Objective for Quest 12569: Bushwhacker's Jaw -->
+<Objective QuestName="Unknown" QuestId="12569" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12654: Pitch's Remains -->
+<Objective QuestName="Unknown" QuestId="12654" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Playing Along -->
+<PickUp QuestName="Playing Along" QuestId="12528" GiverName="Tracker Gekgek" GiverId="28095" />
+
+<!-- Turn In: Playing Along -->
+<TurnIn QuestName="Playing Along" QuestId="12528" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Pick Up: The Ape Hunter's Slave -->
+<PickUp QuestName="The Ape Hunter's Slave" QuestId="12529" GiverName="High-Shaman Rakjak" GiverId="28082" />
+
+<!-- Pick Up: Tormenting the Softknuckles -->
+<PickUp QuestName="Tormenting the Softknuckles" QuestId="12530" GiverName="High-Shaman Rakjak" GiverId="28082" />
+
+<!-- Kill Objective for Quest 12529: Hardknuckle Forager -->
+<Objective QuestName="Unknown" QuestId="12529" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 12529: Hardknuckle Charger -->
+<Objective QuestName="Unknown" QuestId="12529" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 12530: Hardknuckle Matriarch -->
+<Objective QuestName="Unknown" QuestId="12530" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: The Ape Hunter's Slave -->
+<TurnIn QuestName="The Ape Hunter's Slave" QuestId="12529" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Turn In: Tormenting the Softknuckles -->
+<TurnIn QuestName="Tormenting the Softknuckles" QuestId="12530" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Pick Up: The Wasp Hunter's Apprentice -->
+<PickUp QuestName="The Wasp Hunter's Apprentice" QuestId="12533" GiverName="High-Shaman Rakjak" GiverId="28082" />
+
+<!-- Pick Up: The Sapphire Queen -->
+<PickUp QuestName="The Sapphire Queen" QuestId="12534" GiverName="Elder Harkek" GiverId="28138" />
+
+<!-- Kill Objective for Quest 12533: Sapphire Hive Wasp -->
+<Objective QuestName="Unknown" QuestId="12533" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 12533: Sapphire Hive Drone -->
+<Objective QuestName="Unknown" QuestId="12533" Type="KillMob" MobId="UNKNOWN_ID" KillCount="9" />
+
+<!-- Collect Objective for Quest 12534: Stinger of the Sapphire Queen -->
+<Objective QuestName="Unknown" QuestId="12534" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Wasp Hunter's Apprentice -->
+<TurnIn QuestName="The Wasp Hunter's Apprentice" QuestId="12533" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Turn In: The Sapphire Queen -->
+<TurnIn QuestName="The Sapphire Queen" QuestId="12534" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Pick Up: Flown the Coop! -->
+<PickUp QuestName="Flown the Coop!" QuestId="12532" GiverName="Elder Harkek" GiverId="28138" />
+
+<!-- Collect Objective for Quest 12532: Captured Chicken -->
+<Objective QuestName="Unknown" QuestId="12532" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Flown the Coop! -->
+<TurnIn QuestName="Flown the Coop!" QuestId="12532" TurnInName="Elder Harkek" TurnInId="28138" />
+
+<!-- Pick Up: The Underground Menace -->
+<PickUp QuestName="The Underground Menace" QuestId="12531" GiverName="Elder Harkek" GiverId="28138" />
+
+<!-- Pick Up: Mischief in the Making -->
+<PickUp QuestName="Mischief in the Making" QuestId="12535" GiverName="High-Shaman Rakjak" GiverId="28082" />
+
+<!-- Collect Objective for Quest 12535: Skyreach Crystal Cluster -->
+<Objective QuestName="Unknown" QuestId="12535" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 12531: Claw of Serfex -->
+<Objective QuestName="Unknown" QuestId="12531" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Underground Menace -->
+<TurnIn QuestName="The Underground Menace" QuestId="12531" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Turn In: Mischief in the Making -->
+<TurnIn QuestName="Mischief in the Making" QuestId="12535" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Pick Up: A Rough Ride -->
+<PickUp QuestName="A Rough Ride" QuestId="12536" GiverName="High-Shaman Rakjak" GiverId="28082" />
+
+<!-- Turn In: A Rough Ride -->
+<TurnIn QuestName="A Rough Ride" QuestId="12536" TurnInName="Zepik the Gorloc Hunter" TurnInId="28668" />
+
+<!-- Pick Up: Lightning Definitely Strikes Twice -->
+<PickUp QuestName="Lightning Definitely Strikes Twice" QuestId="12537" GiverName="Zepik the Gorloc Hunter" GiverId="28668" />
+
+<!-- Pick Up: The Mist Isn't Listening -->
+<PickUp QuestName="The Mist Isn't Listening" QuestId="12538" GiverName="Zepik the Gorloc Hunter" GiverId="28668" />
+
+<!-- Turn In: Lightning Definitely Strikes Twice -->
+<TurnIn QuestName="Lightning Definitely Strikes Twice" QuestId="12537" TurnInName="Zepik the Gorloc Hunter" TurnInId="28216" />
+
+<!-- Turn In: The Mist Isn't Listening -->
+<TurnIn QuestName="The Mist Isn't Listening" QuestId="12538" TurnInName="Zepik the Gorloc Hunter" TurnInId="28216" />
+
+<!-- Pick Up: Hoofing It -->
+<PickUp QuestName="Hoofing It" QuestId="12539" GiverName="Zepik the Gorloc Hunter" GiverId="28216" />
+
+<!-- Turn In: Hoofing It -->
+<TurnIn QuestName="Hoofing It" QuestId="12539" TurnInName="High-Shaman Rakjak" TurnInId="28082" />
+
+<!-- Pick Up: Just Following Orders -->
+<PickUp QuestName="Just Following Orders" QuestId="12540" GiverName="High-Shaman Rakjak" GiverId="28082" />
+
+<!-- Turn In: Just Following Orders -->
+<TurnIn QuestName="Just Following Orders" QuestId="12540" TurnInName="Injured Rainspeaker Oracle" TurnInId="28217" />
+
+<!-- Pick Up: Fortunate Misunderstandings -->
+<PickUp QuestName="Fortunate Misunderstandings" QuestId="12570" GiverName="Injured Rainspeaker Oracle" GiverId="28217" />
+
+<!-- Turn In: Fortunate Misunderstandings -->
+<TurnIn QuestName="Fortunate Misunderstandings" QuestId="12570" TurnInName="High-Oracle Soo-say" TurnInId="28027" />
+
+<!-- Pick Up: Make the Bad Snake Go Away -->
+<PickUp QuestName="Make the Bad Snake Go Away" QuestId="12571" GiverName="High-Oracle Soo-say" GiverId="28027" />
+
+<!-- Pick Up: Gods like Shiny Things -->
+<PickUp QuestName="Gods like Shiny Things" QuestId="12572" GiverName="Lafoo" GiverId="28120" />
+
+<!-- Kill Objective for Quest 12571: Venomtip -->
+<Objective QuestName="Unknown" QuestId="12571" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 12572: Shiny Treasures -->
+<Objective QuestName="Unknown" QuestId="12572" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Kill Objective for Quest 12571: Emperor Cobra -->
+<Objective QuestName="Unknown" QuestId="12571" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Make the Bad Snake Go Away -->
+<TurnIn QuestName="Make the Bad Snake Go Away" QuestId="12571" TurnInName="High-Oracle Soo-say" TurnInId="28027" />
+
+<!-- Pick Up: Making Peace -->
+<PickUp QuestName="Making Peace" QuestId="12573" GiverName="High-Oracle Soo-say" GiverId="28027" />
+
+<!-- Turn In: Gods like Shiny Things -->
+<TurnIn QuestName="Gods like Shiny Things" QuestId="12572" TurnInName="High-Oracle Soo-say" TurnInId="28027" />
+
+<!-- Turn In: The Part-time Hunter -->
+<TurnIn QuestName="The Part-time Hunter" QuestId="12654" TurnInName="Tamara Wobblesprocket" TurnInId="28568" />
+
+<!-- Turn In: Making Peace -->
+<TurnIn QuestName="Making Peace" QuestId="12573" TurnInName="High-Oracle Soo-say" TurnInId="28027" />
+
+<!-- Pick Up: Back So Soon? -->
+<PickUp QuestName="Back So Soon?" QuestId="12574" GiverName="High-Oracle Soo-say" GiverId="28027" />
+
+<!-- Turn In: Back So Soon? -->
+<TurnIn QuestName="Back So Soon?" QuestId="12574" TurnInName="Mistcaller Soo-gan" TurnInId="28114" />
+
+<!-- Pick Up: The Lost Mistwhisper Treasure -->
+<PickUp QuestName="The Lost Mistwhisper Treasure" QuestId="12575" GiverName="Mistcaller Soo-gan" GiverId="28114" />
+
+<!-- Pick Up: Forced Hand -->
+<PickUp QuestName="Forced Hand" QuestId="12576" GiverName="Mistcaller Soo-gan" GiverId="28114" />
+
+<!-- Pick Up: Burning to Help -->
+<PickUp QuestName="Burning to Help" QuestId="12683" GiverName="Colvin Norrington" GiverId="28771" />
+
+<!-- Kill Objective for Quest 12576: Frenzyheart Spearbearer -->
+<Objective QuestName="Unknown" QuestId="12576" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 12576: Frenzyheart Scavenger -->
+<Objective QuestName="Unknown" QuestId="12576" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 12575: Warlord Tartek -->
+<Objective QuestName="Unknown" QuestId="12575" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 12575: Mistwhisper Treasure -->
+<Objective QuestName="Unknown" QuestId="12575" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 12683: Bittertide Hydra -->
+<Objective QuestName="Unknown" QuestId="12683" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: The Lost Mistwhisper Treasure -->
+<TurnIn QuestName="The Lost Mistwhisper Treasure" QuestId="12575" TurnInName="Mistcaller Soo-gan" TurnInId="28114" />
+
+<!-- Turn In: Forced Hand -->
+<TurnIn QuestName="Forced Hand" QuestId="12576" TurnInName="Mistcaller Soo-gan" TurnInId="28114" />
+
+<!-- Pick Up: Home Time! -->
+<PickUp QuestName="Home Time!" QuestId="12577" GiverName="Mistcaller Soo-gan" GiverId="28114" />
+
+<!-- Turn In: Burning to Help -->
+<TurnIn QuestName="Burning to Help" QuestId="12683" TurnInName="Colvin Norrington" TurnInId="28771" />
+
+<!-- Turn In: Crocolisk Mastery: The Ambush -->
+<TurnIn QuestName="Crocolisk Mastery: The Ambush" QuestId="12569" TurnInName="Debaar" TurnInId="28032" />
+
+<!-- Pick Up: In Search of Bigger Game -->
+<PickUp QuestName="In Search of Bigger Game" QuestId="12595" GiverName="Hemet Nesingwary" GiverId="27986" />
+
+<!-- Turn In: In Search of Bigger Game -->
+<TurnIn QuestName="In Search of Bigger Game" QuestId="12595" TurnInName="Dorian Drakestalker" TurnInId="28376" />
+
+<!-- Pick Up: Sharpening Your Talons -->
+<PickUp QuestName="Sharpening Your Talons" QuestId="12603" GiverName="Dorian Drakestalker" GiverId="28376" />
+
+<!-- Pick Up: Securing the Bait -->
+<PickUp QuestName="Securing the Bait" QuestId="12605" GiverName="Dorian Drakestalker" GiverId="28376" />
+
+<!-- Kill Objective for Quest 12603: Primordial Drake -->
+<Objective QuestName="Unknown" QuestId="12603" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 12605: Primordial Hatchling -->
+<Objective QuestName="Unknown" QuestId="12605" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Sharpening Your Talons -->
+<TurnIn QuestName="Sharpening Your Talons" QuestId="12603" TurnInName="Dorian Drakestalker" TurnInId="28376" />
+
+<!-- Turn In: Securing the Bait -->
+<TurnIn QuestName="Securing the Bait" QuestId="12605" TurnInName="Dorian Drakestalker" TurnInId="28376" />
+
+<!-- Pick Up: Reagent Agent -->
+<PickUp QuestName="Reagent Agent" QuestId="12681" GiverName="Colvin Norrginton" GiverId="28771" />
+
+<!-- Pick Up: A Mammoth Undertaking -->
+<PickUp QuestName="A Mammoth Undertaking" QuestId="12607" GiverName="Zootfizzle" GiverId="28374" />
+
+<!-- Pick Up: My Pet Roc -->
+<PickUp QuestName="My Pet Roc" QuestId="12658" GiverName="Zootfizzle" GiverId="28374" />
+
+<!-- Turn In: A Mammoth Undertaking -->
+<TurnIn QuestName="A Mammoth Undertaking" QuestId="12607" TurnInName="Zootfizzle" TurnInId="28374" />
+
+<!-- Collect Objective for Quest 12681: Twisted Roc Talon -->
+<Objective QuestName="Unknown" QuestId="12681" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 12658: Roc Egg -->
+<Objective QuestName="Unknown" QuestId="12658" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: Reagent Agent -->
+<TurnIn QuestName="Reagent Agent" QuestId="12681" TurnInName="Colvin Norrington" TurnInId="28771" />
+
+<!-- Turn In: My Pet Roc -->
+<TurnIn QuestName="My Pet Roc" QuestId="12658" TurnInName="Zootfizzle" TurnInId="28374" />
+
+<!-- Turn In: Home Time! -->
+<TurnIn QuestName="Home Time!" QuestId="12577" TurnInName="High-Oracle Soo-say" TurnInId="28027" />
+
+<!-- Pick Up: The Angry Gorloc -->
+<PickUp QuestName="The Angry Gorloc" QuestId="12578" GiverName="High-Oracle Soo-say" GiverId="28027" />
+
+<!-- Turn In: Force of Nature -->
+<TurnIn QuestName="Force of Nature" QuestId="12803" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: An Issue of Trust -->
+<PickUp QuestName="An Issue of Trust" QuestId="12561" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Kill Objective for Quest 12561: Blighted Corpse -->
+<Objective QuestName="Unknown" QuestId="12561" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 12561: Bonescythe Ravager -->
+<Objective QuestName="Unknown" QuestId="12561" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: An Issue of Trust -->
+<TurnIn QuestName="An Issue of Trust" QuestId="12561" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Returned Sevenfold -->
+<PickUp QuestName="Returned Sevenfold" QuestId="12611" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Kill Objective for Quest 12611: Thalgran Blightbringer -->
+<Objective QuestName="Unknown" QuestId="12611" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Returned Sevenfold -->
+<TurnIn QuestName="Returned Sevenfold" QuestId="12611" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: The Fallen Pillar -->
+<PickUp QuestName="The Fallen Pillar" QuestId="12612" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Pick Up: Salvaging Life's Strength -->
+<PickUp QuestName="Salvaging Life's Strength" QuestId="12805" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Turn In: The Fallen Pillar -->
+<TurnIn QuestName="The Fallen Pillar" QuestId="12612" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Cultist Incursion -->
+<PickUp QuestName="Cultist Incursion" QuestId="12608" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Turn In: The Angry Gorloc -->
+<TurnIn QuestName="The Angry Gorloc" QuestId="12578" TurnInName="Moodle" TurnInId="28122" />
+
+<!-- Pick Up: The Mosswalker Savior -->
+<PickUp QuestName="The Mosswalker Savior" QuestId="12580" GiverName="Moodle" GiverId="28122" />
+
+<!-- Pick Up: Lifeblood of the Mosswalker Shrine -->
+<PickUp QuestName="Lifeblood of the Mosswalker Shrine" QuestId="12579" GiverName="Moodle" GiverId="28122" />
+
+<!-- Turn In: The Mosswalker Savior -->
+<TurnIn QuestName="The Mosswalker Savior" QuestId="12580" TurnInName="Moodle" TurnInId="28122" />
+
+<!-- Collect Objective for Quest 12579: Lifeblood Shard -->
+<Objective QuestName="Unknown" QuestId="12579" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Lifeblood of the Mosswalker Shrine -->
+<TurnIn QuestName="Lifeblood of the Mosswalker Shrine" QuestId="12579" TurnInName="Moodle" TurnInId="28122" />
+
+<!-- Turn In: Cultist Incursion -->
+<TurnIn QuestName="Cultist Incursion" QuestId="12608" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Turn In: Salvaging Life's Strength -->
+<TurnIn QuestName="Salvaging Life's Strength" QuestId="12805" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Exterminate the Intruders -->
+<PickUp QuestName="Exterminate the Intruders" QuestId="12617" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Pick Up: Weapons of Destruction -->
+<PickUp QuestName="Weapons of Destruction" QuestId="12660" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Kill Objective for Quest 12617: Cultist Infiltrator -->
+<Objective QuestName="Unknown" QuestId="12617" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Exterminate the Intruders -->
+<TurnIn QuestName="Exterminate the Intruders" QuestId="12617" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Turn In: Weapons of Destruction -->
+<TurnIn QuestName="Weapons of Destruction" QuestId="12660" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: The Lifewarden's Wrath -->
+<PickUp QuestName="The Lifewarden's Wrath" QuestId="12620" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Turn In: The Lifewarden's Wrath -->
+<TurnIn QuestName="The Lifewarden's Wrath" QuestId="12620" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Freya's Pact -->
+<PickUp QuestName="Freya's Pact" QuestId="12621" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Collect Objective for Quest 12621: Freya's Pact -->
+<Objective QuestName="Unknown" QuestId="12621" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Freya's Pact -->
+<TurnIn QuestName="Freya's Pact" QuestId="12621" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Powering the Waygate - The Maker's Perch -->
+<PickUp QuestName="Powering the Waygate - The Maker's Perch" QuestId="12559" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Turn In: Powering the Waygate - The Maker's Perch -->
+<TurnIn QuestName="Powering the Waygate - The Maker's Perch" QuestId="12559" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Powering the Waygate - The Maker's Overlook -->
+<PickUp QuestName="Powering the Waygate - The Maker's Overlook" QuestId="12613" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Pick Up: A Timeworn Coffer -->
+<PickUp QuestName="A Timeworn Coffer" QuestId="12691" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Collect Objective for Quest 12691: Huge Stone Key -->
+<Objective QuestName="Unknown" QuestId="12691" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Timeworn Coffer -->
+<TurnIn QuestName="A Timeworn Coffer" QuestId="12691" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Turn In: Powering the Waygate - The Maker's Overlook -->
+<TurnIn QuestName="Powering the Waygate - The Maker's Overlook" QuestId="12613" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: The Etymidian -->
+<PickUp QuestName="The Etymidian" QuestId="12548" GiverName="Avatar of Freya" GiverId="27801" />
+
+<!-- Turn In: The Etymidian -->
+<TurnIn QuestName="The Etymidian" QuestId="12548" TurnInName="The Etymidian" TurnInId="28092" />
+
+<!-- Pick Up: The Activation Rune -->
+<PickUp QuestName="The Activation Rune" QuestId="12547" GiverName="The Etymidian" GiverId="28092" />
+
+<!-- Collect Objective for Quest 12547: Omega Rune -->
+<Objective QuestName="Unknown" QuestId="12547" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Activation Rune -->
+<TurnIn QuestName="The Activation Rune" QuestId="12547" TurnInName="The Etymidian" TurnInId="28092" />
+
+<!-- Pick Up: Back Through the Waygate -->
+<PickUp QuestName="Back Through the Waygate" QuestId="12797" GiverName="The Etymidian" GiverId="28092" />
+
+<!-- Turn In: Back Through the Waygate -->
+<TurnIn QuestName="Back Through the Waygate" QuestId="12797" TurnInName="Avatar of Freya" TurnInId="27801" />
+
+<!-- Pick Up: Luxurious Getaway! -->
+<PickUp QuestName="Luxurious Getaway!" QuestId="12853" GiverName="Rin Duoctane" GiverId="30490" />
+
+<!-- Turn In: Luxurious Getaway! -->
+<TurnIn QuestName="Luxurious Getaway!" QuestId="12853" TurnInName="Jeer Sparksocket" TurnInId="29431" />
+
+<!-- Pick Up: Clean Up -->
+<PickUp QuestName="Clean Up" QuestId="12818" GiverName="Jeer Sparksocket" GiverId="29431" />
+
+<!-- Pick Up: They Took Our Men! -->
+<PickUp QuestName="They Took Our Men!" QuestId="12843" GiverName="Gretchen Fizzlespark" GiverId="29473" />
+
+<!-- Pick Up: Equipment Recovery -->
+<PickUp QuestName="Equipment Recovery" QuestId="12844" GiverName="Gretchen Fizzlespark" GiverId="29473" />
+
+<!-- Pick Up: Reclaimed Rations -->
+<PickUp QuestName="Reclaimed Rations" QuestId="12827" GiverName="Ricket" GiverId="29428" />
+
+<!-- Pick Up: Expression of Gratitude -->
+<PickUp QuestName="Expression of Gratitude" QuestId="12836" GiverName="Ricket" GiverId="29428" />
+
+<!-- Collect Objective for Quest 12818: Charred Wreckage -->
+<Objective QuestName="Unknown" QuestId="12818" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 12827: Dried Gnoll Rations -->
+<Objective QuestName="Unknown" QuestId="12827" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="16" />
+
+<!-- Kill Objective for Quest 12836: Gnarlhide -->
+<Objective QuestName="Unknown" QuestId="12836" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Clean Up -->
+<TurnIn QuestName="Clean Up" QuestId="12818" TurnInName="Jeer Sparksocket" TurnInId="29431" />
+
+<!-- Pick Up: Just Around the Corner -->
+<PickUp QuestName="Just Around the Corner" QuestId="12819" GiverName="Jeer Sparksocket" GiverId="29431" />
+
+<!-- Turn In: Reclaimed Rations -->
+<TurnIn QuestName="Reclaimed Rations" QuestId="12827" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Turn In: Expression of Gratitude -->
+<TurnIn QuestName="Expression of Gratitude" QuestId="12836" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Pick Up: Ample Inspiration -->
+<PickUp QuestName="Ample Inspiration" QuestId="12828" GiverName="Ricket" GiverId="29428" />
+
+<!-- Collect Objective for Quest 12819: Sparksocket's Tools -->
+<Objective QuestName="Unknown" QuestId="12819" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Just Around the Corner -->
+<TurnIn QuestName="Just Around the Corner" QuestId="12819" TurnInName="Jeer Sparksocket" TurnInId="29431" />
+
+<!-- Pick Up: Slightly Unstable -->
+<PickUp QuestName="Slightly Unstable" QuestId="12826" GiverName="Jeer Sparksocket" GiverId="29431" />
+
+<!-- Turn In: Slightly Unstable -->
+<TurnIn QuestName="Slightly Unstable" QuestId="12826" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Pick Up: A Delicate Touch -->
+<PickUp QuestName="A Delicate Touch" QuestId="12820" GiverName="Ricket" GiverId="29428" />
+
+<!-- Kill Objective for Quest 12820: Garm Attackers -->
+<Objective QuestName="Unknown" QuestId="12820" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Pick Up: Moving In -->
+<PickUp QuestName="Moving In" QuestId="12829" GiverName="Tore Rumblewrench" GiverId="29430" />
+
+<!-- Pick Up: Ore Repossession -->
+<PickUp QuestName="Ore Repossession" QuestId="12830" GiverName="Tore Rumblewrench" GiverId="29430" />
+
+<!-- Collect Objective for Quest 12828: U.D.E.D. -->
+<Objective QuestName="Unknown" QuestId="12828" Type="CollectItem" ItemId="40686" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12828: Hearty Mammoth Meat -->
+<Objective QuestName="Unknown" QuestId="12828" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 12829: Crystalweb Spiders -->
+<Objective QuestName="Unknown" QuestId="12829" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Pick Up: Only Partly Forgotten -->
+<PickUp QuestName="Only Partly Forgotten" QuestId="12831" GiverName="Injured Goblin Miner" GiverId="29434" />
+
+<!-- Collect Objective for Quest 12830: Impure Saronite Ore -->
+<Objective QuestName="Unknown" QuestId="12830" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 12831: Icetip Venom Sac -->
+<Objective QuestName="Unknown" QuestId="12831" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Only Partly Forgotten -->
+<TurnIn QuestName="Only Partly Forgotten" QuestId="12831" TurnInName="Injured Goblin Miner" TurnInId="29434" />
+
+<!-- Pick Up: Bitter Departure -->
+<PickUp QuestName="Bitter Departure" QuestId="12832" GiverName="Injured Goblin Miner" GiverId="29434" />
+
+<!-- Collect Objective for Quest 12843: Cold Iron Key -->
+<Objective QuestName="Unknown" QuestId="12843" Type="CollectItem" ItemId="40641" CollectCount="5" />
+
+<!-- Collect Objective for Quest 12844: K3 Equipment -->
+<Objective QuestName="Unknown" QuestId="12844" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Moving In -->
+<TurnIn QuestName="Moving In" QuestId="12829" TurnInName="Tore Rumblewrench" TurnInId="29430" />
+
+<!-- Turn In: Ore Repossession -->
+<TurnIn QuestName="Ore Repossession" QuestId="12830" TurnInName="Tore Rumblewrench" TurnInId="29430" />
+
+<!-- Turn In: A Delicate Touch -->
+<TurnIn QuestName="A Delicate Touch" QuestId="12820" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Turn In: Ample Inspiration -->
+<TurnIn QuestName="Ample Inspiration" QuestId="12828" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Turn In: Bitter Departure -->
+<TurnIn QuestName="Bitter Departure" QuestId="12832" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Pick Up: Opening the Backdoor -->
+<PickUp QuestName="Opening the Backdoor" QuestId="12821" GiverName="Ricket" GiverId="29428" />
+
+<!-- Turn In: They Took Our Men! -->
+<TurnIn QuestName="They Took Our Men!" QuestId="12843" TurnInName="Gretchen Fizzlespark" TurnInId="29473" />
+
+<!-- Pick Up: Leave No Goblin Behind -->
+<PickUp QuestName="Leave No Goblin Behind" QuestId="12846" GiverName="Gretchen Fizzlespark" GiverId="29473" />
+
+<!-- Turn In: Equipment Recovery -->
+<TurnIn QuestName="Equipment Recovery" QuestId="12844" TurnInName="Gretchen Fizzlespark" TurnInId="29473" />
+
+<!-- Collect Objective for Quest 12821: Transporter Power Cell -->
+<Objective QuestName="Unknown" QuestId="12821" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Opening the Backdoor -->
+<TurnIn QuestName="Opening the Backdoor" QuestId="12821" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Pick Up: Know No Fear -->
+<PickUp QuestName="Know No Fear" QuestId="12822" GiverName="Ricket" GiverId="29428" />
+
+<!-- Kill Objective for Quest 12822: Garm Watcher -->
+<Objective QuestName="Unknown" QuestId="12822" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 12822: Snowblind Devotee -->
+<Objective QuestName="Unknown" QuestId="12822" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Leave No Goblin Behind -->
+<TurnIn QuestName="Leave No Goblin Behind" QuestId="12846" TurnInName="Lok'lira the Crone" TurnInId="29481" />
+
+<!-- Pick Up: The Crone's Bargain -->
+<PickUp QuestName="The Crone's Bargain" QuestId="12841" GiverName="Lok'lira the Crone" GiverId="29481" />
+
+<!-- Collect Objective for Quest 12841: Runes of the Yrkvinn -->
+<Objective QuestName="Unknown" QuestId="12841" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Crone's Bargain -->
+<TurnIn QuestName="The Crone's Bargain" QuestId="12841" TurnInName="Lok'lira the Crone" TurnInId="29481" />
+
+<!-- Pick Up: Mildred the Cruel -->
+<PickUp QuestName="Mildred the Cruel" QuestId="12905" GiverName="Lok'lira the Crone" GiverId="29481" />
+
+<!-- Turn In: Mildred the Cruel -->
+<TurnIn QuestName="Mildred the Cruel" QuestId="12905" TurnInName="Mildred the Cruel" TurnInId="29885" />
+
+<!-- Pick Up: Discipline -->
+<PickUp QuestName="Discipline" QuestId="12906" GiverName="Mildred the Cruel" GiverId="29885" />
+
+<!-- Turn In: Discipline -->
+<TurnIn QuestName="Discipline" QuestId="12906" TurnInName="Mildred the Cruel" TurnInId="29885" />
+
+<!-- Pick Up: Examples to be Made -->
+<PickUp QuestName="Examples to be Made" QuestId="12907" GiverName="Mildred the Cruel" GiverId="29885" />
+
+<!-- Kill Objective for Quest 12907: Garhal -->
+<Objective QuestName="Unknown" QuestId="12907" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Examples to be Made -->
+<TurnIn QuestName="Examples to be Made" QuestId="12907" TurnInName="Mildred the Cruel" TurnInId="29885" />
+
+<!-- Pick Up: A Certain Prisoner -->
+<PickUp QuestName="A Certain Prisoner" QuestId="12908" GiverName="Mildred the Cruel" GiverId="29885" />
+
+<!-- Turn In: A Certain Prisoner -->
+<TurnIn QuestName="A Certain Prisoner" QuestId="12908" TurnInName="Lok'lira the Crone" TurnInId="29481" />
+
+<!-- Pick Up: A Change of Scenery -->
+<PickUp QuestName="A Change of Scenery" QuestId="12921" GiverName="Lok'lira the Crone" GiverId="29481" />
+
+<!-- Turn In: A Change of Scenery -->
+<TurnIn QuestName="A Change of Scenery" QuestId="12921" TurnInName="Lok'lira the Crone" TurnInId="29975" />
+
+<!-- Pick Up: Is That Your Goblin? -->
+<PickUp QuestName="Is That Your Goblin?" QuestId="12969" GiverName="Lok'lira the Crone" GiverId="29975" />
+
+<!-- Kill Objective for Quest 12969: Agnetta Tyrsdottar -->
+<Objective QuestName="Unknown" QuestId="12969" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Is That Your Goblin? -->
+<TurnIn QuestName="Is That Your Goblin?" QuestId="12969" TurnInName="Lok'lira the Crone" TurnInId="29975" />
+
+<!-- Pick Up: The Hyldsmeet -->
+<PickUp QuestName="The Hyldsmeet" QuestId="12970" GiverName="Lok'lira the Crone" GiverId="29975" />
+
+<!-- Turn In: The Hyldsmeet -->
+<TurnIn QuestName="The Hyldsmeet" QuestId="12970" TurnInName="Lok'lira the Crone" TurnInId="29975" />
+
+<!-- Pick Up: Taking on All Challengers -->
+<PickUp QuestName="Taking on All Challengers" QuestId="12971" GiverName="Lok'lira the Crone" GiverId="29975" />
+
+<!-- Kill Objective for Quest 12971: Victorious Challenger -->
+<Objective QuestName="Unknown" QuestId="12971" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Taking on All Challengers -->
+<TurnIn QuestName="Taking on All Challengers" QuestId="12971" TurnInName="Lok'lira the Crone" TurnInId="29975" />
+
+<!-- Pick Up: You'll Need a Bear -->
+<PickUp QuestName="You'll Need a Bear" QuestId="12972" GiverName="Lok'lira the Crone" GiverId="29975" />
+
+<!-- Pick Up: Off With Their Black Wings -->
+<PickUp QuestName="Off With Their Black Wings" QuestId="12942" GiverName="Iva the Vengeful" GiverId="29997" />
+
+<!-- Pick Up: Yulda's Folly -->
+<PickUp QuestName="Yulda's Folly" QuestId="12968" GiverName="Iva the Vengeful" GiverId="29997" />
+
+<!-- Pick Up: Aberrations -->
+<PickUp QuestName="Aberrations" QuestId="12925" GiverName="Thyra Kvinnshal" GiverId="30041" />
+
+<!-- Turn In: You'll Need a Bear -->
+<TurnIn QuestName="You'll Need a Bear" QuestId="12972" TurnInName="Brijana" TurnInId="29592" />
+
+<!-- Pick Up: Going Bearback -->
+<PickUp QuestName="Going Bearback" QuestId="12851" GiverName="Brijana" GiverId="29592" />
+
+<!-- Turn In: Going Bearback -->
+<TurnIn QuestName="Going Bearback" QuestId="12851" TurnInName="Brijana" TurnInId="29592" />
+
+<!-- Pick Up: Cold Hearted -->
+<PickUp QuestName="Cold Hearted" QuestId="12856" GiverName="Brijana" GiverId="29592" />
+
+<!-- Turn In: Cold Hearted -->
+<TurnIn QuestName="Cold Hearted" QuestId="12856" TurnInName="Brijana" TurnInId="29592" />
+
+<!-- Pick Up: Deemed Worthy -->
+<PickUp QuestName="Deemed Worthy" QuestId="13063" GiverName="Brijana" GiverId="29592" />
+
+<!-- Turn In: Deemed Worthy -->
+<TurnIn QuestName="Deemed Worthy" QuestId="13063" TurnInName="Astrid Bjornrittar" TurnInId="29839" />
+
+<!-- Pick Up: Making a Harness -->
+<PickUp QuestName="Making a Harness" QuestId="12900" GiverName="Astrid Bjornrittar" GiverId="29839" />
+
+<!-- Collect Objective for Quest 12900: Icemane Yeti Hide -->
+<Objective QuestName="Unknown" QuestId="12900" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Making a Harness -->
+<TurnIn QuestName="Making a Harness" QuestId="12900" TurnInName="Astrid Bjornrittar" TurnInId="29839" />
+
+<!-- Pick Up: The Last of Her Kind -->
+<PickUp QuestName="The Last of Her Kind" QuestId="12983" GiverName="Astrid Bjornrittar" GiverId="29839" />
+
+<!-- Pick Up: The Slithering Darkness -->
+<PickUp QuestName="The Slithering Darkness" QuestId="12989" GiverName="Astrid Bjornrittar" GiverId="29839" />
+
+<!-- Turn In: The Last of Her Kind -->
+<TurnIn QuestName="The Last of Her Kind" QuestId="12983" TurnInName="Astrid Bjornrittar" TurnInId="29839" />
+
+<!-- Pick Up: The Warm-Up -->
+<PickUp QuestName="The Warm-Up" QuestId="12996" GiverName="Astrid Bjornrittar" GiverId="29839" />
+
+<!-- Turn In: The Slithering Darkness -->
+<TurnIn QuestName="The Slithering Darkness" QuestId="12989" TurnInName="Astrid Bjornrittar" TurnInId="29839" />
+
+<!-- Turn In: The Warm-Up -->
+<TurnIn QuestName="The Warm-Up" QuestId="12996" TurnInName="Astrid Bjornrittar" TurnInId="29839" />
+
+<!-- Pick Up: Into the Pit -->
+<PickUp QuestName="Into the Pit" QuestId="12997" GiverName="Astrid Bjornrittar" GiverId="29839" />
+
+<!-- Kill Objective for Quest 12997: Hyldsmeet Warbear -->
+<Objective QuestName="Unknown" QuestId="12997" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Into the Pit -->
+<TurnIn QuestName="Into the Pit" QuestId="12997" TurnInName="Astrid Bjornrittar" TurnInId="29839" />
+
+<!-- Pick Up: Prepare for Glory -->
+<PickUp QuestName="Prepare for Glory" QuestId="13061" GiverName="Astrid Bjornrittar" GiverId="29839" />
+
+<!-- Turn In: Prepare for Glory -->
+<TurnIn QuestName="Prepare for Glory" QuestId="13061" TurnInName="Lok'lira the Crone" TurnInId="29975" />
+
+<!-- Pick Up: Lok'lira's Parting Gift -->
+<PickUp QuestName="Lok'lira's Parting Gift" QuestId="13062" GiverName="Lok'lira the Crone" GiverId="29975" />
+
+<!-- Turn In: Lok'lira's Parting Gift -->
+<TurnIn QuestName="Lok'lira's Parting Gift" QuestId="13062" TurnInName="Gretta the Arbiter" TurnInId="29796" />
+
+<!-- Pick Up: The Drakkensryd -->
+<PickUp QuestName="The Drakkensryd" QuestId="12886" GiverName="Gretta the Arbiter" GiverId="29796" />
+
+<!-- Turn In: The Drakkensryd -->
+<TurnIn QuestName="The Drakkensryd" QuestId="12886" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Pick Up: Sibling Rivalry -->
+<PickUp QuestName="Sibling Rivalry" QuestId="13064" GiverName="Thorim" GiverId="29445" />
+
+<!-- Turn In: Sibling Rivalry -->
+<TurnIn QuestName="Sibling Rivalry" QuestId="13064" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Pick Up: Mending Fences -->
+<PickUp QuestName="Mending Fences" QuestId="12915" GiverName="Thorim" GiverId="29445" />
+
+<!-- Kill Objective for Quest 12942: Nascent Val'kyr -->
+<Objective QuestName="Unknown" QuestId="12942" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Collect Objective for Quest 12925: Vial of Frost Oil -->
+<Objective QuestName="Unknown" QuestId="12925" Type="CollectItem" ItemId="41612" CollectCount="6" />
+
+<!-- Kill Objective for Quest 12968: Yulda the Stormspeaker -->
+<Objective QuestName="Unknown" QuestId="12968" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Pick Up: Valkyrion Must Burn -->
+<PickUp QuestName="Valkyrion Must Burn" QuestId="12953" GiverName="Thorim" GiverId="29445" />
+
+<!-- Turn In: Know No Fear -->
+<TurnIn QuestName="Know No Fear" QuestId="12822" TurnInName="Ricket" TurnInId="29428" />
+
+<!-- Turn In: Aberrations -->
+<TurnIn QuestName="Aberrations" QuestId="12925" TurnInName="Thyra Kvinnshal" TurnInId="30041" />
+
+<!-- Turn In: Off With Their Black Wings -->
+<TurnIn QuestName="Off With Their Black Wings" QuestId="12942" TurnInName="Iva the Vengeful" TurnInId="29997" />
+
+<!-- Turn In: Yulda's Folly -->
+<TurnIn QuestName="Yulda's Folly" QuestId="12968" TurnInName="Iva the Vengeful" TurnInId="29997" />
+
+<!-- Turn In: Valkyrion Must Burn -->
+<TurnIn QuestName="Valkyrion Must Burn" QuestId="12953" TurnInName="Iva the Vengeful" TurnInId="29997" />
+
+<!-- Kill Objective for Quest 12915: Stormforged Iron Giants -->
+<Objective QuestName="Unknown" QuestId="12915" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Pick Up: The Refiner's Fire -->
+<PickUp QuestName="The Refiner's Fire" QuestId="12922" GiverName="Iva the Vengeful" GiverId="29997" />
+
+<!-- Collect Objective for Quest 12922: Furious Spark -->
+<Objective QuestName="Unknown" QuestId="12922" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 12915: Fjorn -->
+<Objective QuestName="Unknown" QuestId="12915" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: The Refiner's Fire -->
+<TurnIn QuestName="The Refiner's Fire" QuestId="12922" TurnInName="Iva the Vengeful" TurnInId="29997" />
+
+<!-- Pick Up: A Spark of Hope -->
+<PickUp QuestName="A Spark of Hope" QuestId="12956" GiverName="Iva the Vengeful" GiverId="29997" />
+
+<!-- Turn In: A Spark of Hope -->
+<TurnIn QuestName="A Spark of Hope" QuestId="12956" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Turn In: Mending Fences -->
+<TurnIn QuestName="Mending Fences" QuestId="12915" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Pick Up: Forging an Alliance -->
+<PickUp QuestName="Forging an Alliance" QuestId="12924" GiverName="Thorim" GiverId="29445" />
+
+<!-- Pick Up: You Can't Miss Him -->
+<PickUp QuestName="You Can't Miss Him" QuestId="12966" GiverName="King Jokkum" GiverId="30105" />
+
+<!-- Turn In: You Can't Miss Him -->
+<TurnIn QuestName="You Can't Miss Him" QuestId="12966" TurnInName="Njormeld" TurnInId="30099" />
+
+<!-- Pick Up: Battling the Elements -->
+<PickUp QuestName="Battling the Elements" QuestId="12967" GiverName="Njormeld" GiverId="30099" />
+
+<!-- Kill Objective for Quest 12967: Seething Revenants -->
+<Objective QuestName="Unknown" QuestId="12967" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Battling the Elements -->
+<TurnIn QuestName="Battling the Elements" QuestId="12967" TurnInName="Njormeld" TurnInId="30099" />
+
+<!-- Turn In: Forging an Alliance -->
+<TurnIn QuestName="Forging an Alliance" QuestId="12924" TurnInName="Njormeld" TurnInId="30127" />
+
+<!-- Pick Up: A New Beginning -->
+<PickUp QuestName="A New Beginning" QuestId="13009" GiverName="Njormeld" GiverId="30127" />
+
+<!-- Pick Up: Hot and Cold -->
+<PickUp QuestName="Hot and Cold" QuestId="12981" GiverName="Njormeld" GiverId="30127" />
+
+<!-- Pick Up: In Memoriam -->
+<PickUp QuestName="In Memoriam" QuestId="12975" GiverName="King Jokkum" GiverId="30105" />
+
+<!-- Collect Objective for Quest 12981: Essence of Ice -->
+<Objective QuestName="Unknown" QuestId="12981" Type="CollectItem" ItemId="42246" CollectCount="6" />
+
+<!-- Collect Objective for Quest 12981: Frozen Iron Scrap -->
+<Objective QuestName="Unknown" QuestId="12981" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 12975: Horn Fragment -->
+<Objective QuestName="Unknown" QuestId="12975" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 12975: Relic of Ulduar -->
+<Objective QuestName="Unknown" QuestId="12975" Type="CollectItem" ItemId="42780" CollectCount="10" />
+
+<!-- Turn In: In Memoriam -->
+<TurnIn QuestName="In Memoriam" QuestId="12975" TurnInName="King Jokkum" TurnInId="30105" />
+
+<!-- Pick Up: A Monument to the Fallen -->
+<PickUp QuestName="A Monument to the Fallen" QuestId="12976" GiverName="King Jokkum" GiverId="30105" />
+
+<!-- Turn In: A Monument to the Fallen -->
+<TurnIn QuestName="A Monument to the Fallen" QuestId="12976" TurnInName="Njormeld" TurnInId="30127" />
+
+<!-- Turn In: Hot and Cold -->
+<TurnIn QuestName="Hot and Cold" QuestId="12981" TurnInName="Njormeld" TurnInId="30127" />
+
+<!-- Pick Up: Forging a Head -->
+<PickUp QuestName="Forging a Head" QuestId="12985" GiverName="Njormeld" GiverId="30127" />
+
+<!-- Pick Up: Blowing Hodir's Horn -->
+<PickUp QuestName="Blowing Hodir's Horn" QuestId="12977" GiverName="Njormeld" GiverId="30127" />
+
+<!-- Pick Up: Jormuttar is Soo Fat... -->
+<PickUp QuestName="Jormuttar is Soo Fat..." QuestId="13011" GiverName="King Jokkum" GiverId="30105" />
+
+<!-- Collect Objective for Quest 12985: Stormforged Eye -->
+<Objective QuestName="Unknown" QuestId="12985" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Forging a Head -->
+<TurnIn QuestName="Forging a Head" QuestId="12985" TurnInName="Njormeld" TurnInId="30127" />
+
+<!-- Pick Up: Mounting Hodir's Helm -->
+<PickUp QuestName="Mounting Hodir's Helm" QuestId="12987" GiverName="Njormeld" GiverId="30127" />
+
+<!-- Turn In: Blowing Hodir's Horn -->
+<TurnIn QuestName="Blowing Hodir's Horn" QuestId="12977" TurnInName="Njormeld" TurnInId="30127" />
+
+<!-- Turn In: Mounting Hodir's Helm -->
+<TurnIn QuestName="Mounting Hodir's Helm" QuestId="12987" TurnInName="Njormeld" TurnInId="30127" />
+
+<!-- Pick Up: Polishing the Helm -->
+<PickUp QuestName="Polishing the Helm" QuestId="13006" GiverName="Njormeld" GiverId="30127" />
+
+<!-- Collect Objective for Quest 13006: Viscous Oil -->
+<Objective QuestName="Unknown" QuestId="13006" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 13011: Icemaw Bear Flank -->
+<Objective QuestName="Unknown" QuestId="13011" Type="CollectItem" ItemId="42733" CollectCount="1" />
+
+<!-- Kill Objective for Quest 13011: Jormuttar -->
+<Objective QuestName="Unknown" QuestId="13011" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: A New Beginning -->
+<TurnIn QuestName="A New Beginning" QuestId="13009" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Pick Up: Veranus -->
+<PickUp QuestName="Veranus" QuestId="13050" GiverName="Thorim" GiverId="29445" />
+
+<!-- Collect Objective for Quest 13050: Small Proto-Drake Egg -->
+<Objective QuestName="Unknown" QuestId="13050" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Veranus -->
+<TurnIn QuestName="Veranus" QuestId="13050" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Pick Up: Territorial Trespass -->
+<PickUp QuestName="Territorial Trespass" QuestId="13051" GiverName="Thorim" GiverId="29445" />
+
+<!-- Turn In: Territorial Trespass -->
+<TurnIn QuestName="Territorial Trespass" QuestId="13051" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Pick Up: Krolmir, Hammer of Storms -->
+<PickUp QuestName="Krolmir, Hammer of Storms" QuestId="13010" GiverName="Thorim" GiverId="29445" />
+
+<!-- Turn In: Polishing the Helm -->
+<TurnIn QuestName="Polishing the Helm" QuestId="13006" TurnInName="Thorim" TurnInId="29445" />
+
+<!-- Turn In: Jormuttar is Soo Fat... -->
+<TurnIn QuestName="Jormuttar is Soo Fat..." QuestId="13011" TurnInName="King Jokkum" TurnInId="30105" />
+
+<!-- Turn In: Krolmir, Hammer of Storms -->
+<TurnIn QuestName="Krolmir, Hammer of Storms" QuestId="13010" TurnInName="Thorim" TurnInId="30390" />
+
+<!-- Pick Up: The Terrace of the Makers -->
+<PickUp QuestName="The Terrace of the Makers" QuestId="13057" GiverName="Thorim" GiverId="30390" />
+
+<!-- Turn In: The Terrace of the Makers -->
+<TurnIn QuestName="The Terrace of the Makers" QuestId="13057" TurnInName="Thorim" TurnInId="30295" />
+
+<!-- Pick Up: The Earthen Oath -->
+<PickUp QuestName="The Earthen Oath" QuestId="13005" GiverName="Thorim" GiverId="30295" />
+
+<!-- Pick Up: Loken's Lackeys -->
+<PickUp QuestName="Loken's Lackeys" QuestId="13035" GiverName="Thorim" GiverId="30295" />
+
+<!-- Kill Objective for Quest 13005: Iron Sentinel -->
+<Objective QuestName="Unknown" QuestId="13005" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 13005: Iron Dwarf Assailant -->
+<Objective QuestName="Unknown" QuestId="13005" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Kill Objective for Quest 13035: Eisenfaust -->
+<Objective QuestName="Unknown" QuestId="13035" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 13035: Halefnir the Windborn -->
+<Objective QuestName="Unknown" QuestId="13035" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 13035: Duronn the Runewrought -->
+<Objective QuestName="Unknown" QuestId="13035" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: The Earthen Oath -->
+<TurnIn QuestName="The Earthen Oath" QuestId="13005" TurnInName="Thorim" TurnInId="30295" />
+
+<!-- Turn In: Loken's Lackeys -->
+<TurnIn QuestName="Loken's Lackeys" QuestId="13035" TurnInName="Thorim" TurnInId="30295" />
+
+<!-- Pick Up: The Missing Tracker -->
+<PickUp QuestName="The Missing Tracker" QuestId="13054" GiverName="Bloodguard Lorga" GiverId="30247" />
+
+<!-- Pick Up: Emergency Measures -->
+<PickUp QuestName="Emergency Measures" QuestId="13000" GiverName="Bloodguard Lorga" GiverId="30247" />
+
+<!-- Pick Up: Ancient Relics -->
+<PickUp QuestName="Ancient Relics" QuestId="12882" GiverName="Olut Alegut" GiverId="30472" />
+
+<!-- Pick Up: The Missing Bronzebeard -->
+<PickUp QuestName="The Missing Bronzebeard" QuestId="12895" GiverName="Boktar Bloodfury" GiverId="29651" />
+
+<!-- Turn In: The Missing Tracker -->
+<TurnIn QuestName="The Missing Tracker" QuestId="13054" TurnInName="Tracker Val'zij" TurnInId="30469" />
+
+<!-- Pick Up: Cave Medicine -->
+<PickUp QuestName="Cave Medicine" QuestId="13055" GiverName="Tracker Val'zij" GiverId="30469" />
+
+<!-- Collect Objective for Quest 13055: Cave Mushroom -->
+<Objective QuestName="Unknown" QuestId="13055" Type="CollectItem" ItemId="42926" CollectCount="8" />
+
+<!-- Collect Objective for Quest 13055: Toxin Gland -->
+<Objective QuestName="Unknown" QuestId="13055" Type="CollectItem" ItemId="42927" CollectCount="1" />
+
+<!-- Turn In: Cave Medicine -->
+<TurnIn QuestName="Cave Medicine" QuestId="13055" TurnInName="Tracker Val'zij" TurnInId="30469" />
+
+<!-- Pick Up: There's Always Time for Revenge -->
+<PickUp QuestName="There's Always Time for Revenge" QuestId="13056" GiverName="Tracker Val'zij" GiverId="30469" />
+
+<!-- Turn In: There's Always Time for Revenge -->
+<TurnIn QuestName="There's Always Time for Revenge" QuestId="13056" TurnInName="Tracker Val'zij" TurnInId="30469" />
+
+<!-- Turn In: Emergency Measures -->
+<TurnIn QuestName="Emergency Measures" QuestId="13000" TurnInName="Bloodguard Lorga" TurnInId="30247" />
+
+<!-- Turn In: The Missing Bronzebeard -->
+<TurnIn QuestName="The Missing Bronzebeard" QuestId="12895" TurnInName="Boktar Bloodfury" TurnInId="29651" />
+
+<!-- Pick Up: The Nose Knows -->
+<PickUp QuestName="The Nose Knows" QuestId="12909" GiverName="Boktar Bloodfury" GiverId="29651" />
+
+<!-- Turn In: The Nose Knows -->
+<TurnIn QuestName="The Nose Knows" QuestId="12909" TurnInName="Khaliisi" TurnInId="29855" />
+
+<!-- Pick Up: Sniffing Out the Perpetrator -->
+<PickUp QuestName="Sniffing Out the Perpetrator" QuestId="12910" GiverName="Khaliisi" GiverId="29855" />
+
+<!-- Kill Objective for Quest 12910: Tracker Thulin -->
+<Objective QuestName="Unknown" QuestId="12910" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 12910: Brann's Communicator -->
+<Objective QuestName="Unknown" QuestId="12910" Type="CollectItem" ItemId="40971" CollectCount="1" />
+
+<!-- Turn In: Sniffing Out the Perpetrator -->
+<TurnIn QuestName="Sniffing Out the Perpetrator" QuestId="12910" TurnInName="Brann Bronzebeard" TurnInId="29579" />
+
+<!-- Pick Up: Speak Orcish, Man! -->
+<PickUp QuestName="Speak Orcish, Man!" QuestId="12913" GiverName="Brann Bronzebeard" GiverId="29579" />
+
+<!-- Turn In: Speak Orcish, Man! -->
+<TurnIn QuestName="Speak Orcish, Man!" QuestId="12913" TurnInName="Moteha Windborn" TurnInId="29937" />
+
+<!-- Pick Up: Speaking with the Wind's Voice -->
+<PickUp QuestName="Speaking with the Wind's Voice" QuestId="12917" GiverName="Moteha Windborn" GiverId="29937" />
+
+<!-- Turn In: Ancient Relics -->
+<TurnIn QuestName="Ancient Relics" QuestId="12882" TurnInName="Olut Alegut" TurnInId="30472" />
+
+<!-- Turn In: Speaking with the Wind's Voice -->
+<TurnIn QuestName="Speaking with the Wind's Voice" QuestId="12917" TurnInName="Moteha Windborn" TurnInId="29937" />
+
+<!-- Pick Up: Catching up with Brann -->
+<PickUp QuestName="Catching up with Brann" QuestId="12920" GiverName="Boktar Bloodfury" GiverId="29651" />
+
+<!-- Turn In: Catching up with Brann -->
+<TurnIn QuestName="Catching up with Brann" QuestId="12920" TurnInName="Boktar Bloodfury" TurnInId="29651" />
+
+<!-- Pick Up: Pieces of the Puzzle -->
+<PickUp QuestName="Pieces of the Puzzle" QuestId="12926" GiverName="Boktar Bloodfury" GiverId="29651" />
+
+<!-- Collect Objective for Quest 12926: The Inventor's Disk -->
+<Objective QuestName="Unknown" QuestId="12926" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Pieces of the Puzzle -->
+<TurnIn QuestName="Pieces of the Puzzle" QuestId="12926" TurnInName="Boktar Bloodfury" TurnInId="29651" />
+
+</QuestOrder>

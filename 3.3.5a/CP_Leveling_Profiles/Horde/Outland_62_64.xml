@@ -1,0 +1,504 @@
+<QuestOrder>
+
+<!-- Collect Objective for Quest 9381: Bonestripper Tail Feather -->
+<Objective QuestName="Unknown" QuestId="9381" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 10389: Terrorfiend -->
+<Objective QuestName="Unknown" QuestId="10389" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 9366: Felblood Sample -->
+<Objective QuestName="Unknown" QuestId="9366" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Kill Objective for Quest 9340: Stonescythe Whelp -->
+<Objective QuestName="Unknown" QuestId="9340" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9340: Stonescythe Alpha -->
+<Objective QuestName="Unknown" QuestId="9340" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Turn In: Arelion's Journal -->
+<TurnIn QuestName="Arelion's Journal" QuestId="9374" TurnInName="Magistrix Carinda" TurnInId="16793" />
+
+<!-- Pick Up: Arelion's Secret -->
+<PickUp QuestName="Arelion's Secret" QuestId="10286" GiverName="Magistrix Carinda" GiverId="16793" />
+
+<!-- Turn In: In Need of Felblood -->
+<TurnIn QuestName="In Need of Felblood" QuestId="9366" TurnInName="Ryathen the Somber" TurnInId="16791" />
+
+<!-- Pick Up: The Cleansing Must Be Stopped -->
+<PickUp QuestName="The Cleansing Must Be Stopped" QuestId="9370" GiverName="Ryathen the Somber" GiverId="16791" />
+
+<!-- Turn In: Trueflight Arrows -->
+<TurnIn QuestName="Trueflight Arrows" QuestId="9381" TurnInName="Falconer Drenna Riverwind" TurnInId="16790" />
+
+<!-- Turn In: The Great Fissure -->
+<TurnIn QuestName="The Great Fissure" QuestId="9340" TurnInName="Ranger Captain Venn'ren" TurnInId="16789" />
+
+<!-- Pick Up: Marking the Path -->
+<PickUp QuestName="Marking the Path" QuestId="9391" GiverName="Ranger Captain Venn'ren" GiverId="16789" />
+
+<!-- Kill Objective for Quest 9370: Draenei Anchorite -->
+<Objective QuestName="Unknown" QuestId="9370" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Arelion's Secret -->
+<TurnIn QuestName="Arelion's Secret" QuestId="10286" TurnInName="Magister Aledis" TurnInId="20159" />
+
+<!-- Pick Up: The Mistress Revealed -->
+<PickUp QuestName="The Mistress Revealed" QuestId="10287" GiverName="Magister Aledis" GiverId="20159" />
+
+<!-- Turn In: Missing Missive -->
+<TurnIn QuestName="Missing Missive" QuestId="9373" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Turn In: Helping the Cenarion Post -->
+<TurnIn QuestName="Helping the Cenarion Post" QuestId="10442" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Pick Up: Demonic Contamination -->
+<PickUp QuestName="Demonic Contamination" QuestId="9372" GiverName="Thiah Redmane" GiverId="16991" />
+
+<!-- Pick Up: Keep Thornfang Hill Clear! -->
+<PickUp QuestName="Keep Thornfang Hill Clear!" QuestId="10159" GiverName="Mahuram Stouthoof" GiverId="16888" />
+
+<!-- Pick Up: The Cenarion Expedition -->
+<PickUp QuestName="The Cenarion Expedition" QuestId="9912" GiverName="Amythiel Mistwalker" GiverId="16885" />
+
+<!-- Collect Objective for Quest 9372: Helboar Blood Sample -->
+<Objective QuestName="Unknown" QuestId="9372" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: The Mistress Revealed -->
+<TurnIn QuestName="The Mistress Revealed" QuestId="10287" TurnInName="Magistrix Carinda" TurnInId="16793" />
+
+<!-- Pick Up: Arelion's Mistress -->
+<PickUp QuestName="Arelion's Mistress" QuestId="9472" GiverName="Magistrix Carinda" GiverId="16793" />
+
+<!-- Turn In: The Cleansing Must Be Stopped -->
+<TurnIn QuestName="The Cleansing Must Be Stopped" QuestId="9370" TurnInName="Ryathen the Somber" TurnInId="16791" />
+
+<!-- Turn In: Marking the Path -->
+<TurnIn QuestName="Marking the Path" QuestId="9391" TurnInName="Ranger Captain Venn'ren" TurnInId="16789" />
+
+<!-- Turn In: Demonic Contamination -->
+<TurnIn QuestName="Demonic Contamination" QuestId="9372" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Pick Up: Testing the Antidote -->
+<PickUp QuestName="Testing the Antidote" QuestId="10255" GiverName="Thiah Redmane" GiverId="16991" />
+
+<!-- Turn In: Testing the Antidote -->
+<TurnIn QuestName="Testing the Antidote" QuestId="10255" TurnInName="Thiah Redmane" TurnInId="16991" />
+
+<!-- Kill Objective for Quest 10159: Thornfang Ravager -->
+<Objective QuestName="Unknown" QuestId="10159" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 10159: Thornfang Venomspitter -->
+<Objective QuestName="Unknown" QuestId="10159" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Keep Thornfang Hill Clear! -->
+<TurnIn QuestName="Keep Thornfang Hill Clear!" QuestId="10159" TurnInName="Mahuram Stouthoof" TurnInId="16888" />
+
+<!-- Collect Objective for Quest 9387: Demonic Essence -->
+<Objective QuestName="Unknown" QuestId="9387" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Pick Up: Naladu -->
+<PickUp QuestName="Naladu" QuestId="10403" GiverName="Akoru the Firecaller" GiverId="20678" />
+
+<!-- Turn In: Naladu -->
+<TurnIn QuestName="Naladu" QuestId="10403" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Pick Up: A Traitor Among Us -->
+<PickUp QuestName="A Traitor Among Us" QuestId="10367" GiverName="Naladu" GiverId="19361" />
+
+<!-- Collect Objective for Quest 10367: Sha'naar Key -->
+<Objective QuestName="Unknown" QuestId="10367" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Traitor Among Us -->
+<TurnIn QuestName="A Traitor Among Us" QuestId="10367" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Pick Up: The Dreghood Elders -->
+<PickUp QuestName="The Dreghood Elders" QuestId="10368" GiverName="Naladu" GiverId="19361" />
+
+<!-- Turn In: The Dreghood Elders -->
+<TurnIn QuestName="The Dreghood Elders" QuestId="10368" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Pick Up: Arzeth's Demise -->
+<PickUp QuestName="Arzeth's Demise" QuestId="10369" GiverName="Naladu" GiverId="19361" />
+
+<!-- Kill Objective for Quest 10369: Arzeth the Powerless -->
+<Objective QuestName="Unknown" QuestId="10369" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Arzeth's Demise -->
+<TurnIn QuestName="Arzeth's Demise" QuestId="10369" TurnInName="Naladu" TurnInId="19361" />
+
+<!-- Turn In: Source of the Corruption -->
+<TurnIn QuestName="Source of the Corruption" QuestId="9387" TurnInName="Apothecary Azethen" TurnInId="16794" />
+
+<!-- Turn In: Life's Finer Pleasures -->
+<TurnIn QuestName="Life's Finer Pleasures" QuestId="9483" TurnInName="Viera Sunwhisper" TurnInId="17226" />
+
+<!-- Turn In: Arelion's Mistress -->
+<TurnIn QuestName="Arelion's Mistress" QuestId="9472" TurnInName="Magistrix Carinda" TurnInId="16793" />
+
+<!-- Collect Objective for Quest 9396: Haal'eshi Scroll -->
+<Objective QuestName="Unknown" QuestId="9396" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Pick Up: Avruu's Orb -->
+<PickUp QuestName="Avruu's Orb" QuestId="9418" GiverName="Magistrix Carinda" GiverId="16793" />
+
+<!-- Turn In: Avruu's Orb -->
+<TurnIn QuestName="Avruu's Orb" QuestId="9418" TurnInName="Aeranas" TurnInId="17085" />
+
+<!-- Pick Up: The Road to Falcon Watch -->
+<PickUp QuestName="The Road to Falcon Watch" QuestId="9375" GiverName="Wounded Blood Elf Pilgrim" GiverId="16993" />
+
+<!-- Turn In: The Road to Falcon Watch -->
+<TurnIn QuestName="The Road to Falcon Watch" QuestId="9375" TurnInName="Taleris Dawngazer" TurnInId="17015" />
+
+<!-- Pick Up: A Pilgrim's Plight -->
+<PickUp QuestName="A Pilgrim's Plight" QuestId="9376" GiverName="Taleris Dawngazer" GiverId="17015" />
+
+<!-- Turn In: Magic of the Arakkoa -->
+<TurnIn QuestName="Magic of the Arakkoa" QuestId="9396" TurnInName="Arcanist Calesthris Dawnstar" TurnInId="16792" />
+
+<!-- Turn In: Birds of a Feather -->
+<TurnIn QuestName="Birds of a Feather" QuestId="9397" TurnInName="Falconer Drenna Riverwind" TurnInId="16790" />
+
+<!-- Turn In: The Agony and the Darkness -->
+<TurnIn QuestName="The Agony and the Darkness" QuestId="10389" TurnInName="Magister Bloodhawk" TurnInId="21175" />
+
+<!-- Turn In: A Strange Weapon -->
+<TurnIn QuestName="A Strange Weapon" QuestId="9401" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: The Warchief's Mandate -->
+<PickUp QuestName="The Warchief's Mandate" QuestId="9405" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Turn In: The Warchief's Mandate -->
+<TurnIn QuestName="The Warchief's Mandate" QuestId="9405" TurnInName="Far Seer Regulkut" TurnInId="16574" />
+
+<!-- Pick Up: A Spirit Guide -->
+<PickUp QuestName="A Spirit Guide" QuestId="9410" GiverName="Far Seer Regulkut" GiverId="16574" />
+
+<!-- Turn In: A Spirit Guide -->
+<TurnIn QuestName="A Spirit Guide" QuestId="9410" TurnInName="Gorkan Bloodfist" TurnInId="16845" />
+
+<!-- Pick Up: The Mag'har -->
+<PickUp QuestName="The Mag'har" QuestId="9406" GiverName="Gorkan Bloodfist" GiverId="16845" />
+
+<!-- Turn In: The Mag'har -->
+<TurnIn QuestName="The Mag'har" QuestId="9406" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: Messenger to Thrall -->
+<PickUp QuestName="Messenger to Thrall" QuestId="9438" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Turn In: Messenger to Thrall -->
+<TurnIn QuestName="Messenger to Thrall" QuestId="9438" TurnInName="Thrall" TurnInId="4949" />
+
+<!-- Pick Up: Envoy to the Mag'har -->
+<PickUp QuestName="Envoy to the Mag'har" QuestId="9441" GiverName="Thrall" GiverId="4949" />
+
+<!-- Turn In: Envoy to the Mag'har -->
+<TurnIn QuestName="Envoy to the Mag'har" QuestId="9441" TurnInName="Gorkan Bloodfist" TurnInId="16845" />
+
+<!-- Collect Objective for Quest 9376: Torn Pilgrim's Pack -->
+<Objective QuestName="Unknown" QuestId="9376" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Pilgrim's Plight -->
+<TurnIn QuestName="A Pilgrim's Plight" QuestId="9376" TurnInName="Taleris Dawngazer" TurnInId="17015" />
+
+<!-- Pick Up: Plants of Zangarmarsh -->
+<PickUp QuestName="Plants of Zangarmarsh" QuestId="9802" GiverName="Lauranna Thar'well" GiverId="17909" />
+
+<!-- Pick Up: The Umbrafen Tribe -->
+<PickUp QuestName="The Umbrafen Tribe" QuestId="9747" GiverName="Ikeyen" GiverId="17956" />
+
+<!-- Pick Up: A Warm Welcome -->
+<PickUp QuestName="A Warm Welcome" QuestId="9728" GiverName="Warden Hamoot" GiverId="17858" />
+
+<!-- Pick Up: The Dying Balance -->
+<PickUp QuestName="The Dying Balance" QuestId="9895" GiverName="Lethyn Moonfire" GiverId="17834" />
+
+<!-- Turn In: The Cenarion Expedition -->
+<TurnIn QuestName="The Cenarion Expedition" QuestId="9912" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Pick Up: Disturbance at Umbrafen Lake -->
+<PickUp QuestName="Disturbance at Umbrafen Lake" QuestId="9716" GiverName="Ysiel Windsinger" GiverId="17841" />
+
+<!-- Collect Objective for Quest 9802: Unidentified Plant Parts -->
+<Objective QuestName="Unknown" QuestId="9802" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9895: Boglash -->
+<Objective QuestName="Unknown" QuestId="9895" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 9806: Fertile Spores -->
+<Objective QuestName="Unknown" QuestId="9806" Type="CollectItem" ItemId="24449" CollectCount="6" />
+
+<!-- Turn In: Plants of Zangarmarsh -->
+<TurnIn QuestName="Plants of Zangarmarsh" QuestId="9802" TurnInName="Lauranna Thar'well" TurnInId="17909" />
+
+<!-- Turn In: The Dying Balance -->
+<TurnIn QuestName="The Dying Balance" QuestId="9895" TurnInName="Lethyn Moonfire" TurnInId="17834" />
+
+<!-- Kill Objective for Quest 9747: Umbrafen Oracle -->
+<Objective QuestName="Unknown" QuestId="9747" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9747: Umbrafen Seer -->
+<Objective QuestName="Unknown" QuestId="9747" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9747: Umbrafen Witchdoctor -->
+<Objective QuestName="Unknown" QuestId="9747" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9747: Kataru -->
+<Objective QuestName="Unknown" QuestId="9747" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Pick Up: Escape from Umbrafen -->
+<PickUp QuestName="Escape from Umbrafen" QuestId="9752" GiverName="Kayra Longmane" GiverId="17969" />
+
+<!-- Turn In: The Umbrafen Tribe -->
+<TurnIn QuestName="The Umbrafen Tribe" QuestId="9747" TurnInName="Ikeyen" TurnInId="17956" />
+
+<!-- Pick Up: A Damp, Dark Place -->
+<PickUp QuestName="A Damp, Dark Place" QuestId="9788" GiverName="Ikeyen" GiverId="17956" />
+
+<!-- Pick Up: Saving the Sporeloks -->
+<PickUp QuestName="Saving the Sporeloks" QuestId="10096" GiverName="Lauranna Thar'well" GiverId="17909" />
+
+<!-- Pick Up: Safeguarding the Watchers -->
+<PickUp QuestName="Safeguarding the Watchers" QuestId="9894" GiverName="Windcaller Blackhoof" GiverId="18070" />
+
+<!-- Turn In: Escape from Umbrafen -->
+<TurnIn QuestName="Escape from Umbrafen" QuestId="9752" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Kill Objective for Quest 10096: Marsh Lurker -->
+<Objective QuestName="Unknown" QuestId="10096" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 10096: Marsh Dredger -->
+<Objective QuestName="Unknown" QuestId="10096" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 9788: Ikeyen's Belongings -->
+<Objective QuestName="Unknown" QuestId="9788" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 9894: Lord Klaq -->
+<Objective QuestName="Unknown" QuestId="9894" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 9728: Naga Claws -->
+<Objective QuestName="Unknown" QuestId="9728" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Turn In: Safeguarding the Watchers -->
+<TurnIn QuestName="Safeguarding the Watchers" QuestId="9894" TurnInName="Windcaller Blackhoof" TurnInId="18070" />
+
+<!-- Turn In: A Damp, Dark Place -->
+<TurnIn QuestName="A Damp, Dark Place" QuestId="9788" TurnInName="Ikeyen" TurnInId="17956" />
+
+<!-- Turn In: Saving the Sporeloks -->
+<TurnIn QuestName="Saving the Sporeloks" QuestId="10096" TurnInName="Lauranna Thar'well" TurnInId="17909" />
+
+<!-- Turn In: A Warm Welcome -->
+<TurnIn QuestName="A Warm Welcome" QuestId="9728" TurnInName="Warden Hamoot" TurnInId="17858" />
+
+<!-- Pick Up: Blessings of the Ancients -->
+<PickUp QuestName="Blessings of the Ancients" QuestId="9785" GiverName="Windcaller Blackhoof" GiverId="18070" />
+
+<!-- Pick Up: Watcher Leesa'oh -->
+<PickUp QuestName="Watcher Leesa'oh" QuestId="9697" GiverName="Lethyn Moonfire" GiverId="17834" />
+
+<!-- Pick Up: What's Wrong at Cenarion Thicket? -->
+<PickUp QuestName="What's Wrong at Cenarion Thicket?" QuestId="9957" GiverName="Lethyn Moonfire" GiverId="17834" />
+
+<!-- Turn In: Disturbance at Umbrafen Lake -->
+<TurnIn QuestName="Disturbance at Umbrafen Lake" QuestId="9716" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Pick Up: As the Crow Flies -->
+<PickUp QuestName="As the Crow Flies" QuestId="9718" GiverName="Ysiel Windsinger" GiverId="17841" />
+
+<!-- Turn In: As the Crow Flies -->
+<TurnIn QuestName="As the Crow Flies" QuestId="9718" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Pick Up: Balance Must Be Preserved -->
+<PickUp QuestName="Balance Must Be Preserved" QuestId="9720" GiverName="Ysiel Windsinger" GiverId="17841" />
+
+<!-- Turn In: Blessings of the Ancients -->
+<TurnIn QuestName="Blessings of the Ancients" QuestId="9785" TurnInName="Windcaller Blackhoof" TurnInId="18070" />
+
+<!-- Turn In: Report to Zurai -->
+<TurnIn QuestName="Report to Zurai" QuestId="10103" TurnInName="Zurai" TurnInId="18011" />
+
+<!-- Pick Up: Thick Hydra Scales -->
+<PickUp QuestName="Thick Hydra Scales" QuestId="9774" GiverName="Zurai" GiverId="18011" />
+
+<!-- Pick Up: News from Zangarmarsh -->
+<PickUp QuestName="News from Zangarmarsh" QuestId="9796" GiverName="Zurai" GiverId="18011" />
+
+<!-- Pick Up: Report to Shadow Hunter Denjai -->
+<PickUp QuestName="Report to Shadow Hunter Denjai" QuestId="9775" GiverName="Zurai" GiverId="18011" />
+
+<!-- Pick Up: Menacing Marshfangs -->
+<PickUp QuestName="Menacing Marshfangs" QuestId="9770" GiverName="Reavij" GiverId="18012" />
+
+<!-- Pick Up: There's No Explanation for Fashion -->
+<PickUp QuestName="There's No Explanation for Fashion" QuestId="9769" GiverName="Magasha" GiverId="18016" />
+
+<!-- Pick Up: No More Mushrooms! -->
+<PickUp QuestName="No More Mushrooms!" QuestId="9773" GiverName="Magasha" GiverId="18016" />
+
+<!-- Collect Objective for Quest 9774: Thick Hydra Scale -->
+<Objective QuestName="Unknown" QuestId="9774" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Collect Objective for Quest 9773: Eel Filet -->
+<Objective QuestName="Unknown" QuestId="9773" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 9769: Diaphanous Wing -->
+<Objective QuestName="Unknown" QuestId="9769" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: There's No Explanation for Fashion -->
+<TurnIn QuestName="There's No Explanation for Fashion" QuestId="9769" TurnInName="Magasha" TurnInId="18016" />
+
+<!-- Turn In: No More Mushrooms! -->
+<TurnIn QuestName="No More Mushrooms!" QuestId="9773" TurnInName="Magasha" TurnInId="18016" />
+
+<!-- Pick Up: A Job Undone -->
+<PickUp QuestName="A Job Undone" QuestId="9899" GiverName="Magasha" GiverId="18016" />
+
+<!-- Turn In: Thick Hydra Scales -->
+<TurnIn QuestName="Thick Hydra Scales" QuestId="9774" TurnInName="Zurai" TurnInId="18011" />
+
+<!-- Pick Up: Searching for Scout Jyoba -->
+<PickUp QuestName="Searching for Scout Jyoba" QuestId="9771" GiverName="Zurai" GiverId="18011" />
+
+<!-- Pick Up: Drain Schematics -->
+<PickUp QuestName="Drain Schematics" QuestId="9731" GiverName="Zurai" GiverId="18011" />
+
+<!-- Kill Objective for Quest 9770: Marshfang Ripper -->
+<Objective QuestName="Unknown" QuestId="9770" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9899: Sporewing -->
+<Objective QuestName="Unknown" QuestId="9899" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 9743: Bog Lord Tendril -->
+<Objective QuestName="Unknown" QuestId="9743" Type="CollectItem" ItemId="24291" CollectCount="6" />
+
+<!-- Pick Up: Withered Basidium -->
+<PickUp QuestName="Withered Basidium" QuestId="9828" GiverName="Zurai" GiverId="18011" />
+
+<!-- Turn In: Searching for Scout Jyoba -->
+<TurnIn QuestName="Searching for Scout Jyoba" QuestId="9771" TurnInName="Scout Jyoba" TurnInId="18035" />
+
+<!-- Pick Up: Jyoba's Report -->
+<PickUp QuestName="Jyoba's Report" QuestId="9772" GiverName="Scout Jyoba" GiverId="18035" />
+
+<!-- Collect Objective for Quest 9772: Scout Jyoba's Report -->
+<Objective QuestName="Unknown" QuestId="9772" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Job Undone -->
+<TurnIn QuestName="A Job Undone" QuestId="9899" TurnInName="Magasha" TurnInId="18016" />
+
+<!-- Turn In: Menacing Marshfangs -->
+<TurnIn QuestName="Menacing Marshfangs" QuestId="9770" TurnInName="Reavij" TurnInId="18012" />
+
+<!-- Pick Up: Nothin' Says Lovin' Like a Big Stinger -->
+<PickUp QuestName="Nothin' Says Lovin' Like a Big Stinger" QuestId="9898" GiverName="Reavij" GiverId="18012" />
+
+<!-- Turn In: Withered Basidium -->
+<TurnIn QuestName="Withered Basidium" QuestId="9828" TurnInName="Reavij" TurnInId="18012" />
+
+<!-- Turn In: Jyoba's Report -->
+<TurnIn QuestName="Jyoba's Report" QuestId="9772" TurnInName="Zurai" TurnInId="18011" />
+
+<!-- Collect Objective for Quest 9898: Blacksting's Stinger -->
+<Objective QuestName="Unknown" QuestId="9898" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Count of the Marshes -->
+<PickUp QuestName="The Count of the Marshes" QuestId="9911" GiverName="Zurai" GiverId="18011" />
+
+<!-- Pick Up: Burstcap Mushrooms, Mon! -->
+<PickUp QuestName="Burstcap Mushrooms, Mon!" QuestId="9814" GiverName="Witch Doctor Tor'gash" GiverId="18014" />
+
+<!-- Pick Up: Angling to Beat the Competition -->
+<PickUp QuestName="Angling to Beat the Competition" QuestId="9845" GiverName="Zurjaya" GiverId="18018" />
+
+<!-- Pick Up: WANTED: Boss Grog'ak -->
+<PickUp QuestName="WANTED: Boss Grog'ak" QuestId="9820" GiverName="Zurjaya" GiverId="18018" />
+
+<!-- Pick Up: Wanted: Chieftain Mummaki -->
+<PickUp QuestName="Wanted: Chieftain Mummaki" QuestId="10117" GiverName="Zurjaya" GiverId="18018" />
+
+<!-- Pick Up: Stinging the Stingers -->
+<PickUp QuestName="Stinging the Stingers" QuestId="9841" GiverName="Gambarinka" GiverId="18015" />
+
+<!-- Turn In: Report to Shadow Hunter Denjai -->
+<TurnIn QuestName="Report to Shadow Hunter Denjai" QuestId="9775" TurnInName="Shadow Hunter Denjai" TurnInId="18013" />
+
+<!-- Pick Up: Spirits of the Feralfen -->
+<PickUp QuestName="Spirits of the Feralfen" QuestId="9846" GiverName="Seer Janidi" GiverId="18017" />
+
+<!-- Collect Objective for Quest 9846: Feralfen Protection Totem -->
+<Objective QuestName="Unknown" QuestId="9846" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9845: Fenclaw Thrasher -->
+<Objective QuestName="Unknown" QuestId="9845" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Angling to Beat the Competition -->
+<TurnIn QuestName="Angling to Beat the Competition" QuestId="9845" TurnInName="Zurjaya" TurnInId="18018" />
+
+<!-- Pick Up: The Biggest of Them All -->
+<PickUp QuestName="The Biggest of Them All" QuestId="9903" GiverName="Zurjaya" GiverId="18018" />
+
+<!-- Pick Up: Pursuing Terrorclaw -->
+<PickUp QuestName="Pursuing Terrorclaw" QuestId="9904" GiverName="Zurjaya" GiverId="18018" />
+
+<!-- Turn In: Spirits of the Feralfen -->
+<TurnIn QuestName="Spirits of the Feralfen" QuestId="9846" TurnInName="Seer Janidi" TurnInId="18017" />
+
+<!-- Pick Up: A Spirit Ally? -->
+<PickUp QuestName="A Spirit Ally?" QuestId="9847" GiverName="Seer Janidi" GiverId="18017" />
+
+<!-- Kill Objective for Quest 9903: Mragesh -->
+<Objective QuestName="Unknown" QuestId="9903" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: The Biggest of Them All -->
+<TurnIn QuestName="The Biggest of Them All" QuestId="9903" TurnInName="Zurjaya" TurnInId="18018" />
+
+<!-- Turn In: A Spirit Ally? -->
+<TurnIn QuestName="A Spirit Ally?" QuestId="9847" TurnInName="Seer Janidi" TurnInId="18017" />
+
+<!-- Collect Objective for Quest 9814: Burstcap Mushroom -->
+<Objective QuestName="Unknown" QuestId="9814" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Burstcap Mushrooms, Mon! -->
+<TurnIn QuestName="Burstcap Mushrooms, Mon!" QuestId="9814" TurnInName="Witch Doctor Tor'gash" TurnInId="18014" />
+
+<!-- Pick Up: Have You Ever Seen One of These? -->
+<PickUp QuestName="Have You Ever Seen One of These?" QuestId="9816" GiverName="Witch Doctor Tor'gash" GiverId="18014" />
+
+<!-- Turn In: Watcher Leesa'oh -->
+<TurnIn QuestName="Watcher Leesa'oh" QuestId="9697" TurnInName="Watcher Leesa'oh" TurnInId="17831" />
+
+<!-- Pick Up: Observing the Sporelings -->
+<PickUp QuestName="Observing the Sporelings" QuestId="9701" GiverName="Watcher Leesa'oh" GiverId="17831" />
+
+<!-- Turn In: The Count of the Marshes -->
+<TurnIn QuestName="The Count of the Marshes" QuestId="9911" TurnInName="Watcher Leesa'oh" TurnInId="17831" />
+
+<!-- Pick Up: The Sporelings' Plight -->
+<PickUp QuestName="The Sporelings' Plight" QuestId="9739" GiverName="Fahssn" GiverId="17923" />
+
+<!-- Pick Up: Natural Enemies -->
+<PickUp QuestName="Natural Enemies" QuestId="9743" GiverName="Fahssn" GiverId="17923" />
+
+<!-- Turn In: Natural Enemies -->
+<TurnIn QuestName="Natural Enemies" QuestId="9743" TurnInName="Fahssn" TurnInId="17923" />
+
+<!-- Collect Objective for Quest 9739: Mature Spore Sac -->
+<Objective QuestName="Unknown" QuestId="9739" Type="CollectItem" ItemId="24290" CollectCount="10" />
+
+<!-- Collect Objective for Quest 9919: Mature Spore Sac -->
+<Objective QuestName="Unknown" QuestId="9919" Type="CollectItem" ItemId="24290" CollectCount="40" />
+
+<!-- Turn In: The Sporelings' Plight -->
+<TurnIn QuestName="The Sporelings' Plight" QuestId="9739" TurnInName="Fahssn" TurnInId="17923" />
+
+<!-- Pick Up: Sporeggar -->
+<PickUp QuestName="Sporeggar" QuestId="9919" GiverName="Fahssn" GiverId="17923" />
+
+<!-- Turn In: Observing the Sporelings -->
+<TurnIn QuestName="Observing the Sporelings" QuestId="9701" TurnInName="Watcher Leesa'oh" TurnInId="17831" />
+
+<!-- Pick Up: A Question of Gluttony -->
+<PickUp QuestName="A Question of Gluttony" QuestId="9702" GiverName="Watcher Leesa'oh" GiverId="17831" />
+
+</QuestOrder>

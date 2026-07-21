@@ -1,0 +1,609 @@
+<QuestOrder>
+
+<!-- Pick Up: The Hunt Begins -->
+<PickUp QuestName="The Hunt Begins" QuestId="747" GiverName="Grull Hawkwind" GiverId="2980" />
+
+<!-- Pick Up: A Humble Task (1) -->
+<PickUp QuestName="A Humble Task (1)" QuestId="752" GiverName="Chief Hawkwind" GiverId="2981" />
+
+<!-- Collect Objective for Quest 747: Plainstrider Meat -->
+<Objective QuestName="Unknown" QuestId="747" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 747: Plainstrider Feather -->
+<Objective QuestName="Unknown" QuestId="747" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Hunt Begins -->
+  <TurnIn QuestName="The Hunt Begins" QuestId="747" TurnInName="Grull Hawkwind" TurnInId="2980" />
+  <!-- Pick Up: The Hunt Continues -->
+  <PickUp QuestName="The Hunt Continues" QuestId="750" GiverName="Grull Hawkwind" GiverId="2980" />
+  <!-- Pick Up: Simple Note -->
+  <PickUp QuestName="Simple Note" QuestId="3091" GiverName="Grull Hawkwind" GiverId="2980" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: The Hunt Begins -->
+  <TurnIn QuestName="The Hunt Begins" QuestId="747" TurnInName="Grull Hawkwind" TurnInId="2980" />
+  <!-- Pick Up: The Hunt Continues -->
+  <PickUp QuestName="The Hunt Continues" QuestId="750" GiverName="Grull Hawkwind" GiverId="2980" />
+  <!-- Pick Up: Rune-Inscribed Note -->
+  <PickUp QuestName="Rune-Inscribed Note" QuestId="3093" GiverName="Grull Hawkwind" GiverId="2980" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: The Hunt Begins -->
+  <TurnIn QuestName="The Hunt Begins" QuestId="747" TurnInName="Grull Hawkwind" TurnInId="2980" />
+  <!-- Pick Up: The Hunt Continues -->
+  <PickUp QuestName="The Hunt Continues" QuestId="750" GiverName="Grull Hawkwind" GiverId="2980" />
+  <!-- Pick Up: Etched Note -->
+  <PickUp QuestName="Etched Note" QuestId="3092" GiverName="Grull Hawkwind" GiverId="2980" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: The Hunt Begins -->
+  <TurnIn QuestName="The Hunt Begins" QuestId="747" TurnInName="Grull Hawkwind" TurnInId="2980" />
+  <!-- Pick Up: The Hunt Continues -->
+  <PickUp QuestName="The Hunt Continues" QuestId="750" GiverName="Grull Hawkwind" GiverId="2980" />
+  <!-- Pick Up: Verdant Note -->
+  <PickUp QuestName="Verdant Note" QuestId="3094" GiverName="Grull Hawkwind" GiverId="2980" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Simple Note -->
+  <TurnIn QuestName="Simple Note" QuestId="3091" TurnInName="Harutt Thunderhorn" TurnInId="3059" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Rune-Inscribed Note -->
+  <TurnIn QuestName="Rune-Inscribed Note" QuestId="3093" TurnInName="Meela Dawnstrider" TurnInId="3062" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Etched Note -->
+  <TurnIn QuestName="Etched Note" QuestId="3092" TurnInName="Lanka Farshot" TurnInId="3061" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Verdant Note -->
+  <TurnIn QuestName="Verdant Note" QuestId="3094" TurnInName="Gart Mistrunner" TurnInId="3060" />
+</If>
+
+<!-- Turn In: A Humble Task (1) -->
+<TurnIn QuestName="A Humble Task (1)" QuestId="752" TurnInName="Greatmother Hawkwind" TurnInId="2991" />
+
+<!-- Pick Up: A Humble Task (2) -->
+<PickUp QuestName="A Humble Task (2)" QuestId="753" GiverName="Greatmother Hawkwind" GiverId="2991" />
+
+<!-- Collect Objective for Quest 753: Water Pitcher -->
+<Objective QuestName="Unknown" QuestId="753" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Humble Task (2) -->
+<TurnIn QuestName="A Humble Task (2)" QuestId="753" TurnInName="Chief Hawkwind" TurnInId="2981" />
+
+<!-- Pick Up: Rites of the Earthmother (1) -->
+<PickUp QuestName="Rites of the Earthmother (1)" QuestId="755" GiverName="Chief Hawkwind" GiverId="2981" />
+
+<!-- Collect Objective for Quest 750: Mountain Cougar Pelt -->
+<Objective QuestName="Unknown" QuestId="750" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Rites of the Earthmother (1) -->
+<TurnIn QuestName="Rites of the Earthmother (1)" QuestId="755" TurnInName="Seer Graytongue" TurnInId="2982" />
+
+<!-- Pick Up: Rite of Strength -->
+<PickUp QuestName="Rite of Strength" QuestId="757" GiverName="Seer Graytongue" GiverId="2982" />
+
+<!-- Turn In: The Hunt Continues -->
+<TurnIn QuestName="The Hunt Continues" QuestId="750" TurnInName="Grull Hawkwind" TurnInId="2980" />
+
+<!-- Pick Up: The Battleboars -->
+<PickUp QuestName="The Battleboars" QuestId="780" GiverName="Grull Hawkwind" GiverId="2980" />
+
+<!-- Pick Up: Break Sharptusk! -->
+<PickUp QuestName="Break Sharptusk!" QuestId="3376" GiverName="Brave Windfeather" GiverId="3209" />
+
+<!-- Collect Objective for Quest 780: Battleboar Snout -->
+<Objective QuestName="Unknown" QuestId="780" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 780: Battleboar Flank -->
+<Objective QuestName="Unknown" QuestId="780" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Earth (1) -->
+  <PickUp QuestName="Call of Earth (1)" QuestId="1519" GiverName="Seer Ravenfeather" GiverId="5888" />
+</If>
+
+<!-- Collect Objective for Quest 757: Bristleback Belt -->
+<Objective QuestName="Unknown" QuestId="757" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Collect Objective for Quest 3376: Chief Sharptusk Thornmantle's Head -->
+<Objective QuestName="Unknown" QuestId="3376" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1519: Ritual Salve -->
+  <Objective QuestName="Unknown" QuestId="1519" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+</If>
+
+<!-- Turn In: The Battleboars -->
+<TurnIn QuestName="The Battleboars" QuestId="780" TurnInName="Grull Hawkwind" TurnInId="2980" />
+
+<!-- Turn In: Break Sharptusk! -->
+<TurnIn QuestName="Break Sharptusk!" QuestId="3376" TurnInName="Brave Windfeather" TurnInId="3209" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Earth (1) -->
+  <TurnIn QuestName="Call of Earth (1)" QuestId="1519" TurnInName="Seer Ravenfeather" TurnInId="5888" />
+  <!-- Pick Up: Call of Earth (2) -->
+  <PickUp QuestName="Call of Earth (2)" QuestId="1520" GiverName="Seer Ravenfeather" GiverId="5888" />
+</If>
+
+<!-- Turn In: Rite of Strength -->
+<TurnIn QuestName="Rite of Strength" QuestId="757" TurnInName="Chief Hawkwind" TurnInId="2981" />
+
+<!-- Pick Up: Rites of the Earthmother (2) -->
+<PickUp QuestName="Rites of the Earthmother (2)" QuestId="763" GiverName="Chief Hawkwind" GiverId="2981" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Earth (2) -->
+  <TurnIn QuestName="Call of Earth (2)" QuestId="1520" TurnInName="the Minor Manifestation of Earth" TurnInId="5891" />
+  <!-- Pick Up: Call of Earth (3) -->
+  <PickUp QuestName="Call of Earth (3)" QuestId="1521" GiverName="the Minor Manifestation of Earth" GiverId="5891" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Earth (3) -->
+  <TurnIn QuestName="Call of Earth (3)" QuestId="1521" TurnInName="Seer Ravenfeather" TurnInId="5888" />
+</If>
+
+<!-- Pick Up: A Task Unfinished -->
+<PickUp QuestName="A Task Unfinished" QuestId="1656" GiverName="Antur Fallow" GiverId="6775" />
+
+<!-- Pick Up: Dangers of the Windfury -->
+<PickUp QuestName="Dangers of the Windfury" QuestId="743" GiverName="Ruul Eagletalon" GiverId="2985" />
+
+<!-- Turn In: Rites of the Earthmother (2) -->
+<TurnIn QuestName="Rites of the Earthmother (2)" QuestId="763" TurnInName="Baine Bloodhoof" TurnInId="2993" />
+
+<!-- Pick Up: Sharing the Land -->
+<PickUp QuestName="Sharing the Land" QuestId="745" GiverName="Baine Bloodhoof" GiverId="2993" />
+
+<!-- Pick Up: Rite of Vision (1) -->
+<PickUp QuestName="Rite of Vision (1)" QuestId="767" GiverName="Baine Bloodhoof" GiverId="2993" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Pick Up: Poison Water -->
+  <PickUp QuestName="Poison Water" QuestId="748" GiverName="Mull Thunderhorn" GiverId="2948" />
+</If>
+
+<!-- Pick Up: Swoop Hunting -->
+<PickUp QuestName="Swoop Hunting" QuestId="761" GiverName="Harken Windtotem" GiverId="2947" />
+
+<!-- Turn In: Rite of Vision (1) -->
+<TurnIn QuestName="Rite of Vision (1)" QuestId="767" TurnInName="Zarlman Two-Moons" TurnInId="3054" />
+
+<!-- Pick Up: Rite of Vision (2) -->
+<PickUp QuestName="Rite of Vision (2)" QuestId="771" GiverName="Zarlman Two-Moons" GiverId="3054" />
+
+<!-- Pick Up: Mazzranache -->
+<PickUp QuestName="Mazzranache" QuestId="766" GiverName="Maur Raincaller" GiverId="3055" />
+
+<!-- Turn In: A Task Unfinished -->
+<TurnIn QuestName="A Task Unfinished" QuestId="1656" TurnInName="Innkeeper Kauth" TurnInId="6747" />
+
+<!-- Collect Objective for Quest 771: Ambercorn -->
+<Objective QuestName="Unknown" QuestId="771" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Collect Objective for Quest 771: Well Stone -->
+<Objective QuestName="Unknown" QuestId="771" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Collect Objective for Quest 748: Prairie Wolf Paw -->
+  <Objective QuestName="Unknown" QuestId="748" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+  <!-- Collect Objective for Quest 748: Plainstrider Talon -->
+  <Objective QuestName="Unknown" QuestId="748" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+</If>
+
+<!-- Kill Objective for Quest 745: Palemane Tanner -->
+<Objective QuestName="Unknown" QuestId="745" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 745: Palemane Skinner -->
+<Objective QuestName="Unknown" QuestId="745" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 745: Palemane Poacher -->
+<Objective QuestName="Unknown" QuestId="745" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 761: Trophy Swoop Quill -->
+<Objective QuestName="Unknown" QuestId="761" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Poison Water -->
+  <TurnIn QuestName="Poison Water" QuestId="748" TurnInName="Mull Thunderhorn" TurnInId="2948" />
+  <!-- Pick Up: Winterhoof Cleansing -->
+  <PickUp QuestName="Winterhoof Cleansing" QuestId="754" GiverName="Mull Thunderhorn" GiverId="2948" />
+</If>
+
+<!-- Turn In: Swoop Hunting -->
+<TurnIn QuestName="Swoop Hunting" QuestId="761" TurnInName="Harken Windtotem" TurnInId="2947" />
+
+<!-- Turn In: Sharing the Land -->
+<TurnIn QuestName="Sharing the Land" QuestId="745" TurnInName="Baine Bloodhoof" TurnInId="2993" />
+
+<!-- Pick Up: Dwarven Digging -->
+<PickUp QuestName="Dwarven Digging" QuestId="746" GiverName="Baine Bloodhoof" GiverId="2993" />
+
+<!-- Turn In: Rite of Vision (2) -->
+<TurnIn QuestName="Rite of Vision (2)" QuestId="771" TurnInName="Zarlman Two-Moons" TurnInId="3054" />
+
+<!-- Pick Up: Rite of Vision (3) -->
+<PickUp QuestName="Rite of Vision (3)" QuestId="772" GiverName="Zarlman Two-Moons" GiverId="3054" />
+
+<!-- Turn In: Mazzranache -->
+<TurnIn QuestName="Mazzranache" QuestId="766" TurnInName="Maur Raincaller" TurnInId="3055" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Winterhoof Cleansing -->
+  <TurnIn QuestName="Winterhoof Cleansing" QuestId="754" TurnInName="Mull Thunderhorn" TurnInId="2948" />
+  <!-- Pick Up: Thunderhorn Totem -->
+  <PickUp QuestName="Thunderhorn Totem" QuestId="756" GiverName="Mull Thunderhorn" GiverId="2948" />
+</If>
+
+<!-- Turn In: Rite of Vision (3) -->
+<TurnIn QuestName="Rite of Vision (3)" QuestId="772" TurnInName="Seer Wiserunner" TurnInId="2984" />
+
+<!-- Pick Up: Rite of Wisdom -->
+<PickUp QuestName="Rite of Wisdom" QuestId="773" GiverName="Seer Wiserunner" GiverId="2984" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Collect Objective for Quest 756: Cougar Claws -->
+  <Objective QuestName="Unknown" QuestId="756" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+  <!-- Collect Objective for Quest 756: Stalker Claws -->
+  <Objective QuestName="Unknown" QuestId="756" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+</If>
+
+<!-- Collect Objective for Quest 746: Prospector's Pick -->
+<Objective QuestName="Unknown" QuestId="746" Type="CollectItem" ItemId="4702" CollectCount="5" />
+
+<!-- Collect Objective for Quest 746: Broken Tools -->
+<Objective QuestName="Unknown" QuestId="746" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Dwarven Digging -->
+<TurnIn QuestName="Dwarven Digging" QuestId="746" TurnInName="Baine Bloodhoof" TurnInId="2993" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Thunderhorn Totem -->
+  <TurnIn QuestName="Thunderhorn Totem" QuestId="756" TurnInName="Mull Thunderhorn" TurnInId="2948" />
+  <!-- Pick Up: Thunderhorn Cleansing -->
+  <PickUp QuestName="Thunderhorn Cleansing" QuestId="758" GiverName="Mull Thunderhorn" GiverId="2948" />
+</If>
+
+<!-- Pick Up: Kyle's Gone Missing! -->
+<PickUp QuestName="Kyle's Gone Missing!" QuestId="11129" GiverName="Ahab Wheathoof" GiverId="23618" />
+
+<!-- Collect Objective for Quest 11129: Tender Strider Meat -->
+<Objective QuestName="Unknown" QuestId="11129" Type="CollectItem" ItemId="33009" CollectCount="1" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Thunderhorn Cleansing -->
+  <TurnIn QuestName="Thunderhorn Cleansing" QuestId="758" TurnInName="Mull Thunderhorn" TurnInId="2948" />
+  <!-- Pick Up: Wildmane Totem -->
+  <PickUp QuestName="Wildmane Totem" QuestId="759" GiverName="Mull Thunderhorn" GiverId="2948" />
+</If>
+
+<!-- Turn In: Kyle's Gone Missing! -->
+<TurnIn QuestName="Kyle's Gone Missing!" QuestId="11129" TurnInName="Ahab Wheathoof" TurnInId="23618" />
+
+<!-- Pick Up: The Ravaged Caravan (1) -->
+<PickUp QuestName="The Ravaged Caravan (1)" QuestId="749" GiverName="Morin Cloudstalker" GiverId="2988" />
+
+<!-- Turn In: The Ravaged Caravan (1) -->
+<TurnIn QuestName="The Ravaged Caravan (1)" QuestId="749" TurnInName="Morin Cloudstalker" TurnInId="2988" />
+
+<!-- Pick Up: The Ravaged Caravan (2) -->
+<PickUp QuestName="The Ravaged Caravan (2)" QuestId="751" GiverName="Morin Cloudstalker" GiverId="2988" />
+
+<!-- Turn In: The Ravaged Caravan (2) -->
+<TurnIn QuestName="The Ravaged Caravan (2)" QuestId="751" TurnInName="Morin Cloudstalker" TurnInId="2988" />
+
+<!-- Pick Up: The Venture Co. -->
+<PickUp QuestName="The Venture Co." QuestId="764" GiverName="Morin Cloudstalker" GiverId="2988" />
+
+<!-- Pick Up: Supervisor Fizsprocket -->
+<PickUp QuestName="Supervisor Fizsprocket" QuestId="765" GiverName="Morin Cloudstalker" GiverId="2988" />
+
+<!-- Collect Objective for Quest 743: Windfury Talon -->
+<Objective QuestName="Unknown" QuestId="743" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Dangers of the Windfury -->
+<TurnIn QuestName="Dangers of the Windfury" QuestId="743" TurnInName="Ruul Eagletalon" TurnInId="2985" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: Veteran Uzzek -->
+  <PickUp QuestName="Veteran Uzzek" QuestId="1505" GiverName="Krang Stonehoof" GiverId="3063" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Veteran Uzzek -->
+  <TurnIn QuestName="Veteran Uzzek" QuestId="1505" TurnInName="Uzzek" TurnInId="5810" />
+  <!-- Pick Up: Path of Defense -->
+  <PickUp QuestName="Path of Defense" QuestId="1498" GiverName="Uzzek" GiverId="5810" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Collect Objective for Quest 1498: Singed Scale -->
+  <Objective QuestName="Unknown" QuestId="1498" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Path of Defense -->
+  <TurnIn QuestName="Path of Defense" QuestId="1498" TurnInName="Uzzek" TurnInId="5810" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Fire (1) -->
+  <PickUp QuestName="Call of Fire (1)" QuestId="2984" GiverName="Narm Skychaser" GiverId="3066" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (1) -->
+  <TurnIn QuestName="Call of Fire (1)" QuestId="2984" TurnInName="Kranal Fiss" TurnInId="5907" />
+  <!-- Pick Up: Call of Fire (2) -->
+  <PickUp QuestName="Call of Fire (2)" QuestId="1524" GiverName="Kranal Fiss" GiverId="5907" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (2) -->
+  <TurnIn QuestName="Call of Fire (2)" QuestId="1524" TurnInName="Telf Joolam" TurnInId="5900" />
+  <!-- Pick Up: Call of Fire (3) -->
+  <PickUp QuestName="Call of Fire (3)" QuestId="1525" GiverName="Telf Joolam" GiverId="5900" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1525: Fire Tar -->
+  <Objective QuestName="Unknown" QuestId="1525" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1525: Reagent Pouch -->
+  <Objective QuestName="Unknown" QuestId="1525" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (3) -->
+  <TurnIn QuestName="Call of Fire (3)" QuestId="1525" TurnInName="Telf Joolam" TurnInId="5900" />
+  <!-- Pick Up: Call of Fire (4) -->
+  <PickUp QuestName="Call of Fire (4)" QuestId="1526" GiverName="Telf Joolam" GiverId="5900" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Collect Objective for Quest 1526: Glowing Ember -->
+  <Objective QuestName="Unknown" QuestId="1526" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+  <!-- Turn In: Call of Fire (4) -->
+  <TurnIn QuestName="Call of Fire (4)" QuestId="1526" TurnInName="Telf Joolam" TurnInId="5900" />
+  <!-- Pick Up: Call of Fire (5) -->
+  <PickUp QuestName="Call of Fire (5)" QuestId="1527" GiverName="Telf Joolam" GiverId="5900" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Fire (5) -->
+  <TurnIn QuestName="Call of Fire (5)" QuestId="1527" TurnInName="Kranal Fiss" TurnInId="5907" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Pick Up: Taming the Beast (1) -->
+  <PickUp QuestName="Taming the Beast (1)" QuestId="6061" GiverName="Yaw Sharpmane" GiverId="3065" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (1) -->
+  <TurnIn QuestName="Taming the Beast (1)" QuestId="6061" TurnInName="Yaw Sharpmane" TurnInId="3065" />
+  <!-- Pick Up: Taming the Beast (2) -->
+  <PickUp QuestName="Taming the Beast (2)" QuestId="6087" GiverName="Yaw Sharpmane" GiverId="3065" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (2) -->
+  <TurnIn QuestName="Taming the Beast (2)" QuestId="6087" TurnInName="Yaw Sharpmane" TurnInId="3065" />
+  <!-- Pick Up: Taming the Beast (3) -->
+  <PickUp QuestName="Taming the Beast (3)" QuestId="6088" GiverName="Yaw Sharpmane" GiverId="3065" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (3) -->
+  <TurnIn QuestName="Taming the Beast (3)" QuestId="6088" TurnInName="Yaw Sharpmane" TurnInId="3065" />
+  <!-- Pick Up: Training the Beast (2) -->
+  <PickUp QuestName="Training the Beast (2)" QuestId="6089" GiverName="Yaw Sharpmane" GiverId="3065" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Training the Beast -->
+  <TurnIn QuestName="Training the Beast" QuestId="6089" TurnInName="Holt Thunderhorn" TurnInId="3039" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Pick Up: Heeding the Call -->
+  <PickUp QuestName="Heeding the Call" QuestId="5926" GiverName="Gennia Runetotem" GiverId="3064" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Heeding the Call -->
+  <TurnIn QuestName="Heeding the Call" QuestId="5926" TurnInName="Turak Runetotem" TurnInId="3033" />
+  <!-- Pick Up: Moonglade -->
+  <PickUp QuestName="Moonglade" QuestId="5922" GiverName="Turak Runetotem" GiverId="3033" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Moonglade -->
+  <TurnIn QuestName="Moonglade" QuestId="5922" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Great Bear Spirit -->
+  <PickUp QuestName="Great Bear Spirit" QuestId="5930" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Great Bear Spirit -->
+  <TurnIn QuestName="Great Bear Spirit" QuestId="5930" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Back to Thunder Bluff -->
+  <PickUp QuestName="Back to Thunder Bluff" QuestId="5932" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Back to Thunder Bluff -->
+  <TurnIn QuestName="Back to Thunder Bluff" QuestId="5932" TurnInName="Turak Runetotem" TurnInId="3033" />
+  <!-- Pick Up: Body and Heart -->
+  <PickUp QuestName="Body and Heart" QuestId="6002" GiverName="Turak Runetotem" GiverId="3033" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Body and Heart -->
+  <TurnIn QuestName="Body and Heart" QuestId="6002" TurnInName="Turak Runetotem" TurnInId="3033" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Collect Objective for Quest 759: Prairie Alpha Tooth -->
+  <Objective QuestName="Unknown" QuestId="759" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Wildmane Totem -->
+  <TurnIn QuestName="Wildmane Totem" QuestId="759" TurnInName="Mull Thunderhorn" TurnInId="2948" />
+  <!-- Pick Up: Wildmane Cleansing -->
+  <PickUp QuestName="Wildmane Cleansing" QuestId="760" GiverName="Mull Thunderhorn" GiverId="2948" />
+</If>
+
+<!-- Pick Up: The Hunter's Way -->
+<PickUp QuestName="The Hunter's Way" QuestId="861" GiverName="Skorn Whitecloud" GiverId="3052" />
+
+<!-- Kill Objective for Quest 764: Venture Co. Worker -->
+<Objective QuestName="Unknown" QuestId="764" Type="KillMob" MobId="UNKNOWN_ID" KillCount="14" />
+
+<!-- Kill Objective for Quest 764: Venture Co. Supervisor -->
+<Objective QuestName="Unknown" QuestId="764" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 765: Fizsprocket's Clipboard -->
+<Objective QuestName="Unknown" QuestId="765" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Venture Co. -->
+<TurnIn QuestName="The Venture Co." QuestId="764" TurnInName="Morin Cloudstalker" TurnInId="2988" />
+
+<!-- Turn In: Supervisor Fizsprocket -->
+<TurnIn QuestName="Supervisor Fizsprocket" QuestId="765" TurnInName="Morin Cloudstalker" TurnInId="2988" />
+
+<!-- Pick Up: Preparation for Ceremony -->
+<PickUp QuestName="Preparation for Ceremony" QuestId="744" GiverName="Eyahn Eagletalon" GiverId="2987" />
+
+<!-- Pick Up: A Sacred Burial -->
+<PickUp QuestName="A Sacred Burial" QuestId="833" GiverName="Lorekeeper Raintotem" GiverId="3233" />
+
+<!-- Kill Objective for Quest 833: Bristleback Interloper -->
+<Objective QuestName="Unknown" QuestId="833" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Rite of Wisdom -->
+<TurnIn QuestName="Rite of Wisdom" QuestId="773" TurnInName="Ancestral Spirit" TurnInId="2994" />
+
+<!-- Pick Up: Journey into Thunder Bluff -->
+<PickUp QuestName="Journey into Thunder Bluff" QuestId="775" GiverName="Ancestral Spirit" GiverId="2994" />
+
+<!-- Turn In: A Sacred Burial -->
+<TurnIn QuestName="A Sacred Burial" QuestId="833" TurnInName="Lorekeeper Raintotem" TurnInId="3233" />
+
+<!-- Collect Objective for Quest 861: Flatland Prowler Claw -->
+<Objective QuestName="Unknown" QuestId="861" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 744: Azure Feather -->
+<Objective QuestName="Unknown" QuestId="744" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 744: Bronze Feather -->
+<Objective QuestName="Unknown" QuestId="744" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Preparation for Ceremony -->
+<TurnIn QuestName="Preparation for Ceremony" QuestId="744" TurnInName="Eyahn Eagletalon" TurnInId="2987" />
+
+<!-- Turn In: The Hunter's Way -->
+<TurnIn QuestName="The Hunter's Way" QuestId="861" TurnInName="Melor Stonehoof" TurnInId="3441" />
+
+<!-- Pick Up: Sergra Darkthorn -->
+<PickUp QuestName="Sergra Darkthorn" QuestId="860" GiverName="Melor Stonehoof" GiverId="3441" />
+
+<!-- Turn In: Journey into Thunder Bluff -->
+<TurnIn QuestName="Journey into Thunder Bluff" QuestId="775" TurnInName="Cairne Bloodhoof" TurnInId="3057" />
+
+<!-- Pick Up: Rites of the Earthmother -->
+<PickUp QuestName="Rites of the Earthmother" QuestId="776" GiverName="Cairne Bloodhoof" GiverId="3057" />
+
+<!-- Collect Objective for Quest 776: Horn of Arra'chea -->
+<Objective QuestName="Unknown" QuestId="776" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: The Demon Scarred Cloak -->
+<PickUp QuestName="The Demon Scarred Cloak" QuestId="770" GiverName="Cairne Bloodhoof" GiverId="3057" />
+
+<!-- Turn In: Rites of the Earthmother -->
+<TurnIn QuestName="Rites of the Earthmother" QuestId="776" TurnInName="Cairne Bloodhoof" TurnInId="3057" />
+
+<!-- Turn In: The Demon Scarred Cloak -->
+<TurnIn QuestName="The Demon Scarred Cloak" QuestId="770" TurnInName="Skorn Whitecloud" TurnInId="3052" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Wildmane Cleansing -->
+  <TurnIn QuestName="Wildmane Cleansing" QuestId="760" TurnInName="Mull Thunderhorn" TurnInId="2948" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Pick Up: Journey to the Crossroads -->
+  <PickUp QuestName="Journey to the Crossroads" QuestId="854" GiverName="Kirge Sternhorn" GiverId="3418" />
+</If>
+
+<!-- Turn In: Sergra Darkthorn -->
+<TurnIn QuestName="Sergra Darkthorn" QuestId="860" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<If Condition="(Me.Race == WoWRace.Tauren)">
+  <!-- Turn In: Journey to the Crossroads -->
+  <TurnIn QuestName="Journey to the Crossroads" QuestId="854" TurnInName="Thork" TurnInId="3429" />
+</If>
+
+<!-- Pick Up: A Recipe For Death -->
+<PickUp QuestName="A Recipe For Death" QuestId="447" GiverName="Apothecary Renferrel" GiverId="1937" />
+
+<!-- Pick Up: Lost Deathstalkers -->
+<PickUp QuestName="Lost Deathstalkers" QuestId="428" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Pick Up: The Dead Fields -->
+<PickUp QuestName="The Dead Fields" QuestId="437" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Pick Up: Prove Your Worth -->
+<PickUp QuestName="Prove Your Worth" QuestId="421" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Kill Objective for Quest 421: Moonrage Whitescalp -->
+<Objective QuestName="Unknown" QuestId="421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 437: Essence of Nightlash -->
+<Objective QuestName="Unknown" QuestId="437" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 447: Grizzled Bear Heart -->
+<Objective QuestName="Unknown" QuestId="447" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 447: Skittering Blood -->
+<Objective QuestName="Unknown" QuestId="447" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Lost Deathstalkers -->
+<TurnIn QuestName="Lost Deathstalkers" QuestId="428" TurnInName="Rane Yorick" TurnInId="1950" />
+
+<!-- Pick Up: Wild Hearts -->
+<PickUp QuestName="Wild Hearts" QuestId="429" GiverName="Rane Yorick" GiverId="1950" />
+
+<!-- Collect Objective for Quest 429: Discolored Worg Heart -->
+<Objective QuestName="Unknown" QuestId="429" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Prove Your Worth -->
+<TurnIn QuestName="Prove Your Worth" QuestId="421" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Turn In: The Dead Fields -->
+<TurnIn QuestName="The Dead Fields" QuestId="437" TurnInName="High Executor Hadrec" TurnInId="1952" />
+
+<!-- Turn In: Wild Hearts -->
+<TurnIn QuestName="Wild Hearts" QuestId="429" TurnInName="Apothecary Renferrel" TurnInId="1937" />
+
+<!-- Turn In: A Recipe For Death (1) -->
+<TurnIn QuestName="A Recipe For Death (1)" QuestId="447" TurnInName="Master Apothecary Faranell" TurnInId="2055" />
+
+<!-- Pick Up: Conscript of the Horde -->
+<PickUp QuestName="Conscript of the Horde" QuestId="840" GiverName="Takrin Pathseeker" GiverId="3336" />
+
+</QuestOrder>

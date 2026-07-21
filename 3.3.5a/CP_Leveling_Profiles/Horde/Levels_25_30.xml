@@ -1,0 +1,345 @@
+<QuestOrder>
+
+<!-- Pick Up: The Sacred Flame (1) -->
+<PickUp QuestName="The Sacred Flame (1)" QuestId="1195" GiverName="Zangen Stonehoof" GiverId="4721" />
+
+<!-- Collect Objective for Quest 6393: Incendrites -->
+<Objective QuestName="Unknown" QuestId="6393" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 6282: Bloodfury Slayer -->
+<Objective QuestName="Unknown" QuestId="6282" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 6282: Bloodfury Roguefeather -->
+<Objective QuestName="Unknown" QuestId="6282" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 6282: Bloodfury Ambusher -->
+<Objective QuestName="Unknown" QuestId="6282" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 6282: Bloodfury Harpy -->
+<Objective QuestName="Unknown" QuestId="6282" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Turn In: Elemental War -->
+<TurnIn QuestName="Elemental War" QuestId="6393" TurnInName="Tsunaman" TurnInId="11862" />
+
+<!-- Turn In: Harpies Threaten -->
+<TurnIn QuestName="Harpies Threaten" QuestId="6282" TurnInName="Maggran Earthbinder" TurnInId="11860" />
+
+<!-- Pick Up: Bloodfury Bloodline -->
+<PickUp QuestName="Bloodfury Bloodline" QuestId="6283" GiverName="Maggran Earthbinder" GiverId="11860" />
+
+<!-- Turn In: New Life -->
+<TurnIn QuestName="New Life" QuestId="6381" TurnInName="Tammra Windfield" TurnInId="11864" />
+
+<!-- Collect Objective for Quest 1096: Gerenzo's Mechanical Arm -->
+<Objective QuestName="Unknown" QuestId="1096" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Gerenzo Wrenchwhistle -->
+<TurnIn QuestName="Gerenzo Wrenchwhistle" QuestId="1096" TurnInName="Ziz Fizziks" TurnInId="4201" />
+
+<!-- Pick Up: Stonetalon Standstill -->
+<PickUp QuestName="Stonetalon Standstill" QuestId="25" GiverName="Mastok Wrilehiss" GiverId="12737" />
+
+<!-- Pick Up: Satyr Horns -->
+<PickUp QuestName="Satyr Horns" QuestId="6441" GiverName="Pixel" GiverId="12724" />
+
+<!-- Pick Up: Ashenvale Outrunners -->
+<PickUp QuestName="Ashenvale Outrunners" QuestId="6503" GiverName="Kuray'bin" GiverId="12867" />
+
+<!-- Kill Objective for Quest 6503: Ashenvale Outrunner -->
+<Objective QuestName="Unknown" QuestId="6503" Type="KillMob" MobId="UNKNOWN_ID" KillCount="9" />
+
+<!-- Pick Up: Torek's Assault -->
+<PickUp QuestName="Torek's Assault" QuestId="6544" GiverName="Torek" GiverId="12858" />
+
+<!-- Kill Objective for Quest 25: Befouled Water Elemental -->
+<Objective QuestName="Unknown" QuestId="25" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Pick Up: The Befouled Element -->
+<PickUp QuestName="The Befouled Element" QuestId="1918" GiverName="Torek" GiverId="12858" />
+
+<!-- Pick Up: Ursangous's Paw -->
+<PickUp QuestName="Ursangous's Paw" QuestId="23" GiverName="Torek" GiverId="12858" />
+
+<!-- Collect Objective for Quest 1195: Etched Phial -->
+<Objective QuestName="Unknown" QuestId="1195" Type="CollectItem" ItemId="5867" CollectCount="1" />
+
+<!-- Turn In: Stonetalon Standstill -->
+<TurnIn QuestName="Stonetalon Standstill" QuestId="25" TurnInName="Mastok Wrilehiss" TurnInId="12737" />
+
+<!-- Turn In: The Befouled Element -->
+<TurnIn QuestName="The Befouled Element" QuestId="1918" TurnInName="Mastok Wrilehiss" TurnInId="12737" />
+
+<!-- Pick Up: Je'neu of the Earthen Ring -->
+<PickUp QuestName="Je'neu of the Earthen Ring" QuestId="824" GiverName="Mastok Wrilehiss" GiverId="12737" />
+
+<!-- Turn In: Ursangous's Paw -->
+<TurnIn QuestName="Ursangous's Paw" QuestId="23" TurnInName="Senani Thunderheart" TurnInId="12696" />
+
+<!-- Turn In: Torek's Assault -->
+<TurnIn QuestName="Torek's Assault" QuestId="6544" TurnInName="Ertog Ragetusk" TurnInId="12877" />
+
+<!-- Turn In: Ashenvale Outrunners -->
+<TurnIn QuestName="Ashenvale Outrunners" QuestId="6503" TurnInName="Kuray'bin" TurnInId="12867" />
+
+<!-- Collect Objective for Quest 1195: Filled Etched Phial -->
+<Objective QuestName="Unknown" QuestId="1195" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Shadumbra's Head -->
+<PickUp QuestName="Shadumbra's Head" QuestId="24" GiverName="Kuray'bin" GiverId="12867" />
+
+<!-- Turn In: Je'neu of the Earthen Ring -->
+<TurnIn QuestName="Je'neu of the Earthen Ring" QuestId="824" TurnInName="Je'neu Sancrea" TurnInId="12736" />
+
+<!-- Pick Up: Between a Rock and a Thistlefur -->
+<PickUp QuestName="Between a Rock and a Thistlefur" QuestId="216" GiverName="Karang Amakkar" GiverId="12757" />
+
+<!-- Pick Up: Troll Charm -->
+<PickUp QuestName="Troll Charm" QuestId="6462" GiverName="Mitsuwa" GiverId="12721" />
+
+<!-- Pick Up: Vorsha the Lasher -->
+<PickUp QuestName="Vorsha the Lasher" QuestId="6641" GiverName="Muglash" GiverId="12717" />
+
+<!-- Turn In: Vorsha the Lasher -->
+<TurnIn QuestName="Vorsha the Lasher" QuestId="6641" TurnInName="Warsong Runner" TurnInId="12863" />
+
+<!-- Kill Objective for Quest 216: Thistlefur Avenger -->
+<Objective QuestName="Unknown" QuestId="216" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 216: Thistlefur Shaman -->
+<Objective QuestName="Unknown" QuestId="216" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 6462: Troll Charm -->
+<Objective QuestName="Unknown" QuestId="6462" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Pick Up: Freedom to Ruul -->
+<PickUp QuestName="Freedom to Ruul" QuestId="6482" GiverName="Ruul Snowhoof" GiverId="12818" />
+
+<!-- Turn In: Between a Rock and a Thistlefur -->
+<TurnIn QuestName="Between a Rock and a Thistlefur" QuestId="216" TurnInName="Karang Amakkar" TurnInId="12757" />
+
+<!-- Turn In: Troll Charm -->
+<TurnIn QuestName="Troll Charm" QuestId="6462" TurnInName="Mitsuwa" TurnInId="12721" />
+
+<!-- Turn In: Freedom to Ruul -->
+<TurnIn QuestName="Freedom to Ruul" QuestId="6482" TurnInName="Yama Snowhoof" TurnInId="12837" />
+
+<!-- Turn In: Shadumbra's Head -->
+<TurnIn QuestName="Shadumbra's Head" QuestId="24" TurnInName="Senani Thunderheart" TurnInId="12696" />
+
+<!-- Collect Objective for Quest 6441: Satyr Horns -->
+<Objective QuestName="Unknown" QuestId="6441" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="16" />
+
+<!-- Turn In: Satyr Horns -->
+<TurnIn QuestName="Satyr Horns" QuestId="6441" TurnInName="Pixel" TurnInId="12724" />
+
+<!-- Collect Objective for Quest 6283: Bloodfury Ripper's Remains -->
+<Objective QuestName="Unknown" QuestId="6283" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Bloodfury Bloodline -->
+<TurnIn QuestName="Bloodfury Bloodline" QuestId="6283" TurnInName="Maggran Earthbinder" TurnInId="11860" />
+
+<!-- Turn In: The Sacred Flame (1) -->
+<TurnIn QuestName="The Sacred Flame (1)" QuestId="1195" TurnInName="Zangen Stonehoof" TurnInId="4721" />
+
+<!-- Pick Up: The Sacred Flame (2) -->
+<PickUp QuestName="The Sacred Flame (2)" QuestId="1196" GiverName="Zangen Stonehoof" GiverId="4721" />
+
+<!-- Turn In: The Sacred Flame (2) -->
+<TurnIn QuestName="The Sacred Flame (2)" QuestId="1196" TurnInName="Rau Cliffrunner" TurnInId="4722" />
+
+<!-- Pick Up: The Sacred Flame (3) -->
+<PickUp QuestName="The Sacred Flame (3)" QuestId="1197" GiverName="Rau Cliffrunner" GiverId="4722" />
+
+<!-- Pick Up: A Different Approach -->
+<PickUp QuestName="A Different Approach" QuestId="9431" GiverName="Magistrix Elosai" GiverId="17093" />
+
+<!-- Pick Up: Wind Rider -->
+<PickUp QuestName="Wind Rider" QuestId="4767" GiverName="Elu" GiverId="10377" />
+
+<!-- Pick Up: Test of Faith -->
+<PickUp QuestName="Test of Faith" QuestId="1149" GiverName="Dorn Plainstalker" GiverId="2986" />
+
+<!-- Turn In: Test of Faith -->
+<TurnIn QuestName="Test of Faith" QuestId="1149" TurnInName="Dorn Plainstalker" TurnInId="2986" />
+
+<!-- Pick Up: Test of Endurance -->
+<PickUp QuestName="Test of Endurance" QuestId="1150" GiverName="Dorn Plainstalker" GiverId="2986" />
+
+<!-- Turn In: Serpent Wild -->
+<TurnIn QuestName="Serpent Wild" QuestId="4865" TurnInName="Motega Firemane" TurnInId="10428" />
+
+<!-- Pick Up: Sacred Fire -->
+<PickUp QuestName="Sacred Fire" QuestId="5062" GiverName="Motega Firemane" GiverId="10428" />
+
+<!-- Collect Objective for Quest 5062: Incendia Agave -->
+<Objective QuestName="Unknown" QuestId="5062" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 4767: Highperch Wyvern Egg -->
+<Objective QuestName="Unknown" QuestId="4767" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Pick Up: Homeward Bound -->
+<PickUp QuestName="Homeward Bound" QuestId="4770" GiverName="Pao'ka Swiftmountain" GiverId="10427" />
+
+<!-- Collect Objective for Quest 9431: Purifying Earth -->
+<Objective QuestName="Unknown" QuestId="9431" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Turn In: Sacred Fire -->
+<TurnIn QuestName="Sacred Fire" QuestId="5062" TurnInName="Magatha Grimtotem" TurnInId="4046" />
+
+<!-- Pick Up: Arikara -->
+<PickUp QuestName="Arikara" QuestId="5088" GiverName="Magatha Grimtotem" GiverId="4046" />
+
+<!-- Turn In: Wind Rider -->
+<TurnIn QuestName="Wind Rider" QuestId="4767" TurnInName="Elu" TurnInId="10377" />
+
+<!-- Collect Objective for Quest 5064: Secret Note #1 -->
+<Objective QuestName="Unknown" QuestId="5064" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5064: Secret Note #2 -->
+<Objective QuestName="Unknown" QuestId="5064" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5064: Secret Note #3 -->
+<Objective QuestName="Unknown" QuestId="5064" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5088: Arikara Serpent Skin -->
+<Objective QuestName="Unknown" QuestId="5088" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5147: Arnak's Hoof -->
+<Objective QuestName="Unknown" QuestId="5147" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Free at Last -->
+<PickUp QuestName="Free at Last" QuestId="4904" GiverName="Lakota Windsong" GiverId="10646" />
+
+<!-- Turn In: Homeward Bound -->
+<TurnIn QuestName="Homeward Bound" QuestId="4770" TurnInName="Motega Firemane" TurnInId="10428" />
+
+<!-- Turn In: Arikara -->
+<TurnIn QuestName="Arikara" QuestId="5088" TurnInName="Motega Firemane" TurnInId="10428" />
+
+<!-- Turn In: A Different Approach -->
+<TurnIn QuestName="A Different Approach" QuestId="9431" TurnInName="Wizlo Bearingshiner" TurnInId="10941" />
+
+<!-- Pick Up: A Dip in the Moonwell -->
+<PickUp QuestName="A Dip in the Moonwell" QuestId="9433" GiverName="Wizlo Bearingshiner" GiverId="10941" />
+
+<!-- Collect Objective for Quest 1197: Cloven Hoof -->
+<Objective QuestName="Unknown" QuestId="1197" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1131: Steelsnap's Rib -->
+<Objective QuestName="Unknown" QuestId="1131" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Sacred Flame (3) -->
+<TurnIn QuestName="The Sacred Flame (3)" QuestId="1197" TurnInName="Rau Cliffrunner" TurnInId="4722" />
+
+<!-- Turn In: Free at Last -->
+<TurnIn QuestName="Free at Last" QuestId="4904" TurnInName="Thalia Amberhide" TurnInId="10645" />
+
+<!-- Turn In: Grimtotem Spying -->
+<TurnIn QuestName="Grimtotem Spying" QuestId="5064" TurnInName="Cliffwatcher Longhorn" TurnInId="10537" />
+
+<!-- Turn In: Wanted - Arnak Grimtotem -->
+<TurnIn QuestName="Wanted - Arnak Grimtotem" QuestId="5147" TurnInName="Cliffwatcher Longhorn" TurnInId="10537" />
+
+<!-- Turn In: Steelsnap -->
+<TurnIn QuestName="Steelsnap" QuestId="1131" TurnInName="Melor Stonehoof" TurnInId="3441" />
+
+<!-- Pick Up: Frostmaw -->
+<PickUp QuestName="Frostmaw" QuestId="1136" GiverName="Melor Stonehoof" GiverId="3441" />
+
+<!-- Pick Up: Assassination Plot -->
+<PickUp QuestName="Assassination Plot" QuestId="4881" GiverName="Melor Stonehoof" GiverId="3441" />
+
+<!-- Turn In: Assassination Plot -->
+<TurnIn QuestName="Assassination Plot" QuestId="4881" TurnInName="Kanati Greycloud" TurnInId="10638" />
+
+<!-- Pick Up: Protect Kanati Greycloud -->
+<PickUp QuestName="Protect Kanati Greycloud" QuestId="4966" GiverName="Kanati Greycloud" GiverId="10638" />
+
+<!-- Turn In: Protect Kanati Greycloud -->
+<TurnIn QuestName="Protect Kanati Greycloud" QuestId="4966" TurnInName="Kanati Greycloud" TurnInId="10638" />
+
+<!-- Collect Objective for Quest 9433: Thalanaar Moonwell Water -->
+<Objective QuestName="Unknown" QuestId="9433" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Dip in the Moonwell -->
+<TurnIn QuestName="A Dip in the Moonwell" QuestId="9433" TurnInName="Wizlo Bearingshiner" TurnInId="10941" />
+
+<!-- Pick Up: Testing the Tonic -->
+<PickUp QuestName="Testing the Tonic" QuestId="9434" GiverName="Wizlo Bearingshiner" GiverId="10941" />
+
+<!-- Collect Objective for Quest 1150: Grenka's Claw -->
+<Objective QuestName="Unknown" QuestId="1150" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Testing the Tonic -->
+<TurnIn QuestName="Testing the Tonic" QuestId="9434" TurnInName="Magistrix Elosai" TurnInId="17093" />
+
+<!-- Turn In: Test of Endurance -->
+<TurnIn QuestName="Test of Endurance" QuestId="1150" TurnInName="Dorn Plainstalker" TurnInId="2986" />
+
+<!-- Pick Up: Test of Strength -->
+<PickUp QuestName="Test of Strength" QuestId="1151" GiverName="Dorn Plainstalker" GiverId="2986" />
+
+<!-- Collect Objective for Quest 1151: Fragments of Rok'Alim -->
+<Objective QuestName="Unknown" QuestId="1151" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Test of Strength -->
+<TurnIn QuestName="Test of Strength" QuestId="1151" TurnInName="Dorn Plainstalker" TurnInId="2986" />
+
+<!-- Pick Up: Ordanus -->
+<PickUp QuestName="Ordanus" QuestId="1088" GiverName="Braelyn Firehand" GiverId="4198" />
+
+<!-- Pick Up: Destroy the Legion -->
+<PickUp QuestName="Destroy the Legion" QuestId="9534" GiverName="Valusha" GiverId="17355" />
+
+<!-- Kill Objective for Quest 9534: Mannoroc Lasher -->
+<Objective QuestName="Unknown" QuestId="9534" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9534: Roaming Felguard -->
+<Objective QuestName="Unknown" QuestId="9534" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9534: Searing Infernal -->
+<Objective QuestName="Unknown" QuestId="9534" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Pick Up: Diabolical Plans -->
+<PickUp QuestName="Diabolical Plans" QuestId="9535" GiverName="Valusha" GiverId="17355" />
+
+<!-- Turn In: Destroy the Legion -->
+<TurnIn QuestName="Destroy the Legion" QuestId="9534" TurnInName="Valusha" TurnInId="17355" />
+
+<!-- Turn In: Diabolical Plans -->
+<TurnIn QuestName="Diabolical Plans" QuestId="9535" TurnInName="Valusha" TurnInId="17355" />
+
+<!-- Pick Up: Sharptalon's Claw -->
+<PickUp QuestName="Sharptalon's Claw" QuestId="2" GiverName="Valusha" GiverId="17355" />
+
+<!-- Collect Objective for Quest 1088: Ordanus' Head -->
+<Objective QuestName="Unknown" QuestId="1088" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Sharptalon's Claw -->
+<TurnIn QuestName="Sharptalon's Claw" QuestId="2" TurnInName="Senani Thunderheart" TurnInId="12696" />
+
+<!-- Pick Up: The Hunt Completed -->
+<PickUp QuestName="The Hunt Completed" QuestId="247" GiverName="Senani Thunderheart" GiverId="12696" />
+
+<!-- Turn In: Ordanus -->
+<TurnIn QuestName="Ordanus" QuestId="1088" TurnInName="Braelyn Firehand" TurnInId="4198" />
+
+<!-- Pick Up: The Den -->
+<PickUp QuestName="The Den" QuestId="1089" GiverName="Braelyn Firehand" GiverId="4198" />
+
+<!-- Collect Objective for Quest 1089: Gatekeeper's Key -->
+<Objective QuestName="Unknown" QuestId="1089" Type="CollectItem" ItemId="5687" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1089: Claw Key -->
+<Objective QuestName="Unknown" QuestId="1089" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1089: Barrow Key -->
+<Objective QuestName="Unknown" QuestId="1089" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1089: Sleepers' Key -->
+<Objective QuestName="Unknown" QuestId="1089" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Den -->
+<TurnIn QuestName="The Den" QuestId="1089" TurnInName="Braelyn Firehand" TurnInId="4198" />
+
+</QuestOrder>

@@ -1,0 +1,459 @@
+<QuestOrder>
+
+<!-- Pick Up: Through the Dark Portal -->
+<PickUp QuestName="Through the Dark Portal" QuestId="9407" GiverName="Warlord Dar'toon" GiverId="19254" />
+
+<!-- Turn In: Through the Dark Portal -->
+<TurnIn QuestName="Through the Dark Portal" QuestId="9407" TurnInName="Lieutenant General Orion" TurnInId="19253" />
+
+<!-- Pick Up: Arrival in Outland -->
+<PickUp QuestName="Arrival in Outland" QuestId="10120" GiverName="Lieutenant General Orion" GiverId="19253" />
+
+<!-- Turn In: Arrival in Outland -->
+<TurnIn QuestName="Arrival in Outland" QuestId="10120" TurnInName="Vlagga Freyfeather" TurnInId="18930" />
+
+<!-- Pick Up: Journey to Thrallmar -->
+<PickUp QuestName="Journey to Thrallmar" QuestId="10289" GiverName="Vlagga Freyfeather" GiverId="18930" />
+
+<!-- Turn In: Journey to Thrallmar -->
+<TurnIn QuestName="Journey to Thrallmar" QuestId="10289" TurnInName="General Krakork" TurnInId="19255" />
+
+<!-- Pick Up: Report to Nazgrel -->
+<PickUp QuestName="Report to Nazgrel" QuestId="10291" GiverName="General Krakork" GiverId="19255" />
+
+<!-- Turn In: Report to Nazgrel -->
+<TurnIn QuestName="Report to Nazgrel" QuestId="10291" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: Eradicate the Burning Legion -->
+<PickUp QuestName="Eradicate the Burning Legion" QuestId="10121" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Pick Up: Bonechewer Blood -->
+<PickUp QuestName="Bonechewer Blood" QuestId="10450" GiverName="Vurtok Axebreaker" GiverId="21256" />
+
+<!-- Pick Up: I Work... For the Horde! -->
+<PickUp QuestName="I Work... For the Horde!" QuestId="10086" GiverName="Megzeg Nukklebust" GiverId="21283" />
+
+<!-- Turn In: Eradicate the Burning Legion -->
+<TurnIn QuestName="Eradicate the Burning Legion" QuestId="10121" TurnInName="Sergeant Shatterskull" TurnInId="19256" />
+
+<!-- Pick Up: Felspark Ravine -->
+<PickUp QuestName="Felspark Ravine" QuestId="10123" GiverName="Sergeant Shatterskull" GiverId="19256" />
+
+<!-- Kill Objective for Quest 10123: Dreadcaller -->
+<Objective QuestName="Unknown" QuestId="10123" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10123: Flamewaker Imp -->
+<Objective QuestName="Unknown" QuestId="10123" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10123: Infernal Warbringer -->
+<Objective QuestName="Unknown" QuestId="10123" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Felspark Ravine -->
+<TurnIn QuestName="Felspark Ravine" QuestId="10123" TurnInName="Sergeant Shatterskull" TurnInId="19256" />
+
+<!-- Pick Up: Forward Base: Reaver's Fall -->
+<PickUp QuestName="Forward Base: Reaver's Fall" QuestId="10124" GiverName="Sergeant Shatterskull" GiverId="19256" />
+
+<!-- Turn In: Forward Base: Reaver's Fall -->
+<TurnIn QuestName="Forward Base: Reaver's Fall" QuestId="10124" TurnInName="Forward Commander To'arch" TurnInId="19273" />
+
+<!-- Pick Up: Disrupt Their Reinforcements -->
+<PickUp QuestName="Disrupt Their Reinforcements" QuestId="10208" GiverName="Forward Commander To'arch" GiverId="19273" />
+
+<!-- Collect Objective for Quest 10208: Demonic Rune Stone -->
+<Objective QuestName="Unknown" QuestId="10208" Type="CollectItem" ItemId="28513" CollectCount="4" />
+
+<!-- Collect Objective for Quest 10208: Demonic Rune Stone -->
+<Objective QuestName="Unknown" QuestId="10208" Type="CollectItem" ItemId="28513" CollectCount="4" />
+
+<!-- Turn In: Disrupt Their Reinforcements -->
+<TurnIn QuestName="Disrupt Their Reinforcements" QuestId="10208" TurnInName="Forward Commander To'arch" TurnInId="19273" />
+
+<!-- Pick Up: Mission: Gateways Murketh and Shaadraz -->
+<PickUp QuestName="Mission: Gateways Murketh and Shaadraz" QuestId="10129" GiverName="Forward Commander To'arch" GiverId="19273" />
+
+<!-- Turn In: Mission: Gateways Murketh and Shaadraz -->
+<TurnIn QuestName="Mission: Gateways Murketh and Shaadraz" QuestId="10129" TurnInName="Forward Commander To'arch" TurnInId="19273" />
+
+<!-- Pick Up: Mission: The Abyssal Shelf -->
+<PickUp QuestName="Mission: The Abyssal Shelf" QuestId="10162" GiverName="Forward Commander To'arch" GiverId="19273" />
+
+<!-- Pick Up: Return to Thrallmar -->
+<PickUp QuestName="Return to Thrallmar" QuestId="10388" GiverName="Forward Commander To'arch" GiverId="19273" />
+
+<!-- Kill Objective for Quest 10162: Mo'arg Overseer -->
+<Objective QuestName="Unknown" QuestId="10162" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 10162: Gan'arg Peon -->
+<Objective QuestName="Unknown" QuestId="10162" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Turn In: Mission: The Abyssal Shelf -->
+<TurnIn QuestName="Mission: The Abyssal Shelf" QuestId="10162" TurnInName="Forward Commander To'arch" TurnInId="19273" />
+
+<!-- Pick Up: Falcon Watch -->
+<PickUp QuestName="Falcon Watch" QuestId="9498" GiverName="Martik Tor'seldori" GiverId="16577" />
+
+<!-- Pick Up: Falcon Watch -->
+<PickUp QuestName="Falcon Watch" QuestId="9499" GiverName="Martik Tor'seldori" GiverId="16577" />
+
+<!-- Turn In: Return to Thrallmar -->
+<TurnIn QuestName="Return to Thrallmar" QuestId="10388" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: Forge Camp: Mageddon -->
+<PickUp QuestName="Forge Camp: Mageddon" QuestId="10390" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Pick Up: The Assassin -->
+<PickUp QuestName="The Assassin" QuestId="9400" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Kill Objective for Quest 10390: Gan'arg Servant -->
+<Objective QuestName="Unknown" QuestId="10390" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 10390: Head of Forgefiend Razorsaw -->
+<Objective QuestName="Unknown" QuestId="10390" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Vile Plans -->
+<PickUp QuestName="Vile Plans" QuestId="10393" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Turn In: Forge Camp: Mageddon -->
+<TurnIn QuestName="Forge Camp: Mageddon" QuestId="10390" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: Cannons of Rage -->
+<PickUp QuestName="Cannons of Rage" QuestId="10391" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Turn In: Vile Plans -->
+<TurnIn QuestName="Vile Plans" QuestId="10393" TurnInName="Magister Bloodhawk" TurnInId="21175" />
+
+<!-- Kill Objective for Quest 10391: Fel Cannon MKI -->
+<Objective QuestName="Unknown" QuestId="10391" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Turn In: Cannons of Rage -->
+<TurnIn QuestName="Cannons of Rage" QuestId="10391" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: Doorway to the Abyss -->
+<PickUp QuestName="Doorway to the Abyss" QuestId="10392" GiverName="Nazgrel" GiverId="3230" />
+
+<!-- Kill Objective for Quest 10392: Warbringer Arix'Amal -->
+<Objective QuestName="Unknown" QuestId="10392" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 10392: Burning Legion Gate Key -->
+<Objective QuestName="Unknown" QuestId="10392" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Doorway to the Abyss -->
+<TurnIn QuestName="Doorway to the Abyss" QuestId="10392" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Pick Up: The Agony and the Darkness -->
+<PickUp QuestName="The Agony and the Darkness" QuestId="10389" GiverName="Magister Bloodhawk" GiverId="21175" />
+
+<!-- Collect Objective for Quest 10086: Salvaged Metal -->
+<Objective QuestName="Unknown" QuestId="10086" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 10086: Salvaged Wood -->
+<Objective QuestName="Unknown" QuestId="10086" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: I Work... For the Horde! -->
+<TurnIn QuestName="I Work... For the Horde!" QuestId="10086" TurnInName="Megzeg Nukklebust" TurnInId="21283" />
+
+<!-- Pick Up: Burn It Up... For the Horde! -->
+<PickUp QuestName="Burn It Up... For the Horde!" QuestId="10087" GiverName="Megzeg Nukklebust" GiverId="21283" />
+
+<!-- Turn In: Bonechewer Blood -->
+<TurnIn QuestName="Bonechewer Blood" QuestId="10450" TurnInName="Vurtok Axebreaker" TurnInId="21256" />
+
+<!-- Pick Up: Apothecary Zelana -->
+<PickUp QuestName="Apothecary Zelana" QuestId="10449" GiverName="Vurtok Axebreaker" GiverId="21256" />
+
+<!-- Turn In: Apothecary Zelana -->
+<TurnIn QuestName="Apothecary Zelana" QuestId="10449" TurnInName="Apothecary Zelana" TurnInId="21257" />
+
+<!-- Pick Up: Spinebreaker Post -->
+<PickUp QuestName="Spinebreaker Post" QuestId="10242" GiverName="Apothecary Zelana" GiverId="21257" />
+
+<!-- Pick Up: The Warp Rifts -->
+<PickUp QuestName="The Warp Rifts" QuestId="10278" GiverName="Ogath the Mad" GiverId="19683" />
+
+<!-- Pick Up: Make Them Listen -->
+<PickUp QuestName="Make Them Listen" QuestId="10220" GiverName="Emissary Mordiba" GiverId="19682" />
+
+<!-- Turn In: Spinebreaker Post -->
+<TurnIn QuestName="Spinebreaker Post" QuestId="10242" TurnInName="Apothecary Albreck" TurnInId="21279" />
+
+<!-- Pick Up: Boiling Blood -->
+<PickUp QuestName="Boiling Blood" QuestId="10538" GiverName="Apothecary Albreck" GiverId="21279" />
+
+<!-- Pick Up: Preparing the Salve -->
+<PickUp QuestName="Preparing the Salve" QuestId="9345" GiverName="Grelag" GiverId="16858" />
+
+<!-- Pick Up: Wanted: Worg Master Kruush -->
+<PickUp QuestName="Wanted: Worg Master Kruush" QuestId="10809" GiverName="Grelag" GiverId="16858" />
+
+<!-- Kill Objective for Quest 10220: Unyielding Footman -->
+<Objective QuestName="Unknown" QuestId="10220" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 10220: Unyielding Knight -->
+<Objective QuestName="Unknown" QuestId="10220" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 10220: Unyielding Sorcerer -->
+<Objective QuestName="Unknown" QuestId="10220" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Pick Up: Decipher the Tome -->
+<PickUp QuestName="Decipher the Tome" QuestId="10229" GiverName="Grelag" GiverId="16858" />
+
+<!-- Turn In: Preparing the Salve -->
+<TurnIn QuestName="Preparing the Salve" QuestId="9345" TurnInName="Grelag" TurnInId="16858" />
+
+<!-- Pick Up: Investigate the Crash -->
+<PickUp QuestName="Investigate the Crash" QuestId="10213" GiverName="Grelag" GiverId="16858" />
+
+<!-- Turn In: Decipher the Tome -->
+<TurnIn QuestName="Decipher the Tome" QuestId="10229" TurnInName="Althen the Historian" TurnInId="19736" />
+
+<!-- Pick Up: The Battle Horn -->
+<PickUp QuestName="The Battle Horn" QuestId="10230" GiverName="Althen the Historian" GiverId="19736" />
+
+<!-- Turn In: Make Them Listen -->
+<TurnIn QuestName="Make Them Listen" QuestId="10220" TurnInName="Emissary Mordiba" TurnInId="19682" />
+
+<!-- Collect Objective for Quest 10230: Unyielding Battle Horn -->
+<Objective QuestName="Unknown" QuestId="10230" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Battle Horn -->
+<TurnIn QuestName="The Battle Horn" QuestId="10230" TurnInName="Althen the Historian" TurnInId="19736" />
+
+<!-- Pick Up: Bloody Vengeance -->
+<PickUp QuestName="Bloody Vengeance" QuestId="10250" GiverName="Althen the Historian" GiverId="19736" />
+
+<!-- Kill Objective for Quest 10250: Urtrak -->
+<Objective QuestName="Unknown" QuestId="10250" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Bloody Vengeance -->
+<TurnIn QuestName="Bloody Vengeance" QuestId="10250" TurnInName="Althen the Historian" TurnInId="19736" />
+
+<!-- Pick Up: Honor the Fallen -->
+<PickUp QuestName="Honor the Fallen" QuestId="10258" GiverName="Althen the Historian" GiverId="19736" />
+
+<!-- Turn In: Honor the Fallen -->
+<TurnIn QuestName="Honor the Fallen" QuestId="10258" TurnInName="Commander Hogarth" TurnInId="19937" />
+
+<!-- Collect Objective for Quest 10538: Bleeding Hollow Blood -->
+<Objective QuestName="Unknown" QuestId="10538" Type="CollectItem" ItemId="30425" CollectCount="12" />
+
+<!-- Collect Objective for Quest 10538: Boiled Blood -->
+<Objective QuestName="Unknown" QuestId="10538" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Collect Objective for Quest 10809: Worg Master's Head -->
+<Objective QuestName="Unknown" QuestId="10809" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Wanted: Worg Master Kruush -->
+<TurnIn QuestName="Wanted: Worg Master Kruush" QuestId="10809" TurnInName="Captain Darkhowl" TurnInId="22107" />
+
+<!-- Pick Up: Zeth'Gor Must Burn! -->
+<PickUp QuestName="Zeth'Gor Must Burn!" QuestId="10792" GiverName="Captain Darkhowl" GiverId="22107" />
+
+<!-- Turn In: Boiling Blood -->
+<TurnIn QuestName="Boiling Blood" QuestId="10538" TurnInName="Apothecary Albreck" TurnInId="21279" />
+
+<!-- Pick Up: Apothecary Antonivich -->
+<PickUp QuestName="Apothecary Antonivich" QuestId="10835" GiverName="Apothecary Albreck" GiverId="21279" />
+
+<!-- Pick Up: The Eyes of Grillok -->
+<PickUp QuestName="The Eyes of Grillok" QuestId="10813" GiverName="Zezzak" GiverId="22231" />
+
+<!-- Turn In: The Eyes of Grillok -->
+<TurnIn QuestName="The Eyes of Grillok" QuestId="10813" TurnInName="Zezzak" TurnInId="22231" />
+
+<!-- Pick Up: Grillok "Darkeye" -->
+<PickUp QuestName="Grillok "Darkeye"" QuestId="10834" GiverName="Zezzak" GiverId="22231" />
+
+<!-- Collect Objective for Quest 10834: Grillok's Eyepatch -->
+<Objective QuestName="Unknown" QuestId="10834" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10792: Bleeding Hollow Torch -->
+<Objective QuestName="Unknown" QuestId="10792" Type="CollectItem" ItemId="31347" CollectCount="4" />
+
+<!-- Collect Objective for Quest 10792: Burning Bleeding Hollow Torch -->
+<Objective QuestName="Unknown" QuestId="10792" Type="CollectItem" ItemId="31346" CollectCount="4" />
+
+<!-- Turn In: Zeth'Gor Must Burn! -->
+<TurnIn QuestName="Zeth'Gor Must Burn!" QuestId="10792" TurnInName="Captain Darkhowl" TurnInId="22107" />
+
+<!-- Turn In: Grillok "Darkeye" -->
+<TurnIn QuestName="Grillok "Darkeye"" QuestId="10834" TurnInName="Zezzak" TurnInId="22231" />
+
+<!-- Turn In: Investigate the Crash -->
+<TurnIn QuestName="Investigate the Crash" QuestId="10213" TurnInName="&quot;Screaming&quot; Screed Luckheed" TurnInId="19367" />
+
+<!-- Pick Up: In Case of Emergency... -->
+<PickUp QuestName="In Case of Emergency..." QuestId="10161" GiverName="&quot;Screaming&quot; Screed Luckheed" GiverId="19367" />
+
+<!-- Pick Up: Ravager Egg Roundup -->
+<PickUp QuestName="Ravager Egg Roundup" QuestId="9349" GiverName="Legassi" GiverId="19344" />
+
+<!-- Collect Objective for Quest 10161: Zeppelin Debris -->
+<Objective QuestName="Unknown" QuestId="10161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Turn In: In Case of Emergency... -->
+<TurnIn QuestName="In Case of Emergency..." QuestId="10161" TurnInName="&quot;Screaming&quot; Screed Luckheed" TurnInId="19367" />
+
+<!-- Pick Up: Voidwalkers Gone Wild -->
+<PickUp QuestName="Voidwalkers Gone Wild" QuestId="9351" GiverName="&quot;Screaming&quot; Screed Luckheed" GiverId="19367" />
+
+<!-- Collect Objective for Quest 9351: Condensed Voidwalker Essence -->
+<Objective QuestName="Unknown" QuestId="9351" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 10278: Warp Nether -->
+<Objective QuestName="Unknown" QuestId="10278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 9349: Ravager Egg -->
+<Objective QuestName="Unknown" QuestId="9349" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Voidwalkers Gone Wild -->
+<TurnIn QuestName="Voidwalkers Gone Wild" QuestId="9351" TurnInName="&quot;Screaming&quot; Screed Luckheed" TurnInId="19367" />
+
+<!-- Turn In: Ravager Egg Roundup -->
+<TurnIn QuestName="Ravager Egg Roundup" QuestId="9349" TurnInName="Legassi" TurnInId="19344" />
+
+<!-- Pick Up: Helboar, the Other White Meat -->
+<PickUp QuestName="Helboar, the Other White Meat" QuestId="9361" GiverName="Legassi" GiverId="19344" />
+
+<!-- Collect Objective for Quest 9361: Tainted Helboar Meat -->
+<Objective QuestName="Unknown" QuestId="9361" Type="CollectItem" ItemId="23270" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9361: Purified Helboar Meat -->
+<Objective QuestName="Unknown" QuestId="9361" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Pick Up: Missing Missive -->
+<PickUp QuestName="Missing Missive" QuestId="9373" GiverName="Legassi" GiverId="19344" />
+
+<!-- Turn In: Helboar, the Other White Meat -->
+<TurnIn QuestName="Helboar, the Other White Meat" QuestId="9361" TurnInName="Legassi" TurnInId="19344" />
+
+<!-- Pick Up: Smooth as Butter -->
+<PickUp QuestName="Smooth as Butter" QuestId="9356" GiverName="Legassi" GiverId="19344" />
+
+<!-- Collect Objective for Quest 9356: Plump Buzzard Wing -->
+<Objective QuestName="Unknown" QuestId="9356" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Smooth as Butter -->
+<TurnIn QuestName="Smooth as Butter" QuestId="9356" TurnInName="Legassi" TurnInId="19344" />
+
+<!-- Turn In: The Warp Rifts -->
+<TurnIn QuestName="The Warp Rifts" QuestId="10278" TurnInName="Ogath the Mad" TurnInId="19683" />
+
+<!-- Pick Up: Void Ridge -->
+<PickUp QuestName="Void Ridge" QuestId="10294" GiverName="Ogath the Mad" GiverId="19683" />
+
+<!-- Collect Objective for Quest 10294: Void Ridge Soul Shard -->
+<Objective QuestName="Unknown" QuestId="10294" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="40" />
+
+<!-- Turn In: Void Ridge -->
+<TurnIn QuestName="Void Ridge" QuestId="10294" TurnInName="Ogath the Mad" TurnInId="19683" />
+
+<!-- Pick Up: From the Abyss -->
+<PickUp QuestName="From the Abyss" QuestId="10295" GiverName="Ogath the Mad" GiverId="19683" />
+
+<!-- Collect Objective for Quest 10295: Galaxis Soul Shard -->
+<Objective QuestName="Unknown" QuestId="10295" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Apothecary Antonivich -->
+<TurnIn QuestName="Apothecary Antonivich" QuestId="10835" TurnInName="Apothecary Antonivich" TurnInId="16588" />
+
+<!-- Pick Up: A Burden of Souls -->
+<PickUp QuestName="A Burden of Souls" QuestId="10864" GiverName="Apothecary Antonivich" GiverId="16588" />
+
+<!-- Pick Up: Outland Sucks! -->
+<PickUp QuestName="Outland Sucks!" QuestId="10236" GiverName="Foreman Razelcraz" GiverId="16915" />
+
+<!-- Collect Objective for Quest 10236: Shredder Spare Parts -->
+<Objective QuestName="Unknown" QuestId="10236" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Outland Sucks! -->
+<TurnIn QuestName="Outland Sucks!" QuestId="10236" TurnInName="Foreman Razelcraz" TurnInId="16915" />
+
+<!-- Pick Up: How to Serve Goblins -->
+<PickUp QuestName="How to Serve Goblins" QuestId="10238" GiverName="Foreman Razelcraz" GiverId="16915" />
+
+<!-- Turn In: A Burden of Souls -->
+<TurnIn QuestName="A Burden of Souls" QuestId="10864" TurnInName="Apothecary Antonivich" TurnInId="16588" />
+
+<!-- Pick Up: The Demoniac Scryer -->
+<PickUp QuestName="The Demoniac Scryer" QuestId="10838" GiverName="Apothecary Antonivich" GiverId="16588" />
+
+<!-- Collect Objective for Quest 10838: Demoniac Scryer Reading -->
+<Objective QuestName="Unknown" QuestId="10838" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Demoniac Scryer -->
+<TurnIn QuestName="The Demoniac Scryer" QuestId="10838" TurnInName="Apothecary Antonivich" TurnInId="16588" />
+
+<!-- Pick Up: Report to Nazgrel -->
+<PickUp QuestName="Report to Nazgrel" QuestId="10875" GiverName="Apothecary Antonivich" GiverId="16588" />
+
+<!-- Turn In: Report to Nazgrel -->
+<TurnIn QuestName="Report to Nazgrel" QuestId="10875" TurnInName="Nazgrel" TurnInId="3230" />
+
+<!-- Turn In: How to Serve Goblins -->
+<TurnIn QuestName="How to Serve Goblins" QuestId="10238" TurnInName="Foreman Razelcraz" TurnInId="16915" />
+
+<!-- Pick Up: Shizz Work -->
+<PickUp QuestName="Shizz Work" QuestId="10629" GiverName="Foreman Razelcraz" GiverId="16915" />
+
+<!-- Collect Objective for Quest 10629: Shredder Keys -->
+<Objective QuestName="Unknown" QuestId="10629" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Shizz Work -->
+<TurnIn QuestName="Shizz Work" QuestId="10629" TurnInName="Foreman Razelcraz" TurnInId="16915" />
+
+<!-- Pick Up: Beneath Thrallmar -->
+<PickUp QuestName="Beneath Thrallmar" QuestId="10630" GiverName="Foreman Razelcraz" GiverId="16915" />
+
+<!-- Kill Objective for Quest 10630: Urga'zz -->
+<Objective QuestName="Unknown" QuestId="10630" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Beneath Thrallmar -->
+<TurnIn QuestName="Beneath Thrallmar" QuestId="10630" TurnInName="Foreman Razelcraz" TurnInId="16915" />
+
+<!-- Turn In: From the Abyss -->
+<TurnIn QuestName="From the Abyss" QuestId="10295" TurnInName="Ogath the Mad" TurnInId="19683" />
+
+<!-- Turn In: Burn It Up... For the Horde! -->
+<TurnIn QuestName="Burn It Up... For the Horde!" QuestId="10087" TurnInName="Megzeg Nukklebust" TurnInId="21283" />
+
+<!-- Turn In: The Assassin -->
+<TurnIn QuestName="The Assassin" QuestId="9400" TurnInName="Megzeg Nukklebust" TurnInId="21283" />
+
+<!-- Pick Up: A Strange Weapon -->
+<PickUp QuestName="A Strange Weapon" QuestId="9401" GiverName="Megzeg Nukklebust" GiverId="21283" />
+
+<!-- Pick Up: Arelion's Journal -->
+<PickUp QuestName="Arelion's Journal" QuestId="9374" GiverName="Magistrix Carinda" GiverId="16793" />
+
+<!-- Pick Up: Source of the Corruption -->
+<PickUp QuestName="Source of the Corruption" QuestId="9387" GiverName="Apothecary Azethen" GiverId="16794" />
+
+<!-- Pick Up: In Need of Felblood -->
+<PickUp QuestName="In Need of Felblood" QuestId="9366" GiverName="Ryathen the Somber" GiverId="16791" />
+
+<!-- Pick Up: Magic of the Arakkoa -->
+<PickUp QuestName="Magic of the Arakkoa" QuestId="9396" GiverName="Arcanist Calesthris Dawnstar" GiverId="16792" />
+
+<!-- Pick Up: Trueflight Arrows -->
+<PickUp QuestName="Trueflight Arrows" QuestId="9381" GiverName="Falconer Drenna Riverwind" GiverId="16790" />
+
+<!-- Pick Up: Birds of a Feather -->
+<PickUp QuestName="Birds of a Feather" QuestId="9397" GiverName="Falconer Drenna Riverwind" GiverId="16790" />
+
+<!-- Pick Up: Helping the Cenarion Post -->
+<PickUp QuestName="Helping the Cenarion Post" QuestId="10442" GiverName="Falconer Drenna Riverwind" GiverId="16790" />
+
+<!-- Turn In: Falcon Watch -->
+<TurnIn QuestName="Falcon Watch" QuestId="9498" TurnInName="Ranger Captain Venn'ren" TurnInId="16789" />
+
+<!-- Turn In: Falcon Watch -->
+<TurnIn QuestName="Falcon Watch" QuestId="9499" TurnInName="Ranger Captain Venn'ren" TurnInId="16789" />
+
+<!-- Pick Up: The Great Fissure -->
+<PickUp QuestName="The Great Fissure" QuestId="9340" GiverName="Ranger Captain Venn'ren" GiverId="16789" />
+
+<!-- Pick Up: Report to Zurai -->
+<PickUp QuestName="Report to Zurai" QuestId="10103" GiverName="Ranger Captain Venn'ren" GiverId="16789" />
+
+</QuestOrder>

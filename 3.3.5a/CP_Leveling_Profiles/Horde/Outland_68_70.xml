@@ -1,0 +1,843 @@
+<QuestOrder>
+
+<!-- Kill Objective for Quest 10543: Grimnok Battleborn -->
+<Objective QuestName="Unknown" QuestId="10543" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10543: Korgaah -->
+<Objective QuestName="Unknown" QuestId="10543" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Grimnok and Korgaah, I Am For You! -->
+<TurnIn QuestName="Grimnok and Korgaah, I Am For You!" QuestId="10543" TurnInName="T'chali the Witch Doctor" TurnInId="21349" />
+
+<!-- Pick Up: A Curse Upon Both of Your Clans! -->
+<PickUp QuestName="A Curse Upon Both of Your Clans!" QuestId="10544" GiverName="T'chali the Witch Doctor" GiverId="21349" />
+
+<!-- Turn In: A Curse Upon Both of Your Clans! -->
+<TurnIn QuestName="A Curse Upon Both of Your Clans!" QuestId="10544" TurnInName="T'chali the Witch Doctor" TurnInId="21349" />
+
+<!-- Turn In: The Bloodmaul Ogres -->
+<TurnIn QuestName="The Bloodmaul Ogres" QuestId="10505" TurnInName="Tor'chunk Twoclaws" TurnInId="21147" />
+
+<!-- Turn In: The Thunderspike -->
+<TurnIn QuestName="The Thunderspike" QuestId="10526" TurnInName="Rokgah Bloodgrip" TurnInId="21311" />
+
+<!-- Pick Up: The Spirits Have Voices -->
+<PickUp QuestName="The Spirits Have Voices" QuestId="10718" GiverName="Garm Wolfbrother" GiverId="21950" />
+
+<!-- Turn In: The Spirits Have Voices -->
+<TurnIn QuestName="The Spirits Have Voices" QuestId="10718" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Pick Up: Whispers on the Wind -->
+<PickUp QuestName="Whispers on the Wind" QuestId="10614" GiverName="Rexxar" GiverId="21984" />
+
+<!-- Pick Up: The Stones of Vekh'nir -->
+<PickUp QuestName="The Stones of Vekh'nir" QuestId="10565" GiverName="Dertrok" GiverId="21496" />
+
+<!-- Turn In: Whispers on the Wind -->
+<TurnIn QuestName="Whispers on the Wind" QuestId="10614" TurnInName="Leoroxx" TurnInId="22004" />
+
+<!-- Pick Up: Reunion -->
+<PickUp QuestName="Reunion" QuestId="10709" GiverName="Leoroxx" GiverId="22004" />
+
+<!-- Pick Up: Mok'Nathal Treats -->
+<PickUp QuestName="Mok'Nathal Treats" QuestId="10860" GiverName="Matron Varah" GiverId="21088" />
+
+<!-- Pick Up: Silkwing Cocoons -->
+<PickUp QuestName="Silkwing Cocoons" QuestId="10617" GiverName="Taerek" GiverId="21895" />
+
+<!-- Pick Up: The Softest Wings -->
+<PickUp QuestName="The Softest Wings" QuestId="10618" GiverName="Silmara" GiverId="21896" />
+
+<!-- Turn In: Reunion -->
+<TurnIn QuestName="Reunion" QuestId="10709" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Pick Up: On Spirit's Wings -->
+<PickUp QuestName="On Spirit's Wings" QuestId="10714" GiverName="Rexxar" GiverId="21984" />
+
+<!-- Collect Objective for Quest 10617: Silkwing Cocoon -->
+<Objective QuestName="Unknown" QuestId="10617" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 10618: Iridescent Wing -->
+<Objective QuestName="Unknown" QuestId="10618" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: The Stones of Vekh'nir -->
+<TurnIn QuestName="The Stones of Vekh'nir" QuestId="10565" TurnInName="Dertrok" TurnInId="21496" />
+
+<!-- Pick Up: Trial and Error -->
+<PickUp QuestName="Trial and Error" QuestId="10566" GiverName="Dertrok" GiverId="21496" />
+
+<!-- Turn In: Silkwing Cocoons -->
+<TurnIn QuestName="Silkwing Cocoons" QuestId="10617" TurnInName="Taerek" TurnInId="21895" />
+
+<!-- Turn In: The Softest Wings -->
+<TurnIn QuestName="The Softest Wings" QuestId="10618" TurnInName="Silmara" TurnInId="21896" />
+
+<!-- Pick Up: Understanding the Mok'Nathal -->
+<PickUp QuestName="Understanding the Mok'Nathal" QuestId="10846" GiverName="Leoroxx" GiverId="22004" />
+
+<!-- Collect Objective for Quest 10566: Dertrok's First Wand -->
+<Objective QuestName="Unknown" QuestId="10566" Type="CollectItem" ItemId="30651" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10566: Dertrok's Second Wand -->
+<Objective QuestName="Unknown" QuestId="10566" Type="CollectItem" ItemId="30652" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10566: Dertrok's Third Wand -->
+<Objective QuestName="Unknown" QuestId="10566" Type="CollectItem" ItemId="30653" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10566: Dertrok's Fourth Wand -->
+<Objective QuestName="Unknown" QuestId="10566" Type="CollectItem" ItemId="30654" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10566: Infused Vekh'nir Crystal -->
+<Objective QuestName="Unknown" QuestId="10566" Type="CollectItem" ItemId="30655" CollectCount="4" />
+
+<!-- Kill Objective for Quest 10846: Vekh -->
+<Objective QuestName="Unknown" QuestId="10846" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Trial and Error -->
+<TurnIn QuestName="Trial and Error" QuestId="10566" TurnInName="Dertrok" TurnInId="21496" />
+
+<!-- Pick Up: Ruuan Weald -->
+<PickUp QuestName="Ruuan Weald" QuestId="10615" GiverName="Dertrok" GiverId="21496" />
+
+<!-- Turn In: Understanding the Mok'Nathal -->
+<TurnIn QuestName="Understanding the Mok'Nathal" QuestId="10846" TurnInName="Leoroxx" TurnInId="22004" />
+
+<!-- Pick Up: Since Time Forgotten... -->
+<PickUp QuestName="Since Time Forgotten..." QuestId="10843" GiverName="Leoroxx" GiverId="22004" />
+
+<!-- Pick Up: The Totems of My Enemy -->
+<PickUp QuestName="The Totems of My Enemy" QuestId="10851" GiverName="Spiritcaller Dohgar" GiverId="22312" />
+
+<!-- Collect Objective for Quest 10860: Serpent Flesh -->
+<Objective QuestName="Unknown" QuestId="10860" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 10860: Raptor Ribs -->
+<Objective QuestName="Unknown" QuestId="10860" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 10851: Bladespire Totem -->
+<Objective QuestName="Unknown" QuestId="10851" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Kill Objective for Quest 10843: Gnosh Brognat -->
+<Objective QuestName="Unknown" QuestId="10843" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Since Time Forgotten... -->
+<TurnIn QuestName="Since Time Forgotten..." QuestId="10843" TurnInName="Leoroxx" TurnInId="22004" />
+
+<!-- Pick Up: Slay the Brood Mother -->
+<PickUp QuestName="Slay the Brood Mother" QuestId="10845" GiverName="Leoroxx" GiverId="22004" />
+
+<!-- Turn In: The Totems of My Enemy -->
+<TurnIn QuestName="The Totems of My Enemy" QuestId="10851" TurnInName="Spiritcaller Dohgar" TurnInId="22312" />
+
+<!-- Pick Up: Spirit Calling -->
+<PickUp QuestName="Spirit Calling" QuestId="10853" GiverName="Spiritcaller Dohgar" GiverId="22312" />
+
+<!-- Turn In: Mok'Nathal Treats -->
+<TurnIn QuestName="Mok'Nathal Treats" QuestId="10860" TurnInName="Matron Varah" TurnInId="21088" />
+
+<!-- Collect Objective for Quest 10853: Lesser Nether Drake Spirit -->
+<Objective QuestName="Unknown" QuestId="10853" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 10845: Dreadwing -->
+<Objective QuestName="Unknown" QuestId="10845" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Slay the Brood Mother -->
+<TurnIn QuestName="Slay the Brood Mother" QuestId="10845" TurnInName="Leoroxx" TurnInId="22004" />
+
+<!-- Turn In: Spirit Calling -->
+<TurnIn QuestName="Spirit Calling" QuestId="10853" TurnInName="Spiritcaller Dohgar" TurnInId="22312" />
+
+<!-- Pick Up: Gather the Orbs -->
+<PickUp QuestName="Gather the Orbs" QuestId="10859" GiverName="Spiritcaller Dohgar" GiverId="22312" />
+
+<!-- Turn In: Gather the Orbs -->
+<TurnIn QuestName="Gather the Orbs" QuestId="10859" TurnInName="Spiritcaller Dohgar" TurnInId="22312" />
+
+<!-- Pick Up: Inform Leoroxx! -->
+<PickUp QuestName="Inform Leoroxx!" QuestId="10865" GiverName="Spiritcaller Dohgar" GiverId="22312" />
+
+<!-- Turn In: Inform Leoroxx! -->
+<TurnIn QuestName="Inform Leoroxx!" QuestId="10865" TurnInName="Leoroxx" TurnInId="22004" />
+
+<!-- Pick Up: There Can Be Only One Response -->
+<PickUp QuestName="There Can Be Only One Response" QuestId="10867" GiverName="Leoroxx" GiverId="22004" />
+
+<!-- Turn In: Ruuan Weald -->
+<TurnIn QuestName="Ruuan Weald" QuestId="10615" TurnInName="Timeon" TurnInId="21782" />
+
+<!-- Pick Up: Creating the Pendant -->
+<PickUp QuestName="Creating the Pendant" QuestId="10567" GiverName="Timeon" GiverId="21782" />
+
+<!-- Pick Up: Culling the Wild -->
+<PickUp QuestName="Culling the Wild" QuestId="10753" GiverName="Faradrella" GiverId="22133" />
+
+<!-- Pick Up: Little Embers -->
+<PickUp QuestName="Little Embers" QuestId="10770" GiverName="Mosswood the Ancient" GiverId="22053" />
+
+<!-- Pick Up: From the Ashes -->
+<PickUp QuestName="From the Ashes" QuestId="10771" GiverName="Mosswood the Ancient" GiverId="22053" />
+
+<!-- Pick Up: A Time for Negotiation... -->
+<PickUp QuestName="A Time for Negotiation..." QuestId="10682" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Turn In: There Can Be Only One Response -->
+<TurnIn QuestName="There Can Be Only One Response" QuestId="10867" TurnInName="Spiritcaller Dohgar" TurnInId="22312" />
+
+<!-- Kill Objective for Quest 10753: Fel Corrupter -->
+<Objective QuestName="Unknown" QuestId="10753" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 10753: Felsworn Scalewing -->
+<Objective QuestName="Unknown" QuestId="10753" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10753: Felsworn Daggermaw -->
+<Objective QuestName="Unknown" QuestId="10753" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Pick Up: Damaged Mask -->
+<PickUp QuestName="Damaged Mask" QuestId="10810" GiverName="Spiritcaller Dohgar" GiverId="22312" />
+
+<!-- Kill Objective for Quest 10770: Scorch Imp -->
+<Objective QuestName="Unknown" QuestId="10770" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Damaged Mask -->
+<TurnIn QuestName="Damaged Mask" QuestId="10810" TurnInName="Spiritcaller Dohgar" TurnInId="22312" />
+
+<!-- Pick Up: Mystery Mask -->
+<PickUp QuestName="Mystery Mask" QuestId="10812" GiverName="Spiritcaller Dohgar" GiverId="22312" />
+
+<!-- Turn In: Mystery Mask -->
+<TurnIn QuestName="Mystery Mask" QuestId="10812" TurnInName="Wildlord Antelarion" TurnInId="22127" />
+
+<!-- Pick Up: Felsworn Gas Mask -->
+<PickUp QuestName="Felsworn Gas Mask" QuestId="10819" GiverName="Wildlord Antelarion" GiverId="22127" />
+
+<!-- Turn In: Culling the Wild -->
+<TurnIn QuestName="Culling the Wild" QuestId="10753" TurnInName="Faradrella" TurnInId="22133" />
+
+<!-- Turn In: Little Embers -->
+<TurnIn QuestName="Little Embers" QuestId="10770" TurnInName="Mosswood the Ancient" TurnInId="22053" />
+
+<!-- Turn In: From the Ashes -->
+<TurnIn QuestName="From the Ashes" QuestId="10771" TurnInName="Mosswood the Ancient" TurnInId="22053" />
+
+<!-- Turn In: A Time for Negotiation... -->
+<TurnIn QuestName="A Time for Negotiation..." QuestId="10682" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Pick Up: ...and a Time for Action -->
+<PickUp QuestName="...and a Time for Action" QuestId="10713" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Pick Up: Poaching from Poachers -->
+<PickUp QuestName="Poaching from Poachers" QuestId="10717" GiverName="Samia Inkling" GiverId="21983" />
+
+<!-- Kill Objective for Quest 10713: Wyrmcult Hewer -->
+<Objective QuestName="Unknown" QuestId="10713" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 10717: Wyrmcult Net -->
+<Objective QuestName="Unknown" QuestId="10717" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Pick Up: Did You Get The Note? -->
+<PickUp QuestName="Did You Get The Note?" QuestId="10719" GiverName="Samia Inkling" GiverId="21983" />
+
+<!-- Turn In: Poaching from Poachers -->
+<TurnIn QuestName="Poaching from Poachers" QuestId="10717" TurnInName="Samia Inkling" TurnInId="21983" />
+
+<!-- Pick Up: Whelps of the Wyrmcult -->
+<PickUp QuestName="Whelps of the Wyrmcult" QuestId="10747" GiverName="Samia Inkling" GiverId="21983" />
+
+<!-- Turn In: ...and a Time for Action -->
+<TurnIn QuestName="...and a Time for Action" QuestId="10713" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Turn In: Did You Get The Note? -->
+<TurnIn QuestName="Did You Get The Note?" QuestId="10719" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Pick Up: Wyrmskull Watcher -->
+<PickUp QuestName="Wyrmskull Watcher" QuestId="10894" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Turn In: Felsworn Gas Mask -->
+<TurnIn QuestName="Felsworn Gas Mask" QuestId="10819" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Pick Up: Deceive thy Enemy -->
+<PickUp QuestName="Deceive thy Enemy" QuestId="10820" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Kill Objective for Quest 10820: Doomforge Attendant -->
+<Objective QuestName="Unknown" QuestId="10820" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10820: Doomforge Engineer -->
+<Objective QuestName="Unknown" QuestId="10820" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Turn In: Deceive thy Enemy -->
+<TurnIn QuestName="Deceive thy Enemy" QuestId="10820" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Collect Objective for Quest 10567: Ruuan'ok Claw -->
+<Objective QuestName="Unknown" QuestId="10567" Type="CollectItem" ItemId="30704" CollectCount="6" />
+
+<!-- Collect Objective for Quest 10567: Harbinger's Pendant -->
+<Objective QuestName="Unknown" QuestId="10567" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: On Spirit's Wings -->
+<TurnIn QuestName="On Spirit's Wings" QuestId="10714" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Pick Up: Baron Sablemane -->
+<PickUp QuestName="Baron Sablemane" QuestId="10783" GiverName="Rexxar" GiverId="21984" />
+
+<!-- Turn In: Creating the Pendant -->
+<TurnIn QuestName="Creating the Pendant" QuestId="10567" TurnInName="Timeon" TurnInId="21782" />
+
+<!-- Pick Up: Whispers of the Raven God -->
+<PickUp QuestName="Whispers of the Raven God" QuestId="10607" GiverName="Timeon" GiverId="21782" />
+
+<!-- Turn In: Baron Sablemane -->
+<TurnIn QuestName="Baron Sablemane" QuestId="10783" TurnInName="Baron Sablemane" TurnInId="22103" />
+
+<!-- Pick Up: Into the Churning Gulch -->
+<PickUp QuestName="Into the Churning Gulch" QuestId="10715" GiverName="Baron Sablemane" GiverId="22103" />
+
+<!-- Collect Objective for Quest 10715: Crust Burster Venom Gland -->
+<Objective QuestName="Unknown" QuestId="10715" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: Into the Churning Gulch -->
+<TurnIn QuestName="Into the Churning Gulch" QuestId="10715" TurnInName="Baron Sablemane" TurnInId="22103" />
+
+<!-- Pick Up: Baron Sablemane's Poison -->
+<PickUp QuestName="Baron Sablemane's Poison" QuestId="10749" GiverName="Baron Sablemane" GiverId="22103" />
+
+<!-- Turn In: Baron Sablemane's Poison -->
+<TurnIn QuestName="Baron Sablemane's Poison" QuestId="10749" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Pick Up: The Smallest Creatures -->
+<PickUp QuestName="The Smallest Creatures" QuestId="10720" GiverName="Rexxar" GiverId="21984" />
+
+<!-- Pick Up: Crush the Bloodmaul Camp -->
+<PickUp QuestName="Crush the Bloodmaul Camp" QuestId="10784" GiverName="Tor'chunk Twoclaws" GiverId="21147" />
+
+<!-- Kill Objective for Quest 10784: Bloodmaul Mauler -->
+<Objective QuestName="Unknown" QuestId="10784" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 10784: Bloodmaul Warlock -->
+<Objective QuestName="Unknown" QuestId="10784" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: The Smallest Creatures -->
+<TurnIn QuestName="The Smallest Creatures" QuestId="10720" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Pick Up: A Boaring Time for Grulloc -->
+<PickUp QuestName="A Boaring Time for Grulloc" QuestId="10721" GiverName="Rexxar" GiverId="21984" />
+
+<!-- Turn In: Crush the Bloodmaul Camp -->
+<TurnIn QuestName="Crush the Bloodmaul Camp" QuestId="10784" TurnInName="Tor'chunk Twoclaws" TurnInId="21147" />
+
+<!-- Collect Objective for Quest 10721: Grulloc's Sack -->
+<Objective QuestName="Unknown" QuestId="10721" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Boaring Time for Grulloc -->
+<TurnIn QuestName="A Boaring Time for Grulloc" QuestId="10721" TurnInName="Baron Sablemane" TurnInId="22103" />
+
+<!-- Pick Up: It's a Trap! -->
+<PickUp QuestName="It's a Trap!" QuestId="10785" GiverName="Baron Sablemane" GiverId="22103" />
+
+<!-- Turn In: It's a Trap! -->
+<TurnIn QuestName="It's a Trap!" QuestId="10785" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Pick Up: Gorgrom the Dragon-Eater -->
+<PickUp QuestName="Gorgrom the Dragon-Eater" QuestId="10723" GiverName="Rexxar" GiverId="21984" />
+
+<!-- Pick Up: Slaughter at Boulder'mok -->
+<PickUp QuestName="Slaughter at Boulder'mok" QuestId="10786" GiverName="Tor'chunk Twoclaws" GiverId="21147" />
+
+<!-- Turn In: Wyrmskull Watcher -->
+<TurnIn QuestName="Wyrmskull Watcher" QuestId="10894" TurnInName="Watcher Moonshade" TurnInId="22386" />
+
+<!-- Pick Up: Longtail is the Lynchpin -->
+<PickUp QuestName="Longtail is the Lynchpin" QuestId="10893" GiverName="Watcher Moonshade" GiverId="22386" />
+
+<!-- Kill Objective for Quest 10893: Draaca Longtail -->
+<Objective QuestName="Unknown" QuestId="10893" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Longtail is the Lynchpin -->
+<TurnIn QuestName="Longtail is the Lynchpin" QuestId="10893" TurnInName="Watcher Moonshade" TurnInId="22386" />
+
+<!-- Pick Up: Meeting at the Blackwing Coven -->
+<PickUp QuestName="Meeting at the Blackwing Coven" QuestId="10722" GiverName="Watcher Moonshade" GiverId="22386" />
+
+<!-- Pick Up: The Truth Unorbed -->
+<PickUp QuestName="The Truth Unorbed" QuestId="10825" GiverName="Watcher Moonshade" GiverId="22386" />
+
+<!-- Collect Objective for Quest 10722: Costume Scraps -->
+<Objective QuestName="Unknown" QuestId="10722" Type="CollectItem" ItemId="31121" CollectCount="5" />
+
+<!-- Kill Objective for Quest 10786: Boulder'mok Brute -->
+<Objective QuestName="Unknown" QuestId="10786" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 10786: Boulder'mok Shaman -->
+<Objective QuestName="Unknown" QuestId="10786" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Collect Objective for Quest 10723: Grisly Totem -->
+<Objective QuestName="Unknown" QuestId="10723" Type="CollectItem" ItemId="31754" CollectCount="3" />
+
+<!-- Turn In: Whelps of the Wyrmcult -->
+<TurnIn QuestName="Whelps of the Wyrmcult" QuestId="10747" TurnInName="Samia Inkling" TurnInId="21983" />
+
+<!-- Turn In: Meeting at the Blackwing Coven -->
+<TurnIn QuestName="Meeting at the Blackwing Coven" QuestId="10722" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Pick Up: Maxnar Must Die! -->
+<PickUp QuestName="Maxnar Must Die!" QuestId="10748" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Turn In: The Truth Unorbed -->
+<TurnIn QuestName="The Truth Unorbed" QuestId="10825" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Pick Up: Treebole Must Know -->
+<PickUp QuestName="Treebole Must Know" QuestId="10829" GiverName="Tree Warden Chawn" GiverId="22007" />
+
+<!-- Turn In: Whispers of the Raven God -->
+<TurnIn QuestName="Whispers of the Raven God" QuestId="10607" TurnInName="Timeon" TurnInId="21782" />
+
+<!-- Turn In: Gorgrom the Dragon-Eater -->
+<TurnIn QuestName="Gorgrom the Dragon-Eater" QuestId="10723" TurnInName="Rexxar" TurnInId="21984" />
+
+<!-- Turn In: Slaughter at Boulder'mok -->
+<TurnIn QuestName="Slaughter at Boulder'mok" QuestId="10786" TurnInName="Tor'chunk Twoclaws" TurnInId="21147" />
+
+<!-- Turn In: Treebole Must Know -->
+<TurnIn QuestName="Treebole Must Know" QuestId="10829" TurnInName="Treebole" TurnInId="22215" />
+
+<!-- Pick Up: Exorcising the Trees -->
+<PickUp QuestName="Exorcising the Trees" QuestId="10830" GiverName="Treebole" GiverId="22215" />
+
+<!-- Collect Objective for Quest 10830: Grishnath Orb -->
+<Objective QuestName="Unknown" QuestId="10830" Type="CollectItem" ItemId="31495" CollectCount="5" />
+
+<!-- Collect Objective for Quest 10830: Dire Pinfeather -->
+<Objective QuestName="Unknown" QuestId="10830" Type="CollectItem" ItemId="31517" CollectCount="5" />
+
+<!-- Turn In: Exorcising the Trees -->
+<TurnIn QuestName="Exorcising the Trees" QuestId="10830" TurnInName="Treebole" TurnInId="22215" />
+
+<!-- Kill Objective for Quest 10748: Maxnar the Ashmaw -->
+<Objective QuestName="Unknown" QuestId="10748" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Maxnar Must Die! -->
+<TurnIn QuestName="Maxnar Must Die!" QuestId="10748" TurnInName="Tree Warden Chawn" TurnInId="22007" />
+
+<!-- Pick Up: Off To Area 52 -->
+<PickUp QuestName="Off To Area 52" QuestId="10183" GiverName="Netherologist Coppernickels" GiverId="19569" />
+
+<!-- Pick Up: Recharging the Batteries -->
+<PickUp QuestName="Recharging the Batteries" QuestId="10190" GiverName="Bot-Specialist Alley" GiverId="19578" />
+
+<!-- Turn In: Recharging the Batteries -->
+<TurnIn QuestName="Recharging the Batteries" QuestId="10190" TurnInName="Bot-Specialist Alley" TurnInId="19578" />
+
+<!-- Pick Up: Securing the Shaleskin Shale -->
+<PickUp QuestName="Securing the Shaleskin Shale" QuestId="10342" GiverName="Boots" GiverId="19617" />
+
+<!-- Pick Up: Consortium Crystal Collection -->
+<PickUp QuestName="Consortium Crystal Collection" QuestId="10265" GiverName="Nether-Stalker Khay'ji" GiverId="19880" />
+
+<!-- Pick Up: Manaforge B'naar -->
+<PickUp QuestName="Manaforge B'naar" QuestId="10189" GiverName="Spymaster Thalodien" GiverId="19468" />
+
+<!-- Turn In: Off To Area 52 -->
+<TurnIn QuestName="Off To Area 52" QuestId="10183" TurnInName="Rocket-Chief Fuselage" TurnInId="19570" />
+
+<!-- Pick Up: You're Hired! -->
+<PickUp QuestName="You're Hired!" QuestId="10186" GiverName="Rocket-Chief Fuselage" GiverId="19570" />
+
+<!-- Pick Up: The Archmage's Staff -->
+<PickUp QuestName="The Archmage's Staff" QuestId="10173" GiverName="Ravandwyr" GiverId="19217" />
+
+<!-- Collect Objective for Quest 10342: Shaleskin Shale -->
+<Objective QuestName="Unknown" QuestId="10342" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Pick Up: Mark V is Alive! -->
+<PickUp QuestName="Mark V is Alive!" QuestId="10191" GiverName="Maxx A. Million Mk. V" GiverId="19589" />
+
+<!-- Collect Objective for Quest 10186: Etherlithium Matrix Crystal -->
+<Objective QuestName="Unknown" QuestId="10186" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Mark V is Alive! -->
+<TurnIn QuestName="Mark V is Alive!" QuestId="10191" TurnInName="Bot-Specialist Alley" TurnInId="19578" />
+
+<!-- Turn In: Securing the Shaleskin Shale -->
+<TurnIn QuestName="Securing the Shaleskin Shale" QuestId="10342" TurnInName="Boots" TurnInId="19617" />
+
+<!-- Pick Up: That Little Extra Kick -->
+<PickUp QuestName="That Little Extra Kick" QuestId="10199" GiverName="Boots" GiverId="19617" />
+
+<!-- Turn In: You're Hired! -->
+<TurnIn QuestName="You're Hired!" QuestId="10186" TurnInName="Rocket-Chief Fuselage" TurnInId="19570" />
+
+<!-- Pick Up: Invaluable Asset Zapping -->
+<PickUp QuestName="Invaluable Asset Zapping" QuestId="10203" GiverName="Rocket-Chief Fuselage" GiverId="19570" />
+
+<!-- Pick Up: Report to Engineering -->
+<PickUp QuestName="Report to Engineering" QuestId="10225" GiverName="Rocket-Chief Fuselage" GiverId="19570" />
+
+<!-- Turn In: Report to Engineering -->
+<TurnIn QuestName="Report to Engineering" QuestId="10225" TurnInName="Chief Engineer Trep" TurnInId="19709" />
+
+<!-- Pick Up: Essence for the Engines -->
+<PickUp QuestName="Essence for the Engines" QuestId="10224" GiverName="Chief Engineer Trep" GiverId="19709" />
+
+<!-- Collect Objective for Quest 10224: Mana Wraith Essence -->
+<Objective QuestName="Unknown" QuestId="10224" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: Essence for the Engines -->
+<TurnIn QuestName="Essence for the Engines" QuestId="10224" TurnInName="Chief Engineer Trep" TurnInId="19709" />
+
+<!-- Pick Up: Elemental Power Extraction -->
+<PickUp QuestName="Elemental Power Extraction" QuestId="10226" GiverName="Chief Engineer Trep" GiverId="19709" />
+
+<!-- Collect Objective for Quest 10189: B'naar Personnel Roster -->
+<Objective QuestName="Unknown" QuestId="10189" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10226: Elemental Power -->
+<Objective QuestName="Unknown" QuestId="10226" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 10265: Arklon Crystal Artifact -->
+<Objective QuestName="Unknown" QuestId="10265" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10173: Archmage Vargoth's Staff -->
+<Objective QuestName="Unknown" QuestId="10173" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10199: Nether Ray Stinger -->
+<Objective QuestName="Unknown" QuestId="10199" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Invaluable Asset Zapping -->
+<TurnIn QuestName="Invaluable Asset Zapping" QuestId="10203" TurnInName="Lead Sapper Blastfizzle" TurnInId="19634" />
+
+<!-- Pick Up: Dr. Boom! -->
+<PickUp QuestName="Dr. Boom!" QuestId="10221" GiverName="Lead Sapper Blastfizzle" GiverId="19634" />
+
+<!-- Turn In: Elemental Power Extraction -->
+<TurnIn QuestName="Elemental Power Extraction" QuestId="10226" TurnInName="Chief Engineer Trep" TurnInId="19709" />
+
+<!-- Turn In: The Archmage's Staff -->
+<TurnIn QuestName="The Archmage's Staff" QuestId="10173" TurnInName="Ravandwyr" TurnInId="19217" />
+
+<!-- Pick Up: Rebuilding the Staff -->
+<PickUp QuestName="Rebuilding the Staff" QuestId="10300" GiverName="Ravandwyr" GiverId="19217" />
+
+<!-- Turn In: Consortium Crystal Collection -->
+<TurnIn QuestName="Consortium Crystal Collection" QuestId="10265" TurnInName="Nether-Stalker Khay'ji" TurnInId="19880" />
+
+<!-- Pick Up: A Heap of Ethereals -->
+<PickUp QuestName="A Heap of Ethereals" QuestId="10262" GiverName="Nether-Stalker Khay'ji" GiverId="19880" />
+
+<!-- Turn In: That Little Extra Kick -->
+<TurnIn QuestName="That Little Extra Kick" QuestId="10199" TurnInName="Boots" TurnInId="19617" />
+
+<!-- Pick Up: Pick Your Part -->
+<PickUp QuestName="Pick Your Part" QuestId="10206" GiverName="Papa Wheeler" GiverId="19645" />
+
+<!-- Turn In: Manaforge B'naar -->
+<TurnIn QuestName="Manaforge B'naar" QuestId="10189" TurnInName="Spymaster Thalodien" TurnInId="19468" />
+
+<!-- Pick Up: High Value Targets -->
+<PickUp QuestName="High Value Targets" QuestId="10193" GiverName="Spymaster Thalodien" GiverId="19468" />
+
+<!-- Pick Up: Bloodgem Crystals -->
+<PickUp QuestName="Bloodgem Crystals" QuestId="10204" GiverName="Magistrix Larynna" GiverId="19469" />
+
+<!-- Collect Objective for Quest 10300: Flawless Crystal Shard -->
+<Objective QuestName="Unknown" QuestId="10300" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Kill Objective for Quest 10221: Dr. Boom -->
+<Objective QuestName="Unknown" QuestId="10221" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Rebuilding the Staff -->
+<TurnIn QuestName="Rebuilding the Staff" QuestId="10300" TurnInName="Ravandwyr" TurnInId="19217" />
+
+<!-- Pick Up: Curse of the Violet Tower -->
+<PickUp QuestName="Curse of the Violet Tower" QuestId="10174" GiverName="Ravandwyr" GiverId="19217" />
+
+<!-- Turn In: Dr. Boom! -->
+<TurnIn QuestName="Dr. Boom!" QuestId="10221" TurnInName="Lead Sapper Blastfizzle" TurnInId="19634" />
+
+<!-- Kill Objective for Quest 10193: Sunfury Warp-Master -->
+<Objective QuestName="Unknown" QuestId="10193" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 10193: Sunfury Warp-Engineer -->
+<Objective QuestName="Unknown" QuestId="10193" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 10193: Sunfury Geologist -->
+<Objective QuestName="Unknown" QuestId="10193" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 10262: Zaxxis Insignia -->
+<Objective QuestName="Unknown" QuestId="10262" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 10206: Ethereal Technology -->
+<Objective QuestName="Unknown" QuestId="10206" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Pick Your Part -->
+<TurnIn QuestName="Pick Your Part" QuestId="10206" TurnInName="Papa Wheeler" TurnInId="19645" />
+
+<!-- Turn In: A Heap of Ethereals -->
+<TurnIn QuestName="A Heap of Ethereals" QuestId="10262" TurnInName="Nether-Stalker Khay'ji" TurnInId="19880" />
+
+<!-- Pick Up: Warp-Raider Nesaad -->
+<PickUp QuestName="Warp-Raider Nesaad" QuestId="10205" GiverName="Nether-Stalker Khay'ji" GiverId="19880" />
+
+<!-- Turn In: High Value Targets -->
+<TurnIn QuestName="High Value Targets" QuestId="10193" TurnInName="Spymaster Thalodien" TurnInId="19468" />
+
+<!-- Pick Up: Shutting Down Manaforge B'naar -->
+<PickUp QuestName="Shutting Down Manaforge B'naar" QuestId="10329" GiverName="Spymaster Thalodien" GiverId="19468" />
+
+<!-- Turn In: Bloodgem Crystals -->
+<TurnIn QuestName="Bloodgem Crystals" QuestId="10204" TurnInName="Magistrix Larynna" TurnInId="19469" />
+
+<!-- Collect Objective for Quest 10329: B'naar Access Crystal -->
+<Objective QuestName="Unknown" QuestId="10329" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Shutting Down Manaforge B'naar -->
+<TurnIn QuestName="Shutting Down Manaforge B'naar" QuestId="10329" TurnInName="Spymaster Thalodien" TurnInId="19468" />
+
+<!-- Pick Up: Stealth Flight -->
+<PickUp QuestName="Stealth Flight" QuestId="10194" GiverName="Spymaster Thalodien" GiverId="19468" />
+
+<!-- Kill Objective for Quest 10205: Warp-Raider Nesaad -->
+<Objective QuestName="Unknown" QuestId="10205" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Warp-Raider Nesaad -->
+<TurnIn QuestName="Warp-Raider Nesaad" QuestId="10205" TurnInName="Nether-Stalker Khay'ji" TurnInId="19880" />
+
+<!-- Turn In: Stealth Flight -->
+<TurnIn QuestName="Stealth Flight" QuestId="10194" TurnInName="Veronia" TurnInId="20162" />
+
+<!-- Pick Up: Behind Enemy Lines -->
+<PickUp QuestName="Behind Enemy Lines" QuestId="10652" GiverName="Veronia" GiverId="20162" />
+
+<!-- Turn In: Behind Enemy Lines -->
+<TurnIn QuestName="Behind Enemy Lines" QuestId="10652" TurnInName="Caledis Brightdawn" TurnInId="19840" />
+
+<!-- Pick Up: A Convincing Disguise -->
+<PickUp QuestName="A Convincing Disguise" QuestId="10197" GiverName="Caledis Brightdawn" GiverId="19840" />
+
+<!-- Collect Objective for Quest 10197: Sunfury Arcanist Robes -->
+<Objective QuestName="Unknown" QuestId="10197" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10197: Sunfury Researcher Gloves -->
+<Objective QuestName="Unknown" QuestId="10197" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10197: Sunfury Guardsman Medallion -->
+<Objective QuestName="Unknown" QuestId="10197" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: A Convincing Disguise -->
+<TurnIn QuestName="A Convincing Disguise" QuestId="10197" TurnInName="Caledis Brightdawn" TurnInId="19840" />
+
+<!-- Pick Up: Information Gathering -->
+<PickUp QuestName="Information Gathering" QuestId="10198" GiverName="Caledis Brightdawn" GiverId="19840" />
+
+<!-- Turn In: Information Gathering -->
+<TurnIn QuestName="Information Gathering" QuestId="10198" TurnInName="Caledis Brightdawn" TurnInId="19840" />
+
+<!-- Pick Up: Shutting Down Manaforge Coruu -->
+<PickUp QuestName="Shutting Down Manaforge Coruu" QuestId="10330" GiverName="Caledis Brightdawn" GiverId="19840" />
+
+<!-- Collect Objective for Quest 10330: Coruu Access Crystal -->
+<Objective QuestName="Unknown" QuestId="10330" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Shutting Down Manaforge Coruu -->
+<TurnIn QuestName="Shutting Down Manaforge Coruu" QuestId="10330" TurnInName="Caledis Brightdawn" TurnInId="19840" />
+
+<!-- Pick Up: Return to Thalodien -->
+<PickUp QuestName="Return to Thalodien" QuestId="10200" GiverName="Caledis Brightdawn" GiverId="19840" />
+
+<!-- Pick Up: Needs More Cowbell -->
+<PickUp QuestName="Needs More Cowbell" QuestId="10334" GiverName="Thadell" GiverId="20464" />
+
+<!-- Pick Up: Indispensable Tools -->
+<PickUp QuestName="Indispensable Tools" QuestId="10331" GiverName="Apprentice Andrethan" GiverId="20463" />
+
+<!-- Pick Up: Malevolent Remnants -->
+<PickUp QuestName="Malevolent Remnants" QuestId="10184" GiverName="Custodian Dieworth" GiverId="19488" />
+
+<!-- Turn In: Curse of the Violet Tower -->
+<TurnIn QuestName="Curse of the Violet Tower" QuestId="10174" TurnInName="Image of Archmage Vargoth" TurnInId="19644" />
+
+<!-- Pick Up: The Sigil of Krasus -->
+<PickUp QuestName="The Sigil of Krasus" QuestId="10188" GiverName="Image of Archmage Vargoth" GiverId="19644" />
+
+<!-- Pick Up: A Fate Worse Than Death -->
+<PickUp QuestName="A Fate Worse Than Death" QuestId="10185" GiverName="Custodian Dieworth" GiverId="19488" />
+
+<!-- Pick Up: The Unending Invasion -->
+<PickUp QuestName="The Unending Invasion" QuestId="10343" GiverName="Lieutenant-Sorcerer Morran" GiverId="19489" />
+
+<!-- Turn In: Needs More Cowbell -->
+<TurnIn QuestName="Needs More Cowbell" QuestId="10334" TurnInName="Bessy" TurnInId="20415" />
+
+<!-- Pick Up: When the Cows Come Home -->
+<PickUp QuestName="When the Cows Come Home" QuestId="10337" GiverName="Bessy" GiverId="20415" />
+
+<!-- Turn In: When the Cows Come Home -->
+<TurnIn QuestName="When the Cows Come Home" QuestId="10337" TurnInName="Thadell" TurnInId="20464" />
+
+<!-- Pick Up: Abjurist Belmara -->
+<PickUp QuestName="Abjurist Belmara" QuestId="10305" GiverName="Thadell" GiverId="20464" />
+
+<!-- Pick Up: Cohlien Frostweaver -->
+<PickUp QuestName="Cohlien Frostweaver" QuestId="10307" GiverName="Thadell" GiverId="20464" />
+
+<!-- Pick Up: Battle-Mage Dathric -->
+<PickUp QuestName="Battle-Mage Dathric" QuestId="10182" GiverName="Thadell" GiverId="20464" />
+
+<!-- Pick Up: Conjurer Luminrath -->
+<PickUp QuestName="Conjurer Luminrath" QuestId="10306" GiverName="Thadell" GiverId="20464" />
+
+<!-- Collect Objective for Quest 10331: Smithing Hammer -->
+<Objective QuestName="Unknown" QuestId="10331" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Indispensable Tools -->
+<TurnIn QuestName="Indispensable Tools" QuestId="10331" TurnInName="Apprentice Andrethan" TurnInId="20463" />
+
+<!-- Pick Up: Master Smith Rhonsus -->
+<PickUp QuestName="Master Smith Rhonsus" QuestId="10332" GiverName="Apprentice Andrethan" GiverId="20463" />
+
+<!-- Turn In: Malevolent Remnants -->
+<TurnIn QuestName="Malevolent Remnants" QuestId="10184" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Pick Up: The Annals of Kirin'Var -->
+<PickUp QuestName="The Annals of Kirin'Var" QuestId="10312" GiverName="Custodian Dieworth" GiverId="19488" />
+
+<!-- Kill Objective for Quest 10332: Rhonsus -->
+<Objective QuestName="Unknown" QuestId="10332" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Master Smith Rhonsus -->
+<TurnIn QuestName="Master Smith Rhonsus" QuestId="10332" TurnInName="Apprentice Andrethan" TurnInId="20463" />
+
+<!-- Collect Objective for Quest 10343: Mana Bomb Fragment -->
+<Objective QuestName="Unknown" QuestId="10343" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Abjurist Belmara -->
+<TurnIn QuestName="Abjurist Belmara" QuestId="10305" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Turn In: A Fate Worse Than Death -->
+<TurnIn QuestName="A Fate Worse Than Death" QuestId="10185" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Turn In: Cohlien Frostweaver -->
+<TurnIn QuestName="Cohlien Frostweaver" QuestId="10307" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Turn In: Battle-Mage Dathric -->
+<TurnIn QuestName="Battle-Mage Dathric" QuestId="10182" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Turn In: Conjurer Luminrath -->
+<TurnIn QuestName="Conjurer Luminrath" QuestId="10306" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Turn In: The Unending Invasion -->
+<TurnIn QuestName="The Unending Invasion" QuestId="10343" TurnInName="Lieutenant-Sorcerer Morran" TurnInId="19489" />
+
+<!-- Pick Up: Potential Energy Source -->
+<PickUp QuestName="Potential Energy Source" QuestId="10239" GiverName="Lieutenant-Sorcerer Morran" GiverId="19489" />
+
+<!-- Collect Objective for Quest 10312: Annals of Kirin'Var -->
+<Objective QuestName="Unknown" QuestId="10312" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Annals of Kirin'Var -->
+<TurnIn QuestName="The Annals of Kirin'Var" QuestId="10312" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Pick Up: Searching for Evidence -->
+<PickUp QuestName="Searching for Evidence" QuestId="10316" GiverName="Custodian Dieworth" GiverId="19488" />
+
+<!-- Turn In: Searching for Evidence -->
+<TurnIn QuestName="Searching for Evidence" QuestId="10316" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Pick Up: A Lingering Suspicion -->
+<PickUp QuestName="A Lingering Suspicion" QuestId="10314" GiverName="Custodian Dieworth" GiverId="19488" />
+
+<!-- Collect Objective for Quest 10314: Loathsome Remnant -->
+<Objective QuestName="Unknown" QuestId="10314" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: A Lingering Suspicion -->
+<TurnIn QuestName="A Lingering Suspicion" QuestId="10314" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Pick Up: Capturing the Phylactery -->
+<PickUp QuestName="Capturing the Phylactery" QuestId="10319" GiverName="Custodian Dieworth" GiverId="19488" />
+
+<!-- Collect Objective for Quest 10319: Naberius's Phylactery -->
+<Objective QuestName="Unknown" QuestId="10319" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Capturing the Phylactery -->
+<TurnIn QuestName="Capturing the Phylactery" QuestId="10319" TurnInName="Custodian Dieworth" TurnInId="19488" />
+
+<!-- Collect Objective for Quest 10239: Energy Isolation Cube -->
+<Objective QuestName="Unknown" QuestId="10239" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 10188: Sigil of Krasus -->
+<Objective QuestName="Unknown" QuestId="10188" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Sigil of Krasus -->
+<TurnIn QuestName="The Sigil of Krasus" QuestId="10188" TurnInName="Image of Archmage Vargoth" TurnInId="19644" />
+
+<!-- Pick Up: Krasus's Compendium -->
+<PickUp QuestName="Krasus's Compendium" QuestId="10192" GiverName="Image of Archmage Vargoth" GiverId="19644" />
+
+<!-- Turn In: Potential Energy Source -->
+<TurnIn QuestName="Potential Energy Source" QuestId="10239" TurnInName="Lieutenant-Sorcerer Morran" TurnInId="19489" />
+
+<!-- Collect Objective for Quest 10192: Krasus's Compendium - Chapter 2 -->
+<Objective QuestName="Unknown" QuestId="10192" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10192: Krasus's Compendium - Chapter 1 -->
+<Objective QuestName="Unknown" QuestId="10192" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10192: Krasus's Compendium - Chapter 3 -->
+<Objective QuestName="Unknown" QuestId="10192" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Krasus's Compendium -->
+<TurnIn QuestName="Krasus's Compendium" QuestId="10192" TurnInName="Image of Archmage Vargoth" TurnInId="19644" />
+
+<!-- Turn In: Return to Thalodien -->
+<TurnIn QuestName="Return to Thalodien" QuestId="10200" TurnInName="Spymaster Thalodien" TurnInId="19468" />
+
+<!-- Pick Up: Help Mama Wheeler -->
+<PickUp QuestName="Help Mama Wheeler" QuestId="10333" GiverName="Papa Wheeler" GiverId="19645" />
+
+<!-- Turn In: Help Mama Wheeler -->
+<TurnIn QuestName="Help Mama Wheeler" QuestId="10333" TurnInName="Mama Wheeler" TurnInId="19728" />
+
+<!-- Pick Up: Run a Diagnostic! -->
+<PickUp QuestName="Run a Diagnostic!" QuestId="10417" GiverName="Mehrdad" GiverId="20810" />
+
+<!-- Pick Up: New Opportunities -->
+<PickUp QuestName="New Opportunities" QuestId="10348" GiverName="Mehrdad" GiverId="20810" />
+
+<!-- Pick Up: Keeping Up Appearances -->
+<PickUp QuestName="Keeping Up Appearances" QuestId="10433" GiverName="Shauly Pore" GiverId="20921" />
+
+<!-- Collect Objective for Quest 10417: Diagnostic Results -->
+<Objective QuestName="Unknown" QuestId="10417" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10348: Ivory Bell -->
+<Objective QuestName="Unknown" QuestId="10348" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 10433: Ripfang Lynx Pelt -->
+<Objective QuestName="Unknown" QuestId="10433" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: New Opportunities -->
+<TurnIn QuestName="New Opportunities" QuestId="10348" TurnInName="Mehrdad" TurnInId="20810" />
+
+<!-- Turn In: Run a Diagnostic! -->
+<TurnIn QuestName="Run a Diagnostic!" QuestId="10417" TurnInName="Mehrdad" TurnInId="20810" />
+
+<!-- Pick Up: Deal With the Saboteurs -->
+<PickUp QuestName="Deal With the Saboteurs" QuestId="10418" GiverName="Mehrdad" GiverId="20810" />
+
+<!-- Turn In: Keeping Up Appearances -->
+<TurnIn QuestName="Keeping Up Appearances" QuestId="10433" TurnInName="Shauly Pore" TurnInId="20921" />
+
+<!-- Kill Objective for Quest 10418: Barbscale Crocolisk -->
+<Objective QuestName="Unknown" QuestId="10418" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Deal With the Saboteurs -->
+<TurnIn QuestName="Deal With the Saboteurs" QuestId="10418" TurnInName="Mehrdad" TurnInId="20810" />
+
+<!-- Pick Up: One Demon's Trash... -->
+<PickUp QuestName="One Demon's Trash..." QuestId="10234" GiverName="Mama Wheeler" GiverId="19728" />
+
+<!-- Collect Objective for Quest 10234: Fel Reaver Part -->
+<Objective QuestName="Unknown" QuestId="10234" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: One Demon's Trash... -->
+<TurnIn QuestName="One Demon's Trash..." QuestId="10234" TurnInName="Mama Wheeler" TurnInId="19728" />
+
+</QuestOrder>

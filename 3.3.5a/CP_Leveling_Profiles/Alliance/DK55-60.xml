@@ -1,0 +1,694 @@
+<QuestOrder>
+
+<!-- Pick Up: In Service Of The Lich King -->
+<PickUp QuestName="In Service Of The Lich King" QuestId="12593" GiverName="The Lich King" GiverId="25462" />
+
+<!-- Turn In: In Service Of The Lich King -->
+<TurnIn QuestName="In Service Of The Lich King" QuestId="12593" TurnInName="Instructor Razuvious" TurnInId="28357" />
+
+<!-- Pick Up: The Emblazoned Runeblade -->
+<PickUp QuestName="The Emblazoned Runeblade" QuestId="12619" GiverName="Instructor Razuvious" GiverId="28357" />
+
+<!-- Collect Objective for Quest 12619: Runebladed Sword -->
+<Objective QuestName="Unknown" QuestId="12619" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Emblazoned Runeblade -->
+<TurnIn QuestName="The Emblazoned Runeblade" QuestId="12619" TurnInName="Instructor Razuvious" TurnInId="28357" />
+
+<!-- Pick Up: Runeforging: Preparation For Battle -->
+<PickUp QuestName="Runeforging: Preparation For Battle" QuestId="12842" GiverName="Instructor Razuvious" GiverId="28357" />
+
+<!-- Turn In: Runeforging: Preparation For Battle -->
+<TurnIn QuestName="Runeforging: Preparation For Battle" QuestId="12842" TurnInName="Instructor Razuvious" TurnInId="28357" />
+
+<!-- Pick Up: The Endless Hunger -->
+<PickUp QuestName="The Endless Hunger" QuestId="12848" GiverName="Instructor Razuvious" GiverId="28357" />
+
+<!-- Turn In: The Endless Hunger -->
+<TurnIn QuestName="The Endless Hunger" QuestId="12848" TurnInName="Instructor Razuvious" TurnInId="28357" />
+
+<!-- Pick Up: The Eye Of Acherus -->
+<PickUp QuestName="The Eye Of Acherus" QuestId="12636" GiverName="Instructor Razuvious" GiverId="28357" />
+
+<!-- Turn In: The Eye Of Acherus -->
+<TurnIn QuestName="The Eye Of Acherus" QuestId="12636" TurnInName="The Lich King" TurnInId="25462" />
+
+<!-- Pick Up: Death Comes From On High -->
+<PickUp QuestName="Death Comes From On High" QuestId="12641" GiverName="The Lich King" GiverId="25462" />
+
+<!-- Turn In: Death Comes From On High -->
+<TurnIn QuestName="Death Comes From On High" QuestId="12641" TurnInName="The Lich King" TurnInId="25462" />
+
+<!-- Pick Up: The Might Of The Scourge -->
+<PickUp QuestName="The Might Of The Scourge" QuestId="12657" GiverName="The Lich King" GiverId="25462" />
+
+<!-- Turn In: The Might Of The Scourge -->
+<TurnIn QuestName="The Might Of The Scourge" QuestId="12657" TurnInName="Highlord Darion Mograine" TurnInId="28444" />
+
+<!-- Pick Up: Report To Scourge Commander Thalanor -->
+<PickUp QuestName="Report To Scourge Commander Thalanor" QuestId="12850" GiverName="Highlord Darion Mograine" GiverId="28444" />
+
+<!-- Pick Up: The Power Of Blood, Frost And Unholy -->
+<PickUp QuestName="The Power Of Blood, Frost And Unholy" QuestId="12849" GiverName="Lord Thorval" GiverId="28472" />
+
+<!-- Turn In: Report To Scourge Commander Thalanor -->
+<TurnIn QuestName="Report To Scourge Commander Thalanor" QuestId="12850" TurnInName="Scourge Commander Thalanor" TurnInId="28510" />
+
+<!-- Pick Up: The Scarlet Harvest -->
+<PickUp QuestName="The Scarlet Harvest" QuestId="12670" GiverName="Scourge Commander Thalanor" GiverId="28510" />
+
+<!-- Turn In: The Scarlet Harvest -->
+<TurnIn QuestName="The Scarlet Harvest" QuestId="12670" TurnInName="Prince Valanar" TurnInId="28377" />
+
+<!-- Pick Up: If Chaos Drives, Let Suffering Hold The Reins -->
+<PickUp QuestName="If Chaos Drives, Let Suffering Hold The Reins" QuestId="12678" GiverName="Prince Valanar" GiverId="28377" />
+
+<!-- Pick Up: Grand Theft Palomino -->
+<PickUp QuestName="Grand Theft Palomino" QuestId="12680" GiverName="Salanar the Horseman" GiverId="28653" />
+
+<!-- Pick Up: Death's Challenge -->
+<PickUp QuestName="Death's Challenge" QuestId="12733" GiverName="Olrun the Battlecaller" GiverId="29047" />
+
+<!-- Turn In: Death's Challenge -->
+<TurnIn QuestName="Death's Challenge" QuestId="12733" TurnInName="Olrun the Battlecaller" TurnInId="29047" />
+
+<!-- Pick Up: Tonight We Dine In Havenshire -->
+<PickUp QuestName="Tonight We Dine In Havenshire" QuestId="12679" GiverName="Orithos the Sky Darkener" GiverId="28647" />
+
+<!-- Kill Objective for Quest 12678: Scarlet Crusader -->
+<Objective QuestName="Unknown" QuestId="12678" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Pick Up: Abandoned Mail -->
+<PickUp QuestName="Abandoned Mail" QuestId="12711" GiverName="Orithos the Sky Darkener" GiverId="28647" />
+
+<!-- Kill Objective for Quest 12678: Citizen of Havenshire -->
+<Objective QuestName="Unknown" QuestId="12678" Type="KillMob" MobId="28660" KillCount="10" />
+
+<!-- Collect Objective for Quest 12679: Saronite Arrow -->
+<Objective QuestName="Unknown" QuestId="12679" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: Grand Theft Palomino -->
+<TurnIn QuestName="Grand Theft Palomino" QuestId="12680" TurnInName="Salanar the Horseman" TurnInId="28653" />
+
+<!-- Pick Up: Into the Realm of Shadows -->
+<PickUp QuestName="Into the Realm of Shadows" QuestId="12687" GiverName="Salanar the Horseman" GiverId="28653" />
+
+<!-- Turn In: Into the Realm of Shadows -->
+<TurnIn QuestName="Into the Realm of Shadows" QuestId="12687" TurnInName="Salanar the Horseman" TurnInId="28653" />
+
+<!-- Turn In: If Chaos Drives, Let Suffering Hold The Reins -->
+<TurnIn QuestName="If Chaos Drives, Let Suffering Hold The Reins" QuestId="12678" TurnInName="Prince Valanar" TurnInId="28377" />
+
+<!-- Turn In: Tonight We Dine In Havenshire -->
+<TurnIn QuestName="Tonight We Dine In Havenshire" QuestId="12679" TurnInName="Orithos the Sky Darkener" TurnInId="28647" />
+
+<!-- Pick Up: Gothik the Harvester -->
+<PickUp QuestName="Gothik the Harvester" QuestId="12697" GiverName="Prince Valanar" GiverId="28377" />
+
+<!-- Turn In: Gothik the Harvester -->
+<TurnIn QuestName="Gothik the Harvester" QuestId="12697" TurnInName="Gothik the Harvester" TurnInId="28658" />
+
+<!-- Pick Up: The Gift That Keeps On Giving -->
+<PickUp QuestName="The Gift That Keeps On Giving" QuestId="12698" GiverName="Gothik the Harvester" GiverId="28658" />
+
+<!-- Turn In: The Gift That Keeps On Giving -->
+<TurnIn QuestName="The Gift That Keeps On Giving" QuestId="12698" TurnInName="Gothik the Harvester" TurnInId="28658" />
+
+<!-- Pick Up: An Attack Of Opportunity -->
+<PickUp QuestName="An Attack Of Opportunity" QuestId="12700" GiverName="Gothik the Harvester" GiverId="28658" />
+
+<!-- Turn In: An Attack Of Opportunity -->
+<TurnIn QuestName="An Attack Of Opportunity" QuestId="12700" TurnInName="Prince Valanar" TurnInId="28377" />
+
+<!-- Pick Up: Massacre At Light's Point -->
+<PickUp QuestName="Massacre At Light's Point" QuestId="12701" GiverName="Prince Valanar" GiverId="28377" />
+
+<!-- Kill Objective for Quest 12701: Scarlet Defender -->
+<Objective QuestName="Unknown" QuestId="12701" Type="KillMob" MobId="UNKNOWN_ID" KillCount="100" />
+
+<!-- Turn In: Massacre At Light's Point -->
+<TurnIn QuestName="Massacre At Light's Point" QuestId="12701" TurnInName="Prince Valanar" TurnInId="28377" />
+
+<!-- Pick Up: Victory At Death's Breach! -->
+<PickUp QuestName="Victory At Death's Breach!" QuestId="12706" GiverName="Prince Valanar" GiverId="28377" />
+
+<!-- Turn In: Victory At Death's Breach! -->
+<TurnIn QuestName="Victory At Death's Breach!" QuestId="12706" TurnInName="Highlord Darion Mograine" TurnInId="28444" />
+
+<!-- Pick Up: The Will Of The Lich King -->
+<PickUp QuestName="The Will Of The Lich King" QuestId="12714" GiverName="Highlord Darion Mograine" GiverId="28444" />
+
+<!-- Turn In: The Will Of The Lich King -->
+<TurnIn QuestName="The Will Of The Lich King" QuestId="12714" TurnInName="Prince Valanar" TurnInId="28907" />
+
+<!-- Pick Up: The Crypt of Remembrance -->
+<PickUp QuestName="The Crypt of Remembrance" QuestId="12715" GiverName="Prince Valanar" GiverId="28907" />
+
+<!-- Pick Up: The Plaguebringer's Request -->
+<PickUp QuestName="The Plaguebringer's Request" QuestId="12716" GiverName="Noth the Plaguebringer" GiverId="28919" />
+
+<!-- Turn In: The Crypt of Remembrance -->
+<TurnIn QuestName="The Crypt of Remembrance" QuestId="12715" TurnInName="Prince Keleseth" TurnInId="28911" />
+
+<!-- Pick Up: Nowhere To Run And Nowhere To Hide -->
+<PickUp QuestName="Nowhere To Run And Nowhere To Hide" QuestId="12719" GiverName="Prince Keleseth" GiverId="28911" />
+
+<!-- Pick Up: Lambs To The Slaughter -->
+<PickUp QuestName="Lambs To The Slaughter" QuestId="12722" GiverName="Baron Rivendare" GiverId="28910" />
+
+<!-- Collect Objective for Quest 12716: Empty Cauldron -->
+<Objective QuestName="Unknown" QuestId="12716" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12716: Iron Chain -->
+<Objective QuestName="Unknown" QuestId="12716" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 12722: Scarlet Crusade Soldier -->
+<Objective QuestName="Unknown" QuestId="12722" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 12716: Crusader Skull -->
+<Objective QuestName="Unknown" QuestId="12716" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 12722: Citizen of New Avalon -->
+<Objective QuestName="Unknown" QuestId="12722" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 12719: Mayor Quimby -->
+<Objective QuestName="Unknown" QuestId="12719" Type="KillMob" MobId="28945" KillCount="1" />
+
+<!-- Collect Objective for Quest 12719: New Avalon Registry -->
+<Objective QuestName="Unknown" QuestId="12719" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Nowhere To Run And Nowhere To Hide -->
+<TurnIn QuestName="Nowhere To Run And Nowhere To Hide" QuestId="12719" TurnInName="Prince Keleseth" TurnInId="28911" />
+
+<!-- Pick Up: How To Win Friends And Influence Enemies -->
+<PickUp QuestName="How To Win Friends And Influence Enemies" QuestId="12720" GiverName="Prince Keleseth" GiverId="28911" />
+
+<!-- Turn In: Lambs To The Slaughter -->
+<TurnIn QuestName="Lambs To The Slaughter" QuestId="12722" TurnInName="Baron Rivendare" TurnInId="28910" />
+
+<!-- Turn In: The Plaguebringer's Request -->
+<TurnIn QuestName="The Plaguebringer's Request" QuestId="12716" TurnInName="Noth the Plaguebringer" TurnInId="28919" />
+
+<!-- Pick Up: Noth's Special Brew -->
+<PickUp QuestName="Noth's Special Brew" QuestId="12717" GiverName="Noth the Plaguebringer" GiverId="28919" />
+
+<!-- Turn In: Noth's Special Brew -->
+<TurnIn QuestName="Noth's Special Brew" QuestId="12717" TurnInName="Noth the Plaguebringer" TurnInId="28919" />
+
+<!-- Turn In: How To Win Friends And Influence Enemies -->
+<TurnIn QuestName="How To Win Friends And Influence Enemies" QuestId="12720" TurnInName="Prince Keleseth" TurnInId="28911" />
+
+<!-- Pick Up: Behind Scarlet Lines -->
+<PickUp QuestName="Behind Scarlet Lines" QuestId="12723" GiverName="Prince Keleseth" GiverId="28911" />
+
+<!-- Turn In: Behind Scarlet Lines -->
+<TurnIn QuestName="Behind Scarlet Lines" QuestId="12723" TurnInName="Orbaz Bloodbane" TurnInId="28914" />
+
+<!-- Pick Up: The Path Of The Righteous Crusader -->
+<PickUp QuestName="The Path Of The Righteous Crusader" QuestId="12724" GiverName="Orbaz Bloodbane" GiverId="28914" />
+
+<!-- Pick Up: Brothers In Death -->
+<PickUp QuestName="Brothers In Death" QuestId="12725" GiverName="Thassarian" GiverId="28913" />
+
+<!-- Turn In: Brothers In Death -->
+<TurnIn QuestName="Brothers In Death" QuestId="12725" TurnInName="Koltira Deathweaver" TurnInId="28912" />
+
+<!-- Pick Up: Bloody Breakout -->
+<PickUp QuestName="Bloody Breakout" QuestId="12727" GiverName="Koltira Deathweaver" GiverId="28912" />
+
+<!-- Collect Objective for Quest 12727: Valroth's Head -->
+<Objective QuestName="Unknown" QuestId="12727" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12724: New Avalon Patrol Schedule -->
+<Objective QuestName="Unknown" QuestId="12724" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Path Of The Righteous Crusader -->
+<TurnIn QuestName="The Path Of The Righteous Crusader" QuestId="12724" TurnInName="Orbaz Bloodbane" TurnInId="28914" />
+
+<!-- Turn In: Bloody Breakout -->
+<TurnIn QuestName="Bloody Breakout" QuestId="12727" TurnInName="Thassarian" TurnInId="28913" />
+
+<!-- Pick Up: A Cry For Vengeance! -->
+<PickUp QuestName="A Cry For Vengeance!" QuestId="12738" GiverName="Thassarian" GiverId="28913" />
+
+<!-- Turn In: A Cry For Vengeance! -->
+<TurnIn QuestName="A Cry For Vengeance!" QuestId="12738" TurnInName="Knight Commander Plaguefist" TurnInId="29053" />
+
+<!-- Pick Up: A Special Surprise -->
+<PickUp QuestName="A Special Surprise" QuestId="12742" GiverName="Knight Commander Plaguefist" GiverId="29053" />
+
+<!-- Pick Up: A Special Surprise -->
+<PickUp QuestName="A Special Surprise" QuestId="12743" GiverName="Knight Commander Plaguefist" GiverId="29053" />
+
+<!-- Pick Up: A Special Surprise -->
+<PickUp QuestName="A Special Surprise" QuestId="12744" GiverName="Knight Commander Plaguefist" GiverId="29053" />
+
+<!-- Pick Up: A Special Surprise -->
+<PickUp QuestName="A Special Surprise" QuestId="12745" GiverName="Knight Commander Plaguefist" GiverId="29053" />
+
+<!-- Pick Up: A Special Surprise -->
+<PickUp QuestName="A Special Surprise" QuestId="12746" GiverName="Knight Commander Plaguefist" GiverId="29053" />
+
+<If Condition="(Me.Race == WoWRace.Draenei)">
+  <!-- Kill Objective for Quest 12746: Valok the Righteous -->
+  <Objective QuestName="Unknown" QuestId="12746" Type="KillMob" MobId="29070" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.NightElf)">
+  <!-- Kill Objective for Quest 12743: Yazmina Oakenthorn -->
+  <Objective QuestName="Unknown" QuestId="12743" Type="KillMob" MobId="29065" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Gnome)">
+  <!-- Kill Objective for Quest 12745: Goby Blastenheimer -->
+  <Objective QuestName="Unknown" QuestId="12745" Type="KillMob" MobId="29068" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Human)">
+  <!-- Kill Objective for Quest 12742: Ellen Stanbridge -->
+  <Objective QuestName="Unknown" QuestId="12742" Type="KillMob" MobId="29061" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Dwarf)">
+  <!-- Kill Objective for Quest 12744: Donovan Pulfrost -->
+  <Objective QuestName="Unknown" QuestId="12744" Type="KillMob" MobId="29067" KillCount="1" />
+</If>
+
+<!-- Turn In: A Special Surprise -->
+<TurnIn QuestName="A Special Surprise" QuestId="12742" TurnInName="Knight Commander Plaguefist" TurnInId="29053" />
+
+<!-- Turn In: A Special Surprise -->
+<TurnIn QuestName="A Special Surprise" QuestId="12743" TurnInName="Knight Commander Plaguefist" TurnInId="29053" />
+
+<!-- Turn In: A Special Surprise -->
+<TurnIn QuestName="A Special Surprise" QuestId="12744" TurnInName="Knight Commander Plaguefist" TurnInId="29053" />
+
+<!-- Turn In: A Special Surprise -->
+<TurnIn QuestName="A Special Surprise" QuestId="12745" TurnInName="Knight Commander Plaguefist" TurnInId="29053" />
+
+<!-- Turn In: A Special Surprise -->
+<TurnIn QuestName="A Special Surprise" QuestId="12746" TurnInName="Knight Commander Plaguefist" TurnInId="29053" />
+
+<!-- Pick Up: A Sort Of Homecoming -->
+<PickUp QuestName="A Sort Of Homecoming" QuestId="12751" GiverName="Knight Commander Plaguefist" GiverId="29053" />
+
+<!-- Turn In: A Sort Of Homecoming -->
+<TurnIn QuestName="A Sort Of Homecoming" QuestId="12751" TurnInName="Thassarian" TurnInId="28913" />
+
+<!-- Pick Up: Ambush At The Overlook -->
+<PickUp QuestName="Ambush At The Overlook" QuestId="12754" GiverName="Orbaz Bloodbane" GiverId="28914" />
+
+<!-- Collect Objective for Quest 12754: Scarlet Courier's Belongings -->
+<Objective QuestName="Unknown" QuestId="12754" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 12754: Scarlet Courier's Message -->
+<Objective QuestName="Unknown" QuestId="12754" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ambush At The Overlook -->
+<TurnIn QuestName="Ambush At The Overlook" QuestId="12754" TurnInName="Orbaz Bloodbane" TurnInId="28914" />
+
+<!-- Pick Up: A Meeting With Fate -->
+<PickUp QuestName="A Meeting With Fate" QuestId="12755" GiverName="Orbaz Bloodbane" GiverId="28914" />
+
+<!-- Turn In: A Meeting With Fate -->
+<TurnIn QuestName="A Meeting With Fate" QuestId="12755" TurnInName="High General Abbendis" TurnInId="29077" />
+
+<!-- Pick Up: The Scarlet Onslaught Emerges -->
+<PickUp QuestName="The Scarlet Onslaught Emerges" QuestId="12756" GiverName="High General Abbendis" GiverId="29077" />
+
+<!-- Turn In: The Scarlet Onslaught Emerges -->
+<TurnIn QuestName="The Scarlet Onslaught Emerges" QuestId="12756" TurnInName="Orbaz Bloodbane" TurnInId="28914" />
+
+<!-- Pick Up: Scarlet Armies Approach... -->
+<PickUp QuestName="Scarlet Armies Approach..." QuestId="12757" GiverName="Orbaz Bloodbane" GiverId="28914" />
+
+<!-- Turn In: Scarlet Armies Approach... -->
+<TurnIn QuestName="Scarlet Armies Approach..." QuestId="12757" TurnInName="Highlord Darion Mograine" TurnInId="28444" />
+
+<!-- Pick Up: The Scarlet Apocalypse -->
+<PickUp QuestName="The Scarlet Apocalypse" QuestId="12778" GiverName="Highlord Darion Mograine" GiverId="28444" />
+
+<!-- Turn In: The Scarlet Apocalypse -->
+<TurnIn QuestName="The Scarlet Apocalypse" QuestId="12778" TurnInName="The Lich King" TurnInId="29110" />
+
+<!-- Pick Up: An End To All Things... -->
+<PickUp QuestName="An End To All Things..." QuestId="12779" GiverName="The Lich King" GiverId="29110" />
+
+<!-- Kill Objective for Quest 12779: Scarlet Soldiers -->
+<Objective QuestName="Unknown" QuestId="12779" Type="KillMob" MobId="UNKNOWN_ID" KillCount="150" />
+
+<!-- Turn In: An End To All Things... -->
+<TurnIn QuestName="An End To All Things..." QuestId="12779" TurnInName="The Lich King" TurnInId="29110" />
+
+<!-- Pick Up: The Lich King's Command -->
+<PickUp QuestName="The Lich King's Command" QuestId="12800" GiverName="The Lich King" GiverId="29110" />
+
+<!-- Turn In: The Lich King's Command -->
+<TurnIn QuestName="The Lich King's Command" QuestId="12800" TurnInName="Scourge Commander Thalanor" TurnInId="31082" />
+
+<!-- Pick Up: The Light of Dawn -->
+<PickUp QuestName="The Light of Dawn" QuestId="12801" GiverName="Scourge Commander Thalanor" GiverId="31082" />
+
+<!-- Turn In: Taking Back Acherus -->
+<TurnIn QuestName="Taking Back Acherus" QuestId="13165" TurnInName="Highlord Darion Mograine" TurnInId="29173" />
+
+<!-- Pick Up: The Battle For The Ebon Hold -->
+<PickUp QuestName="The Battle For The Ebon Hold" QuestId="13166" GiverName="Highlord Darion Mograine" GiverId="29173" />
+
+<!-- Kill Objective for Quest 13166: Scourge -->
+<Objective QuestName="Unknown" QuestId="13166" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 13166: Patchwerk -->
+<Objective QuestName="Unknown" QuestId="13166" Type="KillMob" MobId="31099" KillCount="1" />
+
+<!-- Turn In: The Battle For The Ebon Hold -->
+<TurnIn QuestName="The Battle For The Ebon Hold" QuestId="13166" TurnInName="Highlord Darion Mograine" TurnInId="31084" />
+
+<!-- Pick Up: Where Kings Walk -->
+<PickUp QuestName="Where Kings Walk" QuestId="13188" GiverName="Highlord Darion Mograine" GiverId="31084" />
+
+<!-- Turn In: Where Kings Walk -->
+<TurnIn QuestName="Where Kings Walk" QuestId="13188" TurnInName="King Varian Wrynn" TurnInId="29611" />
+
+<!-- Pick Up: Extinguish the Firegut -->
+<PickUp QuestName="Extinguish the Firegut" QuestId="3823" GiverName="Oralius" GiverId="9177" />
+
+<!-- Pick Up: FIFTY! YEP! -->
+<PickUp QuestName="FIFTY! YEP!" QuestId="4283" GiverName="Oralius" GiverId="9177" />
+
+<!-- Kill Objective for Quest 3823: Firegut Brute -->
+<Objective QuestName="Unknown" QuestId="3823" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 3823: Firegut Ogre -->
+<Objective QuestName="Unknown" QuestId="3823" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 3823: Firegut Ogre Mage -->
+<Objective QuestName="Unknown" QuestId="3823" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 4283: Blackrock Medallion -->
+<Objective QuestName="Unknown" QuestId="4283" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="50" />
+
+<!-- Turn In: Extinguish the Firegut -->
+<TurnIn QuestName="Extinguish the Firegut" QuestId="3823" TurnInName="Oralius" TurnInId="9177" />
+
+<!-- Pick Up: Gor'tesh the Brute Lord -->
+<PickUp QuestName="Gor'tesh the Brute Lord" QuestId="3824" GiverName="Oralius" GiverId="9177" />
+
+<!-- Turn In: FIFTY! YEP! -->
+<TurnIn QuestName="FIFTY! YEP!" QuestId="4283" TurnInName="Oralius" TurnInId="9177" />
+
+<!-- Collect Objective for Quest 3824: Gor'tesh's Lopped Off Head -->
+<Objective QuestName="Unknown" QuestId="3824" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Gor'tesh the Brute Lord -->
+<TurnIn QuestName="Gor'tesh the Brute Lord" QuestId="3824" TurnInName="Oralius" TurnInId="9177" />
+
+<!-- Pick Up: Ogre Head On A Stick = Party -->
+<PickUp QuestName="Ogre Head On A Stick = Party" QuestId="3825" GiverName="Oralius" GiverId="9177" />
+
+<!-- Turn In: Ogre Head On A Stick = Party -->
+<TurnIn QuestName="Ogre Head On A Stick = Party" QuestId="3825" TurnInName="Oralius" TurnInId="9177" />
+
+<!-- Pick Up: Taking Back Silithus -->
+<PickUp QuestName="Taking Back Silithus" QuestId="8275" GiverName="Cenarion Emissary Jademoon" GiverId="15187" />
+
+<!-- Pick Up: The Twilight Mystery -->
+<PickUp QuestName="The Twilight Mystery" QuestId="8284" GiverName="Geologist Larksbane" GiverId="15183" />
+
+<!-- Turn In: Taking Back Silithus -->
+<TurnIn QuestName="Taking Back Silithus" QuestId="8275" TurnInName="Windcaller Proudhorn" TurnInId="15191" />
+
+<!-- Pick Up: Securing the Supply Lines -->
+<PickUp QuestName="Securing the Supply Lines" QuestId="8280" GiverName="Windcaller Proudhorn" GiverId="15191" />
+
+<!-- Pick Up: Deadly Desert Venom -->
+<PickUp QuestName="Deadly Desert Venom" QuestId="8277" GiverName="Beetix Ficklespragg" GiverId="15189" />
+
+<!-- Collect Objective for Quest 8277: Stonelash Scorpid Stinger -->
+<Objective QuestName="Unknown" QuestId="8277" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 8277: Sand Skitterer Fang -->
+<Objective QuestName="Unknown" QuestId="8277" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Kill Objective for Quest 8280: Dredge Striker -->
+<Objective QuestName="Unknown" QuestId="8280" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 8284: Twilight Tablet Fragment -->
+<Objective QuestName="Unknown" QuestId="8284" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Deadly Desert Venom -->
+<TurnIn QuestName="Deadly Desert Venom" QuestId="8277" TurnInName="Beetix Ficklespragg" TurnInId="15189" />
+
+<!-- Pick Up: Noggle's Last Hope -->
+<PickUp QuestName="Noggle's Last Hope" QuestId="8278" GiverName="Beetix Ficklespragg" GiverId="15189" />
+
+<!-- Turn In: Securing the Supply Lines -->
+<TurnIn QuestName="Securing the Supply Lines" QuestId="8280" TurnInName="Windcaller Proudhorn" TurnInId="15191" />
+
+<!-- Pick Up: Stepping Up Security -->
+<PickUp QuestName="Stepping Up Security" QuestId="8281" GiverName="Windcaller Proudhorn" GiverId="15191" />
+
+<!-- Turn In: The Twilight Mystery -->
+<TurnIn QuestName="The Twilight Mystery" QuestId="8284" TurnInName="Geologist Larksbane" TurnInId="15183" />
+
+<!-- Pick Up: The Deserter -->
+<PickUp QuestName="The Deserter" QuestId="8285" GiverName="Geologist Larksbane" GiverId="15183" />
+
+<!-- Pick Up: Dearest Natalia -->
+<PickUp QuestName="Dearest Natalia" QuestId="8304" GiverName="Commander Mar'alith" GiverId="15181" />
+
+<!-- Kill Objective for Quest 8281: Dredge Crusher -->
+<Objective QuestName="Unknown" QuestId="8281" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 8278: Stonelash Pincer Stinger -->
+<Objective QuestName="Unknown" QuestId="8278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: The Deserter -->
+<TurnIn QuestName="The Deserter" QuestId="8285" TurnInName="Hermit Ortell" TurnInId="15194" />
+
+<!-- Collect Objective for Quest 8278: Stonelash Flayer Stinger -->
+<Objective QuestName="Unknown" QuestId="8278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 8278: Rock Stalker Fang -->
+<Objective QuestName="Unknown" QuestId="8278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Noggle's Last Hope -->
+<TurnIn QuestName="Noggle's Last Hope" QuestId="8278" TurnInName="Beetix Ficklespragg" TurnInId="15189" />
+
+<!-- Turn In: Stepping Up Security -->
+<TurnIn QuestName="Stepping Up Security" QuestId="8281" TurnInName="Windcaller Proudhorn" TurnInId="15191" />
+
+<!-- Turn In: Dearest Natalia -->
+<TurnIn QuestName="Dearest Natalia" QuestId="8304" TurnInName="Commander Mar'alith" TurnInId="15181" />
+
+<!-- Pick Up: A Call to Arms: The Plaguelands! -->
+<PickUp QuestName="A Call to Arms: The Plaguelands!" QuestId="5090" GiverName="Courier Hammerfall" GiverId="10877" />
+
+<!-- Turn In: A Call to Arms: The Plaguelands! -->
+<TurnIn QuestName="A Call to Arms: The Plaguelands!" QuestId="5090" TurnInName="Commander Ashlam Valorfist" TurnInId="10838" />
+
+<!-- Pick Up: Clear the Way -->
+<PickUp QuestName="Clear the Way" QuestId="5092" GiverName="Commander Ashlam Valorfist" GiverId="10838" />
+
+<!-- Pick Up: The Mark of the Lightbringer -->
+<PickUp QuestName="The Mark of the Lightbringer" QuestId="9474" GiverName="Anchorite Truuen" GiverId="17238" />
+
+<!-- Kill Objective for Quest 5092: Slavering Ghoul -->
+<Objective QuestName="Unknown" QuestId="5092" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 5092: Skeletal Flayer -->
+<Objective QuestName="Unknown" QuestId="5092" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Clear the Way -->
+<TurnIn QuestName="Clear the Way" QuestId="5092" TurnInName="Commander Ashlam Valorfist" TurnInId="10838" />
+
+<!-- Pick Up: The Scourge Cauldrons -->
+<PickUp QuestName="The Scourge Cauldrons" QuestId="5215" GiverName="Commander Ashlam Valorfist" GiverId="10838" />
+
+<!-- Pick Up: All Along the Watchtowers -->
+<PickUp QuestName="All Along the Watchtowers" QuestId="5097" GiverName="Commander Ashlam Valorfist" GiverId="10838" />
+
+<!-- Turn In: The Scourge Cauldrons -->
+<TurnIn QuestName="The Scourge Cauldrons" QuestId="5215" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Target: Felstone Field -->
+<PickUp QuestName="Target: Felstone Field" QuestId="5216" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Turn In: Target: Felstone Field -->
+<TurnIn QuestName="Target: Felstone Field" QuestId="5216" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Return to Chillwind Camp -->
+<PickUp QuestName="Return to Chillwind Camp" QuestId="5217" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Pick Up: Better Late Than Never (1) -->
+<PickUp QuestName="Better Late Than Never (1)" QuestId="5021" GiverName="Janice Felstone" GiverId="10778" />
+
+<!-- Turn In: Better Late Than Never (1) -->
+<TurnIn QuestName="Better Late Than Never (1)" QuestId="5021" TurnInName="Janice Felstone" TurnInId="10778" />
+
+<!-- Pick Up: Better Late Than Never (2) -->
+<PickUp QuestName="Better Late Than Never (2)" QuestId="5022" GiverName="Janice Felstone" GiverId="10778" />
+
+<!-- Turn In: All Along the Watchtowers -->
+<TurnIn QuestName="All Along the Watchtowers" QuestId="5097" TurnInName="Commander Ashlam Valorfist" TurnInId="10838" />
+
+<!-- Pick Up: Scholomance -->
+<PickUp QuestName="Scholomance" QuestId="5533" GiverName="Commander Ashlam Valorfist" GiverId="10838" />
+
+<!-- Turn In: Scholomance -->
+<TurnIn QuestName="Scholomance" QuestId="5533" TurnInName="Alchemist Arbington" TurnInId="11056" />
+
+<!-- Turn In: Return to Chillwind Camp -->
+<TurnIn QuestName="Return to Chillwind Camp" QuestId="5217" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Target: Dalson's Tears -->
+<PickUp QuestName="Target: Dalson's Tears" QuestId="5219" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Turn In: Target: Dalson's Tears -->
+<TurnIn QuestName="Target: Dalson's Tears" QuestId="5219" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Return to Chillwind Camp -->
+<PickUp QuestName="Return to Chillwind Camp" QuestId="5220" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Pick Up: Mrs. Dalson's Diary -->
+<PickUp QuestName="Mrs. Dalson's Diary" QuestId="5058" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Collect Objective for Quest 5060: Dalson Cabinet Key -->
+<Objective QuestName="Unknown" QuestId="5060" Type="CollectItem" ItemId="12739" CollectCount="1" />
+
+<!-- Pick Up: Locked Away -->
+<PickUp QuestName="Locked Away" QuestId="5060" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Pick Up: Unfinished Business (1) -->
+<PickUp QuestName="Unfinished Business (1)" QuestId="6004" GiverName="Kirsta Deepshadow" GiverId="11610" />
+
+<!-- Kill Objective for Quest 6004: Scarlet Mage -->
+<Objective QuestName="Unknown" QuestId="6004" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 6004: Scarlet Knight -->
+<Objective QuestName="Unknown" QuestId="6004" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 6004: Scarlet Medic -->
+<Objective QuestName="Unknown" QuestId="6004" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 6004: Scarlet Hunter -->
+<Objective QuestName="Unknown" QuestId="6004" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Turn In: Unfinished Business (1) -->
+<TurnIn QuestName="Unfinished Business (1)" QuestId="6004" TurnInName="Kirsta Deepshadow" TurnInId="11610" />
+
+<!-- Pick Up: Unfinished Business (2) -->
+<PickUp QuestName="Unfinished Business (2)" QuestId="6023" GiverName="Kirsta Deepshadow" GiverId="11610" />
+
+<!-- Kill Objective for Quest 6023: Huntsman Radley -->
+<Objective QuestName="Unknown" QuestId="6023" Type="KillMob" MobId="11613" KillCount="1" />
+
+<!-- Collect Objective for Quest 9474: Mark of the Lightbringer -->
+<Objective QuestName="Unknown" QuestId="9474" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Unfinished Business (2) -->
+<TurnIn QuestName="Unfinished Business (2)" QuestId="6023" TurnInName="Kirsta Deepshadow" TurnInId="11610" />
+
+<!-- Turn In: Return to Chillwind Camp -->
+<TurnIn QuestName="Return to Chillwind Camp" QuestId="5220" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Target: Writhing Haunt -->
+<PickUp QuestName="Target: Writhing Haunt" QuestId="5222" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Turn In: The Mark of the Lightbringer -->
+<TurnIn QuestName="The Mark of the Lightbringer" QuestId="9474" TurnInName="Anchorite Truuen" TurnInId="17238" />
+
+<!-- Turn In: Better Late Than Never (2) -->
+<TurnIn QuestName="Better Late Than Never (2)" QuestId="5022" TurnInName="Royal Factor Bathrilor" TurnInId="10782" />
+
+<!-- Pick Up: Good Natured Emma -->
+<PickUp QuestName="Good Natured Emma" QuestId="5048" GiverName="Royal Factor Bathrilor" GiverId="10782" />
+
+<!-- Turn In: Good Natured Emma -->
+<TurnIn QuestName="Good Natured Emma" QuestId="5048" TurnInName="Ol' Emma" TurnInId="3520" />
+
+<!-- Pick Up: Good Luck Charm -->
+<PickUp QuestName="Good Luck Charm" QuestId="5050" GiverName="Ol' Emma" GiverId="3520" />
+
+<!-- Pick Up: The First and the Last -->
+<PickUp QuestName="The First and the Last" QuestId="6182" GiverName="King Varian Wrynn" GiverId="29611" />
+
+<!-- Turn In: The First and the Last -->
+<TurnIn QuestName="The First and the Last" QuestId="6182" TurnInName="Master Mathias Shaw" TurnInId="332" />
+
+<!-- Pick Up: Honor the Dead -->
+<PickUp QuestName="Honor the Dead" QuestId="6183" GiverName="Master Mathias Shaw" GiverId="332" />
+
+<!-- Turn In: Honor the Dead -->
+<TurnIn QuestName="Honor the Dead" QuestId="6183" TurnInName="Master Mathias Shaw" TurnInId="332" />
+
+<!-- Pick Up: Flint Shadowmore -->
+<PickUp QuestName="Flint Shadowmore" QuestId="6184" GiverName="Master Mathias Shaw" GiverId="332" />
+
+<!-- Turn In: Flint Shadowmore -->
+<TurnIn QuestName="Flint Shadowmore" QuestId="6184" TurnInName="Flint Shadowmore" TurnInId="12425" />
+
+<!-- Pick Up: The Eastern Plagues -->
+<PickUp QuestName="The Eastern Plagues" QuestId="6185" GiverName="Flint Shadowmore" GiverId="12425" />
+
+<!-- Turn In: Good Luck Charm -->
+<TurnIn QuestName="Good Luck Charm" QuestId="5050" TurnInName="Janice Felstone" TurnInId="10778" />
+
+<!-- Pick Up: Two Halves Become One -->
+<PickUp QuestName="Two Halves Become One" QuestId="5051" GiverName="Janice Felstone" GiverId="10778" />
+
+<!-- Collect Objective for Quest 5051: Good Luck Charm -->
+<Objective QuestName="Unknown" QuestId="5051" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Two Halves Become One -->
+<TurnIn QuestName="Two Halves Become One" QuestId="5051" TurnInName="Janice Felstone" TurnInId="10778" />
+
+<!-- Turn In: Target: Writhing Haunt -->
+<TurnIn QuestName="Target: Writhing Haunt" QuestId="5222" TurnInName="Janice Felstone" TurnInId="10778" />
+
+<!-- Pick Up: Return to Chillwind Camp -->
+<PickUp QuestName="Return to Chillwind Camp" QuestId="5223" GiverName="Janice Felstone" GiverId="10778" />
+
+<!-- Turn In: Return to Chillwind Camp -->
+<TurnIn QuestName="Return to Chillwind Camp" QuestId="5223" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Target: Gahrron's Withering -->
+<PickUp QuestName="Target: Gahrron's Withering" QuestId="5225" GiverName="High Priestess MacDonnell" GiverId="11053" />
+
+<!-- Pick Up: Tomb of the Lightbringer -->
+<PickUp QuestName="Tomb of the Lightbringer" QuestId="9446" GiverName="Anchorite Truuen" GiverId="17238" />
+
+<!-- Pick Up: The Wildlife Suffers Too (1) -->
+<PickUp QuestName="The Wildlife Suffers Too (1)" QuestId="4984" GiverName="Mulgris Deepriver" GiverId="10739" />
+
+<!-- Kill Objective for Quest 4984: Diseased Wolf -->
+<Objective QuestName="Unknown" QuestId="4984" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: The Wildlife Suffers Too (1) -->
+<TurnIn QuestName="The Wildlife Suffers Too (1)" QuestId="4984" TurnInName="Mulgris Deepriver" TurnInId="10739" />
+
+<!-- Pick Up: The Wildlife Suffers Too (2) -->
+<PickUp QuestName="The Wildlife Suffers Too (2)" QuestId="4985" GiverName="Mulgris Deepriver" GiverId="10739" />
+
+<!-- Kill Objective for Quest 4985: Diseased Grizzly -->
+<Objective QuestName="Unknown" QuestId="4985" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Target: Gahrron's Withering -->
+<TurnIn QuestName="Target: Gahrron's Withering" QuestId="5225" TurnInName="Mulgris Deepriver" TurnInId="10739" />
+
+<!-- Pick Up: Return to Chillwind Camp -->
+<PickUp QuestName="Return to Chillwind Camp" QuestId="5226" GiverName="Mulgris Deepriver" GiverId="10739" />
+
+<!-- Turn In: The Wildlife Suffers Too (2) -->
+<TurnIn QuestName="The Wildlife Suffers Too (2)" QuestId="4985" TurnInName="Mulgris Deepriver" TurnInId="10739" />
+
+<!-- Turn In: Tomb of the Lightbringer -->
+<TurnIn QuestName="Tomb of the Lightbringer" QuestId="9446" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Turn In: Return to Chillwind Camp -->
+<TurnIn QuestName="Return to Chillwind Camp" QuestId="5226" TurnInName="High Priestess MacDonnell" TurnInId="11053" />
+
+<!-- Pick Up: Mission Accomplished! -->
+<PickUp QuestName="Mission Accomplished!" QuestId="5238" GiverName="Commander Ashlam Valorfist" GiverId="10838" />
+
+</QuestOrder>

@@ -1,0 +1,537 @@
+<QuestOrder>
+
+<!-- Collect Objective for Quest 9702: Discarded Nutriment -->
+<Objective QuestName="Unknown" QuestId="9702" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: A Question of Gluttony -->
+<TurnIn QuestName="A Question of Gluttony" QuestId="9702" TurnInName="Watcher Leesa'oh" TurnInId="17831" />
+
+<!-- Pick Up: Familiar Fungi -->
+<PickUp QuestName="Familiar Fungi" QuestId="9708" GiverName="Watcher Leesa'oh" GiverId="17831" />
+
+<!-- Turn In: Sporeggar -->
+<TurnIn QuestName="Sporeggar" QuestId="9919" TurnInName="Msshi'fn" TurnInId="17924" />
+
+<!-- Pick Up: Now That We're Friends... -->
+<PickUp QuestName="Now That We're Friends..." QuestId="9726" GiverName="Gzhun'tt" GiverId="17856" />
+
+<!-- Pick Up: Fertile Spores -->
+<PickUp QuestName="Fertile Spores" QuestId="9806" GiverName="Gshaff" GiverId="17925" />
+
+<!-- Turn In: Fertile Spores -->
+<TurnIn QuestName="Fertile Spores" QuestId="9806" TurnInName="Gshaff" TurnInId="17925" />
+
+<!-- Kill Objective for Quest 9904: Terrorclaw -->
+<Objective QuestName="Unknown" QuestId="9904" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 9841: Marshlight Bleeder -->
+<Objective QuestName="Unknown" QuestId="9841" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 9726: Bloodscale Slavedriver -->
+<Objective QuestName="Unknown" QuestId="9726" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 9726: Bloodscale Enchantress -->
+<Objective QuestName="Unknown" QuestId="9726" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 9820: Boss Grog'ak's Head -->
+<Objective QuestName="Unknown" QuestId="9820" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9708: Mushroom Sample -->
+<Objective QuestName="Unknown" QuestId="9708" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: Pursuing Terrorclaw -->
+<TurnIn QuestName="Pursuing Terrorclaw" QuestId="9904" TurnInName="Zurjaya" TurnInId="18018" />
+
+<!-- Turn In: Stinging the Stingers -->
+<TurnIn QuestName="Stinging the Stingers" QuestId="9841" TurnInName="Gambarinka" TurnInId="18015" />
+
+<!-- Pick Up: The Sharpest Blades -->
+<PickUp QuestName="The Sharpest Blades" QuestId="9842" GiverName="Gambarinka" GiverId="18015" />
+
+<!-- Turn In: WANTED: Boss Grog'ak -->
+<TurnIn QuestName="WANTED: Boss Grog'ak" QuestId="9820" TurnInName="Shadow Hunter Denjai" TurnInId="18013" />
+
+<!-- Pick Up: Impending Attack -->
+<PickUp QuestName="Impending Attack" QuestId="9822" GiverName="Shadow Hunter Denjai" GiverId="18013" />
+
+<!-- Collect Objective for Quest 9842: Marshfang Slicer Blade -->
+<Objective QuestName="Unknown" QuestId="9842" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: The Sharpest Blades -->
+<TurnIn QuestName="The Sharpest Blades" QuestId="9842" TurnInName="Gambarinka" TurnInId="18015" />
+
+<!-- Turn In: Familiar Fungi -->
+<TurnIn QuestName="Familiar Fungi" QuestId="9708" TurnInName="Watcher Leesa'oh" TurnInId="17831" />
+
+<!-- Pick Up: Stealing Back the Mushrooms -->
+<PickUp QuestName="Stealing Back the Mushrooms" QuestId="9709" GiverName="Watcher Leesa'oh" GiverId="17831" />
+
+<!-- Turn In: Now That We're Friends... -->
+<TurnIn QuestName="Now That We're Friends..." QuestId="9726" TurnInName="Gzhun'tt" TurnInId="17856" />
+
+<!-- Collect Objective for Quest 9822: Ango'rosh Attack Plans -->
+<Objective QuestName="Unknown" QuestId="9822" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Impending Attack -->
+<TurnIn QuestName="Impending Attack" QuestId="9822" TurnInName="Shadow Hunter Denjai" TurnInId="18013" />
+
+<!-- Pick Up: Us or Them -->
+<PickUp QuestName="Us or Them" QuestId="9823" GiverName="Shadow Hunter Denjai" GiverId="18013" />
+
+<!-- Pick Up: Message to the Daggerfen -->
+<PickUp QuestName="Message to the Daggerfen" QuestId="10118" GiverName="Shadow Hunter Denjai" GiverId="18013" />
+
+<!-- Collect Objective for Quest 10117: Chieftain Mummaki's Totem -->
+<Objective QuestName="Unknown" QuestId="10117" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 10118: Daggerfen Assassin -->
+<Objective QuestName="Unknown" QuestId="10118" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Kill Objective for Quest 10118: Daggerfen Muckdweller -->
+<Objective QuestName="Unknown" QuestId="10118" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Kill Objective for Quest 9823: Ango'rosh Mauler -->
+<Objective QuestName="Unknown" QuestId="9823" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 9823: Ango'rosh Souleater -->
+<Objective QuestName="Unknown" QuestId="9823" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 9709: Box of Mushrooms -->
+<Objective QuestName="Unknown" QuestId="9709" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 9823: Overlord Gorefist -->
+<Objective QuestName="Unknown" QuestId="9823" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Us or Them -->
+<TurnIn QuestName="Us or Them" QuestId="9823" TurnInName="Shadow Hunter Denjai" TurnInId="18013" />
+
+<!-- Turn In: Message to the Daggerfen -->
+<TurnIn QuestName="Message to the Daggerfen" QuestId="10118" TurnInName="Shadow Hunter Denjai" TurnInId="18013" />
+
+<!-- Turn In: Wanted: Chieftain Mummaki -->
+<TurnIn QuestName="Wanted: Chieftain Mummaki" QuestId="10117" TurnInName="Shadow Hunter Denjai" TurnInId="18013" />
+
+<!-- Turn In: Have You Ever Seen One of These? -->
+<TurnIn QuestName="Have You Ever Seen One of These?" QuestId="9816" TurnInName="Witch Doctor Tor'gash" TurnInId="18014" />
+
+<!-- Turn In: Stealing Back the Mushrooms -->
+<TurnIn QuestName="Stealing Back the Mushrooms" QuestId="9709" TurnInName="Watcher Leesa'oh" TurnInId="17831" />
+
+<!-- Turn In: Nothin' Says Lovin' Like a Big Stinger -->
+<TurnIn QuestName="Nothin' Says Lovin' Like a Big Stinger" QuestId="9898" TurnInName="Reavij" TurnInId="18012" />
+
+<!-- Turn In: Balance Must Be Preserved -->
+<TurnIn QuestName="Balance Must Be Preserved" QuestId="9720" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Turn In: Drain Schematics -->
+<TurnIn QuestName="Drain Schematics" QuestId="9731" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Pick Up: Warning the Cenarion Circle -->
+<PickUp QuestName="Warning the Cenarion Circle" QuestId="9724" GiverName="Ysiel Windsinger" GiverId="17841" />
+
+<!-- Turn In: Warning the Cenarion Circle -->
+<TurnIn QuestName="Warning the Cenarion Circle" QuestId="9724" TurnInName="Amythiel Mistwalker" TurnInId="16885" />
+
+<!-- Pick Up: Return to the Marsh -->
+<PickUp QuestName="Return to the Marsh" QuestId="9732" GiverName="Amythiel Mistwalker" GiverId="16885" />
+
+<!-- Turn In: Return to the Marsh -->
+<TurnIn QuestName="Return to the Marsh" QuestId="9732" TurnInName="Ysiel Windsinger" TurnInId="17841" />
+
+<!-- Pick Up: A'dal -->
+<PickUp QuestName="A'dal" QuestId="10210" GiverName="Haggard War Veteran" GiverId="19684" />
+
+<!-- Turn In: A'dal -->
+<TurnIn QuestName="A'dal" QuestId="10210" TurnInName="A'dal" TurnInId="18481" />
+
+<!-- Pick Up: City of Light -->
+<PickUp QuestName="City of Light" QuestId="10211" GiverName="Khadgar" GiverId="18166" />
+
+<!-- Pick Up: Rather Be Fishin' -->
+<PickUp QuestName="Rather Be Fishin'" QuestId="10037" GiverName="Seth" GiverId="18653" />
+
+<!-- Pick Up: The Eyes of Skettis -->
+<PickUp QuestName="The Eyes of Skettis" QuestId="10847" GiverName="Rilak the Redeemed" GiverId="22292" />
+
+<!-- Turn In: City of Light -->
+<TurnIn QuestName="City of Light" QuestId="10211" TurnInName="Khadgar" TurnInId="18166" />
+
+<!-- Pick Up: Allegiance to the Scryers -->
+<PickUp QuestName="Allegiance to the Scryers" QuestId="10552" GiverName="Khadgar" GiverId="18166" />
+
+<!-- Pick Up: Voren'thal the Seer -->
+<PickUp QuestName="Voren'thal the Seer" QuestId="10553" GiverName="Khadgar" GiverId="18166" />
+
+<!-- Turn In: Voren'thal the Seer -->
+<TurnIn QuestName="Voren'thal the Seer" QuestId="10553" TurnInName="Voren'thal the Seer" TurnInId="18530" />
+
+<!-- Collect Objective for Quest 10037: Pristine Shimmerscale Eel -->
+<Objective QuestName="Unknown" QuestId="10037" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: What's Wrong at Cenarion Thicket? -->
+<TurnIn QuestName="What's Wrong at Cenarion Thicket?" QuestId="9957" TurnInName="Earthbinder Tavgren" TurnInId="18446" />
+
+<!-- Pick Up: Strange Energy -->
+<PickUp QuestName="Strange Energy" QuestId="9968" GiverName="Earthbinder Tavgren" GiverId="18446" />
+
+<!-- Pick Up: Clues in the Thicket -->
+<PickUp QuestName="Clues in the Thicket" QuestId="9971" GiverName="Earthbinder Tavgren" GiverId="18446" />
+
+<!-- Pick Up: It's Watching You! -->
+<PickUp QuestName="It's Watching You!" QuestId="9951" GiverName="Warden Treelos" GiverId="18424" />
+
+<!-- Turn In: Clues in the Thicket -->
+<TurnIn QuestName="Clues in the Thicket" QuestId="9971" TurnInName="Earthbinder Tavgren" TurnInId="18446" />
+
+<!-- Kill Objective for Quest 9951: Naphthal'ar -->
+<Objective QuestName="Unknown" QuestId="9951" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: It's Watching You! -->
+<TurnIn QuestName="It's Watching You!" QuestId="9951" TurnInName="Warden Treelos" TurnInId="18424" />
+
+<!-- Collect Objective for Quest 9968: Vicious Teromoth Sample -->
+<Objective QuestName="Unknown" QuestId="9968" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 9968: Teromoth Sample -->
+<Objective QuestName="Unknown" QuestId="9968" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: Strange Energy -->
+<TurnIn QuestName="Strange Energy" QuestId="9968" TurnInName="Earthbinder Tavgren" TurnInId="18446" />
+
+<!-- Pick Up: By Any Means Necessary -->
+<PickUp QuestName="By Any Means Necessary" QuestId="9978" GiverName="Earthbinder Tavgren" GiverId="18446" />
+
+<!-- Turn In: By Any Means Necessary -->
+<TurnIn QuestName="By Any Means Necessary" QuestId="9978" TurnInName="Empoor" TurnInId="18482" />
+
+<!-- Pick Up: Wind Trader Lathrai -->
+<PickUp QuestName="Wind Trader Lathrai" QuestId="9979" GiverName="Empoor" GiverId="18482" />
+
+<!-- Collect Objective for Quest 10847: Eye of Veil Reskk -->
+<Objective QuestName="Unknown" QuestId="10847" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10847: Eye of Veil Shienor -->
+<Objective QuestName="Unknown" QuestId="10847" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Eyes of Skettis -->
+<TurnIn QuestName="The Eyes of Skettis" QuestId="10847" TurnInName="Rilak the Redeemed" TurnInId="22292" />
+
+<!-- Pick Up: Seek Out Kirrik -->
+<PickUp QuestName="Seek Out Kirrik" QuestId="10849" GiverName="Rilak the Redeemed" GiverId="22292" />
+
+<!-- Turn In: Rather Be Fishin' -->
+<TurnIn QuestName="Rather Be Fishin'" QuestId="10037" TurnInName="Seth" TurnInId="18653" />
+
+<!-- Turn In: Wind Trader Lathrai -->
+<TurnIn QuestName="Wind Trader Lathrai" QuestId="9979" TurnInName="Wind Trader Lathrai" TurnInId="18484" />
+
+<!-- Pick Up: A Personal Favor -->
+<PickUp QuestName="A Personal Favor" QuestId="10112" GiverName="Wind Trader Lathrai" GiverId="18484" />
+
+<!-- Turn In: Seek Out Kirrik -->
+<TurnIn QuestName="Seek Out Kirrik" QuestId="10849" TurnInName="Kirrik the Awakened" TurnInId="22272" />
+
+<!-- Pick Up: Veil Skith: Darkstone of Terokk -->
+<PickUp QuestName="Veil Skith: Darkstone of Terokk" QuestId="10839" GiverName="Kirrik the Awakened" GiverId="22272" />
+
+<!-- Pick Up: Missing Friends -->
+<PickUp QuestName="Missing Friends" QuestId="10852" GiverName="Ethan" GiverId="22365" />
+
+<!-- Pick Up: Before Darkness Falls -->
+<PickUp QuestName="Before Darkness Falls" QuestId="10878" GiverName="Mekeda" GiverId="22370" />
+
+<!-- Pick Up: The Infested Protectors -->
+<PickUp QuestName="The Infested Protectors" QuestId="10896" GiverName="Lakotae" GiverId="22420" />
+
+<!-- Kill Objective for Quest 10896: Wood Mite -->
+<Objective QuestName="Unknown" QuestId="10896" Type="KillMob" MobId="UNKNOWN_ID" KillCount="25" />
+
+<!-- Kill Objective for Quest 10878: Cabal Skirmisher -->
+<Objective QuestName="Unknown" QuestId="10878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Pick Up: Cabal Orders -->
+<PickUp QuestName="Cabal Orders" QuestId="10880" GiverName="Lakotae" GiverId="22420" />
+
+<!-- Turn In: Cabal Orders -->
+<TurnIn QuestName="Cabal Orders" QuestId="10880" TurnInName="Mekeda" TurnInId="22370" />
+
+<!-- Pick Up: The Shadow Tomb -->
+<PickUp QuestName="The Shadow Tomb" QuestId="10881" GiverName="Mekeda" GiverId="22370" />
+
+<!-- Turn In: The Infested Protectors -->
+<TurnIn QuestName="The Infested Protectors" QuestId="10896" TurnInName="Lakotae" TurnInId="22420" />
+
+<!-- Kill Objective for Quest 10878: Cabal Spell-weaver -->
+<Objective QuestName="Unknown" QuestId="10878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10878: Cabal Initiate -->
+<Objective QuestName="Unknown" QuestId="10878" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Turn In: Before Darkness Falls -->
+<TurnIn QuestName="Before Darkness Falls" QuestId="10878" TurnInName="Mekeda" TurnInId="22370" />
+
+<!-- Collect Objective for Quest 10881: Gavel of K'alen -->
+<Objective QuestName="Unknown" QuestId="10881" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10881: Drape of Arunen -->
+<Objective QuestName="Unknown" QuestId="10881" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 10881: Scroll of Atalor -->
+<Objective QuestName="Unknown" QuestId="10881" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Shadow Tomb -->
+<TurnIn QuestName="The Shadow Tomb" QuestId="10881" TurnInName="Mekeda" TurnInId="22370" />
+
+<!-- Collect Objective for Quest 10112: Lathrai's Stolen Goods -->
+<Objective QuestName="Unknown" QuestId="10112" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Veil Skith: Darkstone of Terokk -->
+<TurnIn QuestName="Veil Skith: Darkstone of Terokk" QuestId="10839" TurnInName="Kirrik the Awakened" TurnInId="22272" />
+
+<!-- Pick Up: Veil Rhaze: Unliving Evil -->
+<PickUp QuestName="Veil Rhaze: Unliving Evil" QuestId="10848" GiverName="Kirrik the Awakened" GiverId="22272" />
+
+<!-- Turn In: Missing Friends -->
+<TurnIn QuestName="Missing Friends" QuestId="10852" TurnInName="Ethan" TurnInId="22365" />
+
+<!-- Kill Objective for Quest 10848: Deathtalon Spirit -->
+<Objective QuestName="Unknown" QuestId="10848" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10848: Screeching Spirit -->
+<Objective QuestName="Unknown" QuestId="10848" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 10848: Spirit Raven -->
+<Objective QuestName="Unknown" QuestId="10848" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Turn In: Veil Rhaze: Unliving Evil -->
+<TurnIn QuestName="Veil Rhaze: Unliving Evil" QuestId="10848" TurnInName="Kirrik the Awakened" TurnInId="22272" />
+
+<!-- Pick Up: Veil Lithic: Preemptive Strike -->
+<PickUp QuestName="Veil Lithic: Preemptive Strike" QuestId="10861" GiverName="Kirrik the Awakened" GiverId="22272" />
+
+<!-- Kill Objective for Quest 10861: Malevolent Hatchling -->
+<Objective QuestName="Unknown" QuestId="10861" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Pick Up: An Improper Burial -->
+<PickUp QuestName="An Improper Burial" QuestId="10913" GiverName="Commander Ra'vaj" GiverId="22446" />
+
+<!-- Pick Up: Digging Through Bones -->
+<PickUp QuestName="Digging Through Bones" QuestId="10922" GiverName="Chief Archaeologist Letoll" GiverId="22458" />
+
+<!-- Turn In: Digging Through Bones -->
+<TurnIn QuestName="Digging Through Bones" QuestId="10922" TurnInName="Dwarfowitz" TurnInId="22481" />
+
+<!-- Turn In: An Improper Burial -->
+<TurnIn QuestName="An Improper Burial" QuestId="10913" TurnInName="Commander Ra'vaj" TurnInId="22446" />
+
+<!-- Pick Up: A Hero Is Needed -->
+<PickUp QuestName="A Hero Is Needed" QuestId="10914" GiverName="Commander Ra'vaj" GiverId="22446" />
+
+<!-- Kill Objective for Quest 10914: Auchenai Initiate -->
+<Objective QuestName="Unknown" QuestId="10914" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 10914: Auchenai Doomsayer -->
+<Objective QuestName="Unknown" QuestId="10914" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: A Hero Is Needed -->
+<TurnIn QuestName="A Hero Is Needed" QuestId="10914" TurnInName="Commander Ra'vaj" TurnInId="22446" />
+
+<!-- Pick Up: The Fallen Exarch -->
+<PickUp QuestName="The Fallen Exarch" QuestId="10915" GiverName="Commander Ra'vaj" GiverId="22446" />
+
+<!-- Turn In: The Fallen Exarch -->
+<TurnIn QuestName="The Fallen Exarch" QuestId="10915" TurnInName="Commander Ra'vaj" TurnInId="22446" />
+
+<!-- Turn In: Veil Lithic: Preemptive Strike -->
+<TurnIn QuestName="Veil Lithic: Preemptive Strike" QuestId="10861" TurnInName="Kirrik the Awakened" TurnInId="22272" />
+
+<!-- Pick Up: Veil Shalas: Signal Fires -->
+<PickUp QuestName="Veil Shalas: Signal Fires" QuestId="10874" GiverName="Kirrik the Awakened" GiverId="22272" />
+
+<!-- Pick Up: The Tomb of Lights -->
+<PickUp QuestName="The Tomb of Lights" QuestId="10840" GiverName="High Priest Orglum" GiverId="22278" />
+
+<!-- Kill Objective for Quest 10840: Ethereal Nethermancer -->
+<Objective QuestName="Unknown" QuestId="10840" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 10840: Ethereal Plunderer -->
+<Objective QuestName="Unknown" QuestId="10840" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Veil Shalas: Signal Fires -->
+<TurnIn QuestName="Veil Shalas: Signal Fires" QuestId="10874" TurnInName="Kirrik the Awakened" TurnInId="22272" />
+
+<!-- Pick Up: Return to Shattrath -->
+<PickUp QuestName="Return to Shattrath" QuestId="10889" GiverName="Kirrik the Awakened" GiverId="22272" />
+
+<!-- Turn In: The Tomb of Lights -->
+<TurnIn QuestName="The Tomb of Lights" QuestId="10840" TurnInName="High Priest Orglum" TurnInId="22278" />
+
+<!-- Pick Up: Vestments of the Wolf Spirit -->
+<PickUp QuestName="Vestments of the Wolf Spirit" QuestId="10018" GiverName="Malukaz" GiverId="18384" />
+
+<!-- Pick Up: Olemba Seed Oil -->
+<PickUp QuestName="Olemba Seed Oil" QuestId="9993" GiverName="Rakoria" GiverId="18385" />
+
+<!-- Pick Up: Wanted: Bonelashers Dead! -->
+<PickUp QuestName="Wanted: Bonelashers Dead!" QuestId="10034" GiverName="Rakoria" GiverId="18385" />
+
+<!-- Turn In: News from Zangarmarsh -->
+<TurnIn QuestName="News from Zangarmarsh" QuestId="9796" TurnInName="Mokasa" TurnInId="18249" />
+
+<!-- Pick Up: Stymying the Arakkoa -->
+<PickUp QuestName="Stymying the Arakkoa" QuestId="9987" GiverName="Rokag" GiverId="18386" />
+
+<!-- Pick Up: Speak with Scout Neftis -->
+<PickUp QuestName="Speak with Scout Neftis" QuestId="10039" GiverName="Advisor Faila" GiverId="18712" />
+
+<!-- Pick Up: Arakkoa War Path -->
+<PickUp QuestName="Arakkoa War Path" QuestId="10868" GiverName="Advisor Faila" GiverId="18712" />
+
+<!-- Pick Up: An Unwelcome Presence -->
+<PickUp QuestName="An Unwelcome Presence" QuestId="10000" GiverName="Kurgatok" GiverId="18383" />
+
+<!-- Pick Up: Magical Disturbances -->
+<PickUp QuestName="Magical Disturbances" QuestId="10027" GiverName="Kurgatok" GiverId="18383" />
+
+<!-- Turn In: A Personal Favor -->
+<TurnIn QuestName="A Personal Favor" QuestId="10112" TurnInName="Wind Trader Lathrai" TurnInId="18484" />
+
+<!-- Pick Up: Investigate Tuurem -->
+<PickUp QuestName="Investigate Tuurem" QuestId="9990" GiverName="Wind Trader Lathrai" GiverId="18484" />
+
+<!-- Turn In: Return to Shattrath -->
+<TurnIn QuestName="Return to Shattrath" QuestId="10889" TurnInName="Rilak the Redeemed" TurnInId="22292" />
+
+<!-- Pick Up: The Skettis Offensive -->
+<PickUp QuestName="The Skettis Offensive" QuestId="10879" GiverName="Defender Grashna" GiverId="22373" />
+
+<!-- Turn In: The Skettis Offensive -->
+<TurnIn QuestName="The Skettis Offensive" QuestId="10879" TurnInName="Rilak the Redeemed" TurnInId="22292" />
+
+<!-- Kill Objective for Quest 10034: Bonelasher -->
+<Objective QuestName="Unknown" QuestId="10034" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 9993: Olemba Seed -->
+<Objective QuestName="Unknown" QuestId="9993" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Kill Objective for Quest 10027: Warp Stalker -->
+<Objective QuestName="Unknown" QuestId="10027" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 10018: Timber Worg Pelt -->
+<Objective QuestName="Unknown" QuestId="10018" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Kill Objective for Quest 9987: Urdak -->
+<Objective QuestName="Unknown" QuestId="9987" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Speak with Scout Neftis -->
+<TurnIn QuestName="Speak with Scout Neftis" QuestId="10039" TurnInName="Scout Neftis" TurnInId="18714" />
+
+<!-- Pick Up: Who Are They? -->
+<PickUp QuestName="Who Are They?" QuestId="10041" GiverName="Scout Neftis" GiverId="18714" />
+
+<!-- Turn In: Who Are They? -->
+<TurnIn QuestName="Who Are They?" QuestId="10041" TurnInName="Scout Neftis" TurnInId="18714" />
+
+<!-- Pick Up: Kill the Shadow Council! -->
+<PickUp QuestName="Kill the Shadow Council!" QuestId="10043" GiverName="Scout Neftis" GiverId="18714" />
+
+<!-- Kill Objective for Quest 10043: Shadowmaster Grieve -->
+<Objective QuestName="Unknown" QuestId="10043" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10043: Shadowy Executioner -->
+<Objective QuestName="Unknown" QuestId="10043" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 10043: Shadowy Summoner -->
+<Objective QuestName="Unknown" QuestId="10043" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 9990: Sealed Box -->
+<Objective QuestName="Unknown" QuestId="9990" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Investigate Tuurem -->
+<TurnIn QuestName="Investigate Tuurem" QuestId="9990" TurnInName="Earthbinder Tavgren" TurnInId="18446" />
+
+<!-- Pick Up: What Are These Things? -->
+<PickUp QuestName="What Are These Things?" QuestId="9995" GiverName="Earthbinder Tavgren" GiverId="18446" />
+
+<!-- Kill Objective for Quest 9987: Ashkaz -->
+<Objective QuestName="Unknown" QuestId="9987" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10868: Shienor Talonite -->
+<Objective QuestName="Unknown" QuestId="10868" Type="KillMob" MobId="UNKNOWN_ID" KillCount="14" />
+
+<!-- Kill Objective for Quest 10868: Shienor Sorcerer -->
+<Objective QuestName="Unknown" QuestId="10868" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 9987: Ayit -->
+<Objective QuestName="Unknown" QuestId="9987" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 10000: Warped Peon -->
+<Objective QuestName="Unknown" QuestId="10000" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: An Unwelcome Presence -->
+<TurnIn QuestName="An Unwelcome Presence" QuestId="10000" TurnInName="Shadowstalker Kaide" TurnInId="18566" />
+
+<!-- Pick Up: The Firewing Liaison -->
+<PickUp QuestName="The Firewing Liaison" QuestId="10003" GiverName="Shadowstalker Kaide" GiverId="18566" />
+
+<!-- Pick Up: What Happens in Terokkar Stays in Terokkar -->
+<PickUp QuestName="What Happens in Terokkar Stays in Terokkar" QuestId="10008" GiverName="Shadowstalker Kaide" GiverId="18566" />
+
+<!-- Kill Objective for Quest 10003: Lisaile Fireweaver -->
+<Objective QuestName="Unknown" QuestId="10003" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Pick Up: An Unseen Hand -->
+<PickUp QuestName="An Unseen Hand" QuestId="10013" GiverName="Shadowstalker Kaide" GiverId="18566" />
+
+<!-- Kill Objective for Quest 10008: Bonechewer Devastator -->
+<Objective QuestName="Unknown" QuestId="10008" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 10008: Bonechewer Backbreaker -->
+<Objective QuestName="Unknown" QuestId="10008" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: The Firewing Liaison -->
+<TurnIn QuestName="The Firewing Liaison" QuestId="10003" TurnInName="Shadowstalker Kaide" TurnInId="18566" />
+
+<!-- Turn In: What Happens in Terokkar Stays in Terokkar -->
+<TurnIn QuestName="What Happens in Terokkar Stays in Terokkar" QuestId="10008" TurnInName="Shadowstalker Kaide" TurnInId="18566" />
+
+<!-- Turn In: Kill the Shadow Council! -->
+<TurnIn QuestName="Kill the Shadow Council!" QuestId="10043" TurnInName="Advisor Faila" TurnInId="18712" />
+
+<!-- Turn In: Arakkoa War Path -->
+<TurnIn QuestName="Arakkoa War Path" QuestId="10868" TurnInName="Advisor Faila" TurnInId="18712" />
+
+<!-- Turn In: Stymying the Arakkoa -->
+<TurnIn QuestName="Stymying the Arakkoa" QuestId="9987" TurnInName="Rokag" TurnInId="18386" />
+
+<!-- Turn In: An Unseen Hand -->
+<TurnIn QuestName="An Unseen Hand" QuestId="10013" TurnInName="Rokag" TurnInId="18386" />
+
+<!-- Turn In: Magical Disturbances -->
+<TurnIn QuestName="Magical Disturbances" QuestId="10027" TurnInName="Kurgatok" TurnInId="18383" />
+
+<!-- Turn In: Wanted: Bonelashers Dead! -->
+<TurnIn QuestName="Wanted: Bonelashers Dead!" QuestId="10034" TurnInName="Mawg Grimshot" TurnInId="18705" />
+
+<!-- Turn In: Vestments of the Wolf Spirit -->
+<TurnIn QuestName="Vestments of the Wolf Spirit" QuestId="10018" TurnInName="Malukaz" TurnInId="18384" />
+
+<!-- Pick Up: Patriarch Ironjaw -->
+<PickUp QuestName="Patriarch Ironjaw" QuestId="10023" GiverName="Malukaz" GiverId="18384" />
+
+<!-- Turn In: What Are These Things? -->
+<TurnIn QuestName="What Are These Things?" QuestId="9995" TurnInName="Tooki" TurnInId="18447" />
+
+<!-- Pick Up: Report to Stonebreaker Camp -->
+<PickUp QuestName="Report to Stonebreaker Camp" QuestId="10448" GiverName="Tooki" GiverId="18447" />
+
+<!-- Turn In: Olemba Seed Oil -->
+<TurnIn QuestName="Olemba Seed Oil" QuestId="9993" TurnInName="Rakoria" TurnInId="18385" />
+
+<!-- Pick Up: And Now, the Moment of Truth -->
+<PickUp QuestName="And Now, the Moment of Truth" QuestId="10201" GiverName="Rakoria" GiverId="18385" />
+
+<!-- Turn In: And Now, the Moment of Truth -->
+<TurnIn QuestName="And Now, the Moment of Truth" QuestId="10201" TurnInName="Rakoria" TurnInId="18385" />
+
+</QuestOrder>

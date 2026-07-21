@@ -1,0 +1,630 @@
+<QuestOrder>
+
+<!-- Pick Up: Reclaiming Sunstrider Isle -->
+<PickUp QuestName="Reclaiming Sunstrider Isle" QuestId="8325" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Kill Objective for Quest 8325: Mana Wyrm -->
+<Objective QuestName="Unknown" QuestId="8325" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Reclaiming Sunstrider Isle -->
+<TurnIn QuestName="Reclaiming Sunstrider Isle" QuestId="8325" TurnInName="Magistrix Erona" TurnInId="15278" />
+
+<!-- Pick Up: Unfortunate Measures -->
+<PickUp QuestName="Unfortunate Measures" QuestId="8326" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Pick Up: Mage Training -->
+<PickUp QuestName="Mage Training" QuestId="8328" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Pick Up: Warlock Training -->
+<PickUp QuestName="Warlock Training" QuestId="8563" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Pick Up: Rogue Training -->
+<PickUp QuestName="Rogue Training" QuestId="9392" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Pick Up: Priest Training -->
+<PickUp QuestName="Priest Training" QuestId="8564" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Pick Up: Paladin Training -->
+<PickUp QuestName="Paladin Training" QuestId="9676" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Pick Up: Hunter Training -->
+<PickUp QuestName="Hunter Training" QuestId="9393" GiverName="Magistrix Erona" GiverId="15278" />
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Mage)">
+  <!-- Turn In: Mage Training -->
+  <TurnIn QuestName="Mage Training" QuestId="8328" TurnInName="Julia Sunstriker" TurnInId="15279" />
+  <!-- Pick Up: Well Watcher Solanian -->
+  <PickUp QuestName="Well Watcher Solanian" QuestId="10068" GiverName="Julia Sunstriker" GiverId="15279" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Warlock Training -->
+  <TurnIn QuestName="Warlock Training" QuestId="8563" TurnInName="Summoner Teli'Larien" TurnInId="15283" />
+  <!-- Pick Up: Well Watcher Solanian -->
+  <PickUp QuestName="Well Watcher Solanian" QuestId="10073" GiverName="Summoner Teli'Larien" GiverId="15283" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: Rogue Training -->
+  <TurnIn QuestName="Rogue Training" QuestId="9392" TurnInName="Pathstalker Kariel" TurnInId="15285" />
+  <!-- Pick Up: Well Watcher Solanian -->
+  <PickUp QuestName="Well Watcher Solanian" QuestId="10071" GiverName="Pathstalker Kariel" GiverId="15285" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Priest)">
+  <!-- Turn In: Priest Training -->
+  <TurnIn QuestName="Priest Training" QuestId="8564" TurnInName="Matron Arena" TurnInId="15284" />
+  <!-- Pick Up: Well Watcher Solanian -->
+  <PickUp QuestName="Well Watcher Solanian" QuestId="10072" GiverName="Matron Arena" GiverId="15284" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Paladin)">
+  <!-- Turn In: Paladin Training -->
+  <TurnIn QuestName="Paladin Training" QuestId="9676" TurnInName="Jesthenis Sunstriker" TurnInId="15280" />
+  <!-- Pick Up: Well Watcher Solanian -->
+  <PickUp QuestName="Well Watcher Solanian" QuestId="10069" GiverName="Jesthenis Sunstriker" GiverId="15280" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Hunter Training -->
+  <TurnIn QuestName="Hunter Training" QuestId="9393" TurnInName="Ranger Sallina" TurnInId="15513" />
+  <!-- Pick Up: Well Watcher Solanian -->
+  <PickUp QuestName="Well Watcher Solanian" QuestId="10070" GiverName="Ranger Sallina" GiverId="15513" />
+</If>
+
+<!-- Turn In: Well Watcher Solanian -->
+<TurnIn QuestName="Well Watcher Solanian" QuestId="10068" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: Well Watcher Solanian -->
+<TurnIn QuestName="Well Watcher Solanian" QuestId="10073" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: Well Watcher Solanian -->
+<TurnIn QuestName="Well Watcher Solanian" QuestId="10071" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: Well Watcher Solanian -->
+<TurnIn QuestName="Well Watcher Solanian" QuestId="10069" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: Well Watcher Solanian -->
+<TurnIn QuestName="Well Watcher Solanian" QuestId="10069" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: Well Watcher Solanian -->
+<TurnIn QuestName="Well Watcher Solanian" QuestId="10069" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Pick Up: Solanian's Belongings -->
+<PickUp QuestName="Solanian's Belongings" QuestId="8330" GiverName="Well Watcher Solanian" GiverId="15295" />
+
+<!-- Pick Up: The Shrine of Dath'Remar -->
+<PickUp QuestName="The Shrine of Dath'Remar" QuestId="8345" GiverName="Well Watcher Solanian" GiverId="15295" />
+
+<!-- Pick Up: Solanian's Belongings -->
+<PickUp QuestName="Solanian's Belongings" QuestId="8330" GiverName="Well Watcher Solanian" GiverId="15295" />
+
+<!-- Pick Up: The Shrine of Dath'Remar -->
+<PickUp QuestName="The Shrine of Dath'Remar" QuestId="8345" GiverName="Well Watcher Solanian" GiverId="15295" />
+
+<If Condition="(Me.Race == WoWRace.BloodElf)">
+  <!-- Pick Up: A Fistful of Slivers -->
+  <PickUp QuestName="A Fistful of Slivers" QuestId="8336" GiverName="Arcanist Ithanas" GiverId="15296" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf)">
+  <!-- Pick Up: Thirst Unending -->
+  <PickUp QuestName="Thirst Unending" QuestId="8346" GiverName="Arcanist Helion" GiverId="15297" />
+</If>
+
+<!-- Collect Objective for Quest 8336: Arcane Sliver -->
+<Objective QuestName="Unknown" QuestId="8336" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 8326: Lynx Collar -->
+<Objective QuestName="Unknown" QuestId="8326" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Unfortunate Measures -->
+<TurnIn QuestName="Unfortunate Measures" QuestId="8326" TurnInName="Magistrix Erona" TurnInId="15278" />
+
+<!-- Pick Up: Report to Lanthan Perilon -->
+<PickUp QuestName="Report to Lanthan Perilon" QuestId="8327" GiverName="Magistrix Erona" GiverId="15278" />
+
+<!-- Turn In: A Fistful of Slivers -->
+<TurnIn QuestName="A Fistful of Slivers" QuestId="8336" TurnInName="Arcanist Ithanas" TurnInId="15296" />
+
+<!-- Turn In: Thirst Unending -->
+<TurnIn QuestName="Thirst Unending" QuestId="8346" TurnInName="Arcanist Helion" TurnInId="15297" />
+
+<!-- Turn In: Report to Lanthan Perilon -->
+<TurnIn QuestName="Report to Lanthan Perilon" QuestId="8327" TurnInName="Lanthan Perilon" TurnInId="15281" />
+
+<!-- Pick Up: Aggression -->
+<PickUp QuestName="Aggression" QuestId="8334" GiverName="Lanthan Perilon" GiverId="15281" />
+
+<!-- Kill Objective for Quest 8334: Tender -->
+<Objective QuestName="Unknown" QuestId="8334" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 8334: Feral Tender -->
+<Objective QuestName="Unknown" QuestId="8334" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Collect Objective for Quest 8330: Scroll of Scourge Magic -->
+<Objective QuestName="Unknown" QuestId="8330" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 8330: Solanian's Scrying Orb -->
+<Objective QuestName="Unknown" QuestId="8330" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 8330: Solanian's Journal -->
+<Objective QuestName="Unknown" QuestId="8330" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Solanian's Belongings -->
+<TurnIn QuestName="Solanian's Belongings" QuestId="8330" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: The Shrine of Dath'Remar -->
+<TurnIn QuestName="The Shrine of Dath'Remar" QuestId="8345" TurnInName="Well Watcher Solanian" TurnInId="15295" />
+
+<!-- Turn In: Aggression -->
+<TurnIn QuestName="Aggression" QuestId="8334" TurnInName="Lanthan Perilon" TurnInId="15281" />
+
+<!-- Pick Up: Felendren the Banished -->
+<PickUp QuestName="Felendren the Banished" QuestId="8335" GiverName="Lanthan Perilon" GiverId="15281" />
+
+<!-- Kill Objective for Quest 8335: Arcane Wraith -->
+<Objective QuestName="Unknown" QuestId="8335" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 8335: Tainted Arcane Wraith -->
+<Objective QuestName="Unknown" QuestId="8335" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Pick Up: Tainted Arcane Sliver -->
+<PickUp QuestName="Tainted Arcane Sliver" QuestId="8338" GiverName="Lanthan Perilon" GiverId="15281" />
+
+<!-- Collect Objective for Quest 8335: Felendren's Head -->
+<Objective QuestName="Unknown" QuestId="8335" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Felendren the Banished -->
+<TurnIn QuestName="Felendren the Banished" QuestId="8335" TurnInName="Lanthan Perilon" TurnInId="15281" />
+
+<!-- Pick Up: Aiding the Outrunners -->
+<PickUp QuestName="Aiding the Outrunners" QuestId="8347" GiverName="Lanthan Perilon" GiverId="15281" />
+
+<!-- Turn In: Tainted Arcane Sliver -->
+<TurnIn QuestName="Tainted Arcane Sliver" QuestId="8338" TurnInName="Arcanist Helion" TurnInId="15297" />
+
+<!-- Turn In: Aiding the Outrunners -->
+<TurnIn QuestName="Aiding the Outrunners" QuestId="8347" TurnInName="Outrunner Alarion" TurnInId="15301" />
+
+<!-- Pick Up: Slain by the Wretched -->
+<PickUp QuestName="Slain by the Wretched" QuestId="9704" GiverName="Outrunner Alarion" GiverId="15301" />
+
+<!-- Turn In: Slain by the Wretched -->
+<TurnIn QuestName="Slain by the Wretched" QuestId="9704" TurnInName="Outrunner Alarion" TurnInId="15301" />
+
+<!-- Pick Up: Package Recovery -->
+<PickUp QuestName="Package Recovery" QuestId="9705" GiverName="Outrunner Alarion" GiverId="15301" />
+
+<!-- Turn In: Package Recovery -->
+<TurnIn QuestName="Package Recovery" QuestId="9705" TurnInName="Outrunner Alarion" TurnInId="15301" />
+
+<!-- Pick Up: Completing the Delivery -->
+<PickUp QuestName="Completing the Delivery" QuestId="8350" GiverName="Outrunner Alarion" GiverId="15301" />
+
+<!-- Pick Up: Major Malfunction -->
+<PickUp QuestName="Major Malfunction" QuestId="8472" GiverName="Magister Jaronis" GiverId="15418" />
+
+<!-- Turn In: Completing the Delivery -->
+<TurnIn QuestName="Completing the Delivery" QuestId="8350" TurnInName="Innkeeper Delaniel" TurnInId="15433" />
+
+<!-- Pick Up: Unstable Mana Crystals -->
+<PickUp QuestName="Unstable Mana Crystals" QuestId="8463" GiverName="Aeldon Sunbrand" GiverId="15403" />
+
+<!-- Pick Up: Wanted: Thaelis the Hungerer -->
+<PickUp QuestName="Wanted: Thaelis the Hungerer" QuestId="8468" GiverName="Aeldon Sunbrand" GiverId="15403" />
+
+<!-- Collect Objective for Quest 8463: Unstable Mana Crystal -->
+<Objective QuestName="Unknown" QuestId="8463" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 8472: Arcane Core -->
+<Objective QuestName="Unknown" QuestId="8472" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 8468: Thaelis's Head -->
+<Objective QuestName="Unknown" QuestId="8468" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Major Malfunction -->
+<TurnIn QuestName="Major Malfunction" QuestId="8472" TurnInName="Magister Jaronis" TurnInId="15418" />
+
+<!-- Pick Up: Delivery to the North Sanctum -->
+<PickUp QuestName="Delivery to the North Sanctum" QuestId="8895" GiverName="Magister Jaronis" GiverId="15418" />
+
+<!-- Turn In: Wanted: Thaelis the Hungerer -->
+<TurnIn QuestName="Wanted: Thaelis the Hungerer" QuestId="8468" TurnInName="Sergeant Kan'ren" TurnInId="16924" />
+
+<!-- Turn In: Unstable Mana Crystals -->
+<TurnIn QuestName="Unstable Mana Crystals" QuestId="8463" TurnInName="Aeldon Sunbrand" TurnInId="15403" />
+
+<!-- Pick Up: Darnassian Intrusions -->
+<PickUp QuestName="Darnassian Intrusions" QuestId="9352" GiverName="Aeldon Sunbrand" GiverId="15403" />
+
+<!-- Turn In: Delivery to the North Sanctum -->
+<TurnIn QuestName="Delivery to the North Sanctum" QuestId="8895" TurnInName="Ley-Keeper Caidanis" TurnInId="15405" />
+
+<!-- Pick Up: Malfunction at the West Sanctum -->
+<PickUp QuestName="Malfunction at the West Sanctum" QuestId="9119" GiverName="Ley-Keeper Caidanis" GiverId="15405" />
+
+<!-- Pick Up: Roadside Ambush -->
+<PickUp QuestName="Roadside Ambush" QuestId="9035" GiverName="Apprentice Ralen" GiverId="15941" />
+
+<!-- Turn In: Malfunction at the West Sanctum -->
+<TurnIn QuestName="Malfunction at the West Sanctum" QuestId="9119" TurnInName="Ley-Keeper Velania" TurnInId="15401" />
+
+<!-- Pick Up: Arcane Instability -->
+<PickUp QuestName="Arcane Instability" QuestId="8486" GiverName="Ley-Keeper Velania" GiverId="15401" />
+
+<!-- Kill Objective for Quest 8486: Manawraith -->
+<Objective QuestName="Unknown" QuestId="8486" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 8486: Mana Stalker -->
+<Objective QuestName="Unknown" QuestId="8486" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Pick Up: Incriminating Documents -->
+<PickUp QuestName="Incriminating Documents" QuestId="8482" GiverName="Ley-Keeper Velania" GiverId="15401" />
+
+<!-- Turn In: Darnassian Intrusions -->
+<TurnIn QuestName="Darnassian Intrusions" QuestId="9352" TurnInName="Ley-Keeper Velania" TurnInId="15401" />
+
+<!-- Turn In: Arcane Instability -->
+<TurnIn QuestName="Arcane Instability" QuestId="8486" TurnInName="Ley-Keeper Velania" TurnInId="15401" />
+
+<!-- Pick Up: Fish Heads, Fish Heads... -->
+<PickUp QuestName="Fish Heads, Fish Heads..." QuestId="8884" GiverName="Hathvelion Sungaze" GiverId="15920" />
+
+<!-- Collect Objective for Quest 8884: Grimscale Murloc Head -->
+<Objective QuestName="Unknown" QuestId="8884" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Pick Up: Captain Kelisendra's Lost Rutters -->
+<PickUp QuestName="Captain Kelisendra's Lost Rutters" QuestId="8887" GiverName="Hathvelion Sungaze" GiverId="15920" />
+
+<!-- Turn In: Fish Heads, Fish Heads... -->
+<TurnIn QuestName="Fish Heads, Fish Heads..." QuestId="8884" TurnInName="Hathvelion Sungaze" TurnInId="15920" />
+
+<!-- Turn In: Captain Kelisendra's Lost Rutters -->
+<TurnIn QuestName="Captain Kelisendra's Lost Rutters" QuestId="8887" TurnInName="Captain Kelisendra" TurnInId="15921" />
+
+<!-- Pick Up: Grimscale Pirates! -->
+<PickUp QuestName="Grimscale Pirates!" QuestId="8886" GiverName="Captain Kelisendra" GiverId="15921" />
+
+<!-- Pick Up: Lost Armaments -->
+<PickUp QuestName="Lost Armaments" QuestId="8480" GiverName="Velendris Whitemorn" GiverId="15404" />
+
+<!-- Collect Objective for Quest 8480: Sin'dorei Armaments -->
+<Objective QuestName="Unknown" QuestId="8480" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 8886: Captain Kelisendra's Cargo -->
+<Objective QuestName="Unknown" QuestId="8886" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Grimscale Pirates! -->
+<TurnIn QuestName="Grimscale Pirates!" QuestId="8886" TurnInName="Captain Kelisendra" TurnInId="15921" />
+
+<!-- Turn In: Lost Armaments -->
+<TurnIn QuestName="Lost Armaments" QuestId="8480" TurnInName="Velendris Whitemorn" TurnInId="15404" />
+
+<!-- Pick Up: Wretched Ringleader -->
+<PickUp QuestName="Wretched Ringleader" QuestId="9076" GiverName="Velendris Whitemorn" GiverId="15404" />
+
+<!-- Collect Objective for Quest 9076: Aldaron's Head -->
+<Objective QuestName="Unknown" QuestId="9076" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Wretched Ringleader -->
+<TurnIn QuestName="Wretched Ringleader" QuestId="9076" TurnInName="Velendris Whitemorn" TurnInId="15404" />
+
+<!-- Pick Up: Pelt Collection -->
+<PickUp QuestName="Pelt Collection" QuestId="8491" GiverName="Velan Brightoak" GiverId="15417" />
+
+<!-- Pick Up: Saltheril's Haven -->
+<PickUp QuestName="Saltheril's Haven" QuestId="9395" GiverName="Magistrix Landra Dawnstrider" GiverId="16210" />
+
+<!-- Pick Up: The Wayward Apprentice -->
+<PickUp QuestName="The Wayward Apprentice" QuestId="9254" GiverName="Magistrix Landra Dawnstrider" GiverId="16210" />
+
+<!-- Pick Up: Ranger Sareyn -->
+<PickUp QuestName="Ranger Sareyn" QuestId="9358" GiverName="Marniel Amberlight" GiverId="15397" />
+
+<!-- Pick Up: Situation at Sunsail Anchorage -->
+<PickUp QuestName="Situation at Sunsail Anchorage" QuestId="8892" GiverName="Ranger Degolien" GiverId="15939" />
+
+<!-- Turn In: Roadside Ambush -->
+<TurnIn QuestName="Roadside Ambush" QuestId="9035" TurnInName="Apprentice Meledor" TurnInId="15945" />
+
+<!-- Pick Up: Soaked Pages -->
+<PickUp QuestName="Soaked Pages" QuestId="9062" GiverName="Apprentice Meledor" GiverId="15945" />
+
+<!-- Collect Objective for Quest 9062: Antheol's Elemental Grimoire -->
+<Objective QuestName="Unknown" QuestId="9062" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Soaked Pages -->
+<TurnIn QuestName="Soaked Pages" QuestId="9062" TurnInName="Apprentice Meledor" TurnInId="15945" />
+
+<!-- Pick Up: Taking the Fall -->
+<PickUp QuestName="Taking the Fall" QuestId="9064" GiverName="Apprentice Meledor" GiverId="15945" />
+
+<!-- Turn In: Incriminating Documents -->
+<TurnIn QuestName="Incriminating Documents" QuestId="8482" TurnInName="Aeldon Sunbrand" TurnInId="15403" />
+
+<!-- Pick Up: The Dwarven Spy -->
+<PickUp QuestName="The Dwarven Spy" QuestId="8483" GiverName="Aeldon Sunbrand" GiverId="15403" />
+
+<!-- Collect Objective for Quest 8483: Prospector Anvilward's Head -->
+<Objective QuestName="Unknown" QuestId="8483" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Dwarven Spy -->
+<TurnIn QuestName="The Dwarven Spy" QuestId="8483" TurnInName="Aeldon Sunbrand" TurnInId="15403" />
+
+<!-- Pick Up: The Dead Scar -->
+<PickUp QuestName="The Dead Scar" QuestId="8475" GiverName="Ranger Jaela" GiverId="15416" />
+
+<!-- Kill Objective for Quest 8475: Plaguebone Pillager -->
+<Objective QuestName="Unknown" QuestId="8475" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: The Dead Scar -->
+<TurnIn QuestName="The Dead Scar" QuestId="8475" TurnInName="Ranger Jaela" TurnInId="15416" />
+
+<!-- Turn In: Taking the Fall -->
+<TurnIn QuestName="Taking the Fall" QuestId="9064" TurnInName="Instructor Antheol" TurnInId="15970" />
+
+<!-- Pick Up: Swift Discipline -->
+<PickUp QuestName="Swift Discipline" QuestId="9066" GiverName="Instructor Antheol" GiverId="15970" />
+
+<!-- Turn In: The Wayward Apprentice -->
+<TurnIn QuestName="The Wayward Apprentice" QuestId="9254" TurnInName="Apprentice Mirveda" TurnInId="15402" />
+
+<!-- Pick Up: Corrupted Soil -->
+<PickUp QuestName="Corrupted Soil" QuestId="8487" GiverName="Apprentice Mirveda" GiverId="15402" />
+
+<!-- Collect Objective for Quest 8487: Tainted Soil Sample -->
+<Objective QuestName="Unknown" QuestId="8487" Type="CollectItem" ItemId="20771" CollectCount="8" />
+
+<!-- Turn In: Corrupted Soil -->
+<TurnIn QuestName="Corrupted Soil" QuestId="8487" TurnInName="Apprentice Mirveda" TurnInId="15402" />
+
+<!-- Pick Up: Unexpected Results -->
+<PickUp QuestName="Unexpected Results" QuestId="8488" GiverName="Apprentice Mirveda" GiverId="15402" />
+
+<!-- Turn In: Ranger Sareyn -->
+<TurnIn QuestName="Ranger Sareyn" QuestId="9358" TurnInName="Ranger Sareyn" TurnInId="15942" />
+
+<!-- Pick Up: Defending Fairbreeze Village -->
+<PickUp QuestName="Defending Fairbreeze Village" QuestId="9252" GiverName="Ranger Sareyn" GiverId="15942" />
+
+<!-- Kill Objective for Quest 9252: Rotlimb Marauder -->
+<Objective QuestName="Unknown" QuestId="9252" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 9252: Darkwraith -->
+<Objective QuestName="Unknown" QuestId="9252" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Turn In: Defending Fairbreeze Village -->
+<TurnIn QuestName="Defending Fairbreeze Village" QuestId="9252" TurnInName="Ranger Sareyn" TurnInId="15942" />
+
+<!-- Turn In: Research Notes -->
+<TurnIn QuestName="Research Notes" QuestId="9255" TurnInName="Magistrix Landra Dawnstrider" TurnInId="16210" />
+
+<!-- Turn In: Saltheril's Haven -->
+<TurnIn QuestName="Saltheril's Haven" QuestId="9395" TurnInName="Lord Saltheril" TurnInId="16144" />
+
+<!-- Pick Up: The Party Never Ends -->
+<PickUp QuestName="The Party Never Ends" QuestId="9067" GiverName="Lord Saltheril" GiverId="16144" />
+
+<!-- Kill Objective for Quest 8892: Wretched Thug -->
+<Objective QuestName="Unknown" QuestId="8892" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 8892: Wretched Hooligan -->
+<Objective QuestName="Unknown" QuestId="8892" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 8491: Springpaw Pelt -->
+<Objective QuestName="Unknown" QuestId="8491" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Pelt Collection -->
+<TurnIn QuestName="Pelt Collection" QuestId="8491" TurnInName="Velan Brightoak" TurnInId="15417" />
+
+<!-- Turn In: Situation at Sunsail Anchorage -->
+<TurnIn QuestName="Situation at Sunsail Anchorage" QuestId="8892" TurnInName="Ranger Degolien" TurnInId="15939" />
+
+<!-- Pick Up: Farstrider Retreat -->
+<PickUp QuestName="Farstrider Retreat" QuestId="9359" GiverName="Ranger Degolien" GiverId="15939" />
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Pick Up: The Stone -->
+  <PickUp QuestName="The Stone" QuestId="9529" GiverName="Talionia" GiverId="16647" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Stone -->
+  <TurnIn QuestName="The Stone" QuestId="9529" TurnInName="Talionia" TurnInId="16647" />
+  <!-- Pick Up: The Rune of Summoning -->
+  <PickUp QuestName="The Rune of Summoning" QuestId="9619" GiverName="Talionia" GiverId="16647" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Kill Objective for Quest 9619: Summoned Voidwalker -->
+  <Objective QuestName="Unknown" QuestId="9619" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Rune of Summoning -->
+  <TurnIn QuestName="The Rune of Summoning" QuestId="9619" TurnInName="Talionia" TurnInId="16647" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Pick Up: Taming the Beast (1) -->
+  <PickUp QuestName="Taming the Beast (1)" QuestId="9484" GiverName="Lieutenant Dawnrunner" GiverId="15399" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (1) -->
+  <TurnIn QuestName="Taming the Beast (1)" QuestId="9484" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" />
+  <!-- Pick Up: Taming the Beast (2) -->
+  <PickUp QuestName="Taming the Beast (2)" QuestId="9486" GiverName="Lieutenant Dawnrunner" GiverId="15399" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (2) -->
+  <TurnIn QuestName="Taming the Beast (2)" QuestId="9486" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" />
+  <!-- Pick Up: Taming the Beast (3) -->
+  <PickUp QuestName="Taming the Beast (3)" QuestId="9485" GiverName="Lieutenant Dawnrunner" GiverId="15399" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Taming the Beast (3) -->
+  <TurnIn QuestName="Taming the Beast (3)" QuestId="9485" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" />
+  <!-- Pick Up: Beast Training -->
+  <PickUp QuestName="Beast Training" QuestId="9673" GiverName="Lieutenant Dawnrunner" GiverId="15399" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.BloodElf) &amp;&amp; (Me.Class == WoWClass.Hunter)">
+  <!-- Turn In: Beast Training -->
+  <TurnIn QuestName="Beast Training" QuestId="9673" TurnInName="Halthenis" TurnInId="16675" />
+</If>
+
+<!-- Turn In: Farstrider Retreat -->
+<TurnIn QuestName="Farstrider Retreat" QuestId="9359" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" />
+
+<!-- Pick Up: Amani Encroachment -->
+<PickUp QuestName="Amani Encroachment" QuestId="8476" GiverName="Lieutenant Dawnrunner" GiverId="15399" />
+
+<!-- Pick Up: The Spearcrafter's Hammer -->
+<PickUp QuestName="The Spearcrafter's Hammer" QuestId="8477" GiverName="Arathel Sunforge" GiverId="15400" />
+
+<!-- Pick Up: The Magister's Apprentice -->
+<PickUp QuestName="The Magister's Apprentice" QuestId="8888" GiverName="Magister Duskwither" GiverId="15951" />
+
+<!-- Turn In: The Magister's Apprentice -->
+<TurnIn QuestName="The Magister's Apprentice" QuestId="8888" TurnInName="Apprentice Loralthalis" TurnInId="15924" />
+
+<!-- Pick Up: Deactivating the Spire -->
+<PickUp QuestName="Deactivating the Spire" QuestId="8889" GiverName="Apprentice Loralthalis" GiverId="15924" />
+
+<!-- Pick Up: Where's Wyllithen? -->
+<PickUp QuestName="Where's Wyllithen?" QuestId="9394" GiverName="Apprentice Loralthalis" GiverId="15924" />
+
+<!-- Pick Up: Abandoned Investigations -->
+<PickUp QuestName="Abandoned Investigations" QuestId="8891" GiverName="Apprentice Loralthalis" GiverId="15924" />
+
+<!-- Turn In: Where's Wyllithen? -->
+<TurnIn QuestName="Where's Wyllithen?" QuestId="9394" TurnInName="Groundskeeper Wyllithen" TurnInId="15969" />
+
+<!-- Pick Up: Cleaning up the Grounds -->
+<PickUp QuestName="Cleaning up the Grounds" QuestId="8894" GiverName="Groundskeeper Wyllithen" GiverId="15969" />
+
+<!-- Kill Objective for Quest 8894: Mana Serpent -->
+<Objective QuestName="Unknown" QuestId="8894" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8894: Ether Fiend -->
+<Objective QuestName="Unknown" QuestId="8894" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Cleaning up the Grounds -->
+<TurnIn QuestName="Cleaning up the Grounds" QuestId="8894" TurnInName="Groundskeeper Wyllithen" TurnInId="15969" />
+
+<!-- Turn In: Deactivating the Spire -->
+<TurnIn QuestName="Deactivating the Spire" QuestId="8889" TurnInName="Apprentice Loralthalis" TurnInId="15924" />
+
+<!-- Pick Up: Word from the Spire -->
+<PickUp QuestName="Word from the Spire" QuestId="8890" GiverName="Apprentice Loralthalis" GiverId="15924" />
+
+<!-- Turn In: Word from the Spire -->
+<TurnIn QuestName="Word from the Spire" QuestId="8890" TurnInName="Magister Duskwither" TurnInId="15951" />
+
+<!-- Turn In: Abandoned Investigations -->
+<TurnIn QuestName="Abandoned Investigations" QuestId="8891" TurnInName="Magister Duskwither" TurnInId="15951" />
+
+<!-- Kill Objective for Quest 8476: Amani Berserker -->
+<Objective QuestName="Unknown" QuestId="8476" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 8476: Amani Axe Thrower -->
+<Objective QuestName="Unknown" QuestId="8476" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 8477: Otembe's Hammer -->
+<Objective QuestName="Unknown" QuestId="8477" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Zul'Marosh -->
+<PickUp QuestName="Zul'Marosh" QuestId="8479" GiverName="Ven'jashi" GiverId="15406" />
+
+<!-- Collect Objective for Quest 8479: Chieftain Zul'Marosh's Head -->
+<Objective QuestName="Unknown" QuestId="8479" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Amani Invasion -->
+<PickUp QuestName="Amani Invasion" QuestId="9360" GiverName="Ven'jashi" GiverId="15406" />
+
+<!-- Turn In: Zul'Marosh -->
+<TurnIn QuestName="Zul'Marosh" QuestId="8479" TurnInName="Ven'jashi" TurnInId="15406" />
+
+<!-- Turn In: Amani Encroachment -->
+<TurnIn QuestName="Amani Encroachment" QuestId="8476" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" />
+
+<!-- Turn In: Amani Invasion -->
+<TurnIn QuestName="Amani Invasion" QuestId="9360" TurnInName="Lieutenant Dawnrunner" TurnInId="15399" />
+
+<!-- Pick Up: Warning Fairbreeze Village -->
+<PickUp QuestName="Warning Fairbreeze Village" QuestId="9363" GiverName="Lieutenant Dawnrunner" GiverId="15399" />
+
+<!-- Turn In: The Spearcrafter's Hammer -->
+<TurnIn QuestName="The Spearcrafter's Hammer" QuestId="8477" TurnInName="Arathel Sunforge" TurnInId="15400" />
+
+<!-- Turn In: Warning Fairbreeze Village -->
+<TurnIn QuestName="Warning Fairbreeze Village" QuestId="9363" TurnInName="Ranger Degolien" TurnInId="15939" />
+
+<!-- Turn In: The Party Never Ends -->
+<TurnIn QuestName="The Party Never Ends" QuestId="9067" TurnInName="Lord Saltheril" TurnInId="16144" />
+
+<!-- Pick Up: A Recipe For Death -->
+<PickUp QuestName="A Recipe For Death" QuestId="447" GiverName="Apothecary Renferrel" GiverId="1937" />
+
+<!-- Pick Up: Lost Deathstalkers -->
+<PickUp QuestName="Lost Deathstalkers" QuestId="428" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Pick Up: The Dead Fields -->
+<PickUp QuestName="The Dead Fields" QuestId="437" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Pick Up: Prove Your Worth -->
+<PickUp QuestName="Prove Your Worth" QuestId="421" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Kill Objective for Quest 421: Moonrage Whitescalp -->
+<Objective QuestName="Unknown" QuestId="421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: Prove Your Worth -->
+<TurnIn QuestName="Prove Your Worth" QuestId="421" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Pick Up: Arugal's Folly (1) -->
+<PickUp QuestName="Arugal's Folly (1)" QuestId="422" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Collect Objective for Quest 437: Essence of Nightlash -->
+<Objective QuestName="Unknown" QuestId="437" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 447: Grizzled Bear Heart -->
+<Objective QuestName="Unknown" QuestId="447" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 447: Skittering Blood -->
+<Objective QuestName="Unknown" QuestId="447" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Lost Deathstalkers -->
+<TurnIn QuestName="Lost Deathstalkers" QuestId="428" TurnInName="Rane Yorick" TurnInId="1950" />
+
+<!-- Pick Up: Wild Hearts -->
+<PickUp QuestName="Wild Hearts" QuestId="429" GiverName="Rane Yorick" GiverId="1950" />
+
+<!-- Collect Objective for Quest 429: Discolored Worg Heart -->
+<Objective QuestName="Unknown" QuestId="429" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Pick Up: Escorting Erland -->
+<PickUp QuestName="Escorting Erland" QuestId="435" GiverName="Deathstalker Erland" GiverId="1978" />
+
+<!-- Turn In: Escorting Erland -->
+<TurnIn QuestName="Escorting Erland" QuestId="435" TurnInName="Rane Yorick" TurnInId="1950" />
+
+<!-- Turn In: Arugal's Folly (1) -->
+<TurnIn QuestName="Arugal's Folly (1)" QuestId="422" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Turn In: The Dead Fields -->
+<TurnIn QuestName="The Dead Fields" QuestId="437" TurnInName="High Executor Hadrec" TurnInId="1952" />
+
+<!-- Turn In: Wild Hearts -->
+<TurnIn QuestName="Wild Hearts" QuestId="429" TurnInName="Apothecary Renferrel" TurnInId="1937" />
+
+<!-- Turn In: A Recipe For Death (1) -->
+<TurnIn QuestName="A Recipe For Death (1)" QuestId="447" TurnInName="Master Apothecary Faranell" TurnInId="2055" />
+
+<!-- Pick Up: Conscript of the Horde -->
+<PickUp QuestName="Conscript of the Horde" QuestId="840" GiverName="Takrin Pathseeker" GiverId="3336" />
+
+</QuestOrder>

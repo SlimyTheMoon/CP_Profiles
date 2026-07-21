@@ -1,0 +1,599 @@
+<QuestOrder>
+
+<!-- Pick Up: Rude Awakening -->
+<PickUp QuestName="Rude Awakening" QuestId="363" GiverName="Undertaker Mordo" GiverId="1568" />
+
+<!-- Turn In: Rude Awakening -->
+<TurnIn QuestName="Rude Awakening" QuestId="363" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+
+<!-- Pick Up: The Mindless Ones -->
+<PickUp QuestName="The Mindless Ones" QuestId="364" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+
+<!-- Kill Objective for Quest 364: Wretched Ghoul -->
+<Objective QuestName="Unknown" QuestId="364" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 364: Mindless Zombie -->
+<Objective QuestName="Unknown" QuestId="364" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Mindless Ones -->
+  <TurnIn QuestName="The Mindless Ones" QuestId="364" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+  <!-- Pick Up: Rattling the Rattlecages -->
+  <PickUp QuestName="Rattling the Rattlecages" QuestId="3901" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: Simple Scroll -->
+  <PickUp QuestName="Simple Scroll" QuestId="3095" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: The Damned -->
+  <PickUp QuestName="The Damned" QuestId="376" GiverName="Novice Elreth" GiverId="1661" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Mindless Ones -->
+  <TurnIn QuestName="The Mindless Ones" QuestId="364" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+  <!-- Pick Up: Rattling the Rattlecages -->
+  <PickUp QuestName="Rattling the Rattlecages" QuestId="3901" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: Tainted Scroll -->
+  <PickUp QuestName="Tainted Scroll" QuestId="3099" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: The Damned -->
+  <PickUp QuestName="The Damned" QuestId="376" GiverName="Novice Elreth" GiverId="1661" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: The Mindless Ones -->
+  <TurnIn QuestName="The Mindless Ones" QuestId="364" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+  <!-- Pick Up: Rattling the Rattlecages -->
+  <PickUp QuestName="Rattling the Rattlecages" QuestId="3901" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: Encrypted Scroll -->
+  <PickUp QuestName="Encrypted Scroll" QuestId="3096" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: The Damned -->
+  <PickUp QuestName="The Damned" QuestId="376" GiverName="Novice Elreth" GiverId="1661" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Tainted Scroll -->
+  <TurnIn QuestName="Tainted Scroll" QuestId="3099" TurnInName="Maximillion" TurnInId="2126" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Priest)">
+  <!-- Turn In: The Mindless Ones -->
+  <TurnIn QuestName="The Mindless Ones" QuestId="364" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+  <!-- Pick Up: Rattling the Rattlecages -->
+  <PickUp QuestName="Rattling the Rattlecages" QuestId="3901" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: Hallowed Scroll -->
+  <PickUp QuestName="Hallowed Scroll" QuestId="3097" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: The Damned -->
+  <PickUp QuestName="The Damned" QuestId="376" GiverName="Novice Elreth" GiverId="1661" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Mage)">
+  <!-- Turn In: The Mindless Ones -->
+  <TurnIn QuestName="The Mindless Ones" QuestId="364" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+  <!-- Pick Up: Rattling the Rattlecages -->
+  <PickUp QuestName="Rattling the Rattlecages" QuestId="3901" GiverName="Shadow Priest Sarvis" GiverId="1569" />
+  <!-- Pick Up: The Damned -->
+  <PickUp QuestName="The Damned" QuestId="376" GiverName="Novice Elreth" GiverId="1661" />
+  <!-- Pick Up: Glyphic Scroll -->
+  <PickUp QuestName="Glyphic Scroll" QuestId="3098" GiverName="Novice Elreth" GiverId="1661" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Simple Scroll -->
+  <TurnIn QuestName="Simple Scroll" QuestId="3095" TurnInName="Dannal Stern" TurnInId="2119" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Rogue)">
+  <!-- Turn In: Encrypted Scroll -->
+  <TurnIn QuestName="Encrypted Scroll" QuestId="3096" TurnInName="David Trias" TurnInId="2122" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Priest)">
+  <!-- Turn In: Hallowed Scroll -->
+  <TurnIn QuestName="Hallowed Scroll" QuestId="3097" TurnInName="Dark Cleric Duesten" TurnInId="2123" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Mage)">
+  <!-- Turn In: Glyphic Scroll -->
+  <TurnIn QuestName="Glyphic Scroll" QuestId="3098" TurnInName="Isabella" TurnInId="2124" />
+</If>
+
+<!-- Kill Objective for Quest 3901: Rattlecage Skeleton -->
+<Objective QuestName="Unknown" QuestId="3901" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 376: Scavenger Paw -->
+<Objective QuestName="Unknown" QuestId="376" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 376: Duskbat Wing -->
+<Objective QuestName="Unknown" QuestId="376" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: The Damned -->
+<TurnIn QuestName="The Damned" QuestId="376" TurnInName="Novice Elreth" TurnInId="1661" />
+
+<!-- Pick Up: Marla's Last Wish -->
+<PickUp QuestName="Marla's Last Wish" QuestId="6395" GiverName="Novice Elreth" GiverId="1661" />
+
+<!-- Turn In: Rattling the Rattlecages -->
+<TurnIn QuestName="Rattling the Rattlecages" QuestId="3901" TurnInName="Shadow Priest Sarvis" TurnInId="1569" />
+
+<!-- Pick Up: Night Web's Hollow -->
+<PickUp QuestName="Night Web's Hollow" QuestId="380" GiverName="Executor Arren" GiverId="1570" />
+
+<!-- Pick Up: Scavenging Deathknell -->
+<PickUp QuestName="Scavenging Deathknell" QuestId="3902" GiverName="Deathguard Saltain" GiverId="1740" />
+
+<!-- Collect Objective for Quest 3902: Scavenged Goods -->
+<Objective QuestName="Unknown" QuestId="3902" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Kill Objective for Quest 380: Young Night Web Spider -->
+<Objective QuestName="Unknown" QuestId="380" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 380: Night Web Spider -->
+<Objective QuestName="Unknown" QuestId="380" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 6395: Samuel's Remains -->
+<Objective QuestName="Unknown" QuestId="6395" Type="CollectItem" ItemId="16333" CollectCount="1" />
+
+<!-- Turn In: Scavenging Deathknell -->
+<TurnIn QuestName="Scavenging Deathknell" QuestId="3902" TurnInName="Deathguard Saltain" TurnInId="1740" />
+
+<!-- Turn In: Night Web's Hollow -->
+<TurnIn QuestName="Night Web's Hollow" QuestId="380" TurnInName="Executor Arren" TurnInId="1570" />
+
+<!-- Pick Up: The Scarlet Crusade -->
+<PickUp QuestName="The Scarlet Crusade" QuestId="381" GiverName="Executor Arren" GiverId="1570" />
+
+<!-- Turn In: Marla's Last Wish -->
+<TurnIn QuestName="Marla's Last Wish" QuestId="6395" TurnInName="Novice Elreth" TurnInId="1661" />
+
+<!-- Collect Objective for Quest 381: Scarlet Armband -->
+<Objective QuestName="Unknown" QuestId="381" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: The Scarlet Crusade -->
+<TurnIn QuestName="The Scarlet Crusade" QuestId="381" TurnInName="Executor Arren" TurnInId="1570" />
+
+<!-- Pick Up: The Red Messenger -->
+<PickUp QuestName="The Red Messenger" QuestId="382" GiverName="Executor Arren" GiverId="1570" />
+
+<!-- Collect Objective for Quest 382: Scarlet Crusade Documents -->
+<Objective QuestName="Unknown" QuestId="382" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Red Messenger -->
+<TurnIn QuestName="The Red Messenger" QuestId="382" TurnInName="Executor Arren" TurnInId="1570" />
+
+<!-- Pick Up: Vital Intelligence -->
+<PickUp QuestName="Vital Intelligence" QuestId="383" GiverName="Executor Arren" GiverId="1570" />
+
+<!-- Pick Up: A Rogue's Deal (1) -->
+<PickUp QuestName="A Rogue's Deal (1)" QuestId="8" GiverName="Calvin Montague" GiverId="6784" />
+
+<!-- Pick Up: Fields of Grief (1) -->
+<PickUp QuestName="Fields of Grief (1)" QuestId="365" GiverName="Deathguard Simmer" GiverId="1519" />
+
+<!-- Pick Up: Gordo's Task -->
+<PickUp QuestName="Gordo's Task" QuestId="5481" GiverName="Gordo" GiverId="10666" />
+
+<!-- Collect Objective for Quest 5481: Gloom Weed -->
+<Objective QuestName="Unknown" QuestId="5481" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Pick Up: A Putrid Task -->
+<PickUp QuestName="A Putrid Task" QuestId="404" GiverName="Deathguard Dillinger" GiverId="1496" />
+
+<!-- Turn In: Vital Intelligence -->
+<TurnIn QuestName="Vital Intelligence" QuestId="383" TurnInName="Executor Zygand" TurnInId="1515" />
+
+<!-- Pick Up: At War With The Scarlet Crusade (1) -->
+<PickUp QuestName="At War With The Scarlet Crusade (1)" QuestId="427" GiverName="Executor Zygand" GiverId="1515" />
+
+<!-- Pick Up: Wanted: Maggot Eye -->
+<PickUp QuestName="Wanted: Maggot Eye" QuestId="398" GiverName="Executor Zygand" GiverId="1515" />
+
+<!-- Pick Up: Graverobbers -->
+<PickUp QuestName="Graverobbers" QuestId="358" GiverName="Magistrate Sevren" GiverId="1499" />
+
+<!-- Turn In: A Rogue's Deal (1) -->
+<TurnIn QuestName="A Rogue's Deal (1)" QuestId="8" TurnInName="Innkeeper Renee" TurnInId="5688" />
+
+<!-- Turn In: Gordo's Task -->
+<TurnIn QuestName="Gordo's Task" QuestId="5481" TurnInName="Junior Apothecary Holland" TurnInId="10665" />
+
+<!-- Pick Up: Doom Weed -->
+<PickUp QuestName="Doom Weed" QuestId="5482" GiverName="Junior Apothecary Holland" GiverId="10665" />
+
+<!-- Collect Objective for Quest 404: Putrid Claw -->
+<Objective QuestName="Unknown" QuestId="404" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: A Putrid Task -->
+<TurnIn QuestName="A Putrid Task" QuestId="404" TurnInName="Deathguard Dillinger" TurnInId="1496" />
+
+<!-- Pick Up: The Mills Overrun -->
+<PickUp QuestName="The Mills Overrun" QuestId="426" GiverName="Deathguard Dillinger" GiverId="1496" />
+
+<!-- Pick Up: A New Plague (1) -->
+<PickUp QuestName="A New Plague (1)" QuestId="367" GiverName="Apothecary Johaan" GiverId="1518" />
+
+<!-- Collect Objective for Quest 367: Darkhound Blood -->
+<Objective QuestName="Unknown" QuestId="367" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Pick Up: A Rogue's Deal (2) -->
+<PickUp QuestName="A Rogue's Deal (2)" QuestId="590" GiverName="Calvin Montague" GiverId="6784" />
+
+<!-- Turn In: A Rogue's Deal (2) -->
+<TurnIn QuestName="A Rogue's Deal (2)" QuestId="590" TurnInName="Calvin Montague" TurnInId="6784" />
+
+<!-- Collect Objective for Quest 365: Tirisfal Pumpkin -->
+<Objective QuestName="Unknown" QuestId="365" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 427: Scarlet Warrior -->
+<Objective QuestName="Unknown" QuestId="427" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: At War With The Scarlet Crusade (1) -->
+<TurnIn QuestName="At War With The Scarlet Crusade (1)" QuestId="427" TurnInName="Executor Zygand" TurnInId="1515" />
+
+<!-- Pick Up: At War With The Scarlet Crusade (2) -->
+<PickUp QuestName="At War With The Scarlet Crusade (2)" QuestId="370" GiverName="Executor Zygand" GiverId="1515" />
+
+<!-- Pick Up: Deaths in the Family -->
+<PickUp QuestName="Deaths in the Family" QuestId="354" GiverName="Coleman Farthing" GiverId="1500" />
+
+<!-- Pick Up: The Haunted Mills -->
+<PickUp QuestName="The Haunted Mills" QuestId="362" GiverName="Coleman Farthing" GiverId="1500" />
+
+<!-- Pick Up: The Chill of Death -->
+<PickUp QuestName="The Chill of Death" QuestId="375" GiverName="Gretchen Dedmar" GiverId="1521" />
+
+<!-- Pick Up: Proof of Demise -->
+<PickUp QuestName="Proof of Demise" QuestId="374" GiverName="Deathguard Burgess" GiverId="1652" />
+
+<!-- Turn In: Fields of Grief (1) -->
+<TurnIn QuestName="Fields of Grief (1)" QuestId="365" TurnInName="Apothecary Johaan" TurnInId="1518" />
+
+<!-- Pick Up: Fields of Grief (2) -->
+<PickUp QuestName="Fields of Grief (2)" QuestId="407" GiverName="Apothecary Johaan" GiverId="1518" />
+
+<!-- Turn In: A New Plague (1) -->
+<TurnIn QuestName="A New Plague (1)" QuestId="367" TurnInName="Apothecary Johaan" TurnInId="1518" />
+
+<!-- Pick Up: A New Plague (2) -->
+<PickUp QuestName="A New Plague (2)" QuestId="368" GiverName="Apothecary Johaan" GiverId="1518" />
+
+<!-- Turn In: Fields of Grief (2) -->
+<TurnIn QuestName="Fields of Grief (2)" QuestId="407" TurnInName="Captured Scarlet Zealot" TurnInId="1931" />
+
+<!-- Kill Objective for Quest 358: Rot Hide Graverobber -->
+<Objective QuestName="Unknown" QuestId="358" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 5482: Doom Weed -->
+<Objective QuestName="Unknown" QuestId="5482" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Kill Objective for Quest 358: Rot Hide Mongrel -->
+<Objective QuestName="Unknown" QuestId="358" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 358: Embalming Ichor -->
+<Objective QuestName="Unknown" QuestId="358" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 368: Vile Fin Scale -->
+<Objective QuestName="Unknown" QuestId="368" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 375: Duskbat Pelt -->
+<Objective QuestName="Unknown" QuestId="375" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 398: Maggot Eye's Paw -->
+<Objective QuestName="Unknown" QuestId="398" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Wanted: Maggot Eye -->
+<TurnIn QuestName="Wanted: Maggot Eye" QuestId="398" TurnInName="Executor Zygand" TurnInId="1515" />
+
+<!-- Turn In: The Chill of Death -->
+<TurnIn QuestName="The Chill of Death" QuestId="375" TurnInName="Gretchen Dedmar" TurnInId="1521" />
+
+<!-- Turn In: Graverobbers -->
+<TurnIn QuestName="Graverobbers" QuestId="358" TurnInName="Magistrate Sevren" TurnInId="1499" />
+
+<!-- Pick Up: Forsaken Duties -->
+<PickUp QuestName="Forsaken Duties" QuestId="359" GiverName="Magistrate Sevren" GiverId="1499" />
+
+<!-- Turn In: A New Plague (2) -->
+<TurnIn QuestName="A New Plague (2)" QuestId="368" TurnInName="Apothecary Johaan" TurnInId="1518" />
+
+<!-- Pick Up: A New Plague (3) -->
+<PickUp QuestName="A New Plague (3)" QuestId="369" GiverName="Apothecary Johaan" GiverId="1518" />
+
+<!-- Turn In: Doom Weed -->
+<TurnIn QuestName="Doom Weed" QuestId="5482" TurnInName="Junior Apothecary Holland" TurnInId="10665" />
+
+<!-- Collect Objective for Quest 362: Devlin's Remains -->
+<Objective QuestName="Unknown" QuestId="362" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 354: Nissa's Remains -->
+<Objective QuestName="Unknown" QuestId="354" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 354: Gregor's Remains -->
+<Objective QuestName="Unknown" QuestId="354" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 354: Thurman's Remains -->
+<Objective QuestName="Unknown" QuestId="354" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Deaths in the Family -->
+<TurnIn QuestName="Deaths in the Family" QuestId="354" TurnInName="Coleman Farthing" TurnInId="1500" />
+
+<!-- Turn In: The Haunted Mills -->
+<TurnIn QuestName="The Haunted Mills" QuestId="362" TurnInName="Coleman Farthing" TurnInId="1500" />
+
+<!-- Pick Up: Speak with Sevren -->
+<PickUp QuestName="Speak with Sevren" QuestId="355" GiverName="Coleman Farthing" GiverId="1500" />
+
+<!-- Turn In: Speak with Sevren -->
+<TurnIn QuestName="Speak with Sevren" QuestId="355" TurnInName="Magistrate Sevren" TurnInId="1499" />
+
+<!-- Turn In: The Mills Overrun -->
+<TurnIn QuestName="The Mills Overrun" QuestId="426" TurnInName="Deathguard Dillinger" TurnInId="1496" />
+
+<!-- Turn In: Forsaken Duties -->
+<TurnIn QuestName="Forsaken Duties" QuestId="359" TurnInName="Deathguard Linnea" TurnInId="1495" />
+
+<!-- Pick Up: Return to the Magistrate -->
+<PickUp QuestName="Return to the Magistrate" QuestId="360" GiverName="Deathguard Linnea" GiverId="1495" />
+
+<!-- Pick Up: Rear Guard Patrol -->
+<PickUp QuestName="Rear Guard Patrol" QuestId="356" GiverName="Deathguard Linnea" GiverId="1495" />
+
+<!-- Kill Objective for Quest 356: Bleeding Horror -->
+<Objective QuestName="Unknown" QuestId="356" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 356: Wandering Spirit -->
+<Objective QuestName="Unknown" QuestId="356" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Rear Guard Patrol -->
+<TurnIn QuestName="Rear Guard Patrol" QuestId="356" TurnInName="Deathguard Linnea" TurnInId="1495" />
+
+<!-- Turn In: Return to the Magistrate -->
+<TurnIn QuestName="Return to the Magistrate" QuestId="360" TurnInName="Magistrate Sevren" TurnInId="1499" />
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: Speak with Dillinger -->
+  <PickUp QuestName="Speak with Dillinger" QuestId="1818" GiverName="Austil de Mon" GiverId="2131" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Speak with Dillinger -->
+  <TurnIn QuestName="Speak with Dillinger" QuestId="1818" TurnInName="Deathguard Dillinger" TurnInId="1496" />
+  <!-- Pick Up: Ulag the Cleaver -->
+  <PickUp QuestName="Ulag the Cleaver" QuestId="1819" GiverName="Deathguard Dillinger" GiverId="1496" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Kill Objective for Quest 1819: Ulag the Cleaver -->
+  <Objective QuestName="Unknown" QuestId="1819" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: Ulag the Cleaver -->
+  <TurnIn QuestName="Ulag the Cleaver" QuestId="1819" TurnInName="Deathguard Dillinger" TurnInId="1496" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Pick Up: Halgar's Summons -->
+  <PickUp QuestName="Halgar's Summons" QuestId="1478" GiverName="Ageron Kargal" GiverId="5724" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Halgar's Summons -->
+  <TurnIn QuestName="Halgar's Summons" QuestId="1478" TurnInName="Carendin Halgar" TurnInId="5675" />
+  <!-- Pick Up: Creature of the Void -->
+  <PickUp QuestName="Creature of the Void" QuestId="1473" GiverName="Carendin Halgar" GiverId="5675" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Collect Objective for Quest 1473: Egalin's Grimoire -->
+  <Objective QuestName="Unknown" QuestId="1473" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: Creature of the Void -->
+  <TurnIn QuestName="Creature of the Void" QuestId="1473" TurnInName="Carendin Halgar" TurnInId="5675" />
+  <!-- Pick Up: The Binding -->
+  <PickUp QuestName="The Binding" QuestId="1471" GiverName="Carendin Halgar" GiverId="5675" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Kill Objective for Quest 1471: Summoned Voidwalker -->
+  <Objective QuestName="Unknown" QuestId="1471" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge) &amp;&amp; (Me.Class == WoWClass.Warlock)">
+  <!-- Turn In: The Binding -->
+  <TurnIn QuestName="The Binding" QuestId="1471" TurnInName="Carendin Halgar" TurnInId="5675" />
+</If>
+
+<!-- Kill Objective for Quest 370: Captain Perrine -->
+<Objective QuestName="Unknown" QuestId="370" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Kill Objective for Quest 370: Scarlet Zealot -->
+<Objective QuestName="Unknown" QuestId="370" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Kill Objective for Quest 370: Scarlet Missionary -->
+<Objective QuestName="Unknown" QuestId="370" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Collect Objective for Quest 374: Scarlet Insignia Ring -->
+<Objective QuestName="Unknown" QuestId="374" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: At War With The Scarlet Crusade (2) -->
+<TurnIn QuestName="At War With The Scarlet Crusade (2)" QuestId="370" TurnInName="Executor Zygand" TurnInId="1515" />
+
+<!-- Pick Up: At War With The Scarlet Crusade (3) -->
+<PickUp QuestName="At War With The Scarlet Crusade (3)" QuestId="371" GiverName="Executor Zygand" GiverId="1515" />
+
+<!-- Turn In: Proof of Demise -->
+<TurnIn QuestName="Proof of Demise" QuestId="374" TurnInName="Deathguard Burgess" TurnInId="1652" />
+
+<!-- Kill Objective for Quest 371: Scarlet Friar -->
+<Objective QuestName="Unknown" QuestId="371" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 371: Captain Vachon -->
+<Objective QuestName="Unknown" QuestId="371" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Collect Objective for Quest 369: Vicious Night Web Spider Venom -->
+<Objective QuestName="Unknown" QuestId="369" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Turn In: At War With The Scarlet Crusade (3) -->
+<TurnIn QuestName="At War With The Scarlet Crusade (3)" QuestId="371" TurnInName="Executor Zygand" TurnInId="1515" />
+
+<!-- Pick Up: At War With The Scarlet Crusade (4) -->
+<PickUp QuestName="At War With The Scarlet Crusade (4)" QuestId="372" GiverName="Executor Zygand" GiverId="1515" />
+
+<!-- Turn In: A New Plague (3) -->
+<TurnIn QuestName="A New Plague (3)" QuestId="369" TurnInName="Apothecary Johaan" TurnInId="1518" />
+
+<!-- Pick Up: A New Plague (4) -->
+<PickUp QuestName="A New Plague (4)" QuestId="492" GiverName="Apothecary Johaan" GiverId="1518" />
+
+<!-- Pick Up: Delivery to Silverpine Forest -->
+<PickUp QuestName="Delivery to Silverpine Forest" QuestId="445" GiverName="Apothecary Johaan" GiverId="1518" />
+
+<!-- Pick Up: The Prodigal Lich -->
+<PickUp QuestName="The Prodigal Lich" QuestId="405" GiverName="Magistrate Sevren" GiverId="1499" />
+
+<!-- Pick Up: The Family Crypt -->
+<PickUp QuestName="The Family Crypt" QuestId="408" GiverName="Magistrate Sevren" GiverId="1499" />
+
+<!-- Turn In: A New Plague (4) -->
+<TurnIn QuestName="A New Plague (4)" QuestId="492" TurnInName="the Captured Mountaineer" TurnInId="2211" />
+
+<!-- Turn In: The Prodigal Lich -->
+<TurnIn QuestName="The Prodigal Lich" QuestId="405" TurnInName="Bethor Iceshard" TurnInId="1498" />
+
+<!-- Pick Up: The Lich's Identity -->
+<PickUp QuestName="The Lich's Identity" QuestId="357" GiverName="Bethor Iceshard" GiverId="1498" />
+
+<!-- Kill Objective for Quest 408: Wailing Ancestor -->
+<Objective QuestName="Unknown" QuestId="408" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 408: Rotting Ancestor -->
+<Objective QuestName="Unknown" QuestId="408" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 357: The Lich's Spellbook -->
+<Objective QuestName="Unknown" QuestId="357" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 372: Scarlet Bodyguard -->
+<Objective QuestName="Unknown" QuestId="372" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 372: Captain Melrache -->
+<Objective QuestName="Unknown" QuestId="372" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: At War With The Scarlet Crusade (4) -->
+<TurnIn QuestName="At War With The Scarlet Crusade (4)" QuestId="372" TurnInName="Executor Zygand" TurnInId="1515" />
+
+<!-- Turn In: The Family Crypt -->
+<TurnIn QuestName="The Family Crypt" QuestId="408" TurnInName="Magistrate Sevren" TurnInId="1499" />
+
+<!-- Turn In: The Lich's Identity -->
+<TurnIn QuestName="The Lich's Identity" QuestId="357" TurnInName="Bethor Iceshard" TurnInId="1498" />
+
+<!-- Pick Up: Return the Book -->
+<PickUp QuestName="Return the Book" QuestId="366" GiverName="Bethor Iceshard" GiverId="1498" />
+
+<!-- Turn In: Return the Book -->
+<TurnIn QuestName="Return the Book" QuestId="366" TurnInName="Gunther Arcanus" TurnInId="1497" />
+
+<!-- Pick Up: Proving Allegiance -->
+<PickUp QuestName="Proving Allegiance" QuestId="409" GiverName="Gunther Arcanus" GiverId="1497" />
+
+<!-- Collect Objective for Quest 410: Candle of Beckoning -->
+<Objective QuestName="Unknown" QuestId="410" Type="CollectItem" ItemId="3080" CollectCount="1" />
+
+<!-- Turn In: The Dormant Shade -->
+<TurnIn QuestName="The Dormant Shade" QuestId="410" TurnInName="Gunther Arcanus" TurnInId="1497" />
+
+<!-- Kill Objective for Quest 409: Lillith Nefara -->
+<Objective QuestName="Unknown" QuestId="409" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Proving Allegiance -->
+<TurnIn QuestName="Proving Allegiance" QuestId="409" TurnInName="Gunther Arcanus" TurnInId="1497" />
+
+<!-- Pick Up: The Prodigal Lich Returns -->
+<PickUp QuestName="The Prodigal Lich Returns" QuestId="411" GiverName="Gunther Arcanus" GiverId="1497" />
+
+<!-- Turn In: The Prodigal Lich Returns -->
+<TurnIn QuestName="The Prodigal Lich Returns" QuestId="411" TurnInName="Bethor Iceshard" TurnInId="1498" />
+
+<!-- Turn In: Delivery to Silverpine Forest -->
+<TurnIn QuestName="Delivery to Silverpine Forest" QuestId="445" TurnInName="Apothecary Renferrel" TurnInId="1937" />
+
+<!-- Pick Up: A Recipe For Death -->
+<PickUp QuestName="A Recipe For Death" QuestId="447" GiverName="Apothecary Renferrel" GiverId="1937" />
+
+<!-- Pick Up: Lost Deathstalkers -->
+<PickUp QuestName="Lost Deathstalkers" QuestId="428" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Pick Up: The Dead Fields -->
+<PickUp QuestName="The Dead Fields" QuestId="437" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<If Condition="(Me.Race == WoWRace.Scourge)">
+  <!-- Pick Up: Supplying the Sepulcher -->
+  <PickUp QuestName="Supplying the Sepulcher" QuestId="6321" GiverName="Deathguard Podrig" GiverId="6389" />
+</If>
+
+<!-- Pick Up: Prove Your Worth -->
+<PickUp QuestName="Prove Your Worth" QuestId="421" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<If Condition="(Me.Race == WoWRace.Scourge)">
+  <!-- Turn In: Supplying the Sepulcher -->
+  <TurnIn QuestName="Supplying the Sepulcher" QuestId="6321" TurnInName="Karos Razok" TurnInId="2226" />
+  <!-- Pick Up: Ride to the Undercity -->
+  <PickUp QuestName="Ride to the Undercity" QuestId="6323" GiverName="Karos Razok" GiverId="2226" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge)">
+  <!-- Turn In: Ride to the Undercity -->
+  <TurnIn QuestName="Ride to the Undercity" QuestId="6323" TurnInName="Gordon Wendham" TurnInId="4556" />
+  <!-- Pick Up: Michael Garrett -->
+  <PickUp QuestName="Michael Garrett" QuestId="6322" GiverName="Gordon Wendham" GiverId="4556" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge)">
+  <!-- Turn In: Michael Garrett -->
+  <TurnIn QuestName="Michael Garrett" QuestId="6322" TurnInName="Michael Garrett" TurnInId="4551" />
+  <!-- Pick Up: Return to Podrig -->
+  <PickUp QuestName="Return to Podrig" QuestId="6324" GiverName="Michael Garrett" GiverId="4551" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Scourge)">
+  <!-- Turn In: Return to Podrig -->
+  <TurnIn QuestName="Return to Podrig" QuestId="6324" TurnInName="Deathguard Podrig" TurnInId="6389" />
+</If>
+
+<!-- Kill Objective for Quest 421: Moonrage Whitescalp -->
+<Objective QuestName="Unknown" QuestId="421" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 437: Essence of Nightlash -->
+<Objective QuestName="Unknown" QuestId="437" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 447: Grizzled Bear Heart -->
+<Objective QuestName="Unknown" QuestId="447" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 447: Skittering Blood -->
+<Objective QuestName="Unknown" QuestId="447" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Lost Deathstalkers -->
+<TurnIn QuestName="Lost Deathstalkers" QuestId="428" TurnInName="Rane Yorick" TurnInId="1950" />
+
+<!-- Pick Up: Wild Hearts -->
+<PickUp QuestName="Wild Hearts" QuestId="429" GiverName="Rane Yorick" GiverId="1950" />
+
+<!-- Collect Objective for Quest 429: Discolored Worg Heart -->
+<Objective QuestName="Unknown" QuestId="429" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: The Dead Fields -->
+<TurnIn QuestName="The Dead Fields" QuestId="437" TurnInName="High Executor Hadrec" TurnInId="1952" />
+
+<!-- Turn In: Wild Hearts -->
+<TurnIn QuestName="Wild Hearts" QuestId="429" TurnInName="Apothecary Renferrel" TurnInId="1937" />
+
+<!-- Turn In: Prove Your Worth -->
+<TurnIn QuestName="Prove Your Worth" QuestId="421" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Turn In: A Recipe For Death (1) -->
+<TurnIn QuestName="A Recipe For Death (1)" QuestId="447" TurnInName="Master Apothecary Faranell" TurnInId="2055" />
+
+<!-- Pick Up: Conscript of the Horde -->
+<PickUp QuestName="Conscript of the Horde" QuestId="840" GiverName="Takrin Pathseeker" GiverId="3336" />
+
+</QuestOrder>

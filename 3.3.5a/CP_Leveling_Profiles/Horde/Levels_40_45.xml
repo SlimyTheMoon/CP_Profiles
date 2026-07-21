@@ -1,0 +1,621 @@
+<QuestOrder>
+
+<!-- Kill Objective for Quest 196: Jungle Stalker -->
+<Objective QuestName="Unknown" QuestId="196" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 572: Jungle Stalker Feather -->
+<Objective QuestName="Unknown" QuestId="572" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 600: Singing Blue Crystal -->
+<Objective QuestName="Unknown" QuestId="600" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 577: Snapjaw Crocolisk Skin -->
+<Objective QuestName="Unknown" QuestId="577" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 188: Paw of Sin'Dall -->
+<Objective QuestName="Unknown" QuestId="188" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Raptor Mastery (3) -->
+<TurnIn QuestName="Raptor Mastery (3)" QuestId="196" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: Raptor Mastery (4) -->
+<PickUp QuestName="Raptor Mastery (4)" QuestId="197" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Turn In: Tiger Mastery (4) -->
+<TurnIn QuestName="Tiger Mastery (4)" QuestId="188" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Turn In: Panther Mastery (3) -->
+<TurnIn QuestName="Panther Mastery (3)" QuestId="192" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Pick Up: Panther Mastery (4) -->
+<PickUp QuestName="Panther Mastery (4)" QuestId="193" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Turn In: Mok'thardin's Enchantment (2) -->
+<TurnIn QuestName="Mok'thardin's Enchantment (2)" QuestId="572" TurnInName="Far Seer Mok'thardin" TurnInId="2465" />
+
+<!-- Pick Up: Mok'thardin's Enchantment (3) -->
+<PickUp QuestName="Mok'thardin's Enchantment (3)" QuestId="571" GiverName="Far Seer Mok'thardin" GiverId="2465" />
+
+<!-- Collect Objective for Quest 193: Fang of Bhag'thera -->
+<Objective QuestName="Unknown" QuestId="193" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Panther Mastery (4) -->
+<TurnIn QuestName="Panther Mastery (4)" QuestId="193" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Turn In: Venture Company Mining -->
+<TurnIn QuestName="Venture Company Mining" QuestId="600" TurnInName="Crank Fizzlebub" TurnInId="2498" />
+
+<!-- Turn In: Some Assembly Required -->
+<TurnIn QuestName="Some Assembly Required" QuestId="577" TurnInName="Drizzlik" TurnInId="2495" />
+
+<!-- Pick Up: Excelsior -->
+<PickUp QuestName="Excelsior" QuestId="628" GiverName="Drizzlik" GiverId="2495" />
+
+<!-- Turn In: The Bloodsail Buccaneers (1) -->
+<TurnIn QuestName="The Bloodsail Buccaneers (1)" QuestId="595" TurnInName="Drizzlik" TurnInId="2495" />
+
+<!-- Pick Up: The Bloodsail Buccaneers (2) -->
+<PickUp QuestName="The Bloodsail Buccaneers (2)" QuestId="597" GiverName="Drizzlik" GiverId="2495" />
+
+<!-- Collect Objective for Quest 606: Mistvale Giblets -->
+<Objective QuestName="Unknown" QuestId="606" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 571: Aged Gorilla Sinew -->
+<Objective QuestName="Unknown" QuestId="571" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Scaring Shaky -->
+<TurnIn QuestName="Scaring Shaky" QuestId="606" TurnInName="&quot;Shaky&quot; Phillipe" TurnInId="2502" />
+
+<!-- Pick Up: Return to MacKinley -->
+<PickUp QuestName="Return to MacKinley" QuestId="607" GiverName="&quot;Shaky&quot; Phillipe" GiverId="2502" />
+
+<!-- Turn In: The Bloodsail Buccaneers (2) -->
+<TurnIn QuestName="The Bloodsail Buccaneers (2)" QuestId="597" TurnInName="First Mate Crazz" TurnInId="2490" />
+
+<!-- Pick Up: The Bloodsail Buccaneers (3) -->
+<PickUp QuestName="The Bloodsail Buccaneers (3)" QuestId="599" GiverName="First Mate Crazz" GiverId="2490" />
+
+<!-- Turn In: Return to MacKinley -->
+<TurnIn QuestName="Return to MacKinley" QuestId="607" TurnInName="&quot;Sea Wolf&quot; MacKinley" TurnInId="2501" />
+
+<!-- Turn In: The Bloodsail Buccaneers (3) -->
+<TurnIn QuestName="The Bloodsail Buccaneers (3)" QuestId="599" TurnInName="Fleet Master Seahorn" TurnInId="2487" />
+
+<!-- Turn In: Mok'thardin's Enchantment (3) -->
+<TurnIn QuestName="Mok'thardin's Enchantment (3)" QuestId="571" TurnInName="Far Seer Mok'thardin" TurnInId="2465" />
+
+<!-- Collect Objective for Quest 628: Elder Crocolisk Skin -->
+<Objective QuestName="Unknown" QuestId="628" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Excelsior -->
+<TurnIn QuestName="Excelsior" QuestId="628" TurnInName="Drizzlik" TurnInId="2495" />
+
+<!-- Turn In: Martek the Exiled -->
+<TurnIn QuestName="Martek the Exiled" QuestId="1106" TurnInName="Martek the Exiled" TurnInId="4618" />
+
+<!-- Pick Up: Indurium -->
+<PickUp QuestName="Indurium" QuestId="1108" GiverName="Martek the Exiled" GiverId="4618" />
+
+<!-- Pick Up: Study of the Elements: Rock (1) -->
+<PickUp QuestName="Study of the Elements: Rock (1)" QuestId="710" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Pick Up: Coolant Heads Prevail -->
+<PickUp QuestName="Coolant Heads Prevail" QuestId="713" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Turn In: Coolant Heads Prevail -->
+<TurnIn QuestName="Coolant Heads Prevail" QuestId="713" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: Gyro... What? -->
+<PickUp QuestName="Gyro... What?" QuestId="714" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Turn In: Gyro... What? -->
+<TurnIn QuestName="Gyro... What?" QuestId="714" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: Liquid Stone -->
+<PickUp QuestName="Liquid Stone" QuestId="715" GiverName="Lucien Tosselwrench" GiverId="2920" />
+
+<!-- Turn In: Liquid Stone -->
+<TurnIn QuestName="Liquid Stone" QuestId="715" TurnInName="Lucien Tosselwrench" TurnInId="2920" />
+
+<!-- Collect Objective for Quest 710: Small Stone Shard -->
+<Objective QuestName="Unknown" QuestId="710" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Study of the Elements: Rock (1) -->
+<TurnIn QuestName="Study of the Elements: Rock (1)" QuestId="710" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: Study of the Elements: Rock (2) -->
+<PickUp QuestName="Study of the Elements: Rock (2)" QuestId="711" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Pick Up: Badlands Reagent Run -->
+<PickUp QuestName="Badlands Reagent Run" QuestId="2258" GiverName="Jarkal Mossmeld" GiverId="6868" />
+
+<!-- Pick Up: Unclaimed Baggage -->
+<PickUp QuestName="Unclaimed Baggage" QuestId="9439" GiverName="Advisor Sarophas" GiverId="17097" />
+
+<!-- Pick Up: Coyote Thieves -->
+<PickUp QuestName="Coyote Thieves" QuestId="1419" GiverName="Neeka Bloodscar" GiverId="5394" />
+
+<!-- Pick Up: Report to Helgrum -->
+<PickUp QuestName="Report to Helgrum" QuestId="1420" GiverName="Neeka Bloodscar" GiverId="5394" />
+
+<!-- Collect Objective for Quest 2258: Buzzard Gizzard -->
+<Objective QuestName="Unknown" QuestId="2258" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 2258: Rock Elemental Shard -->
+<Objective QuestName="Unknown" QuestId="2258" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 2258: Crag Coyote Fang -->
+<Objective QuestName="Unknown" QuestId="2258" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 1419: Coyote Jawbone -->
+<Objective QuestName="Unknown" QuestId="1419" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="30" />
+
+<!-- Collect Objective for Quest 711: Large Stone Slab -->
+<Objective QuestName="Unknown" QuestId="711" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 1108: Indurium Flake -->
+<Objective QuestName="Unknown" QuestId="1108" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Indurium -->
+<TurnIn QuestName="Indurium" QuestId="1108" TurnInName="Martek the Exiled" TurnInId="4618" />
+
+<!-- Pick Up: News for Fizzle -->
+<PickUp QuestName="News for Fizzle" QuestId="1137" GiverName="Martek the Exiled" GiverId="4618" />
+
+<!-- Collect Objective for Quest 9439: Advisor's Pack -->
+<Objective QuestName="Unknown" QuestId="9439" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 9439: Advisor's Rapier -->
+<Objective QuestName="Unknown" QuestId="9439" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Study of the Elements: Rock (2) -->
+<TurnIn QuestName="Study of the Elements: Rock (2)" QuestId="711" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: Study of the Elements: Rock (3) -->
+<PickUp QuestName="Study of the Elements: Rock (3)" QuestId="712" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Turn In: Unclaimed Baggage -->
+<TurnIn QuestName="Unclaimed Baggage" QuestId="9439" TurnInName="Advisor Sarophas" TurnInId="17097" />
+
+<!-- Turn In: Coyote Thieves -->
+<TurnIn QuestName="Coyote Thieves" QuestId="1419" TurnInName="Neeka Bloodscar" TurnInId="5394" />
+
+<!-- Turn In: Badlands Reagent Run -->
+<TurnIn QuestName="Badlands Reagent Run" QuestId="2258" TurnInName="Jarkal Mossmeld" TurnInId="6868" />
+
+<!-- Collect Objective for Quest 712: Bracers of Rock Binding -->
+<Objective QuestName="Unknown" QuestId="712" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Study of the Elements: Rock (3) -->
+<TurnIn QuestName="Study of the Elements: Rock (3)" QuestId="712" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: This Is Going to Be Hard (1) -->
+<PickUp QuestName="This Is Going to Be Hard (1)" QuestId="734" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Turn In: This Is Going to Be Hard (1) -->
+<TurnIn QuestName="This Is Going to Be Hard (1)" QuestId="734" TurnInName="Lucien Tosselwrench" TurnInId="2920" />
+
+<!-- Pick Up: This Is Going to Be Hard (2) -->
+<PickUp QuestName="This Is Going to Be Hard (2)" QuestId="777" GiverName="Lucien Tosselwrench" GiverId="2920" />
+
+<!-- Turn In: This Is Going to Be Hard (2) -->
+<TurnIn QuestName="This Is Going to Be Hard (2)" QuestId="777" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: This Is Going to Be Hard (3) -->
+<PickUp QuestName="This Is Going to Be Hard (3)" QuestId="778" GiverName="Lotwil Veriatus" GiverId="2921" />
+
+<!-- Collect Objective for Quest 778: Lotwil's Shackles of Elemental Binding -->
+<Objective QuestName="Unknown" QuestId="778" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: This Is Going to Be Hard (3) -->
+<TurnIn QuestName="This Is Going to Be Hard (3)" QuestId="778" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: Nothing But The Truth (1) -->
+<PickUp QuestName="Nothing But The Truth (1)" QuestId="1372" GiverName="Deathstalker Zraedus" GiverId="5418" />
+
+<!-- Turn In: Nothing But The Truth (1) -->
+<TurnIn QuestName="Nothing But The Truth (1)" QuestId="1372" TurnInName="Apothecary Faustin" TurnInId="5414" />
+
+<!-- Pick Up: Lack of Surplus (1) -->
+<PickUp QuestName="Lack of Surplus (1)" QuestId="698" GiverName="Dar" GiverId="5591" />
+
+<!-- Turn In: Report to Helgrum -->
+<TurnIn QuestName="Report to Helgrum" QuestId="1420" TurnInName="Helgrum the Swift" TurnInId="1442" />
+
+<!-- Collect Objective for Quest 698: Unprepared Sawtooth Flank -->
+<Objective QuestName="Unknown" QuestId="698" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Lack of Surplus (1) -->
+<TurnIn QuestName="Lack of Surplus (1)" QuestId="698" TurnInName="Tok'Kar" TurnInId="5592" />
+
+<!-- Pick Up: Lack of Surplus (2) -->
+<PickUp QuestName="Lack of Surplus (2)" QuestId="699" GiverName="Tok'Kar" GiverId="5592" />
+
+<!-- Collect Objective for Quest 699: Sawtooth Snapper Claw -->
+<Objective QuestName="Unknown" QuestId="699" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Lack of Surplus (2) -->
+<TurnIn QuestName="Lack of Surplus (2)" QuestId="699" TurnInName="Tok'Kar" TurnInId="5592" />
+
+<!-- Pick Up: Threat From the Sea (1) -->
+<PickUp QuestName="Threat From the Sea (1)" QuestId="1422" GiverName="Tok'Kar" GiverId="5592" />
+
+<!-- Turn In: Threat From the Sea (1) -->
+<TurnIn QuestName="Threat From the Sea (1)" QuestId="1422" TurnInName="Katar" TurnInId="5593" />
+
+<!-- Pick Up: Threat From the Sea (2) -->
+<PickUp QuestName="Threat From the Sea (2)" QuestId="1426" GiverName="Katar" GiverId="5593" />
+
+<!-- Kill Objective for Quest 1426: Marsh Murloc -->
+<Objective QuestName="Unknown" QuestId="1426" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1426: Marsh Inkspewer -->
+<Objective QuestName="Unknown" QuestId="1426" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1426: Marsh Flesheater -->
+<Objective QuestName="Unknown" QuestId="1426" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Threat From the Sea (2) -->
+<TurnIn QuestName="Threat From the Sea (2)" QuestId="1426" TurnInName="Katar" TurnInId="5593" />
+
+<!-- Pick Up: Threat From the Sea (3) -->
+<PickUp QuestName="Threat From the Sea (3)" QuestId="1427" GiverName="Katar" GiverId="5593" />
+
+<!-- Turn In: Threat From the Sea (3) -->
+<TurnIn QuestName="Threat From the Sea (3)" QuestId="1427" TurnInName="Tok'Karr" TurnInId="5592" />
+
+<!-- Pick Up: Continued Threat -->
+<PickUp QuestName="Continued Threat" QuestId="1428" GiverName="Katar" GiverId="5593" />
+
+<!-- Kill Objective for Quest 1428: Marsh Inkspewer -->
+<Objective QuestName="Unknown" QuestId="1428" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1428: Marsh Flesheater -->
+<Objective QuestName="Unknown" QuestId="1428" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1428: Marsh Oracle -->
+<Objective QuestName="Unknown" QuestId="1428" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Continued Threat -->
+<TurnIn QuestName="Continued Threat" QuestId="1428" TurnInName="Katar" TurnInId="5593" />
+
+<!-- Pick Up: Mok'thardin's Enchantment (4) -->
+<PickUp QuestName="Mok'thardin's Enchantment (4)" QuestId="573" GiverName="Far Seer Mok'thardin" GiverId="2465" />
+
+<!-- Pick Up: The Bloodsail Buccaneers (4) -->
+<PickUp QuestName="The Bloodsail Buccaneers (4)" QuestId="604" GiverName="Fleet Master Seahorn" GiverId="2487" />
+
+<!-- Pick Up: Tran'rek -->
+<PickUp QuestName="Tran'rek" QuestId="2864" GiverName="Krazek" GiverId="773" />
+
+<!-- Pick Up: Up to Snuff -->
+<PickUp QuestName="Up to Snuff" QuestId="587" GiverName="Deeg" GiverId="2488" />
+
+<!-- Pick Up: Whiskey Slim's Lost Grog -->
+<PickUp QuestName="Whiskey Slim's Lost Grog" QuestId="580" GiverName="Whiskey Slim" GiverId="2491" />
+
+<!-- Pick Up: Akiris by the Bundle -->
+<PickUp QuestName="Akiris by the Bundle" QuestId="617" GiverName="Privateer Bloads" GiverId="2494" />
+
+<!-- Pick Up: Voodoo Dues -->
+<PickUp QuestName="Voodoo Dues" QuestId="609" GiverName="&quot;Sea Wolf&quot; MacKinley" GiverId="2501" />
+
+<!-- Pick Up: Stoley's Debt -->
+<PickUp QuestName="Stoley's Debt" QuestId="2872" GiverName="&quot;Sea Wolf&quot; MacKinley" GiverId="2501" />
+
+<!-- Pick Up: Keep An Eye Out -->
+<PickUp QuestName="Keep An Eye Out" QuestId="576" GiverName="Dizzy One-Eye" GiverId="2493" />
+
+<!-- Collect Objective for Quest 587: Snuff -->
+<Objective QuestName="Unknown" QuestId="587" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Kill Objective for Quest 604: Bloodsail Swashbuckler -->
+<Objective QuestName="Unknown" QuestId="604" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 576: Dizzy's Eye -->
+<Objective QuestName="Unknown" QuestId="576" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 604: Bloodsail Orders -->
+<Objective QuestName="Unknown" QuestId="604" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 604: Bloodsail Charts -->
+<Objective QuestName="Unknown" QuestId="604" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 573: Naga Explorer -->
+<Objective QuestName="Unknown" QuestId="573" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 617: Akiris Reed -->
+<Objective QuestName="Unknown" QuestId="617" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 573: Holy Spring Water -->
+<Objective QuestName="Unknown" QuestId="573" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 609: Jon-Jon's Golden Spyglass -->
+<Objective QuestName="Unknown" QuestId="609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 609: Maury's Clubbed Foot -->
+<Objective QuestName="Unknown" QuestId="609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 609: Chucky's Huge Ring -->
+<Objective QuestName="Unknown" QuestId="609" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 621: Zanzil's Mixture -->
+<Objective QuestName="Unknown" QuestId="621" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<!-- Turn In: Zanzil's Secret -->
+<TurnIn QuestName="Zanzil's Secret" QuestId="621" TurnInName="Crank Fizzlebub" TurnInId="2498" />
+
+<!-- Turn In: Up to Snuff -->
+<TurnIn QuestName="Up to Snuff" QuestId="587" TurnInName="Deeg" TurnInId="2488" />
+
+<!-- Turn In: The Bloodsail Buccaneers (4) -->
+<TurnIn QuestName="The Bloodsail Buccaneers (4)" QuestId="604" TurnInName="Fleet Master Seahorn" TurnInId="2487" />
+
+<!-- Turn In: Akiris by the Bundle -->
+<TurnIn QuestName="Akiris by the Bundle" QuestId="617" TurnInName="Privateer Bloads" TurnInId="2494" />
+
+<!-- Turn In: Voodoo Dues -->
+<TurnIn QuestName="Voodoo Dues" QuestId="609" TurnInName="&quot;Sea Wolf&quot; MacKinley" TurnInId="2501" />
+
+<!-- Turn In: Keep An Eye Out -->
+<TurnIn QuestName="Keep An Eye Out" QuestId="576" TurnInName="Dizzy One-Eye" TurnInId="2493" />
+
+<!-- Turn In: Mok'thardin's Enchantment (4) -->
+<TurnIn QuestName="Mok'thardin's Enchantment (4)" QuestId="573" TurnInName="Far Seer Mok'thardin" TurnInId="2465" />
+
+<!-- Turn In: Parts of the Swarm (2) -->
+<TurnIn QuestName="Parts of the Swarm (2)" QuestId="1184" TurnInName="Belgrom Rockmaul" TurnInId="4485" />
+
+<!-- Pick Up: A Threat in Feralas -->
+<PickUp QuestName="A Threat in Feralas" QuestId="2981" GiverName="Belgrom Rockmaul" GiverId="4485" />
+
+<!-- Turn In: Frostmaw -->
+<TurnIn QuestName="Frostmaw" QuestId="1136" TurnInName="Melor Stonehoof" TurnInId="3441" />
+
+<!-- Pick Up: Deadmire -->
+<PickUp QuestName="Deadmire" QuestId="1205" GiverName="Melor Stonehoof" GiverId="3441" />
+
+<!-- Pick Up: Overlord Mok'Morokk's Concern -->
+<PickUp QuestName="Overlord Mok'Morokk's Concern" QuestId="1166" GiverName="Overlord Mok'Morokk" GiverId="4500" />
+
+<!-- Pick Up: Identifying the Brood -->
+<PickUp QuestName="Identifying the Brood" QuestId="1169" GiverName="Draz'Zilb" GiverId="4501" />
+
+<!-- Pick Up: Army of the Black Dragon -->
+<PickUp QuestName="Army of the Black Dragon" QuestId="1168" GiverName="Tharg" GiverId="4502" />
+
+<!-- Pick Up: Questioning Reethe -->
+<PickUp QuestName="Questioning Reethe" QuestId="1273" GiverName="Ogron" GiverId="4983" />
+
+<!-- Collect Objective for Quest 1205: Deadmire's Tooth -->
+<Objective QuestName="Unknown" QuestId="1205" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Direhorn Raiders -->
+<PickUp QuestName="Direhorn Raiders" QuestId="11156" GiverName="Apprentice Morlann" GiverId="23600" />
+
+<!-- Pick Up: The Grimtotem Weapon -->
+<PickUp QuestName="The Grimtotem Weapon" QuestId="11169" GiverName="Apprentice Garion" GiverId="23601" />
+
+<!-- Pick Up: The Reagent Thief -->
+<PickUp QuestName="The Reagent Thief" QuestId="11173" GiverName="Apprentice Garion" GiverId="23601" />
+
+<!-- Collect Objective for Quest 11173: Marsh Venom -->
+<Objective QuestName="Unknown" QuestId="11173" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Pick Up: Signs of Treachery? -->
+<PickUp QuestName="Signs of Treachery?" QuestId="11186" GiverName="Apprentice Garion" GiverId="23601" />
+
+<!-- Turn In: The Reagent Thief -->
+<TurnIn QuestName="The Reagent Thief" QuestId="11173" TurnInName="Apprentice Garion" TurnInId="23601" />
+
+<!-- Turn In: The Grimtotem Weapon -->
+<TurnIn QuestName="The Grimtotem Weapon" QuestId="11169" TurnInName="Apprentice Garion" TurnInId="23601" />
+
+<!-- Turn In: Direhorn Raiders -->
+<TurnIn QuestName="Direhorn Raiders" QuestId="11156" TurnInName="Apprentice Morlann" TurnInId="23600" />
+
+<!-- Turn In: Delivery for Drazzit -->
+<TurnIn QuestName="Delivery for Drazzit" QuestId="11208" TurnInName="Drazzit Dripvalve" TurnInId="23572" />
+
+<!-- Pick Up: Banner of the Stonemaul -->
+<PickUp QuestName="Banner of the Stonemaul" QuestId="11160" GiverName="Brogg" GiverId="23579" />
+
+<!-- Pick Up: The Essence of Enmity -->
+<PickUp QuestName="The Essence of Enmity" QuestId="11161" GiverName="Brogg" GiverId="23579" />
+
+<!-- Pick Up: Catch a Dragon by the Tail -->
+<PickUp QuestName="Catch a Dragon by the Tail" QuestId="11217" GiverName="Gizzix Grimegurgle" GiverId="23570" />
+
+<!-- Collect Objective for Quest 11161: Black Dragonkin Essence -->
+<Objective QuestName="Unknown" QuestId="11161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 1166: Mok'Morokk's Grog -->
+<Objective QuestName="Unknown" QuestId="1166" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11160: Stonemaul Banner -->
+<Objective QuestName="Unknown" QuestId="11160" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 1166: Mok'Morokk's Strongbox -->
+<Objective QuestName="Unknown" QuestId="1166" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 1168: Firemane Scout -->
+<Objective QuestName="Unknown" QuestId="1168" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1168: Firemane Ash Tail -->
+<Objective QuestName="Unknown" QuestId="1168" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 1166: Mok'Morokk's Snuff -->
+<Objective QuestName="Unknown" QuestId="1166" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 11217: Wyrmtail -->
+<Objective QuestName="Unknown" QuestId="11217" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 1169: Searing Tongue -->
+<Objective QuestName="Unknown" QuestId="1169" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 1169: Searing Heart -->
+<Objective QuestName="Unknown" QuestId="1169" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Turn In: Banner of the Stonemaul -->
+<TurnIn QuestName="Banner of the Stonemaul" QuestId="11160" TurnInName="Brogg" TurnInId="23579" />
+
+<!-- Turn In: The Essence of Enmity -->
+<TurnIn QuestName="The Essence of Enmity" QuestId="11161" TurnInName="Brogg" TurnInId="23579" />
+
+<!-- Pick Up: Spirits of Stonemaul Hold -->
+<PickUp QuestName="Spirits of Stonemaul Hold" QuestId="11159" GiverName="Brogg" GiverId="23579" />
+
+<!-- Turn In: Catch a Dragon by the Tail -->
+<TurnIn QuestName="Catch a Dragon by the Tail" QuestId="11217" TurnInName="Gizzix Grimegurgle" TurnInId="23570" />
+
+<!-- Turn In: Spirits of Stonemaul Hold -->
+<TurnIn QuestName="Spirits of Stonemaul Hold" QuestId="11159" TurnInName="Brogg" TurnInId="23579" />
+
+<!-- Pick Up: Challenge to the Black Flight -->
+<PickUp QuestName="Challenge to the Black Flight" QuestId="11162" GiverName="Brogg" GiverId="23579" />
+
+<!-- Kill Objective for Quest 1168: Firemane Scalebane -->
+<Objective QuestName="Unknown" QuestId="1168" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Collect Objective for Quest 1261: Jeweled Pendant -->
+<Objective QuestName="Unknown" QuestId="1261" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Challenge to the Black Flight -->
+<TurnIn QuestName="Challenge to the Black Flight" QuestId="11162" TurnInName="Brogg" TurnInId="23579" />
+
+<!-- Turn In: Marg Speaks -->
+<TurnIn QuestName="Marg Speaks" QuestId="1261" TurnInName="Nazeer Bloodpike" TurnInId="4791" />
+
+<!-- Pick Up: Report to Zor -->
+<PickUp QuestName="Report to Zor" QuestId="1262" GiverName="Nazeer Bloodpike" GiverId="4791" />
+
+<!-- Turn In: Signs of Treachery? -->
+<TurnIn QuestName="Signs of Treachery?" QuestId="11186" TurnInName="Nazeer Bloodpike" TurnInId="4791" />
+
+<!-- Turn In: Overlord Mok'Morokk's Concern -->
+<TurnIn QuestName="Overlord Mok'Morokk's Concern" QuestId="1166" TurnInName="Overlord Mok'Morokk" TurnInId="4500" />
+
+<!-- Turn In: Questioning Reethe -->
+<TurnIn QuestName="Questioning Reethe" QuestId="1273" TurnInName="Krog" TurnInId="4926" />
+
+<!-- Turn In: Identifying the Brood -->
+<TurnIn QuestName="Identifying the Brood" QuestId="1169" TurnInName="Draz'Zilb" TurnInId="4501" />
+
+<!-- Pick Up: The Brood of Onyxia (1) -->
+<PickUp QuestName="The Brood of Onyxia (1)" QuestId="1170" GiverName="Draz'Zilb" GiverId="4501" />
+
+<!-- Turn In: The Brood of Onyxia (1) -->
+<TurnIn QuestName="The Brood of Onyxia (1)" QuestId="1170" TurnInName="Overlord Mok'Morokk" TurnInId="4500" />
+
+<!-- Pick Up: The Brood of Onyxia (2) -->
+<PickUp QuestName="The Brood of Onyxia (2)" QuestId="1171" GiverName="Overlord Mok'Morokk" GiverId="4500" />
+
+<!-- Turn In: The Brood of Onyxia (2) -->
+<TurnIn QuestName="The Brood of Onyxia (2)" QuestId="1171" TurnInName="Draz'Zilb" TurnInId="4501" />
+
+<!-- Pick Up: The Brood of Onyxia (3) -->
+<PickUp QuestName="The Brood of Onyxia (3)" QuestId="1172" GiverName="Draz'Zilb" GiverId="4501" />
+
+<!-- Turn In: Army of the Black Dragon -->
+<TurnIn QuestName="Army of the Black Dragon" QuestId="1168" TurnInName="Tharg" TurnInId="4502" />
+
+<!-- Turn In: The Brood of Onyxia (3) -->
+<TurnIn QuestName="The Brood of Onyxia (3)" QuestId="1172" TurnInName="Draz'Zilb" TurnInId="4501" />
+
+<!-- Turn In: Deadmire -->
+<TurnIn QuestName="Deadmire" QuestId="1205" TurnInName="Melor Stonehoof" TurnInId="3441" />
+
+<!-- Turn In: Tran'rek -->
+<TurnIn QuestName="Tran'rek" QuestId="2864" TurnInName="Tran'rek" TurnInId="7876" />
+
+<!-- Pick Up: WANTED: Caliph Scorpidsting -->
+<PickUp QuestName="WANTED: Caliph Scorpidsting" QuestId="2781" GiverName="Tran'rek" GiverId="7876" />
+
+<!-- Pick Up: WANTED: Andre Firebeard -->
+<PickUp QuestName="WANTED: Andre Firebeard" QuestId="2875" GiverName="Tran'rek" GiverId="7876" />
+
+<!-- Pick Up: Water Pouch Bounty -->
+<PickUp QuestName="Water Pouch Bounty" QuestId="1707" GiverName="Spigot Operator Luglunket" GiverId="7408" />
+
+<!-- Pick Up: Wastewander Justice -->
+<PickUp QuestName="Wastewander Justice" QuestId="1690" GiverName="Chief Engineer Bilgewhizzle" GiverId="7407" />
+
+<!-- Pick Up: Gadgetzan Water Survey -->
+<PickUp QuestName="Gadgetzan Water Survey" QuestId="992" GiverName="Senior Surveyor Fizzledowser" GiverId="7724" />
+
+<!-- Turn In: News for Fizzle -->
+<TurnIn QuestName="News for Fizzle" QuestId="1137" TurnInName="Fizzle Brassbolts" TurnInId="4454" />
+
+<!-- Pick Up: Keeping Pace -->
+<PickUp QuestName="Keeping Pace" QuestId="1190" GiverName="Pozzik" GiverId="4630" />
+
+<!-- Turn In: Zamek's Distraction -->
+<TurnIn QuestName="Zamek's Distraction" QuestId="1191" TurnInName="Zamek" TurnInId="4709" />
+
+<!-- Turn In: Keeping Pace -->
+<TurnIn QuestName="Keeping Pace" QuestId="1190" TurnInName="Zamek" TurnInId="4709" />
+
+<!-- Pick Up: Rizzle's Schematics -->
+<PickUp QuestName="Rizzle's Schematics" QuestId="1194" GiverName="Zamek" GiverId="4709" />
+
+<!-- Turn In: Rizzle's Schematics -->
+<TurnIn QuestName="Rizzle's Schematics" QuestId="1194" TurnInName="Pozzik" TurnInId="4630" />
+
+<!-- Turn In: Razzeric's Tweaking -->
+<TurnIn QuestName="Razzeric's Tweaking" QuestId="1187" TurnInName="Razzeric" TurnInId="4706" />
+
+<!-- Pick Up: Safety First (1) -->
+<PickUp QuestName="Safety First (1)" QuestId="1188" GiverName="Razzeric" GiverId="4706" />
+
+<!-- Turn In: Safety First (1) -->
+<TurnIn QuestName="Safety First (1)" QuestId="1188" TurnInName="Shreev" TurnInId="4708" />
+
+<!-- Pick Up: Safety First (2) -->
+<PickUp QuestName="Safety First (2)" QuestId="1189" GiverName="Shreev" GiverId="4708" />
+
+<!-- Turn In: Safety First (2) -->
+<TurnIn QuestName="Safety First (2)" QuestId="1189" TurnInName="Razzeric" TurnInId="4706" />
+
+<!-- Collect Objective for Quest 992: Tapped Dowsing Widget -->
+<Objective QuestName="Unknown" QuestId="992" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Gadgetzan Water Survey -->
+<TurnIn QuestName="Gadgetzan Water Survey" QuestId="992" TurnInName="Senior Surveyor Fizzledowser" TurnInId="7724" />
+
+<!-- Kill Objective for Quest 1690: Wastewander Bandit -->
+<Objective QuestName="Unknown" QuestId="1690" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1690: Wastewander Thief -->
+<Objective QuestName="Unknown" QuestId="1690" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 1707: Wastewander Water Pouch -->
+<Objective QuestName="Unknown" QuestId="1707" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Pick Up: Southsea Shakedown -->
+<PickUp QuestName="Southsea Shakedown" QuestId="8366" GiverName="Security Chief Bilgewhizzle" GiverId="7882" />
+
+<!-- Turn In: Stoley's Debt -->
+<TurnIn QuestName="Stoley's Debt" QuestId="2872" TurnInName="Stoley" TurnInId="7881" />
+
+<!-- Pick Up: Stoley's Shipment -->
+<PickUp QuestName="Stoley's Shipment" QuestId="2873" GiverName="Stoley" GiverId="7881" />
+
+<!-- Pick Up: Pirate Hats Ahoy! -->
+<PickUp QuestName="Pirate Hats Ahoy!" QuestId="8365" GiverName="Haughty Modiste" GiverId="15165" />
+
+<!-- Pick Up: Screecher Spirits -->
+<PickUp QuestName="Screecher Spirits" QuestId="3520" GiverName="Yeh'kinya" GiverId="8579" />
+
+<!-- Collect Objective for Quest 2781: Caliph Scorpidsting's Head -->
+<Objective QuestName="Unknown" QuestId="2781" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 8366: Southsea Pirate -->
+<Objective QuestName="Unknown" QuestId="8366" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 8366: Southsea Freebooter -->
+<Objective QuestName="Unknown" QuestId="8366" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 8365: Southsea Pirate Hat -->
+<Objective QuestName="Unknown" QuestId="8365" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="20" />
+
+</QuestOrder>

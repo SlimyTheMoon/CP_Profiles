@@ -1,0 +1,551 @@
+<QuestOrder>
+
+<If Condition="(Me.Class == WoWClass.Warrior)">
+  <!-- Pick Up: The Islander -->
+  <PickUp QuestName="The Islander" QuestId="1718" GiverName="Sorek" GiverId="3354" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Islander -->
+  <TurnIn QuestName="The Islander" QuestId="1718" TurnInName="Klannoc Macleod" TurnInId="6236" />
+  <!-- Pick Up: The Affray -->
+  <PickUp QuestName="The Affray" QuestId="1719" GiverName="Klannoc Macleod" GiverId="6236" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warrior)">
+  <!-- Kill Objective for Quest 1719: Big Will -->
+  <Objective QuestName="Unknown" QuestId="1719" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Warrior)">
+  <!-- Turn In: The Affray -->
+  <TurnIn QuestName="The Affray" QuestId="1719" TurnInName="Klannoc Mcleod" TurnInId="6236" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Pick Up: Call of Air (1) -->
+  <PickUp QuestName="Call of Air (1)" QuestId="1531" GiverName="Searn Firewarder" GiverId="5892" />
+</If>
+
+<If Condition="(Me.Class == WoWClass.Shaman)">
+  <!-- Turn In: Call of Air (1) -->
+  <TurnIn QuestName="Call of Air (1)" QuestId="1531" TurnInName="Prate Cloudseer" TurnInId="5905" />
+</If>
+
+<!-- Pick Up: Time To Strike -->
+<PickUp QuestName="Time To Strike" QuestId="494" GiverName="Deathstalker Lesh" GiverId="2214" />
+
+<!-- Turn In: Journey to Tarren Mill -->
+<TurnIn QuestName="Journey to Tarren Mill" QuestId="1065" TurnInName="Apothecary Lydon" TurnInId="2216" />
+
+<!-- Pick Up: Elixir of Pain (1) -->
+<PickUp QuestName="Elixir of Pain (1)" QuestId="501" GiverName="Apothecary Lydon" GiverId="2216" />
+
+<!-- Pick Up: The Hammer May Fall -->
+<PickUp QuestName="The Hammer May Fall" QuestId="676" GiverName="Tallow" GiverId="2770" />
+
+<!-- Turn In: Time To Strike -->
+<TurnIn QuestName="Time To Strike" QuestId="494" TurnInName="High Executor Darthalia" TurnInId="2215" />
+
+<!-- Pick Up: Regthar Deathgate -->
+<PickUp QuestName="Regthar Deathgate" QuestId="1361" GiverName="Krusk" GiverId="2229" />
+
+<!-- Pick Up: Helcular's Revenge (1) -->
+<PickUp QuestName="Helcular's Revenge (1)" QuestId="552" GiverName="Novice Thaivand" GiverId="2429" />
+
+<!-- Collect Objective for Quest 552: Helcular's Rod -->
+<Objective QuestName="Unknown" QuestId="552" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 501: Mountain Lion Blood -->
+<Objective QuestName="Unknown" QuestId="501" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Elixir of Pain (1) -->
+<TurnIn QuestName="Elixir of Pain (1)" QuestId="501" TurnInName="Apothecary Lydon" TurnInId="2216" />
+
+<!-- Turn In: Helcular's Revenge (1) -->
+<TurnIn QuestName="Helcular's Revenge (1)" QuestId="552" TurnInName="Novice Thaivand" TurnInId="2429" />
+
+<!-- Pick Up: Helcular's Revenge (2) -->
+<PickUp QuestName="Helcular's Revenge (2)" QuestId="553" GiverName="Novice Thaivand" GiverId="2429" />
+
+<!-- Pick Up: Hammerfall -->
+<PickUp QuestName="Hammerfall" QuestId="655" GiverName="Gor'mul" GiverId="2792" />
+
+<!-- Turn In: Hammerfall -->
+<TurnIn QuestName="Hammerfall" QuestId="655" TurnInName="Tor'gan" TurnInId="2706" />
+
+<!-- Pick Up: Raising Spirits (1) -->
+<PickUp QuestName="Raising Spirits (1)" QuestId="672" GiverName="Tor'gan" GiverId="2706" />
+
+<!-- Collect Objective for Quest 672: Highland Raptor Eye -->
+<Objective QuestName="Unknown" QuestId="672" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Raising Spirits (1) -->
+<TurnIn QuestName="Raising Spirits (1)" QuestId="672" TurnInName="Tor'gan" TurnInId="2706" />
+
+<!-- Pick Up: Raising Spirits (2) -->
+<PickUp QuestName="Raising Spirits (2)" QuestId="674" GiverName="Tor'gan" GiverId="2706" />
+
+<!-- Turn In: Raising Spirits (2) -->
+<TurnIn QuestName="Raising Spirits (2)" QuestId="674" TurnInName="Gor'mul" TurnInId="2792" />
+
+<!-- Pick Up: Raising Spirits (3) -->
+<PickUp QuestName="Raising Spirits (3)" QuestId="675" GiverName="Gor'mul" GiverId="2792" />
+
+<!-- Turn In: Raising Spirits (3) -->
+<TurnIn QuestName="Raising Spirits (3)" QuestId="675" TurnInName="Tor'gan" TurnInId="2706" />
+
+<!-- Pick Up: Foul Magics (1) -->
+<PickUp QuestName="Foul Magics (1)" QuestId="671" GiverName="Tor'gan" GiverId="2706" />
+
+<!-- Pick Up: Welcome to the Jungle -->
+<PickUp QuestName="Welcome to the Jungle" QuestId="583" GiverName="Barnil Stonepot" GiverId="716" />
+
+<!-- Turn In: Welcome to the Jungle -->
+<TurnIn QuestName="Welcome to the Jungle" QuestId="583" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: Raptor Mastery (1) -->
+<PickUp QuestName="Raptor Mastery (1)" QuestId="194" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Pick Up: Tiger Mastery (1) -->
+<PickUp QuestName="Tiger Mastery (1)" QuestId="185" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Pick Up: Panther Mastery (1) -->
+<PickUp QuestName="Panther Mastery (1)" QuestId="190" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Kill Objective for Quest 190: Young Panther -->
+<Objective QuestName="Unknown" QuestId="190" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Panther Mastery (1) -->
+<TurnIn QuestName="Panther Mastery (1)" QuestId="190" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Pick Up: Panther Mastery (2) -->
+<PickUp QuestName="Panther Mastery (2)" QuestId="191" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Kill Objective for Quest 185: Young Stranglethorn Tiger -->
+<Objective QuestName="Unknown" QuestId="185" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Tiger Mastery (1) -->
+<TurnIn QuestName="Tiger Mastery (1)" QuestId="185" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Pick Up: Tiger Mastery (2) -->
+<PickUp QuestName="Tiger Mastery (2)" QuestId="186" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Kill Objective for Quest 186: Stranglethorn Tiger -->
+<Objective QuestName="Unknown" QuestId="186" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 191: Panther -->
+<Objective QuestName="Unknown" QuestId="191" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Tiger Mastery (2) -->
+<TurnIn QuestName="Tiger Mastery (2)" QuestId="186" TurnInName="Ajeck Rouack" TurnInId="717" />
+
+<!-- Pick Up: Tiger Mastery (3) -->
+<PickUp QuestName="Tiger Mastery (3)" QuestId="187" GiverName="Ajeck Rouack" GiverId="717" />
+
+<!-- Turn In: Panther Mastery (2) -->
+<TurnIn QuestName="Panther Mastery (2)" QuestId="191" TurnInName="Sir S. J. Erlgadin" TurnInId="718" />
+
+<!-- Pick Up: Panther Mastery (3) -->
+<PickUp QuestName="Panther Mastery (3)" QuestId="192" GiverName="Sir S. J. Erlgadin" GiverId="718" />
+
+<!-- Pick Up: The Swarm Grows -->
+<PickUp QuestName="The Swarm Grows" QuestId="1145" GiverName="Korran" GiverId="3428" />
+
+<!-- Turn In: Regthar Deathgate -->
+<TurnIn QuestName="Regthar Deathgate" QuestId="1361" TurnInName="Regthar Deathgate" TurnInId="3389" />
+
+<!-- Pick Up: The Kolkar of Desolace -->
+<PickUp QuestName="The Kolkar of Desolace" QuestId="1362" GiverName="Regthar Deathgate" GiverId="3389" />
+
+<!-- Pick Up: Hardened Shells -->
+<PickUp QuestName="Hardened Shells" QuestId="1105" GiverName="Wizzle Brassbolts" GiverId="4453" />
+
+<!-- Pick Up: Salt Flat Venom -->
+<PickUp QuestName="Salt Flat Venom" QuestId="1104" GiverName="Fizzle Brassbolts" GiverId="4454" />
+
+<!-- Pick Up: Rocket Car Parts -->
+<PickUp QuestName="Rocket Car Parts" QuestId="1110" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Pick Up: Hemet Nesingwary Jr. -->
+<PickUp QuestName="Hemet Nesingwary Jr." QuestId="5762" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Pick Up: Wharfmaster Dizzywig -->
+<PickUp QuestName="Wharfmaster Dizzywig" QuestId="1111" GiverName="Kravel Koalbeard" GiverId="4452" />
+
+<!-- Pick Up: Load Lightening -->
+<PickUp QuestName="Load Lightening" QuestId="1176" GiverName="Pozzik" GiverId="4630" />
+
+<!-- Pick Up: A Bump in the Road -->
+<PickUp QuestName="A Bump in the Road" QuestId="1175" GiverName="Trackmaster Zherin" GiverId="4629" />
+
+<!-- Collect Objective for Quest 1176: Hollow Vulture Bone -->
+<Objective QuestName="Unknown" QuestId="1176" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 1105: Hardened Tortoise Shell -->
+<Objective QuestName="Unknown" QuestId="1105" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Kill Objective for Quest 1175: Saltstone Basilisk -->
+<Objective QuestName="Unknown" QuestId="1175" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Collect Objective for Quest 1104: Salty Scorpid Venom -->
+<Objective QuestName="Unknown" QuestId="1104" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Rocket Car Parts -->
+<TurnIn QuestName="Rocket Car Parts" QuestId="1110" TurnInName="Kravel Koalbeard" TurnInId="4452" />
+
+<!-- Turn In: Salt Flat Venom -->
+<TurnIn QuestName="Salt Flat Venom" QuestId="1104" TurnInName="Fizzle Brassbolts" TurnInId="4454" />
+
+<!-- Turn In: Hardened Shells -->
+<TurnIn QuestName="Hardened Shells" QuestId="1105" TurnInName="Wizzle Brassbolts" TurnInId="4453" />
+
+<!-- Pick Up: Martek the Exiled -->
+<PickUp QuestName="Martek the Exiled" QuestId="1106" GiverName="Fizzle Brassbolts" GiverId="4454" />
+
+<!-- Turn In: Load Lightening -->
+<TurnIn QuestName="Load Lightening" QuestId="1176" TurnInName="Pozzik" TurnInId="4630" />
+
+<!-- Pick Up: Goblin Sponsorship (1) -->
+<PickUp QuestName="Goblin Sponsorship (1)" QuestId="1178" GiverName="Pozzik" GiverId="4630" />
+
+<!-- Turn In: The Swarm Grows (1) -->
+<TurnIn QuestName="The Swarm Grows (1)" QuestId="1145" TurnInName="Belgrom Rockmaul" TurnInId="4485" />
+
+<!-- Pick Up: Alliance Relations (1) -->
+<PickUp QuestName="Alliance Relations (1)" QuestId="1431" GiverName="Craven Drok" GiverId="5639" />
+
+<!-- Turn In: Alliance Relations (1) -->
+<TurnIn QuestName="Alliance Relations (1)" QuestId="1431" TurnInName="Keldran" TurnInId="5640" />
+
+<!-- Pick Up: Alliance Relations (2) -->
+<PickUp QuestName="Alliance Relations (2)" QuestId="1432" GiverName="Keldran" GiverId="5640" />
+
+<!-- Kill Objective for Quest 676: Boulderfist Ogre -->
+<Objective QuestName="Unknown" QuestId="676" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 676: Boulderfist Enforcer -->
+<Objective QuestName="Unknown" QuestId="676" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: The Hammer May Fall -->
+<TurnIn QuestName="The Hammer May Fall" QuestId="676" TurnInName="Drum Fel" TurnInId="2771" />
+
+<!-- Kill Objective for Quest 194: Stranglethorn Raptor -->
+<Objective QuestName="Unknown" QuestId="194" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Turn In: Raptor Mastery (1) -->
+<TurnIn QuestName="Raptor Mastery (1)" QuestId="194" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: Raptor Mastery (2) -->
+<PickUp QuestName="Raptor Mastery (2)" QuestId="195" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Turn In: Hemet Nesingwary Jr. -->
+<TurnIn QuestName="Hemet Nesingwary Jr." QuestId="5762" TurnInName="Hemet Nesingwary Jr." TurnInId="715" />
+
+<!-- Pick Up: The Corrupter (1) -->
+<PickUp QuestName="The Corrupter (1)" QuestId="1480" GiverName="Hemet Nesingwary Jr." GiverId="715" />
+
+<!-- Pick Up: Kodo Roundup -->
+<PickUp QuestName="Kodo Roundup" QuestId="5561" GiverName="Smeed Scrabblescrew" GiverId="11596" />
+
+<!-- Turn In: Kodo Roundup -->
+<TurnIn QuestName="Kodo Roundup" QuestId="5561" TurnInName="Smeed Scrabblescrew" TurnInId="11596" />
+
+<!-- Turn In: The Kolkar of Desolace -->
+<TurnIn QuestName="The Kolkar of Desolace" QuestId="1362" TurnInName="Felgur Twocuts" TurnInId="5395" />
+
+<!-- Pick Up: Khan Dez'hepah -->
+<PickUp QuestName="Khan Dez'hepah" QuestId="1365" GiverName="Felgur Twocuts" GiverId="5395" />
+
+<!-- Pick Up: Gelkis Alliance -->
+<PickUp QuestName="Gelkis Alliance" QuestId="1368" GiverName="Gurda Wildmane" GiverId="5412" />
+
+<!-- Turn In: Alliance Relations (2) -->
+<TurnIn QuestName="Alliance Relations (2)" QuestId="1432" TurnInName="Takata Steelblade" TurnInId="5641" />
+
+<!-- Pick Up: Alliance Relations (3) -->
+<PickUp QuestName="Alliance Relations (3)" QuestId="1433" GiverName="Takata Steelblade" GiverId="5641" />
+
+<!-- Pick Up: Befouled by Satyr -->
+<PickUp QuestName="Befouled by Satyr" QuestId="1434" GiverName="Takata Steelblade" GiverId="5641" />
+
+<!-- Turn In: Alliance Relations (3) -->
+<TurnIn QuestName="Alliance Relations (3)" QuestId="1433" TurnInName="Maurin Bonesplitter" TurnInId="4498" />
+
+<!-- Pick Up: The Burning of Spirits -->
+<PickUp QuestName="The Burning of Spirits" QuestId="1435" GiverName="Maurin Bonesplitter" GiverId="4498" />
+
+<!-- Turn In: The Corrupter (1) -->
+<TurnIn QuestName="The Corrupter (1)" QuestId="1480" TurnInName="Maurin Bonesplitter" TurnInId="4498" />
+
+<!-- Pick Up: The Corrupter (2) -->
+<PickUp QuestName="The Corrupter (2)" QuestId="1481" GiverName="Maurin Bonesplitter" GiverId="4498" />
+
+<!-- Kill Objective for Quest 1434: Hatefury Rogue -->
+<Objective QuestName="Unknown" QuestId="1434" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 1434: Hatefury Felsworn -->
+<Objective QuestName="Unknown" QuestId="1434" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 1434: Hatefury Betrayer -->
+<Objective QuestName="Unknown" QuestId="1434" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 1434: Hatefury Hellcaller -->
+<Objective QuestName="Unknown" QuestId="1434" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Collect Objective for Quest 1481: Shadowstalker Scalp -->
+<Objective QuestName="Unknown" QuestId="1481" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Catch of the Day -->
+<PickUp QuestName="Catch of the Day" QuestId="5386" GiverName="Nataka Longhorn" GiverId="11259" />
+
+<!-- Turn In: Befouled by Satyr -->
+<TurnIn QuestName="Befouled by Satyr" QuestId="1434" TurnInName="Takata Steelblade" TurnInId="5641" />
+
+<!-- Turn In: The Corrupter (2) -->
+<TurnIn QuestName="The Corrupter (2)" QuestId="1481" TurnInName="Maurin Bonesplitter" TurnInId="4498" />
+
+<!-- Pick Up: The Corrupter (3) -->
+<PickUp QuestName="The Corrupter (3)" QuestId="1482" GiverName="Maurin Bonesplitter" GiverId="4498" />
+
+<!-- Pick Up: Bone Collector -->
+<PickUp QuestName="Bone Collector" QuestId="5501" GiverName="Bibbly F'utzbuckle" GiverId="11438" />
+
+<!-- Collect Objective for Quest 5501: Kodo Bone -->
+<Objective QuestName="Unknown" QuestId="5501" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Bone Collector -->
+<TurnIn QuestName="Bone Collector" QuestId="5501" TurnInName="Bibbly F'utzbuckle" TurnInId="11438" />
+
+<!-- Collect Objective for Quest 1365: Khan Dez'hepah's Head -->
+<Objective QuestName="Unknown" QuestId="1365" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Khan Dez'hepah -->
+<TurnIn QuestName="Khan Dez'hepah" QuestId="1365" TurnInName="Felgur Twocuts" TurnInId="5395" />
+
+<!-- Pick Up: Centaur Bounty -->
+<PickUp QuestName="Centaur Bounty" QuestId="1366" GiverName="Felgur Twocuts" GiverId="5395" />
+
+<!-- Turn In: Gelkis Alliance -->
+<TurnIn QuestName="Gelkis Alliance" QuestId="1368" TurnInName="Uthek the Wise" TurnInId="5397" />
+
+<!-- Pick Up: Stealing Supplies -->
+<PickUp QuestName="Stealing Supplies" QuestId="1370" GiverName="Uthek the Wise" GiverId="5397" />
+
+<!-- Pick Up: Hunting in Stranglethorn -->
+<PickUp QuestName="Hunting in Stranglethorn" QuestId="5763" GiverName="Roon Wildmane" GiverId="11877" />
+
+<!-- Pick Up: Hand of Iruxos -->
+<PickUp QuestName="Hand of Iruxos" QuestId="5381" GiverName="Taiga Wisemane" GiverId="11624" />
+
+<!-- Pick Up: Other Fish to Fry -->
+<PickUp QuestName="Other Fish to Fry" QuestId="6143" GiverName="Drulzegar Skraghook" GiverId="12340" />
+
+<!-- Pick Up: Clam Bait -->
+<PickUp QuestName="Clam Bait" QuestId="6142" GiverName="Mai'lahii" GiverId="12031" />
+
+<!-- Collect Objective for Quest 5386: Shellfish -->
+<Objective QuestName="Unknown" QuestId="5386" Type="CollectItem" ItemId="13545" CollectCount="10" />
+
+<!-- Turn In: Fish in a Bucket -->
+<TurnIn QuestName="Fish in a Bucket" QuestId="5421" TurnInName="Jinar'Zillen" TurnInId="11317" />
+
+<!-- Collect Objective for Quest 6142: Soft-shelled Clam Meat -->
+<Objective QuestName="Unknown" QuestId="6142" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Pick Up: Claim Rackmore's Treasure! -->
+<PickUp QuestName="Claim Rackmore's Treasure!" QuestId="6161" GiverName="Jinar'Zillen" GiverId="11317" />
+
+<!-- Collect Objective for Quest 6161: Rackmore's Silver Key -->
+<Objective QuestName="Unknown" QuestId="6161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 6161: Rackmore's Golden Key -->
+<Objective QuestName="Unknown" QuestId="6161" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 6143: Slitherblade Naga -->
+<Objective QuestName="Unknown" QuestId="6143" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Kill Objective for Quest 6143: Slitherblade Sorceress -->
+<Objective QuestName="Unknown" QuestId="6143" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Pick Up: Sceptre of Light -->
+<PickUp QuestName="Sceptre of Light" QuestId="5741" GiverName="Azore Aldamort" GiverId="11863" />
+
+<!-- Collect Objective for Quest 1435: Infused Burning Gem -->
+<Objective QuestName="Unknown" QuestId="1435" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 5741: Sceptre of Light -->
+<Objective QuestName="Unknown" QuestId="5741" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Sceptre of Light -->
+<TurnIn QuestName="Sceptre of Light" QuestId="5741" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Pick Up: Book of the Ancients -->
+<PickUp QuestName="Book of the Ancients" QuestId="6027" GiverName="Azore Aldamort" GiverId="11863" />
+
+<!-- Collect Objective for Quest 1482: Oracle Crystal -->
+<Objective QuestName="Unknown" QuestId="1482" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Kill Objective for Quest 6143: Slitherblade Myrmidon -->
+<Objective QuestName="Unknown" QuestId="6143" Type="KillMob" MobId="UNKNOWN_ID" KillCount="7" />
+
+<!-- Turn In: Claim Rackmore's Treasure! -->
+<TurnIn QuestName="Claim Rackmore's Treasure!" QuestId="6161" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Turn In: Catch of the Day -->
+<TurnIn QuestName="Catch of the Day" QuestId="5386" TurnInName="Nataka Longhorn" TurnInId="11259" />
+
+<!-- Turn In: The Burning of Spirits -->
+<TurnIn QuestName="The Burning of Spirits" QuestId="1435" TurnInName="Maurin Bonesplitter" TurnInId="4498" />
+
+<!-- Turn In: The Corrupter (3) -->
+<TurnIn QuestName="The Corrupter (3)" QuestId="1482" TurnInName="Maurin Bonesplitter" TurnInId="4498" />
+
+<!-- Pick Up: The Corrupter (4) -->
+<PickUp QuestName="The Corrupter (4)" QuestId="1484" GiverName="Maurin Bonesplitter" GiverId="4498" />
+
+<!-- Turn In: The Corrupter (4) -->
+<TurnIn QuestName="The Corrupter (4)" QuestId="1484" TurnInName="Takata Steelblade" TurnInId="5641" />
+
+<!-- Collect Objective for Quest 1366: Centaur Ear -->
+<Objective QuestName="Unknown" QuestId="1366" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 1370: Crudely Dried Meat -->
+<Objective QuestName="Unknown" QuestId="1370" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Centaur Bounty -->
+<TurnIn QuestName="Centaur Bounty" QuestId="1366" TurnInName="Felgur Twocuts" TurnInId="5395" />
+
+<!-- Collect Objective for Quest 5381: Demon Box -->
+<Objective QuestName="Unknown" QuestId="5381" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 6027: Book of the Ancients -->
+<Objective QuestName="Unknown" QuestId="6027" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Book of the Ancients -->
+<TurnIn QuestName="Book of the Ancients" QuestId="6027" TurnInName="Azore Aldamort" TurnInId="11863" />
+
+<!-- Turn In: Hand of Iruxos -->
+<TurnIn QuestName="Hand of Iruxos" QuestId="5381" TurnInName="Taiga Wisemane" TurnInId="11624" />
+
+<!-- Turn In: Other Fish to Fry -->
+<TurnIn QuestName="Other Fish to Fry" QuestId="6143" TurnInName="Drulzegar Skraghook" TurnInId="12340" />
+
+<!-- Turn In: Clam Bait -->
+<TurnIn QuestName="Clam Bait" QuestId="6142" TurnInName="Mai'Lahii" TurnInId="12031" />
+
+<!-- Turn In: Stealing Supplies -->
+<TurnIn QuestName="Stealing Supplies" QuestId="1370" TurnInName="Uthek the Wise" TurnInId="5397" />
+
+<!-- Pick Up: Family Tree -->
+<PickUp QuestName="Family Tree" QuestId="5361" GiverName="Cliffwatcher Longhorn" GiverId="10537" />
+
+<!-- Kill Objective for Quest 1175: Saltstone Crystalhide -->
+<Objective QuestName="Unknown" QuestId="1175" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 1175: Saltstone Gazer -->
+<Objective QuestName="Unknown" QuestId="1175" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: A Bump in the Road -->
+<TurnIn QuestName="A Bump in the Road" QuestId="1175" TurnInName="Trackmaster Zherin" TurnInId="4629" />
+
+<!-- Pick Up: Suspicious Hoofprints -->
+<PickUp QuestName="Suspicious Hoofprints" QuestId="1268" GiverName="Trackmaster Zherin" GiverId="4629" />
+
+<!-- Pick Up: Lieutenant Paval Reethe -->
+<PickUp QuestName="Lieutenant Paval Reethe" QuestId="1269" GiverName="Trackmaster Zherin" GiverId="4629" />
+
+<!-- Pick Up: The Black Shield (1) -->
+<PickUp QuestName="The Black Shield (1)" QuestId="1251" GiverName="Trackmaster Zherin" GiverId="4629" />
+
+<!-- Turn In: Suspicious Hoofprints -->
+<TurnIn QuestName="Suspicious Hoofprints" QuestId="1268" TurnInName="Krog" TurnInId="4926" />
+
+<!-- Turn In: Lieutenant Paval Reethe -->
+<TurnIn QuestName="Lieutenant Paval Reethe" QuestId="1269" TurnInName="Krog" TurnInId="4926" />
+
+<!-- Turn In: The Black Shield (1) -->
+<TurnIn QuestName="The Black Shield (1)" QuestId="1251" TurnInName="Krog" TurnInId="4926" />
+
+<!-- Pick Up: The Black Shield (2) -->
+<PickUp QuestName="The Black Shield (2)" QuestId="1321" GiverName="Krog" GiverId="4926" />
+
+<!-- Turn In: The Black Shield (2) -->
+<TurnIn QuestName="The Black Shield (2)" QuestId="1321" TurnInName="Do'gol" TurnInId="5087" />
+
+<!-- Turn In: Goblin Sponsorship (1) -->
+<TurnIn QuestName="Goblin Sponsorship (1)" QuestId="1178" TurnInName="Gazlowe" TurnInId="3391" />
+
+<!-- Pick Up: Goblin Sponsorship (2) -->
+<PickUp QuestName="Goblin Sponsorship (2)" QuestId="1180" GiverName="Gazlowe" GiverId="3391" />
+
+<!-- Turn In: Wharfmaster Dizzywig -->
+<TurnIn QuestName="Wharfmaster Dizzywig" QuestId="1111" TurnInName="Wharfmaster Dizzywig" TurnInId="3453" />
+
+<!-- Pick Up: Parts for Kravel -->
+<PickUp QuestName="Parts for Kravel" QuestId="1112" GiverName="Wharfmaster Dizzywig" GiverId="3453" />
+
+<!-- Turn In: Goblin Sponsorship (2) -->
+<TurnIn QuestName="Goblin Sponsorship (2)" QuestId="1180" TurnInName="Wharfmaster Lozgil" TurnInId="4631" />
+
+<!-- Pick Up: Goblin Sponsorship (3) -->
+<PickUp QuestName="Goblin Sponsorship (3)" QuestId="1181" GiverName="Wharfmaster Lozgil" GiverId="4631" />
+
+<!-- Pick Up: Scaring Shaky -->
+<PickUp QuestName="Scaring Shaky" QuestId="606" GiverName="&quot;Sea Wolf&quot; MacKinley" GiverId="2501" />
+
+<!-- Pick Up: Supply and Demand -->
+<PickUp QuestName="Supply and Demand" QuestId="575" GiverName="Drizzlik" GiverId="2495" />
+
+<!-- Pick Up: Singing Blue Shards -->
+<PickUp QuestName="Singing Blue Shards" QuestId="605" GiverName="Crank Fizzlebub" GiverId="2498" />
+
+<!-- Pick Up: Bloodscalp Ears -->
+<PickUp QuestName="Bloodscalp Ears" QuestId="189" GiverName="Kebok" GiverId="737" />
+
+<!-- Pick Up: Hostile Takeover -->
+<PickUp QuestName="Hostile Takeover" QuestId="213" GiverName="Kebok" GiverId="737" />
+
+<!-- Pick Up: Investigate the Camp -->
+<PickUp QuestName="Investigate the Camp" QuestId="201" GiverName="Krazek" GiverId="773" />
+
+<!-- Turn In: Goblin Sponsorship (3) -->
+<TurnIn QuestName="Goblin Sponsorship (3)" QuestId="1181" TurnInName="Baron Revilgaz" TurnInId="2496" />
+
+<!-- Pick Up: Goblin Sponsorship (4) -->
+<PickUp QuestName="Goblin Sponsorship (4)" QuestId="1182" GiverName="Baron Revilgaz" GiverId="2496" />
+
+<!-- Pick Up: Mok'thardin's Enchantment (1) -->
+<PickUp QuestName="Mok'thardin's Enchantment (1)" QuestId="570" GiverName="Far Seer Mok'thardin" GiverId="2465" />
+
+<!-- Pick Up: The Defense of Grom'gol (1) -->
+<PickUp QuestName="The Defense of Grom'gol (1)" QuestId="568" GiverName="Commander Aggro'gosh" GiverId="2464" />
+
+<!-- Pick Up: Bloodscalp Insight -->
+<PickUp QuestName="Bloodscalp Insight" QuestId="9436" GiverName="Nemeth Hawkeye" GiverId="17094" />
+
+<!-- Pick Up: Hunt for Yenniku -->
+<PickUp QuestName="Hunt for Yenniku" QuestId="581" GiverName="Nimboya" GiverId="2497" />
+
+<!-- Pick Up: Bloody Bone Necklaces -->
+<PickUp QuestName="Bloody Bone Necklaces" QuestId="596" GiverName="Kin'weelay" GiverId="2519" />
+
+<!-- Pick Up: The Vile Reef -->
+<PickUp QuestName="The Vile Reef" QuestId="629" GiverName="Kin'weelay" GiverId="2519" />
+
+<!-- Collect Objective for Quest 605: Singing Crystal Shard -->
+<Objective QuestName="Unknown" QuestId="605" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 581: Bloodscalp Tusk -->
+<Objective QuestName="Unknown" QuestId="581" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="9" />
+
+<!-- Collect Objective for Quest 189: Bloodscalp Ear -->
+<Objective QuestName="Unknown" QuestId="189" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 596: Bloody Bone Necklace -->
+<Objective QuestName="Unknown" QuestId="596" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="25" />
+
+<!-- Collect Objective for Quest 9436: Bloodscalp Totem -->
+<Objective QuestName="Unknown" QuestId="9436" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+</QuestOrder>

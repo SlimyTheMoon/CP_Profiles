@@ -1,0 +1,690 @@
+<QuestOrder>
+
+<!-- Turn In: Larion and Muigin -->
+<TurnIn QuestName="Larion and Muigin" QuestId="4145" TurnInName="Larion" TurnInId="9118" />
+
+<!-- Pick Up: Marvon's Workshop -->
+<PickUp QuestName="Marvon's Workshop" QuestId="4147" GiverName="Larion" GiverId="9118" />
+
+<!-- Turn In: Shizzle's Flyer -->
+<TurnIn QuestName="Shizzle's Flyer" QuestId="4503" TurnInName="Shizzle" TurnInId="9998" />
+
+<!-- Turn In: The Northern Pylon -->
+<TurnIn QuestName="The Northern Pylon" QuestId="4285" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Turn In: The Eastern Pylon -->
+<TurnIn QuestName="The Eastern Pylon" QuestId="4287" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Turn In: The Western Pylon -->
+<TurnIn QuestName="The Western Pylon" QuestId="4288" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Pick Up: Making Sense of It -->
+<PickUp QuestName="Making Sense of It" QuestId="4321" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Turn In: Making Sense of It -->
+<TurnIn QuestName="Making Sense of It" QuestId="4321" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Collect Objective for Quest 4301: U'cha's Pelt -->
+<Objective QuestName="Unknown" QuestId="4301" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Chasing A-Me 01 (2) -->
+<PickUp QuestName="Chasing A-Me 01 (2)" QuestId="4244" GiverName="A-Me 01" GiverId="9623" />
+
+<!-- Turn In: Chasing A-Me 01 (2) -->
+<TurnIn QuestName="Chasing A-Me 01 (2)" QuestId="4244" TurnInName="A-Me 01" TurnInId="9623" />
+
+<!-- Pick Up: Chasing A-Me 01 (3) -->
+<PickUp QuestName="Chasing A-Me 01 (3)" QuestId="4245" GiverName="A-Me 01" GiverId="9623" />
+
+<!-- Turn In: Chasing A-Me 01 (3) -->
+<TurnIn QuestName="Chasing A-Me 01 (3)" QuestId="4245" TurnInName="Karna Remtravel" TurnInId="9618" />
+
+<!-- Turn In: The Mighty U'cha -->
+<TurnIn QuestName="The Mighty U'cha" QuestId="4301" TurnInName="Torwa Pathfinder" TurnInId="9619" />
+
+<!-- Turn In: Super Sticky -->
+<TurnIn QuestName="Super Sticky" QuestId="4504" TurnInName="Tran'rek" TurnInId="7876" />
+
+<!-- Turn In: Bungle in the Jungle -->
+<TurnIn QuestName="Bungle in the Jungle" QuestId="4496" TurnInName="Alchemist Pestlezugg" TurnInId="5594" />
+
+<!-- Pick Up: Un'Goro Soil -->
+<PickUp QuestName="Un'Goro Soil" QuestId="3761" GiverName="Arch Druid Hamuul Runetotem" GiverId="5769" />
+
+<!-- Turn In: Un'Goro Soil -->
+<TurnIn QuestName="Un'Goro Soil" QuestId="3761" TurnInName="Ghede" TurnInId="9076" />
+
+<!-- Pick Up: Morrowgrain Research (1) -->
+<PickUp QuestName="Morrowgrain Research (1)" QuestId="3782" GiverName="Arch Druid Hamuul Runetotem" GiverId="5769" />
+
+<!-- Turn In: Morrowgrain Research (1) -->
+<TurnIn QuestName="Morrowgrain Research (1)" QuestId="3782" TurnInName="Bashana Runetotem" TurnInId="9087" />
+
+<!-- Turn In: Marvon's Workshop -->
+<TurnIn QuestName="Marvon's Workshop" QuestId="4147" TurnInName="Liv Rizzlefix" TurnInId="8496" />
+
+<!-- Turn In: Volcanic Activity -->
+<TurnIn QuestName="Volcanic Activity" QuestId="4502" TurnInName="Liv Rizzlefix" TurnInId="8496" />
+
+<!-- Turn In: Vivian Lagrave -->
+<TurnIn QuestName="Vivian Lagrave" QuestId="4133" TurnInName="Shadowmage Vivian Lagrave" TurnInId="9078" />
+
+<!-- Pick Up: The Rise of the Machines (1) -->
+<PickUp QuestName="The Rise of the Machines (1)" QuestId="4061" GiverName="Hierophant Theodora Mulvadania" GiverId="9079" />
+
+<!-- Pick Up: Dreadmaul Rock -->
+<PickUp QuestName="Dreadmaul Rock" QuestId="3821" GiverName="Thal'trak Proudtusk" GiverId="9082" />
+
+<!-- Pick Up: Tablet of the Seven -->
+<PickUp QuestName="Tablet of the Seven" QuestId="4296" GiverName="Maxwort Uberglint" GiverId="9536" />
+
+<!-- Pick Up: Broodling Essence -->
+<PickUp QuestName="Broodling Essence" QuestId="4726" GiverName="Tinkee Steamboil" GiverId="10267" />
+
+<!-- Turn In: Yuka Screwspigot -->
+<TurnIn QuestName="Yuka Screwspigot" QuestId="4324" TurnInName="Yuka Screwspigot" TurnInId="9544" />
+
+<!-- Collect Objective for Quest 4726: Broodling Essence -->
+<Objective QuestName="Unknown" QuestId="4726" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Dreadmaul Rock -->
+<TurnIn QuestName="Dreadmaul Rock" QuestId="3821" TurnInName="Sha'ni Proudtusk" TurnInId="9136" />
+
+<!-- Pick Up: Krom'Grul -->
+<PickUp QuestName="Krom'Grul" QuestId="3822" GiverName="Sha'ni Proudtusk" GiverId="9136" />
+
+<!-- Collect Objective for Quest 3822: Sha'ni's Nose-Ring -->
+<Objective QuestName="Unknown" QuestId="3822" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 4061: Fractured Elemental Shard -->
+<Objective QuestName="Unknown" QuestId="4061" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Collect Objective for Quest 4296: Tablet Transcript -->
+<Objective QuestName="Unknown" QuestId="4296" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Broodling Essence -->
+<TurnIn QuestName="Broodling Essence" QuestId="4726" TurnInName="Tinkee Steamboil" TurnInId="10267" />
+
+<!-- Pick Up: Felnok Steelspring -->
+<PickUp QuestName="Felnok Steelspring" QuestId="4808" GiverName="Tinkee Steamboil" GiverId="10267" />
+
+<!-- Turn In: Tablet of the Seven -->
+<TurnIn QuestName="Tablet of the Seven" QuestId="4296" TurnInName="Maxwort Uberglint" TurnInId="9536" />
+
+<!-- Turn In: Krom'Grul -->
+<TurnIn QuestName="Krom'Grul" QuestId="3822" TurnInName="Thal'trak Proudtusk" TurnInId="9082" />
+
+<!-- Turn In: The Rise of the Machines (1) -->
+<TurnIn QuestName="The Rise of the Machines (1)" QuestId="4061" TurnInName="Hierophant Theodora Mulvadania" TurnInId="9079" />
+
+<!-- Pick Up: The Rise of the Machines (2) -->
+<PickUp QuestName="The Rise of the Machines (2)" QuestId="4062" GiverName="Hierophant Theodora Mulvadania" GiverId="9079" />
+
+<!-- Turn In: The Rise of the Machines (2) -->
+<TurnIn QuestName="The Rise of the Machines (2)" QuestId="4062" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Turn In: Bone-Bladed Weapons -->
+<TurnIn QuestName="Bone-Bladed Weapons" QuestId="4300" TurnInName="Lotwil Veriatus" TurnInId="2921" />
+
+<!-- Pick Up: The New Frontier -->
+<PickUp QuestName="The New Frontier" QuestId="1018" GiverName="Warcaller Gorlach" GiverId="10880" />
+
+<!-- Pick Up: Camp Mojache -->
+<PickUp QuestName="Camp Mojache" QuestId="7492" GiverName="Warcaller Gorlach" GiverId="10880" />
+
+<!-- Pick Up: Taking Back Silithus -->
+<PickUp QuestName="Taking Back Silithus" QuestId="8276" GiverName="Cenarion Emissary Blackhoof" GiverId="15188" />
+
+<!-- Pick Up: Timbermaw Ally -->
+<PickUp QuestName="Timbermaw Ally" QuestId="8460" GiverName="Grazle" GiverId="11554" />
+
+<!-- Pick Up: Forces of Jaedenar -->
+<PickUp QuestName="Forces of Jaedenar" QuestId="5155" GiverName="Greta Mosshoof" GiverId="10922" />
+
+<!-- Pick Up: Verifying the Corruption -->
+<PickUp QuestName="Verifying the Corruption" QuestId="5156" GiverName="Taronn Redfeather" GiverId="10921" />
+
+<!-- Kill Objective for Quest 8460: Deadwood Warrior -->
+<Objective QuestName="Unknown" QuestId="8460" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8460: Deadwood Pathfinder -->
+<Objective QuestName="Unknown" QuestId="8460" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8460: Deadwood Gardener -->
+<Objective QuestName="Unknown" QuestId="8460" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Timbermaw Ally -->
+<TurnIn QuestName="Timbermaw Ally" QuestId="8460" TurnInName="Grazle" TurnInId="11554" />
+
+<!-- Pick Up: Speak to Nafien -->
+<PickUp QuestName="Speak to Nafien" QuestId="8462" GiverName="Grazle" GiverId="11554" />
+
+<!-- Pick Up: Cleansing Felwood -->
+<PickUp QuestName="Cleansing Felwood" QuestId="4102" GiverName="Maybess Riverbreeze" GiverId="9529" />
+
+<!-- Collect Objective for Quest 4293: Felwood Slime Sample -->
+<Objective QuestName="Unknown" QuestId="4293" Type="CollectItem" ItemId="12230" CollectCount="15" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Hound -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Guardian -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="4" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Adept -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 5155: Jaedenar Cultist -->
+<Objective QuestName="Unknown" QuestId="5155" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Pick Up: Well of Corruption -->
+<PickUp QuestName="Well of Corruption" QuestId="4505" GiverName="Winna Hazzard" GiverId="9996" />
+
+<!-- Pick Up: A Husband's Last Battle -->
+<PickUp QuestName="A Husband's Last Battle" QuestId="6162" GiverName="Dreka'Sur" GiverId="9620" />
+
+<!-- Pick Up: Wild Guardians (1) -->
+<PickUp QuestName="Wild Guardians (1)" QuestId="4521" GiverName="Trull Failbaine" GiverId="10306" />
+
+<!-- Kill Objective for Quest 5156: Entropic Beast -->
+<Objective QuestName="Unknown" QuestId="5156" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Kill Objective for Quest 5156: Entropic Horror -->
+<Objective QuestName="Unknown" QuestId="5156" Type="KillMob" MobId="UNKNOWN_ID" KillCount="2" />
+
+<!-- Collect Objective for Quest 4102: Blood Amber -->
+<Objective QuestName="Unknown" QuestId="4102" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Kill Objective for Quest 4120: Felpaw Ravager -->
+<Objective QuestName="Unknown" QuestId="4120" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 4120: Angerclaw Grizzly -->
+<Objective QuestName="Unknown" QuestId="4120" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Turn In: Speak to Nafien -->
+<TurnIn QuestName="Speak to Nafien" QuestId="8462" TurnInName="Nafien" TurnInId="15395" />
+
+<!-- Pick Up: Deadwood of the North -->
+<PickUp QuestName="Deadwood of the North" QuestId="8461" GiverName="Nafien" GiverId="15395" />
+
+<!-- Kill Objective for Quest 8461: Deadwood Den Watcher -->
+<Objective QuestName="Unknown" QuestId="8461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8461: Deadwood Avenger -->
+<Objective QuestName="Unknown" QuestId="8461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 8461: Deadwood Shaman -->
+<Objective QuestName="Unknown" QuestId="8461" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Deadwood of the North -->
+<TurnIn QuestName="Deadwood of the North" QuestId="8461" TurnInName="Nafien" TurnInId="15395" />
+
+<!-- Pick Up: Speak to Salfa -->
+<PickUp QuestName="Speak to Salfa" QuestId="8465" GiverName="Nafien" GiverId="15395" />
+
+<!-- Turn In: Speak to Salfa -->
+<TurnIn QuestName="Speak to Salfa" QuestId="8465" TurnInName="Salfa" TurnInId="11556" />
+
+<!-- Pick Up: Winterfall Activity -->
+<PickUp QuestName="Winterfall Activity" QuestId="8464" GiverName="Salfa" GiverId="11556" />
+
+<!-- Turn In: The New Springs -->
+<TurnIn QuestName="The New Springs" QuestId="980" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Pick Up: Strange Sources -->
+<PickUp QuestName="Strange Sources" QuestId="4842" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Turn In: It's a Secret to Everybody (3) -->
+<TurnIn QuestName="It's a Secret to Everybody (3)" QuestId="3908" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Pick Up: The Videre Elixir -->
+<PickUp QuestName="The Videre Elixir" QuestId="3909" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Pick Up: Threat of the Winterfall -->
+<PickUp QuestName="Threat of the Winterfall" QuestId="5082" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Pick Up: A Call to Arms: The Plaguelands! -->
+<PickUp QuestName="A Call to Arms: The Plaguelands!" QuestId="5095" GiverName="Bluff Runner Windstrider" GiverId="10881" />
+
+<!-- Turn In: The New Frontier -->
+<TurnIn QuestName="The New Frontier" QuestId="1018" TurnInName="Arch Druid Hamuul Runetotem" TurnInId="5769" />
+
+<!-- Pick Up: Rabine Saturna -->
+<PickUp QuestName="Rabine Saturna" QuestId="1123" GiverName="Arch Druid Hamuul Runetotem" GiverId="5769" />
+
+<!-- Turn In: The Strength of Corruption -->
+<TurnIn QuestName="The Strength of Corruption" QuestId="4120" TurnInName="Talo Thornhoof" TurnInId="7776" />
+
+<!-- Turn In: Camp Mojache -->
+<TurnIn QuestName="Camp Mojache" QuestId="7492" TurnInName="Talo Thornhoof" TurnInId="7776" />
+
+<!-- Collect Objective for Quest 3909: Evoroot -->
+<Objective QuestName="Unknown" QuestId="3909" Type="CollectItem" ItemId="11242" CollectCount="1" />
+
+<!-- Collect Objective for Quest 3909: Videre Elixir -->
+<Objective QuestName="Unknown" QuestId="3909" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Forces of Jaedenar -->
+<TurnIn QuestName="Forces of Jaedenar" QuestId="5155" TurnInName="Greta Mosshoof" TurnInId="10922" />
+
+<!-- Pick Up: Collection of the Corrupt Water -->
+<PickUp QuestName="Collection of the Corrupt Water" QuestId="5157" GiverName="Greta Mosshoof" GiverId="10922" />
+
+<!-- Turn In: Verifying the Corruption -->
+<TurnIn QuestName="Verifying the Corruption" QuestId="5156" TurnInName="Taronn Redfeather" TurnInId="10921" />
+
+<!-- Turn In: Cleansing Felwood -->
+<TurnIn QuestName="Cleansing Felwood" QuestId="4102" TurnInName="Maybess Riverbreeze" TurnInId="9529" />
+
+<!-- Collect Objective for Quest 5882: Cenarion Beacon -->
+<Objective QuestName="Unknown" QuestId="5882" Type="CollectItem" ItemId="11511" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5882: Corrupted Soul Shard -->
+<Objective QuestName="Unknown" QuestId="5882" Type="CollectItem" ItemId="11515" CollectCount="6" />
+
+<!-- Collect Objective for Quest 6162: Overlord Ror's Claw -->
+<Objective QuestName="Unknown" QuestId="6162" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Salve via Hunting -->
+<PickUp QuestName="Salve via Hunting" QuestId="5882" GiverName="Maybess Riverbreeze" GiverId="9529" />
+
+<!-- Collect Objective for Quest 4505: Filled Flasket -->
+<Objective QuestName="Unknown" QuestId="4505" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 5157: Corrupt Moonwell Water -->
+<Objective QuestName="Unknown" QuestId="5157" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Well of Corruption -->
+<TurnIn QuestName="Well of Corruption" QuestId="4505" TurnInName="Winna Hazzard" TurnInId="9996" />
+
+<!-- Pick Up: Corrupted Sabers -->
+<PickUp QuestName="Corrupted Sabers" QuestId="4506" GiverName="Winna Hazzard" GiverId="9996" />
+
+<!-- Turn In: A Husband's Last Battle -->
+<TurnIn QuestName="A Husband's Last Battle" QuestId="6162" TurnInName="Dreka'Sur" TurnInId="9620" />
+
+<!-- Turn In: Corrupted Sabers -->
+<TurnIn QuestName="Corrupted Sabers" QuestId="4506" TurnInName="Winna Hazzard" TurnInId="9996" />
+
+<!-- Turn In: Collection of the Corrupt Water -->
+<TurnIn QuestName="Collection of the Corrupt Water" QuestId="5157" TurnInName="Greta Mosshoof" TurnInId="10922" />
+
+<!-- Turn In: Rabine Saturna -->
+<TurnIn QuestName="Rabine Saturna" QuestId="1123" TurnInName="Rabine Saturna" TurnInId="11801" />
+
+<!-- Pick Up: Wasteland -->
+<PickUp QuestName="Wasteland" QuestId="1124" GiverName="Rabine Saturna" GiverId="11801" />
+
+<!-- Pick Up: Sister Pamela -->
+<PickUp QuestName="Sister Pamela" QuestId="5601" GiverName="Jessica Redpath" GiverId="11629" />
+
+<!-- Pick Up: The Everlook Report -->
+<PickUp QuestName="The Everlook Report" QuestId="6029" GiverName="Gregor Greystone" GiverId="10431" />
+
+<!-- Pick Up: Duke Nicholas Zverenhoff -->
+<PickUp QuestName="Duke Nicholas Zverenhoff" QuestId="6030" GiverName="Gregor Greystone" GiverId="10431" />
+
+<!-- Turn In: Felnok Steelspring -->
+<TurnIn QuestName="Felnok Steelspring" QuestId="4808" TurnInName="Felnok Steelspring" TurnInId="10468" />
+
+<!-- Pick Up: Chillwind Horns -->
+<PickUp QuestName="Chillwind Horns" QuestId="4809" GiverName="Felnok Steelspring" GiverId="10468" />
+
+<!-- Pick Up: Are We There, Yeti? (1) -->
+<PickUp QuestName="Are We There, Yeti? (1)" QuestId="3783" GiverName="Umi Rumplesnicker" GiverId="10305" />
+
+<!-- Kill Objective for Quest 5082: Winterfall Pathfinder -->
+<Objective QuestName="Unknown" QuestId="5082" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 5082: Winterfall Den Watcher -->
+<Objective QuestName="Unknown" QuestId="5082" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 5082: Winterfall Totemic -->
+<Objective QuestName="Unknown" QuestId="5082" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Pick Up: Winterfall Firewater -->
+<PickUp QuestName="Winterfall Firewater" QuestId="5083" GiverName="Umi Rumplesnicker" GiverId="10305" />
+
+<!-- Turn In: The Videre Elixir -->
+<TurnIn QuestName="The Videre Elixir" QuestId="3909" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Pick Up: Meet at the Grave -->
+<PickUp QuestName="Meet at the Grave" QuestId="3912" GiverName="Donova Snowden" GiverId="9298" />
+
+<!-- Turn In: Threat of the Winterfall -->
+<TurnIn QuestName="Threat of the Winterfall" QuestId="5082" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Turn In: Winterfall Firewater -->
+<TurnIn QuestName="Winterfall Firewater" QuestId="5083" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Collect Objective for Quest 3783: Thick Yeti Fur -->
+<Objective QuestName="Unknown" QuestId="3783" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="10" />
+
+<!-- Turn In: Are We There, Yeti? (1) -->
+<TurnIn QuestName="Are We There, Yeti? (1)" QuestId="3783" TurnInName="Umi Rumplesnicker" TurnInId="10305" />
+
+<!-- Pick Up: Are We There. Yeti? (2) -->
+<PickUp QuestName="Are We There. Yeti? (2)" QuestId="977" GiverName="Umi Rumplesnicker" GiverId="10305" />
+
+<!-- Collect Objective for Quest 977: Pristine Yeti Horn -->
+<Objective QuestName="Unknown" QuestId="977" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="2" />
+
+<!-- Turn In: Are We There. Yeti? (2) -->
+<TurnIn QuestName="Are We There. Yeti? (2)" QuestId="977" TurnInName="Umi Rumplesnicker" TurnInId="10305" />
+
+<!-- Pick Up: Are We There, Yeti? (3) -->
+<PickUp QuestName="Are We There, Yeti? (3)" QuestId="5163" GiverName="Umi Rumplesnicker" GiverId="10305" />
+
+<!-- Kill Objective for Quest 8464: Winterfall Shaman -->
+<Objective QuestName="Unknown" QuestId="8464" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 8464: Winterfall Den Watcher -->
+<Objective QuestName="Unknown" QuestId="8464" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 8464: Winterfall Ursa -->
+<Objective QuestName="Unknown" QuestId="8464" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Turn In: Strange Sources -->
+<TurnIn QuestName="Strange Sources" QuestId="4842" TurnInName="Donova Snowden" TurnInId="9298" />
+
+<!-- Turn In: Winterfall Activity -->
+<TurnIn QuestName="Winterfall Activity" QuestId="8464" TurnInName="Salfa" TurnInId="11556" />
+
+<!-- Kill Objective for Quest 4521: Raging Owlbeast -->
+<Objective QuestName="Unknown" QuestId="4521" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 4809: Uncracked Chillwind Horn -->
+<Objective QuestName="Unknown" QuestId="4809" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Chillwind Horns -->
+<TurnIn QuestName="Chillwind Horns" QuestId="4809" TurnInName="Felnok Steelspring" TurnInId="10468" />
+
+<!-- Pick Up: Return to Tinkee -->
+<PickUp QuestName="Return to Tinkee" QuestId="4810" GiverName="Felnok Steelspring" GiverId="10468" />
+
+<!-- Turn In: Wild Guardians (1) -->
+<TurnIn QuestName="Wild Guardians (1)" QuestId="4521" TurnInName="Trull Failbaine" TurnInId="10306" />
+
+<!-- Turn In: Meet at the Grave -->
+<TurnIn QuestName="Meet at the Grave" QuestId="3912" TurnInName="Gaeriyan" TurnInId="9299" />
+
+<!-- Pick Up: A Grave Situation -->
+<PickUp QuestName="A Grave Situation" QuestId="3913" GiverName="Gaeriyan" GiverId="9299" />
+
+<!-- Turn In: A Grave Situation -->
+<TurnIn QuestName="A Grave Situation" QuestId="3913" TurnInName="Gaeriyan" TurnInId="9299" />
+
+<!-- Pick Up: Linken's Sword -->
+<PickUp QuestName="Linken's Sword" QuestId="3914" GiverName="Gaeriyan" GiverId="9299" />
+
+<!-- Turn In: Linken's Sword -->
+<TurnIn QuestName="Linken's Sword" QuestId="3914" TurnInName="Linken" TurnInId="8737" />
+
+<!-- Pick Up: A Gnome's Assistance -->
+<PickUp QuestName="A Gnome's Assistance" QuestId="3941" GiverName="Linken" GiverId="8737" />
+
+<!-- Turn In: A Gnome's Assistance -->
+<TurnIn QuestName="A Gnome's Assistance" QuestId="3941" TurnInName="J.D. Collie" TurnInId="9117" />
+
+<!-- Pick Up: Linken's Memory -->
+<PickUp QuestName="Linken's Memory" QuestId="3942" GiverName="J.D. Collie" GiverId="9117" />
+
+<!-- Turn In: Wasteland -->
+<TurnIn QuestName="Wasteland" QuestId="1124" TurnInName="Layo Starstrike" TurnInId="13220" />
+
+<!-- Turn In: Taking Back Silithus -->
+<TurnIn QuestName="Taking Back Silithus" QuestId="8276" TurnInName="Windcaller Proudhorn" TurnInId="15191" />
+
+<!-- Pick Up: Securing the Supply Lines -->
+<PickUp QuestName="Securing the Supply Lines" QuestId="8280" GiverName="Windcaller Proudhorn" GiverId="15191" />
+
+<!-- Pick Up: Deadly Desert Venom -->
+<PickUp QuestName="Deadly Desert Venom" QuestId="8277" GiverName="Beetix Ficklespragg" GiverId="15189" />
+
+<!-- Pick Up: The Twilight Mystery -->
+<PickUp QuestName="The Twilight Mystery" QuestId="8284" GiverName="Geologist Larksbane" GiverId="15183" />
+
+<!-- Kill Objective for Quest 8280: Dredge Striker -->
+<Objective QuestName="Unknown" QuestId="8280" Type="KillMob" MobId="UNKNOWN_ID" KillCount="15" />
+
+<!-- Collect Objective for Quest 8277: Stonelash Scorpid Stinger -->
+<Objective QuestName="Unknown" QuestId="8277" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 8277: Sand Skitterer Fang -->
+<Objective QuestName="Unknown" QuestId="8277" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 8284: Twilight Tablet Fragment -->
+<Objective QuestName="Unknown" QuestId="8284" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Deadly Desert Venom -->
+<TurnIn QuestName="Deadly Desert Venom" QuestId="8277" TurnInName="Beetix Ficklespragg" TurnInId="15189" />
+
+<!-- Pick Up: Noggle's Last Hope -->
+<PickUp QuestName="Noggle's Last Hope" QuestId="8278" GiverName="Beetix Ficklespragg" GiverId="15189" />
+
+<!-- Turn In: Securing the Supply Lines -->
+<TurnIn QuestName="Securing the Supply Lines" QuestId="8280" TurnInName="Windcaller Proudhorn" TurnInId="15191" />
+
+<!-- Pick Up: Stepping Up Security -->
+<PickUp QuestName="Stepping Up Security" QuestId="8281" GiverName="Windcaller Proudhorn" GiverId="15191" />
+
+<!-- Turn In: The Twilight Mystery -->
+<TurnIn QuestName="The Twilight Mystery" QuestId="8284" TurnInName="Geologist Larksbane" TurnInId="15183" />
+
+<!-- Pick Up: The Deserter -->
+<PickUp QuestName="The Deserter" QuestId="8285" GiverName="Geologist Larksbane" GiverId="15183" />
+
+<!-- Kill Objective for Quest 8281: Dredge Crusher -->
+<Objective QuestName="Unknown" QuestId="8281" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Collect Objective for Quest 8278: Stonelash Pincer Stinger -->
+<Objective QuestName="Unknown" QuestId="8278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: The Deserter -->
+<TurnIn QuestName="The Deserter" QuestId="8285" TurnInName="Hermit Ortell" TurnInId="15194" />
+
+<!-- Collect Objective for Quest 8278: Stonelash Flayer Stinger -->
+<Objective QuestName="Unknown" QuestId="8278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Collect Objective for Quest 8278: Rock Stalker Fang -->
+<Objective QuestName="Unknown" QuestId="8278" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Stepping Up Security -->
+<TurnIn QuestName="Stepping Up Security" QuestId="8281" TurnInName="Windcaller Proudhorn" TurnInId="15191" />
+
+<!-- Turn In: Noggle's Last Hope -->
+<TurnIn QuestName="Noggle's Last Hope" QuestId="8278" TurnInName="Beetix Ficklespragg" TurnInId="15189" />
+
+<!-- Turn In: Linken's Memory -->
+<TurnIn QuestName="Linken's Memory" QuestId="3942" TurnInName="Eridan Bluewind" TurnInId="9116" />
+
+<!-- Turn In: Return to Tinkee -->
+<TurnIn QuestName="Return to Tinkee" QuestId="4810" TurnInName="Tinkee Steamboil" TurnInId="10267" />
+
+<!-- Collect Objective for Quest 4293: Corrupted Felwood Sample -->
+<Objective QuestName="Unknown" QuestId="4293" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Collect Objective for Quest 4294: Pure Un'Goro Sample -->
+<Objective QuestName="Unknown" QuestId="4294" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: A Sample of Slime... -->
+<TurnIn QuestName="A Sample of Slime..." QuestId="4293" TurnInName="Chemist Fuely" TurnInId="10136" />
+
+<!-- Turn In: ... and a Batch of Ooze -->
+<TurnIn QuestName="... and a Batch of Ooze" QuestId="4294" TurnInName="Chemist Fuely" TurnInId="10136" />
+
+<!-- Pick Up: Seeping Corruption (3) -->
+<PickUp QuestName="Seeping Corruption (3)" QuestId="3570" GiverName="Chemist Cuely" GiverId="8390" />
+
+<!-- Turn In: Seeping Corruption (3) -->
+<TurnIn QuestName="Seeping Corruption (3)" QuestId="3570" TurnInName="Chemist Cuely" TurnInId="8390" />
+
+<!-- Turn In: A Call to Arms: The Plaguelands! -->
+<TurnIn QuestName="A Call to Arms: The Plaguelands!" QuestId="5095" TurnInName="High Executor Derrington" TurnInId="10837" />
+
+<!-- Pick Up: Scarlet Diversions -->
+<PickUp QuestName="Scarlet Diversions" QuestId="5096" GiverName="High Executor Derrington" GiverId="10837" />
+
+<!-- Collect Objective for Quest 5096: Flame in a Bottle -->
+<Objective QuestName="Unknown" QuestId="5096" Type="CollectItem" ItemId="12814" CollectCount="1" />
+
+<!-- Turn In: The Everlook Report -->
+<TurnIn QuestName="The Everlook Report" QuestId="6029" TurnInName="Argent Officer Garush" TurnInId="10839" />
+
+<!-- Pick Up: Better Late Than Never (1) -->
+<PickUp QuestName="Better Late Than Never (1)" QuestId="5021" GiverName="Janice Felstone" GiverId="10778" />
+
+<!-- Turn In: Better Late Than Never (1) -->
+<TurnIn QuestName="Better Late Than Never (1)" QuestId="5021" TurnInName="Janice Felstone" TurnInId="10778" />
+
+<!-- Pick Up: Better Late Than Never (2) -->
+<PickUp QuestName="Better Late Than Never (2)" QuestId="5023" GiverName="Janice Felstone" GiverId="10778" />
+
+<!-- Turn In: Scarlet Diversions -->
+<TurnIn QuestName="Scarlet Diversions" QuestId="5096" TurnInName="High Executor Derrington" TurnInId="10837" />
+
+<!-- Pick Up: The Scourge Cauldrons -->
+<PickUp QuestName="The Scourge Cauldrons" QuestId="5228" GiverName="High Executor Derrington" GiverId="10837" />
+
+<!-- Turn In: The Scourge Cauldrons -->
+<TurnIn QuestName="The Scourge Cauldrons" QuestId="5228" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Target: Felstone Field -->
+<PickUp QuestName="Target: Felstone Field" QuestId="5229" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Target: Felstone Field -->
+<TurnIn QuestName="Target: Felstone Field" QuestId="5229" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Return to the Bulwark -->
+<PickUp QuestName="Return to the Bulwark" QuestId="5230" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Return to the Bulwark -->
+<TurnIn QuestName="Return to the Bulwark" QuestId="5230" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Target: Dalson's Tears -->
+<PickUp QuestName="Target: Dalson's Tears" QuestId="5231" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Target: Dalson's Tears -->
+<TurnIn QuestName="Target: Dalson's Tears" QuestId="5231" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Return to the Bulwark -->
+<PickUp QuestName="Return to the Bulwark" QuestId="5232" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Return to the Bulwark -->
+<TurnIn QuestName="Return to the Bulwark" QuestId="5232" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Target: Writhing Haunt -->
+<PickUp QuestName="Target: Writhing Haunt" QuestId="5233" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Target: Writhing Haunt -->
+<TurnIn QuestName="Target: Writhing Haunt" QuestId="5233" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Return to the Bulwark -->
+<PickUp QuestName="Return to the Bulwark" QuestId="5234" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Return to the Bulwark -->
+<TurnIn QuestName="Return to the Bulwark" QuestId="5234" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Target: Gahrron's Withering -->
+<PickUp QuestName="Target: Gahrron's Withering" QuestId="5235" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Target: Gahrron's Withering -->
+<TurnIn QuestName="Target: Gahrron's Withering" QuestId="5235" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Return to the Bulwark -->
+<PickUp QuestName="Return to the Bulwark" QuestId="5236" GiverName="Shadow Priestess Vandis" GiverId="11055" />
+
+<!-- Turn In: Return to the Bulwark -->
+<TurnIn QuestName="Return to the Bulwark" QuestId="5236" TurnInName="Shadow Priestess Vandis" TurnInId="11055" />
+
+<!-- Pick Up: Mission Accomplished! -->
+<PickUp QuestName="Mission Accomplished!" QuestId="5237" GiverName="High Executor Derrington" GiverId="10837" />
+
+<!-- Pick Up: Demon Dogs -->
+<PickUp QuestName="Demon Dogs" QuestId="5542" GiverName="Tirion Fordring" GiverId="1855" />
+
+<!-- Pick Up: Blood Tinged Skies -->
+<PickUp QuestName="Blood Tinged Skies" QuestId="5543" GiverName="Tirion Fordring" GiverId="1855" />
+
+<!-- Pick Up: Carrion Grubbage -->
+<PickUp QuestName="Carrion Grubbage" QuestId="5544" GiverName="Tirion Fordring" GiverId="1855" />
+
+<!-- Pick Up: Un-Life's Little Annoyances -->
+<PickUp QuestName="Un-Life's Little Annoyances" QuestId="6042" GiverName="Nathanos Blightcaller" GiverId="11878" />
+
+<!-- Kill Objective for Quest 5542: Plaguehound Runt -->
+<Objective QuestName="Unknown" QuestId="5542" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Kill Objective for Quest 5543: Plaguebat -->
+<Objective QuestName="Unknown" QuestId="5543" Type="KillMob" MobId="UNKNOWN_ID" KillCount="30" />
+
+<!-- Collect Objective for Quest 5544: Slab of Carrion Worm Meat -->
+<Objective QuestName="Unknown" QuestId="5544" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Turn In: Sister Pamela -->
+<TurnIn QuestName="Sister Pamela" QuestId="5601" TurnInName="Pamela Redpath" TurnInId="10926" />
+
+<!-- Pick Up: Pamela's Doll -->
+<PickUp QuestName="Pamela's Doll" QuestId="5149" GiverName="Pamela Redpath" GiverId="10926" />
+
+<!-- Turn In: Pamela's Doll -->
+<TurnIn QuestName="Pamela's Doll" QuestId="5149" TurnInName="Pamela Redpath" TurnInId="10926" />
+
+<!-- Pick Up: Uncle Carlin -->
+<PickUp QuestName="Uncle Carlin" QuestId="5241" GiverName="Pamela Redpath" GiverId="10926" />
+
+<!-- Kill Objective for Quest 5542: Plaguehound -->
+<Objective QuestName="Unknown" QuestId="5542" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Kill Objective for Quest 6042: Noxious Plaguebat -->
+<Objective QuestName="Unknown" QuestId="6042" Type="KillMob" MobId="UNKNOWN_ID" KillCount="20" />
+
+<!-- Turn In: Duke Nicholas Zverenhoff -->
+<TurnIn QuestName="Duke Nicholas Zverenhoff" QuestId="6030" TurnInName="Duke Nicholas Zverenhoff" TurnInId="11039" />
+
+<!-- Turn In: Uncle Carlin -->
+<TurnIn QuestName="Uncle Carlin" QuestId="5241" TurnInName="Carlin Redpath" TurnInId="11063" />
+
+<!-- Pick Up: Defenders of Darrowshire -->
+<PickUp QuestName="Defenders of Darrowshire" QuestId="5211" GiverName="Carlin Redpath" GiverId="11063" />
+
+<!-- Kill Objective for Quest 6042: Monstrous Plaguebat -->
+<Objective QuestName="Unknown" QuestId="6042" Type="KillMob" MobId="UNKNOWN_ID" KillCount="10" />
+
+<!-- Kill Objective for Quest 5542: Frenzied Plaguehound -->
+<Objective QuestName="Unknown" QuestId="5542" Type="KillMob" MobId="UNKNOWN_ID" KillCount="5" />
+
+<!-- Turn In: Defenders of Darrowshire -->
+<TurnIn QuestName="Defenders of Darrowshire" QuestId="5211" TurnInName="Carlin Redpath" TurnInId="11063" />
+
+<!-- Turn In: Un-Life's Little Annoyances -->
+<TurnIn QuestName="Un-Life's Little Annoyances" QuestId="6042" TurnInName="Nathanos Blightcaller" TurnInId="11878" />
+
+<!-- Turn In: Demon Dogs -->
+<TurnIn QuestName="Demon Dogs" QuestId="5542" TurnInName="Tirion Fordring" TurnInId="1855" />
+
+<!-- Turn In: Blood Tinged Skies -->
+<TurnIn QuestName="Blood Tinged Skies" QuestId="5543" TurnInName="Tirion Fordring" TurnInId="1855" />
+
+<!-- Turn In: Carrion Grubbage -->
+<TurnIn QuestName="Carrion Grubbage" QuestId="5544" TurnInName="Tirion Fordring" TurnInId="1855" />
+
+<!-- Pick Up: Redemption -->
+<PickUp QuestName="Redemption" QuestId="5742" GiverName="Tirion Fordring" GiverId="1855" />
+
+<!-- Turn In: Redemption -->
+<TurnIn QuestName="Redemption" QuestId="5742" TurnInName="Tirion Fordring" TurnInId="1855" />
+
+<!-- Turn In: Better Late Than Never (2) -->
+<TurnIn QuestName="Better Late Than Never (2)" QuestId="5023" TurnInName="Royal Overseer Bauhaus" TurnInId="10781" />
+
+<!-- Pick Up: The Jeremiah Blues -->
+<PickUp QuestName="The Jeremiah Blues" QuestId="5049" GiverName="Royal Overseer Bauhaus" GiverId="10781" />
+
+<!-- Turn In: The Jeremiah Blues -->
+<TurnIn QuestName="The Jeremiah Blues" QuestId="5049" TurnInName="Jeremiah Payson" TurnInId="8403" />
+
+<!-- Turn In: Are We There, Yeti? (3) -->
+<TurnIn QuestName="Are We There, Yeti? (3)" QuestId="5163" TurnInName="Umi Rumplesnicker" TurnInId="10305" />
+
+</QuestOrder>

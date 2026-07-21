@@ -126,16 +126,16 @@ def robust_zygor_to_honorbuddy(input_path, output_path):
             out_file.write(f"{line}\n")
         out_file.write("</QuestOrder>\n")
 
-    print(f"Generated: {os.path.basename(output_path)}")
+    # Output just the subpath for cleaner console logs
+    folder_name = os.path.basename(os.path.dirname(output_path))
+    file_name = os.path.basename(output_path)
+    print(f"Generated: {folder_name}/{file_name}" if folder_name != "CP_Leveling_Profiles" else f"Generated: {file_name} (Root)")
 
 def process_all_files():
     # Set directories based on the project structure
     base_dir = os.path.dirname(os.path.abspath(__file__))
     input_folder = os.path.join(base_dir, "3.3.5a", "ZygorGuides")
     output_folder = os.path.join(base_dir, "3.3.5a", "CP_Leveling_Profiles")
-    
-    # Ensure the output directory exists
-    os.makedirs(output_folder, exist_ok=True)
     
     # Recursively find all .lua files in the ZygorGuides folder
     lua_files = glob.glob(os.path.join(input_folder, '**', '*.lua'), recursive=True)
@@ -147,9 +147,20 @@ def process_all_files():
     print(f"Found {len(lua_files)} .lua files. Starting conversion...\n")
     
     for lua_file in lua_files:
-        # Extract the original filename without the extension
         base_name = os.path.splitext(os.path.basename(lua_file))[0]
-        output_file = os.path.join(output_folder, f"{base_name}.xml")
+        
+        # Determine target directory based on whether "Alliance" or "Horde" is in the source path
+        if "Alliance" in lua_file:
+            target_dir = os.path.join(output_folder, "Alliance")
+        elif "Horde" in lua_file:
+            target_dir = os.path.join(output_folder, "Horde")
+        else:
+            target_dir = output_folder
+            
+        # Ensure the target subfolder exists before writing
+        os.makedirs(target_dir, exist_ok=True)
+        
+        output_file = os.path.join(target_dir, f"{base_name}.xml")
         
         try:
             robust_zygor_to_honorbuddy(lua_file, output_file)

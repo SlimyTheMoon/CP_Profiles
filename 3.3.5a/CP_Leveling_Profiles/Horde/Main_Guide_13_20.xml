@@ -1,0 +1,627 @@
+<QuestOrder>
+
+<!-- Turn In: Conscript of the Horde -->
+<TurnIn QuestName="Conscript of the Horde" QuestId="840" TurnInName="Kargal Battlescar" TurnInId="3337" />
+
+<!-- Pick Up: Crossroads Conscription -->
+<PickUp QuestName="Crossroads Conscription" QuestId="842" GiverName="Kargal Battlescar" GiverId="3337" />
+
+<If Condition="(Me.Race == WoWRace.Orc)">
+  <!-- Turn In: Ak'Zeloth -->
+  <TurnIn QuestName="Ak'Zeloth" QuestId="809" TurnInName="Ak'Zeloth" TurnInId="3521" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Orc)">
+  <!-- Pick Up: Meats to Orgrimmar -->
+  <PickUp QuestName="Meats to Orgrimmar" QuestId="6365" GiverName="Zargh" GiverId="3489" />
+</If>
+
+<!-- Pick Up: Raptor Thieves -->
+<PickUp QuestName="Raptor Thieves" QuestId="869" GiverName="Gazrog" GiverId="3464" />
+
+<If Condition="(Me.Race == WoWRace.Orc)">
+  <!-- Turn In: Meats to Orgrimmar -->
+  <TurnIn QuestName="Meats to Orgrimmar" QuestId="6365" TurnInName="Devrak" TurnInId="3615" />
+  <!-- Pick Up: Ride to Orgrimmar -->
+  <PickUp QuestName="Ride to Orgrimmar" QuestId="6384" GiverName="Devrak" GiverId="3615" />
+</If>
+
+<!-- Pick Up: Wharfmaster Dizzywig -->
+<PickUp QuestName="Wharfmaster Dizzywig" QuestId="1492" GiverName="Apothecary Helbrim" GiverId="3390" />
+
+<!-- Pick Up: Fungal Spores -->
+<PickUp QuestName="Fungal Spores" QuestId="848" GiverName="Apothecary Helbrim" GiverId="3390" />
+
+<If Condition="(Me.Race == WoWRace.Orc)">
+  <!-- Turn In: Ride to Orgrimmar -->
+  <TurnIn QuestName="Ride to Orgrimmar" QuestId="6384" TurnInName="Innkeeper Gryshka" TurnInId="6929" />
+  <!-- Pick Up: Doras the Wind Rider Master -->
+  <PickUp QuestName="Doras the Wind Rider Master" QuestId="6385" GiverName="Innkeeper Gryshka" GiverId="6929" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Orc)">
+  <!-- Turn In: Doras the Wind Rider Master -->
+  <TurnIn QuestName="Doras the Wind Rider Master" QuestId="6385" TurnInName="Doras" TurnInId="3310" />
+  <!-- Pick Up: Return to the Crossroads. -->
+  <PickUp QuestName="Return to the Crossroads." QuestId="6386" GiverName="Doras" GiverId="3310" />
+</If>
+
+<!-- Pick Up: Disrupt the Attacks -->
+<PickUp QuestName="Disrupt the Attacks" QuestId="871" GiverName="Thork" GiverId="3429" />
+
+<!-- Pick Up: Supplies for the Crossroads -->
+<PickUp QuestName="Supplies for the Crossroads" QuestId="5041" GiverName="Thork" GiverId="3429" />
+
+<!-- Pick Up: Harpy Raiders -->
+<PickUp QuestName="Harpy Raiders" QuestId="867" GiverName="Darsok Swiftdagger" GiverId="3449" />
+
+<!-- Turn In: Crossroads Conscription -->
+<TurnIn QuestName="Crossroads Conscription" QuestId="842" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<!-- Pick Up: Plainstrider Menace -->
+<PickUp QuestName="Plainstrider Menace" QuestId="844" GiverName="Sergra Darkthorn" GiverId="3338" />
+
+<!-- Pick Up: The Forgotten Pools -->
+<PickUp QuestName="The Forgotten Pools" QuestId="870" GiverName="Tonga Runetotem" GiverId="3448" />
+
+<If Condition="(Me.Race == WoWRace.Orc)">
+  <!-- Turn In: Return to the Crossroads. -->
+  <TurnIn QuestName="Return to the Crossroads." QuestId="6386" TurnInName="Zargh" TurnInId="3489" />
+</If>
+
+<!-- Collect Objective for Quest 844: Plainstrider Beak -->
+<Objective QuestName="Unknown" QuestId="844" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Kill Objective for Quest 871: Razormane Water Seeker -->
+<Objective QuestName="Unknown" QuestId="871" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 871: Razormane Thornweaver -->
+<Objective QuestName="Unknown" QuestId="871" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 871: Razormane Hunter -->
+<Objective QuestName="Unknown" QuestId="871" Type="KillMob" MobId="UNKNOWN_ID" KillCount="3" />
+
+<!-- Collect Objective for Quest 5041: Crossroads' Supply Crates -->
+<Objective QuestName="Unknown" QuestId="5041" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 869: Raptor Head -->
+<Objective QuestName="Unknown" QuestId="869" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="12" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Pick Up: Lessons Anew -->
+  <PickUp QuestName="Lessons Anew" QuestId="6126" GiverName="Turak Runetotem" GiverId="3033" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Lessons Anew -->
+  <TurnIn QuestName="Lessons Anew" QuestId="6126" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: The Principal Source -->
+  <PickUp QuestName="The Principal Source" QuestId="6127" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 6127: Filled Dreadmist Peak Sampler -->
+  <Objective QuestName="Unknown" QuestId="6127" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: The Principal Source -->
+  <TurnIn QuestName="The Principal Source" QuestId="6127" TurnInName="Tonga Runetotem" TurnInId="3448" />
+  <!-- Pick Up: Gathering the Cure -->
+  <PickUp QuestName="Gathering the Cure" QuestId="6128" GiverName="Tonga Runetotem" GiverId="3448" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 6128: Kodo Horn -->
+  <Objective QuestName="Unknown" QuestId="6128" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Gathering the Cure -->
+  <TurnIn QuestName="Gathering the Cure" QuestId="6128" TurnInName="Tonga Runetotem" TurnInId="3448" />
+  <!-- Pick Up: Curing the Sick -->
+  <PickUp QuestName="Curing the Sick" QuestId="6129" GiverName="Tonga Runetotem" GiverId="3448" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Curing the Sick -->
+  <TurnIn QuestName="Curing the Sick" QuestId="6129" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Power over Poison -->
+  <PickUp QuestName="Power over Poison" QuestId="6130" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Power over Poison -->
+  <TurnIn QuestName="Power over Poison" QuestId="6130" TurnInName="Turak Runetotem" TurnInId="3033" />
+</If>
+
+<!-- Turn In: Raptor Thieves -->
+<TurnIn QuestName="Raptor Thieves" QuestId="869" TurnInName="Gazrog" TurnInId="3464" />
+
+<!-- Pick Up: Stolen Silver -->
+<PickUp QuestName="Stolen Silver" QuestId="3281" GiverName="Gazrog" GiverId="3464" />
+
+<!-- Turn In: Disrupt the Attacks -->
+<TurnIn QuestName="Disrupt the Attacks" QuestId="871" TurnInName="Thork" TurnInId="3429" />
+
+<!-- Turn In: Supplies for the Crossroads -->
+<TurnIn QuestName="Supplies for the Crossroads" QuestId="5041" TurnInName="Thork" TurnInId="3429" />
+
+<!-- Pick Up: The Disruption Ends -->
+<PickUp QuestName="The Disruption Ends" QuestId="872" GiverName="Thork" GiverId="3429" />
+
+<!-- Turn In: Plainstrider Menace -->
+<TurnIn QuestName="Plainstrider Menace" QuestId="844" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<!-- Pick Up: The Zhevra -->
+<PickUp QuestName="The Zhevra" QuestId="845" GiverName="Sergra Darkthorn" GiverId="3338" />
+
+<!-- Pick Up: Consumed by Hatred -->
+<PickUp QuestName="Consumed by Hatred" QuestId="899" GiverName="Mankrik" GiverId="3432" />
+
+<!-- Pick Up: Lost in Battle -->
+<PickUp QuestName="Lost in Battle" QuestId="4921" GiverName="Mankrik" GiverId="3432" />
+
+<!-- Pick Up: Centaur Bracers -->
+<PickUp QuestName="Centaur Bracers" QuestId="855" GiverName="Regthar Deathgate" GiverId="3389" />
+
+<!-- Pick Up: Kolkar Leaders -->
+<PickUp QuestName="Kolkar Leaders" QuestId="850" GiverName="Regthar Deathgate" GiverId="3389" />
+
+<!-- Collect Objective for Quest 845: Zhevra Hooves -->
+<Objective QuestName="Unknown" QuestId="845" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 848: Fungal Spores -->
+<Objective QuestName="Unknown" QuestId="848" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="4" />
+
+<!-- Collect Objective for Quest 850: Barak's Head -->
+<Objective QuestName="Unknown" QuestId="850" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 855: Centaur Bracers -->
+<Objective QuestName="Unknown" QuestId="855" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="15" />
+
+<!-- Collect Objective for Quest 867: Witchwing Talon -->
+<Objective QuestName="Unknown" QuestId="867" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Turn In: Fungal Spores -->
+<TurnIn QuestName="Fungal Spores" QuestId="848" TurnInName="Apothecary Helbrim" TurnInId="3390" />
+
+<!-- Turn In: Harpy Raiders -->
+<TurnIn QuestName="Harpy Raiders" QuestId="867" TurnInName="Darsok Swiftdagger" TurnInId="3449" />
+
+<!-- Pick Up: Harpy Lieutenants -->
+<PickUp QuestName="Harpy Lieutenants" QuestId="875" GiverName="Darsok Swiftdagger" GiverId="3449" />
+
+<!-- Turn In: The Forgotten Pools -->
+<TurnIn QuestName="The Forgotten Pools" QuestId="870" TurnInName="Tonga Runetotem" TurnInId="3448" />
+
+<!-- Pick Up: The Stagnant Oasis -->
+<PickUp QuestName="The Stagnant Oasis" QuestId="877" GiverName="Tonga Runetotem" GiverId="3448" />
+
+<!-- Turn In: The Zhevra -->
+<TurnIn QuestName="The Zhevra" QuestId="845" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<!-- Pick Up: Prowlers of the Barrens -->
+<PickUp QuestName="Prowlers of the Barrens" QuestId="903" GiverName="Sergra Darkthorn" GiverId="3338" />
+
+<!-- Kill Objective for Quest 872: Razormane Geomancer -->
+<Objective QuestName="Unknown" QuestId="872" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 872: Razormane Defender -->
+<Objective QuestName="Unknown" QuestId="872" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Collect Objective for Quest 872: Kreenig Snarlsnout's Tusk -->
+<Objective QuestName="Unknown" QuestId="872" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Pick Up: Southsea Freebooters -->
+<PickUp QuestName="Southsea Freebooters" QuestId="887" GiverName="Gazlowe" GiverId="3391" />
+
+<!-- Pick Up: Samophlange (1) -->
+<PickUp QuestName="Samophlange (1)" QuestId="894" GiverName="Sputtervalve" GiverId="3442" />
+
+<!-- Pick Up: WANTED: Baron Longshore -->
+<PickUp QuestName="WANTED: Baron Longshore" QuestId="895" GiverName="Sputtervalve" GiverId="3442" />
+
+<!-- Pick Up: Raptor Horns -->
+<PickUp QuestName="Raptor Horns" QuestId="865" GiverName="Mebok Mizzyrix" GiverId="3446" />
+
+<!-- Pick Up: Deepmoss Spider Eggs -->
+<PickUp QuestName="Deepmoss Spider Eggs" QuestId="1069" GiverName="Mebok Mizzyrix" GiverId="3446" />
+
+<!-- Turn In: Wharfmaster Dizzywig -->
+<TurnIn QuestName="Wharfmaster Dizzywig" QuestId="1492" TurnInName="Wharfmaster Dizzywig" TurnInId="3453" />
+
+<!-- Pick Up: Miner's Fortune -->
+<PickUp QuestName="Miner's Fortune" QuestId="896" GiverName="Wharfmaster Dizzywig" GiverId="3453" />
+
+<!-- Pick Up: The Guns of Northwatch -->
+<PickUp QuestName="The Guns of Northwatch" QuestId="891" GiverName="Captain Thalo'thas Brightsun" GiverId="3339" />
+
+<!-- Kill Objective for Quest 887: Southsea Brigand -->
+<Objective QuestName="Unknown" QuestId="887" Type="KillMob" MobId="UNKNOWN_ID" KillCount="12" />
+
+<!-- Kill Objective for Quest 887: Southsea Cannoneer -->
+<Objective QuestName="Unknown" QuestId="887" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Collect Objective for Quest 895: Baron Longshore's Head -->
+<Objective QuestName="Unknown" QuestId="895" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Southsea Freebooters -->
+<TurnIn QuestName="Southsea Freebooters" QuestId="887" TurnInName="Gazlowe" TurnInId="3391" />
+
+<!-- Pick Up: The Missing Shipment (1) -->
+<PickUp QuestName="The Missing Shipment (1)" QuestId="890" GiverName="Gazlowe" GiverId="3391" />
+
+<!-- Turn In: WANTED: Baron Longshore -->
+<TurnIn QuestName="WANTED: Baron Longshore" QuestId="895" TurnInName="Gazlowe" TurnInId="3391" />
+
+<!-- Turn In: The Missing Shipment (1) -->
+<TurnIn QuestName="The Missing Shipment (1)" QuestId="890" TurnInName="Wharfmaster Dizzywig" TurnInId="3453" />
+
+<!-- Pick Up: The Missing Shipment (2) -->
+<PickUp QuestName="The Missing Shipment (2)" QuestId="892" GiverName="Wharfmaster Dizzywig" GiverId="3453" />
+
+<!-- Turn In: The Missing Shipment (2) -->
+<TurnIn QuestName="The Missing Shipment (2)" QuestId="892" TurnInName="Gazlowe" TurnInId="3391" />
+
+<!-- Pick Up: Stolen Booty -->
+<PickUp QuestName="Stolen Booty" QuestId="888" GiverName="Gazlowe" GiverId="3391" />
+
+<!-- Collect Objective for Quest 888: Telescopic Lens -->
+<Objective QuestName="Unknown" QuestId="888" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 888: Shipment of Boots -->
+<Objective QuestName="Unknown" QuestId="888" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Stolen Booty -->
+<TurnIn QuestName="Stolen Booty" QuestId="888" TurnInName="Gazlowe" TurnInId="3391" />
+
+<!-- Turn In: The Disruption Ends -->
+<TurnIn QuestName="The Disruption Ends" QuestId="872" TurnInName="Thork" TurnInId="3429" />
+
+<!-- Turn In: Kolkar Leaders -->
+<TurnIn QuestName="Kolkar Leaders" QuestId="850" TurnInName="Regthar Deathgate" TurnInId="3389" />
+
+<!-- Turn In: Centaur Bracers -->
+<TurnIn QuestName="Centaur Bracers" QuestId="855" TurnInName="Regthar Deathgate" TurnInId="3389" />
+
+<!-- Pick Up: Verog the Dervish -->
+<PickUp QuestName="Verog the Dervish" QuestId="851" GiverName="Regthar Deathgate" GiverId="3389" />
+
+<!-- Pick Up: Goblin Invaders -->
+<PickUp QuestName="Goblin Invaders" QuestId="1062" GiverName="Seereth Stonebreak" GiverId="4049" />
+
+<!-- Pick Up: Avenge My Village -->
+<PickUp QuestName="Avenge My Village" QuestId="6548" GiverName="Makaba Flathoof" GiverId="11857" />
+
+<!-- Kill Objective for Quest 6548: Grimtotem Ruffian -->
+<Objective QuestName="Unknown" QuestId="6548" Type="KillMob" MobId="UNKNOWN_ID" KillCount="8" />
+
+<!-- Kill Objective for Quest 6548: Grimtotem Mercenary -->
+<Objective QuestName="Unknown" QuestId="6548" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Turn In: Avenge My Village -->
+<TurnIn QuestName="Avenge My Village" QuestId="6548" TurnInName="Makaba Flathoof" TurnInId="11857" />
+
+<!-- Pick Up: Kill Grundig Darkcloud -->
+<PickUp QuestName="Kill Grundig Darkcloud" QuestId="6629" GiverName="Makaba Flathoof" GiverId="11857" />
+
+<!-- Kill Objective for Quest 6629: Grimtotem Brute -->
+<Objective QuestName="Unknown" QuestId="6629" Type="KillMob" MobId="UNKNOWN_ID" KillCount="6" />
+
+<!-- Kill Objective for Quest 6629: Grundig Darkcloud -->
+<Objective QuestName="Unknown" QuestId="6629" Type="KillMob" MobId="UNKNOWN_ID" KillCount="1" />
+
+<!-- Turn In: Kill Grundig Darkcloud -->
+<TurnIn QuestName="Kill Grundig Darkcloud" QuestId="6629" TurnInName="Makaba Flathoof" TurnInId="11857" />
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Pick Up: A Lesson to Learn -->
+  <PickUp QuestName="A Lesson to Learn" QuestId="26" GiverName="Turak Runetotem" GiverId="3033" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: A Lesson to Learn -->
+  <TurnIn QuestName="A Lesson to Learn" QuestId="26" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Trial of the Lake -->
+  <PickUp QuestName="Trial of the Lake" QuestId="28" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 28: Shrine Bauble -->
+  <Objective QuestName="Unknown" QuestId="28" Type="CollectItem" ItemId="15877" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Trial of the Lake -->
+  <TurnIn QuestName="Trial of the Lake" QuestId="28" TurnInName="Tajarri" TurnInId="11799" />
+  <!-- Pick Up: Trial of the Sea Lion -->
+  <PickUp QuestName="Trial of the Sea Lion" QuestId="30" GiverName="Tajarri" GiverId="11799" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 30: Half Pendant of Aquatic Agility -->
+  <Objective QuestName="Unknown" QuestId="30" Type="CollectItem" ItemId="15883" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 30: Half Pendant of Aquatic Endurance -->
+  <Objective QuestName="Unknown" QuestId="30" Type="CollectItem" ItemId="15882" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Collect Objective for Quest 30: Pendant of the Sea Lion -->
+  <Objective QuestName="Unknown" QuestId="30" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Trial of the Sea Lion -->
+  <TurnIn QuestName="Trial of the Sea Lion" QuestId="30" TurnInName="Dendrite Starblaze" TurnInId="11802" />
+  <!-- Pick Up: Aquatic Form -->
+  <PickUp QuestName="Aquatic Form" QuestId="31" GiverName="Dendrite Starblaze" GiverId="11802" />
+</If>
+
+<If Condition="(Me.Race == WoWRace.Tauren) &amp;&amp; (Me.Class == WoWClass.Druid)">
+  <!-- Turn In: Aquatic Form -->
+  <TurnIn QuestName="Aquatic Form" QuestId="31" TurnInName="Turak Runetotem" TurnInId="3033" />
+</If>
+
+<!-- Pick Up: A Recipe For Death (2) -->
+<PickUp QuestName="A Recipe For Death (2)" QuestId="450" GiverName="Master Apothecary Faranell" GiverId="2055" />
+
+<!-- Pick Up: Arugal's Folly (1) -->
+<PickUp QuestName="Arugal's Folly (1)" QuestId="422" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Pick Up: Border Crossings -->
+<PickUp QuestName="Border Crossings" QuestId="477" GiverName="Shadow Priest Allister" GiverId="2121" />
+
+<!-- Pick Up: The Decrepit Ferry -->
+<PickUp QuestName="The Decrepit Ferry" QuestId="438" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Collect Objective for Quest 422: Remedy of Arugal -->
+<Objective QuestName="Unknown" QuestId="422" Type="CollectItem" ItemId="3155" CollectCount="1" />
+
+<!-- Pick Up: Rot Hide Clues -->
+<PickUp QuestName="Rot Hide Clues" QuestId="439" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Turn In: Arugal's Folly (1) -->
+<TurnIn QuestName="Arugal's Folly (1)" QuestId="422" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Pick Up: Arugal's Folly (2) -->
+<PickUp QuestName="Arugal's Folly (2)" QuestId="423" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Turn In: Rot Hide Clues -->
+<TurnIn QuestName="Rot Hide Clues" QuestId="439" TurnInName="High Executor Hadrec" TurnInId="1952" />
+
+<!-- Pick Up: Rot Hide Ichor -->
+<PickUp QuestName="Rot Hide Ichor" QuestId="443" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Collect Objective for Quest 423: Glutton Shackle -->
+<Objective QuestName="Unknown" QuestId="423" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 423: Darksoul Shackle -->
+<Objective QuestName="Unknown" QuestId="423" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="3" />
+
+<!-- Turn In: Border Crossings -->
+<TurnIn QuestName="Border Crossings" QuestId="477" TurnInName="High Executor Hadrec" TurnInId="1952" />
+
+<!-- Pick Up: Maps and Runes -->
+<PickUp QuestName="Maps and Runes" QuestId="478" GiverName="High Executor Hadrec" GiverId="1952" />
+
+<!-- Collect Objective for Quest 450: Berard's Journal -->
+<Objective QuestName="Unknown" QuestId="450" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Rot Hide Ichor -->
+<TurnIn QuestName="Rot Hide Ichor" QuestId="443" TurnInName="Apothecary Renferrel" TurnInId="1937" />
+
+<!-- Pick Up: Rot Hide Origins -->
+<PickUp QuestName="Rot Hide Origins" QuestId="444" GiverName="Apothecary Renferrel" GiverId="1937" />
+
+<!-- Turn In: A Recipe For Death (2) -->
+<TurnIn QuestName="A Recipe For Death (2)" QuestId="450" TurnInName="Apothecary Renferrel" TurnInId="1937" />
+
+<!-- Pick Up: A Recipe For Death (3) -->
+<PickUp QuestName="A Recipe For Death (3)" QuestId="451" GiverName="Apothecary Renferrel" GiverId="1937" />
+
+<!-- Turn In: Maps and Runes -->
+<TurnIn QuestName="Maps and Runes" QuestId="478" TurnInName="Shadow Priest Allister" TurnInId="2121" />
+
+<!-- Pick Up: Dalar's Analysis -->
+<PickUp QuestName="Dalar's Analysis" QuestId="481" GiverName="Shadow Priest Allister" GiverId="2121" />
+
+<!-- Turn In: Arugal's Folly (2) -->
+<TurnIn QuestName="Arugal's Folly (2)" QuestId="422" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Pick Up: Arugal's Folly (3) -->
+<PickUp QuestName="Arugal's Folly (3)" QuestId="424" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Turn In: Dalar's Analysis -->
+<TurnIn QuestName="Dalar's Analysis" QuestId="481" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Pick Up: Dalaran's Intentions -->
+<PickUp QuestName="Dalaran's Intentions" QuestId="482" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Turn In: Dalaran's Intentions -->
+<TurnIn QuestName="Dalaran's Intentions" QuestId="482" TurnInName="Shadow Priest Allister" TurnInId="2121" />
+
+<!-- Pick Up: Ambermill Investigations -->
+<PickUp QuestName="Ambermill Investigations" QuestId="479" GiverName="Shadow Priest Allister" GiverId="2121" />
+
+<!-- Collect Objective for Quest 451: Lake Skulker Moss -->
+<Objective QuestName="Unknown" QuestId="451" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 451: Hardened Tumor -->
+<Objective QuestName="Unknown" QuestId="451" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Collect Objective for Quest 451: Lake Creeper Moss -->
+<Objective QuestName="Unknown" QuestId="451" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 424: Head of Grimson -->
+<Objective QuestName="Unknown" QuestId="424" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Arugal's Folly (3) -->
+<TurnIn QuestName="Arugal's Folly (3)" QuestId="424" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Pick Up: Arugal's Folly (4) -->
+<PickUp QuestName="Arugal's Folly (4)" QuestId="99" GiverName="Dalar Dawnweaver" GiverId="1938" />
+
+<!-- Collect Objective for Quest 479: Dalaran Pendant -->
+<Objective QuestName="Unknown" QuestId="479" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+<!-- Collect Objective for Quest 99: Pyrewood Shackle -->
+<Objective QuestName="Unknown" QuestId="99" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Turn In: Ambermill Investigations -->
+<TurnIn QuestName="Ambermill Investigations" QuestId="479" TurnInName="Shadow Priest Allister" TurnInId="2121" />
+
+<!-- Turn In: Arugal's Folly (4) -->
+<TurnIn QuestName="Arugal's Folly (4)" QuestId="99" TurnInName="Dalar Dawnweaver" TurnInId="1938" />
+
+<!-- Turn In: Rot Hide Origins -->
+<TurnIn QuestName="Rot Hide Origins" QuestId="444" TurnInName="Bethor Iceshard" TurnInId="1498" />
+
+<!-- Turn In: A Recipe For Death (3) -->
+<TurnIn QuestName="A Recipe For Death (3)" QuestId="451" TurnInName="Master Apothecary Faranell" TurnInId="2055" />
+
+<!-- Pick Up: Report to Kadrak -->
+<PickUp QuestName="Report to Kadrak" QuestId="6541" GiverName="Thork" GiverId="3429" />
+
+<!-- Pick Up: Apothecary Zamah -->
+<PickUp QuestName="Apothecary Zamah" QuestId="853" GiverName="Apothecary Helbrim" GiverId="3390" />
+
+<!-- Pick Up: Egg Hunt -->
+<PickUp QuestName="Egg Hunt" QuestId="868" GiverName="Korran" GiverId="3428" />
+
+<!-- Pick Up: Weapons of Choice -->
+<PickUp QuestName="Weapons of Choice" QuestId="893" GiverName="Tatternack Steelforge" GiverId="3433" />
+
+<!-- Pick Up: Tribes at War -->
+<PickUp QuestName="Tribes at War" QuestId="878" GiverName="Mangletooth" GiverId="3430" />
+
+<!-- Turn In: Apothecary Zamah -->
+<TurnIn QuestName="Apothecary Zamah" QuestId="853" TurnInName="Apothecary Zamah" TurnInId="3419" />
+
+<!-- Turn In: Lost in Battle -->
+<TurnIn QuestName="Lost in Battle" QuestId="4921" TurnInName="Mankrik" TurnInId="3432" />
+
+<!-- Collect Objective for Quest 903: Prowler Claws -->
+<Objective QuestName="Unknown" QuestId="903" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="7" />
+
+<!-- Collect Objective for Quest 875: Harpy Lieutenant Ring -->
+<Objective QuestName="Unknown" QuestId="875" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="6" />
+
+<!-- Collect Objective for Quest 865: Intact Raptor Horn -->
+<Objective QuestName="Unknown" QuestId="865" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="5" />
+
+<!-- Turn In: Samophlange (1) -->
+<TurnIn QuestName="Samophlange (1)" QuestId="894" TurnInName="Mankrik" TurnInId="3432" />
+
+<!-- Pick Up: Samophlange (2) -->
+<PickUp QuestName="Samophlange (2)" QuestId="900" GiverName="Mankrik" GiverId="3432" />
+
+<!-- Turn In: Samophlange (2) -->
+<TurnIn QuestName="Samophlange (2)" QuestId="900" TurnInName="Mankrik" TurnInId="3432" />
+
+<!-- Pick Up: Samophlange (3) -->
+<PickUp QuestName="Samophlange (3)" QuestId="901" GiverName="Mankrik" GiverId="3432" />
+
+<!-- Collect Objective for Quest 901: Console Key -->
+<Objective QuestName="Unknown" QuestId="901" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Samophlange (3) -->
+<TurnIn QuestName="Samophlange (3)" QuestId="901" TurnInName="Mankrik" TurnInId="3432" />
+
+<!-- Pick Up: Samophlange (4) -->
+<PickUp QuestName="Samophlange (4)" QuestId="902" GiverName="Mankrik" GiverId="3432" />
+
+<!-- Pick Up: Ignition -->
+<PickUp QuestName="Ignition" QuestId="858" GiverName="Wizzlecrank's Shredder" GiverId="3439" />
+
+<!-- Collect Objective for Quest 858: Ignition Key -->
+<Objective QuestName="Unknown" QuestId="858" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Ignition -->
+<TurnIn QuestName="Ignition" QuestId="858" TurnInName="Wizzlecrank's Shredder" TurnInId="3439" />
+
+<!-- Pick Up: The Escape -->
+<PickUp QuestName="The Escape" QuestId="863" GiverName="Wizzlecrank's Shredder" GiverId="3439" />
+
+<!-- Collect Objective for Quest 896: Cats Eye Emerald -->
+<Objective QuestName="Unknown" QuestId="896" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Samophlange (4) -->
+<TurnIn QuestName="Samophlange (4)" QuestId="902" TurnInName="Sputtervalve" TurnInId="3442" />
+
+<!-- Turn In: The Escape -->
+<TurnIn QuestName="The Escape" QuestId="863" TurnInName="Sputtervalve" TurnInId="3442" />
+
+<!-- Pick Up: Ziz Fizziks -->
+<PickUp QuestName="Ziz Fizziks" QuestId="1483" GiverName="Sputtervalve" GiverId="3442" />
+
+<!-- Pick Up: Wenikee Boltbucket -->
+<PickUp QuestName="Wenikee Boltbucket" QuestId="3921" GiverName="Sputtervalve" GiverId="3442" />
+
+<!-- Turn In: Miner's Fortune -->
+<TurnIn QuestName="Miner's Fortune" QuestId="896" TurnInName="Wharfmaster Dizzywig" TurnInId="3453" />
+
+<!-- Turn In: Raptor Horns -->
+<TurnIn QuestName="Raptor Horns" QuestId="865" TurnInName="Mebok Mizzyrix" TurnInId="3446" />
+
+<!-- Collect Objective for Quest 851: Verog's Head -->
+<Objective QuestName="Unknown" QuestId="851" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: The Stagnant Oasis -->
+<TurnIn QuestName="The Stagnant Oasis" QuestId="877" TurnInName="Tonga Runetotem" TurnInId="3448" />
+
+<!-- Pick Up: Altered Beings -->
+<PickUp QuestName="Altered Beings" QuestId="880" GiverName="Tonga Runetotem" GiverId="3448" />
+
+<!-- Turn In: Prowlers of the Barrens -->
+<TurnIn QuestName="Prowlers of the Barrens" QuestId="903" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<!-- Pick Up: Echeyakee -->
+<PickUp QuestName="Echeyakee" QuestId="881" GiverName="Sergra Darkthorn" GiverId="3338" />
+
+<!-- Turn In: Harpy Lieutenants -->
+<TurnIn QuestName="Harpy Lieutenants" QuestId="875" TurnInName="Darsok Swiftdagger" TurnInId="3449" />
+
+<!-- Pick Up: Serena Bloodfeather -->
+<PickUp QuestName="Serena Bloodfeather" QuestId="876" GiverName="Darsok Swiftdagger" GiverId="3449" />
+
+<!-- Collect Objective for Quest 881: Echeyakee's Hide -->
+<Objective QuestName="Unknown" QuestId="881" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Wenikee Boltbucket -->
+<TurnIn QuestName="Wenikee Boltbucket" QuestId="3921" TurnInName="Darsok Swiftdagger" TurnInId="3449" />
+
+<!-- Pick Up: Nugget Slugs -->
+<PickUp QuestName="Nugget Slugs" QuestId="3922" GiverName="Darsok Swiftdagger" GiverId="3449" />
+
+<!-- Collect Objective for Quest 3922: Nugget Slug -->
+<Objective QuestName="Unknown" QuestId="3922" Type="CollectItem" ItemId="11143" CollectCount="15" />
+
+<!-- Turn In: Nugget Slugs -->
+<TurnIn QuestName="Nugget Slugs" QuestId="3922" TurnInName="Wenikee Boltbucket" TurnInId="9316" />
+
+<!-- Turn In: Report to Kadrak -->
+<TurnIn QuestName="Report to Kadrak" QuestId="6541" TurnInName="Kadrak" TurnInId="8582" />
+
+<!-- Collect Objective for Quest 876: Serena's Head -->
+<Objective QuestName="Unknown" QuestId="876" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="1" />
+
+<!-- Turn In: Echeyakee -->
+<TurnIn QuestName="Echeyakee" QuestId="881" TurnInName="Sergra Darkthorn" TurnInId="3338" />
+
+<!-- Pick Up: The Angry Scytheclaws -->
+<PickUp QuestName="The Angry Scytheclaws" QuestId="905" GiverName="Sergra Darkthorn" GiverId="3338" />
+
+<!-- Turn In: Serena Bloodfeather -->
+<TurnIn QuestName="Serena Bloodfeather" QuestId="876" TurnInName="Darsok Swiftdagger" TurnInId="3449" />
+
+<!-- Pick Up: Letter to Jin'Zil -->
+<PickUp QuestName="Letter to Jin'Zil" QuestId="1060" GiverName="Darsok Swiftdagger" GiverId="3449" />
+
+<!-- Collect Objective for Quest 880: Altered Snapjaw Shell -->
+<Objective QuestName="Unknown" QuestId="880" Type="CollectItem" ItemId="UNKNOWN_ID" CollectCount="8" />
+
+</QuestOrder>
